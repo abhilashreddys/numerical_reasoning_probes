@@ -1,0 +1,32 @@
+[
+    {
+        "hypothesis": [
+            "The film Fist Fight made under $50 million dollars at the box office.",
+            "The film Fist Fight made under \u20ac50 million at the box office."
+        ],
+        "table_id": "T224",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jon Jones weighs over 200 pounds.",
+            "Jon Jones weighs over $200 ."
+        ],
+        "table_id": "T1594",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeepers Creepers made over 40 million dollars over it's budget at the box office.",
+            "Jeepers Creepers made over \u00a340 million over it's budget at the box office."
+        ],
+        "table_id": "T1636",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

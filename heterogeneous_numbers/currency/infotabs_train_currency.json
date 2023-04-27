@@ -1,0 +1,452 @@
+[
+    {
+        "hypothesis": [
+            "Brooklyn made less than 60 million dollars at the box office.",
+            "Brooklyn made less than $60 million at the box office."
+        ],
+        "table_id": "T1",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Everything, Everything made about 50 million dollars over it's budget.",
+            "Everything, Everything made about $50 million over it's budget."
+        ],
+        "table_id": "T22",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The box office of Jason Bourne was almost 400 million dollars more than the budget.",
+            "The box office of Jason Bourne was almost $400 million more than the budget."
+        ],
+        "table_id": "T23",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Whole movie budget costed less than 100 million dollars to be made.",
+            "The Whole movie budget costed less than $100 million to be made."
+        ],
+        "table_id": "T27",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Over 1.5 billion dollars of damage was caused by the 2009 storm that hit Great Britain and Ireland.",
+            "Over $1.5 billion of damage was caused by the 2009 storm that hit Great Britain and Ireland."
+        ],
+        "table_id": "T70",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The February 2009 Great Britain and Ireland snowfall cost more than 5 billion pounds.",
+            "The February 2009 Great Britain and Ireland snowfall cost more than \u00a35 billion."
+        ],
+        "table_id": "T70",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Fargo earned over 100 million dollars in the box office.",
+            "Fargo earned over $100 million in the box office."
+        ],
+        "table_id": "T100",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Iron Man made over 500 million dollars more than it's budget.",
+            "Iron Man made over $500 million more than it's budget."
+        ],
+        "table_id": "T129",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Murray the Outlaw of Falahill weighed around 50 pounds.",
+            "Murray the Outlaw of Falahill weighed around \u00a350 ."
+        ],
+        "table_id": "T158",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The film Insomnia made over 100 million dollars at the box office.",
+            "The film Insomnia made over $100 million at the box office."
+        ],
+        "table_id": "T188",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Janet Jackson's net worth is under 100 million dollars.",
+            "Janet Jackson's net worth is under $100 million."
+        ],
+        "table_id": "T193",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Janet Jackson is worth less than 50 million dollars.",
+            "Janet Jackson is worth less than $50 million."
+        ],
+        "table_id": "T193",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Home Alone wound up making over $400 million dollars at the box office.",
+            "Home Alone wound up making over $$400 million at the box office."
+        ],
+        "table_id": "T227",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chris Jericho weighed under 200 pounds.",
+            "Chris Jericho weighed under \u00a3200 ."
+        ],
+        "table_id": "T258",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Eyes Wide Shut made over $100 million dollars more at the box office than it's original budget.",
+            "Eyes Wide Shut made over $$100 million more at the box office than it's original budget."
+        ],
+        "table_id": "T266",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The film Chicago netted over 250 million dollars at the box office.",
+            "The film Chicago netted over $250 million at the box office."
+        ],
+        "table_id": "T406",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Daddy's Home is directed with a budget of  242.8 million dollars",
+            "Daddy's Home is directed with a budget of  $242.8 million"
+        ],
+        "table_id": "T599",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Crash is a film directed by Paul Haggis with Budget of 6.5 million dollars.",
+            "Crash is a film directed by Paul Haggis with Budget of $6.5 million."
+        ],
+        "table_id": "T678",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "At 1,700 pounds, Bushwacker matured at a weight that was  higher than expected.",
+            "At 1,\u00a3700 , Bushwacker matured at a weight that was  higher than expected."
+        ],
+        "table_id": "T937",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Children of Men lost more than $5 million dollars at the box office.",
+            "Children of Men lost more than $$5 million at the box office."
+        ],
+        "table_id": "T964",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The movie Captain Fantastic only made 5 million dollars at the box office.",
+            "The movie Captain Fantastic only made $5 million at the box office."
+        ],
+        "table_id": "T1027",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The budget of Georgia State University is over 1 billion dollars a year.",
+            "The budget of Georgia State University is over $1 billion a year."
+        ],
+        "table_id": "T1126",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Mars Orbiter Mission weights only 1,064 pounds.",
+            "The Mars Orbiter Mission weights only 1,\u00a3064 ."
+        ],
+        "table_id": "T1129",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Mars Orbiter Mission weighs 30 pounds.",
+            "The Mars Orbiter Mission weighs \u00a330 ."
+        ],
+        "table_id": "T1129",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Florida International University has an endowment just under 200 million dollars.",
+            "Florida International University has an endowment just under $200 million."
+        ],
+        "table_id": "T1144",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Il-96 cost over 100 million dollars to make.",
+            "Il-96 cost over $100 million to make."
+        ],
+        "table_id": "T1172",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Buckpasser earned close to 1.5 million dollars.",
+            "Buckpasser earned close to $1.5 million."
+        ],
+        "table_id": "T1211",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Since 2014, California Chrome has earned over $15 million dollars.",
+            "Since 2014, California Chrome has earned over $$15 million."
+        ],
+        "table_id": "T1306",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "In 2013, the Sierra Club had a budget over 100 million dollars.",
+            "In 2013, the Sierra Club had a budget over $100 million."
+        ],
+        "table_id": "T1309",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Camarero had more than 45,000 dollars in earnings.",
+            "Camarero had more than 45,$000  in earnings."
+        ],
+        "table_id": "T1336",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Harvard University's endowment is over 40 billion dollars.",
+            "Harvard University's endowment is over $40 billion."
+        ],
+        "table_id": "T1349",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jupiter Ascending made most of its $184 million dollar box office in the United States.",
+            "Jupiter Ascending made most of its $$184 million box office in the United States."
+        ],
+        "table_id": "T1645",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Isle of Dogs made over $60 million dollars in the box office.",
+            "Isle of Dogs made over $$60 million in the box office."
+        ],
+        "table_id": "T1756",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hulk was able to make over 100 million dollars at the box office.",
+            "Hulk was able to make over $100 million at the box office."
+        ],
+        "table_id": "T1837",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hush made over $3 million dollars in profit.",
+            "Hush made over $$3 million in profit."
+        ],
+        "table_id": "T1895",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jacob usually weigh under 60 pounds.",
+            "Jacob usually weigh under \u00a360 ."
+        ],
+        "table_id": "T1931",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Iron Man made over 400 million dollars at the box office in profit.",
+            "Iron Man made over $400 million at the box office in profit."
+        ],
+        "table_id": "T1958",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Iron Man 2 made over 400 million dollars.",
+            "Iron Man 2 made over $400 million."
+        ],
+        "table_id": "T1959",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Imperial Commander made over 600,000 pounds in earnings.",
+            "Imperial Commander made over 600,\u00a3000  in earnings."
+        ],
+        "table_id": "T1973",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Holy Bull made over 3 million dollars in earnings.",
+            "Holy Bull made over $3 million in earnings."
+        ],
+        "table_id": "T1981",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Homecoming Queen made over 200,000 pounds.",
+            "Homecoming Queen made over 200,\u00a3000 ."
+        ],
+        "table_id": "T1995",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Independence Day made over 700 million dollars.",
+            "Independence Day made over $700 million."
+        ],
+        "table_id": "T2004",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Indiana Jones and the Temple of Doom made over 300 million dollars.",
+            "Indiana Jones and the Temple of Doom made over $300 million."
+        ],
+        "table_id": "T2013",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hostiles was made on a 500 dollar budget",
+            "Hostiles was made on a $500  budget"
+        ],
+        "table_id": "T2023",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Monty Python and the Holy Grail grossed 5 million dollars at the box office in 1975.",
+            "Monty Python and the Holy Grail grossed $5 million at the box office in 1975."
+        ],
+        "table_id": "T2497",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    }
+]

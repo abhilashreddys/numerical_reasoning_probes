@@ -1,0 +1,52 @@
+[
+    {
+        "hypothesis": [
+            "Florence Foster Jenkins made less than 25 million dollar profit at the box office.",
+            "Florence Foster Jenkins made less than $25 million profit at the box office."
+        ],
+        "table_id": "T53",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The cost to produce Fist Fight was $23 million dollars.",
+            "The cost to produce Fist Fight was $23 million."
+        ],
+        "table_id": "T224",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The film Fist Fight made under $50 million dollars at the box office.",
+            "The film Fist Fight made under $50 million at the box office."
+        ],
+        "table_id": "T224",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jon Jones weighs over 200 pounds.",
+            "Jon Jones weighs over \u00a3200 ."
+        ],
+        "table_id": "T1594",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jeepers Creepers made over 40 million dollars over it's budget at the box office.",
+            "Jeepers Creepers made over $40 million over it's budget at the box office."
+        ],
+        "table_id": "T1636",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    }
+]

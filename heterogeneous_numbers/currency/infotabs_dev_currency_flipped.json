@@ -1,0 +1,42 @@
+[
+    {
+        "hypothesis": [
+            "Brokeback Mountain made 200 million dollars over it's budget at the box office.",
+            "Brokeback Mountain made \u00a3200 million over it's budget at the box office."
+        ],
+        "table_id": "T110",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Despicable Me brought in over $500 million dollars more than its' original budget at the box office.",
+            "Despicable Me brought in over \u00a3500 million more than its' original budget at the box office."
+        ],
+        "table_id": "T595",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Die Another Day managed to make a profit over its budget by about 10 million dollars.",
+            "Die Another Day managed to make a profit over its budget by about \u20ac10 million."
+        ],
+        "table_id": "T735",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Female Jersey Cattle can vary in weight by more than 300 pounds.",
+            "Female Jersey Cattle can vary in weight by more than \u20ac300."
+        ],
+        "table_id": "T1531",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

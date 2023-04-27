@@ -1,0 +1,92 @@
+[
+    {
+        "hypothesis": [
+            "Bushwacker weighed more than 1500 pounds.",
+            "Bushwacker weighed more than \u00a31500 ."
+        ],
+        "table_id": "T40",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Brokeback Mountain made 200 million dollars over it's budget at the box office.",
+            "Brokeback Mountain made $200 million over it's budget at the box office."
+        ],
+        "table_id": "T110",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Despicable Me brought in over $500 million dollars more than its' original budget at the box office.",
+            "Despicable Me brought in over $500 million more than its' original budget at the box office."
+        ],
+        "table_id": "T595",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Die Another Day managed to make a profit over its budget by about 10 million dollars.",
+            "Die Another Day managed to make a profit over its budget by about $10 million."
+        ],
+        "table_id": "T735",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dead Poets Society made over 200 million dollars more at the box office than it cost to make.",
+            "Dead Poets Society made over $200 million more at the box office than it cost to make."
+        ],
+        "table_id": "T841",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jersey Cattle can weigh more than 1800 pounds.",
+            "Jersey Cattle can weigh more than \u00a31800 ."
+        ],
+        "table_id": "T1531",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Male Jersey Cattle have a weight range over 600 pounds.",
+            "Male Jersey Cattle have a weight range over \u00a3600 ."
+        ],
+        "table_id": "T1531",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Female Jersey Cattle can vary in weight by more than 300 pounds.",
+            "Female Jersey Cattle can vary in weight by more than \u00a3300 ."
+        ],
+        "table_id": "T1531",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "I'll Have Another made more than 3 million dollars.",
+            "I'll Have Another made more than $3 million."
+        ],
+        "table_id": "T1956",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    }
+]

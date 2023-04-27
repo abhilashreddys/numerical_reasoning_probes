@@ -1,0 +1,12 @@
+[
+    {
+        "hypothesis": [
+            "THE SQA has a budget of around 11,333 pounds per staff person.",
+            "THE SQA has a budget of around $11,333  per staff person."
+        ],
+        "table_id": "T2208",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]
