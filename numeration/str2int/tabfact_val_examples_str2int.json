@@ -1,3 +1,1942 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe72d7122a09ac6735df6e577b651428473f9af58deec21c6ceca7d8692b3f34
-size 69311
+[
+    {
+        "hypothesis": [
+            "the gang buy a boat be view by 1.46 million people in the us",
+            "the gang buy a boat be view by 1460000.0 people in the us"
+        ],
+        "table_id": "1-29273390-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "season 6 episode 1 , mac fight gay marriage , be see by almost 2 million us viewer",
+            "season 6 episode 1 , mac fight gay marriage , be see by almost 2000000.0 us viewer"
+        ],
+        "table_id": "1-29273390-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the decision (unanimous) method be use 10 time , while the submission (arm triangle choke) method be only used one time",
+            "the decision (unanimous) method be use 10 time , while the submission (arm triangle choke) method be only used 1 time"
+        ],
+        "table_id": "2-10603143-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "he fight chris liguori two time , while fight every other opponent just one time",
+            "he fight chris liguori 2 time , while fight every other opponent just 1 time"
+        ],
+        "table_id": "2-10603143-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the ufc fight night : marquardt v palhares event have two more round than the ufc 124 event",
+            "the ufc fight night : marquardt v palhares event have 2 more round than the ufc 124 event"
+        ],
+        "table_id": "2-10603143-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "all 12 club play a total of 22 game for the wru division one east",
+            "all 12 club play a total of 22 game for the wru division 1 east"
+        ],
+        "table_id": "2-12784856-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "all 12 club play a total of 12 game for the wru division one east",
+            "all 12 club play a total of 12 game for the wru division 1 east"
+        ],
+        "table_id": "2-12784856-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "2 episode written by mark fellow and keith wagner have viewer below below 2 million",
+            "2 episode written by mark fellow and keith wagner have viewer below below 2000000.0"
+        ],
+        "table_id": "1-25246990-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "london , uk have the highest population metro area in million of 12 - 14",
+            "london , uk have the highest population metro area in 1000000 of 12 - 14"
+        ],
+        "table_id": "2-1653499-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "berlin , germany and milan , italy both have a population of 4.3 million",
+            "berlin , germany and milan , italy both have a population of 4300000.0"
+        ],
+        "table_id": "2-1653499-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "3 city in the european union have the same population city limit in million of 1.7",
+            "3 city in the european union have the same population city limit in 1000000 of 1.7"
+        ],
+        "table_id": "2-1653499-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "warsaw , poland and budapest , hungary be the only city with a population of 1.7 million within city limit",
+            "warsaw , poland and budapest , hungary be the only city with a population of 1700000.0 within city limit"
+        ],
+        "table_id": "2-1653499-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "only two of the nurse episode be written by two people",
+            "only 2 of the nurse episode be written by 2 people"
+        ],
+        "table_id": "2-11154187-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "two of the episode be originally air in march",
+            "2 of the episode be originally air in march"
+        ],
+        "table_id": "2-11154187-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "one of the nurse episodes be the first episode o the series",
+            "1 of the nurse episodes be the first episode o the series"
+        ],
+        "table_id": "2-11154187-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "5 of the nurse episode be written by two people",
+            "5 of the nurse episode be written by 2 people"
+        ],
+        "table_id": "2-11154187-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "likud have win 7 race out of thirty , make them the most popular party",
+            "likud have win 7 race out of 30 , make them the most popular party"
+        ],
+        "table_id": "2-12660586-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "likud have win more than a third out of thirty race , make them the most popular party",
+            "likud have win more than a third out of 30 race , make them the most popular party"
+        ],
+        "table_id": "2-12660586-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "one step beyond perform at donington park 5 year",
+            "1 step beyond perform at donington park 5 year"
+        ],
+        "table_id": "2-10311801-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "one step beyond be the only event that have 2 stage",
+            "1 step beyond be the only event that have 2 stage"
+        ],
+        "table_id": "2-10311801-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "heikki kovalainen earn one win in his formula one racing career",
+            "heikki kovalainen earn 1 win in his formula 1 racing career"
+        ],
+        "table_id": "2-1527343-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "heikki have one more win in 2004 than he have in the british formula three series",
+            "heikki have 1 more win in 2004 than he have in the british formula 3 series"
+        ],
+        "table_id": "2-1527343-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "heikki kovalainen earn one lose in his formula one racing career",
+            "heikki kovalainen earn 1 lose in his formula 1 racing career"
+        ],
+        "table_id": "2-1527343-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "heikki have one more lose in 2004 than he have in the british formula three series",
+            "heikki have 1 more lose in 2004 than he have in the british formula 3 series"
+        ],
+        "table_id": "2-1527343-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "heikki have as only one pole race for team pons racing as he have for all other team in his career combine",
+            "heikki have as only 1 pole race for team pons racing as he have for all other team in his career combine"
+        ],
+        "table_id": "2-1527343-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "less than half of the steelers game be play at three river stadium",
+            "less than half of the steelers game be play at 3 river stadium"
+        ],
+        "table_id": "2-14685136-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the steelers lose three game total , in september october , and do not lose any more",
+            "the steelers lose 3 game total , in september october , and do not lose any more"
+        ],
+        "table_id": "2-14685136-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "more than half of the steelers game be play at three river stadium",
+            "more than half of the steelers game be play at 3 river stadium"
+        ],
+        "table_id": "2-14685136-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the steelers win three game total , in september october , and do not lose any more",
+            "the steelers win 3 game total , in september october , and do not lose any more"
+        ],
+        "table_id": "2-14685136-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in the first season of the new adventure old christine , episode 3 title open water have the most amount of us viewer at 15.13 million",
+            "in the first season of the new adventure old christine , episode 3 title open water have the most amount of us viewer at 15130000.0"
+        ],
+        "table_id": "1-27910411-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "kari lizer write an episode title ritchie has two mommies , while danielle evenson write an episode title long day journey into stan",
+            "kari lizer write an episode title ritchie has 2 mommies , while danielle evenson write an episode title long day journey into stan"
+        ],
+        "table_id": "1-27910411-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "episode one of the new adventure old christine , receive lower us viewer than episode two",
+            "episode 1 of the new adventure old christine , receive lower us viewer than episode 2"
+        ],
+        "table_id": "1-27910411-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the pilot episode of the new adventure old christine be one of the episode written by kari lizer",
+            "the pilot episode of the new adventure old christine be 1 of the episode written by kari lizer"
+        ],
+        "table_id": "1-27910411-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "kari lizer write an episode title long day journey into stanm while danielle evenson write an episode title ritchie has two mommies",
+            "kari lizer write an episode title long day journey into stanm while danielle evenson write an episode title ritchie has 2 mommies"
+        ],
+        "table_id": "1-27910411-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "episode one of the new adventure old christine , receive higher us viewer than episode two",
+            "episode 1 of the new adventure old christine , receive higher us viewer than episode 2"
+        ],
+        "table_id": "1-27910411-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the pilot episode of the new adventure old christine be not one of the episode written by kari lizer",
+            "the pilot episode of the new adventure old christine be not 1 of the episode written by kari lizer"
+        ],
+        "table_id": "1-27910411-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "monta elli be the leading scorer on two occassions",
+            "monta elli be the leading scorer on 2 occassions"
+        ],
+        "table_id": "2-14677944-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "trina be in only one song with trick daddy",
+            "trina be in only 1 song with trick daddy"
+        ],
+        "table_id": "2-15619795-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "trina do only one song by herself in the year 2002",
+            "trina do only 1 song by herself in the year 2002"
+        ],
+        "table_id": "2-15619795-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "every train on the list be consider class thirty 1",
+            "every train on the list be consider class 30 1"
+        ],
+        "table_id": "2-15805928-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "first 3 train on the list be consider class thirty 1",
+            "first 3 train on the list be consider class 30 1"
+        ],
+        "table_id": "2-15805928-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "kattie dippold norm hiscock both write two episode each",
+            "kattie dippold norm hiscock both write 2 episode each"
+        ],
+        "table_id": "1-29897962-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "kattie dippold norm hiscock be the only writer to each write two episode",
+            "kattie dippold norm hiscock be the only writer to each write 2 episode"
+        ],
+        "table_id": "1-29897962-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in the 2007 - 08 four hill tournament , fin , have the highest point",
+            "in the 2007 - 08 4 hill tournament , fin , have the highest point"
+        ],
+        "table_id": "2-14948647-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in the 2007 - 08 four hill tournament fin have the lowest point",
+            "in the 2007 - 08 4 hill tournament fin have the lowest point"
+        ],
+        "table_id": "2-14948647-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "6 player earn over 1 million in prize winning",
+            "6 player earn over 1000000.0 in prize winning"
+        ],
+        "table_id": "2-173345-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "1 player earn over 2 million in prize winning",
+            "1 player earn over 2000000.0 in prize winning"
+        ],
+        "table_id": "2-173345-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "only 2 player earn over 1 million in prize winning",
+            "only 2 player earn over 1000000.0 in prize winning"
+        ],
+        "table_id": "2-173345-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "1 player earn over 4 million in prize winning",
+            "1 player earn over 4000000.0 in prize winning"
+        ],
+        "table_id": "2-173345-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "leeds only contain one plant",
+            "leeds only contain 1 plant"
+        ],
+        "table_id": "1-250309-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "mg motor be one of the 4 company to be own by a chinese parent company",
+            "mg motor be 1 of the 4 company to be own by a chinese parent company"
+        ],
+        "table_id": "1-250309-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "stirling moss be the only driver that do not race in a ferrari car during the 1958 formula one season",
+            "stirling moss be the only driver that do not race in a ferrari car during the 1958 formula 1 season"
+        ],
+        "table_id": "2-1140110-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "stirling moss win race with 2 different constructor during the 1958 formula one season",
+            "stirling moss win race with 2 different constructor during the 1958 formula 1 season"
+        ],
+        "table_id": "2-1140110-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "season 1 of the good wife have 08 million more view than season 2",
+            "season 1 of the good wife have 8000000.0 more view than season 2"
+        ],
+        "table_id": "1-28561455-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "keith eisner direct two episode of the good wife include the final episode of the season , wrongful termination",
+            "keith eisner direct 2 episode of the good wife include the final episode of the season , wrongful termination"
+        ],
+        "table_id": "1-28561455-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "2 four nation tournament match be play on march 31 1988",
+            "2 4 nation tournament match be play on march 31 1988"
+        ],
+        "table_id": "2-1614982-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "ryse : son of rome come out on xbox one , while star citizen come out on microsoft window",
+            "ryse : son of rome come out on xbox 1 , while star citizen come out on microsoft window"
+        ],
+        "table_id": "2-1241866-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "star citizen come out on xbox one , while ryse : son of rome come out on microsoft window",
+            "star citizen come out on xbox 1 , while ryse : son of rome come out on microsoft window"
+        ],
+        "table_id": "2-1241866-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 8.24 million us viewer when the original air date be april 27 , 2009 with title ghost",
+            "there be 8240000.0 us viewer when the original air date be april 27 , 2009 with title ghost"
+        ],
+        "table_id": "1-23958944-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the title be hell hath no fury the director be rob bowman , the writer be andrew w marlowe , and the original air date be march 30 , 2009 with 9.09 million us viewer",
+            "when the title be hell hath no fury the director be rob bowman , the writer be andrew w marlowe , and the original air date be march 30 , 2009 with 9090000.0 us viewer"
+        ],
+        "table_id": "1-23958944-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the production number be 107 the million of us viewer 7.73 and when the production code be 102 the million of us viewer be 9.09",
+            "when the production number be 107 the 1000000 of us viewer 7.73 and when the production code be 102 the 1000000 of us viewer be 9.09"
+        ],
+        "table_id": "1-23958944-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a game be just under 10 - thousand viewer",
+            "the lowest attendance figure for a game be just under 10 - 1000 viewer"
+        ],
+        "table_id": "1-23248869-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the most total point score by the knicks in a single game be fewer than 1 hundred point",
+            "the most total point score by the knicks in a single game be fewer than 1 100 point"
+        ],
+        "table_id": "1-23248869-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "mario andretti have more pole position than anybody else in the 1978 formula one season",
+            "mario andretti have more pole position than anybody else in the 1978 formula 1 season"
+        ],
+        "table_id": "2-1140082-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "lotus - ford construct the most winning car in the 1978 formula one season",
+            "lotus - ford construct the most winning car in the 1978 formula 1 season"
+        ],
+        "table_id": "2-1140082-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "mario andretti win more race than any other person in the 1978 formula one season",
+            "mario andretti win more race than any other person in the 1978 formula 1 season"
+        ],
+        "table_id": "2-1140082-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "mario andretti have more pole position than anybody else , apart from carlos reutemann , in the 1978 formula one season",
+            "mario andretti have more pole position than anybody else , apart from carlos reutemann , in the 1978 formula 1 season"
+        ],
+        "table_id": "2-1140082-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "lotus - ford construct the least winning car in the 1978 formula one season",
+            "lotus - ford construct the least winning car in the 1978 formula 1 season"
+        ],
+        "table_id": "2-1140082-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "mario andretti win less race than carlos reutemann in the 1978 formula one season",
+            "mario andretti win less race than carlos reutemann in the 1978 formula 1 season"
+        ],
+        "table_id": "2-1140082-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 2008 six nation championship squad have player in the hooker position range in age from 22 to 30",
+            "the 2008 6 nation championship squad have player in the hooker position range in age from 22 to 30"
+        ],
+        "table_id": "2-15149189-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "on 2008 six nation championship squad fabien barcella be 1 of the hooker position at the age of 25",
+            "on 2008 6 nation championship squad fabien barcella be 1 of the hooker position at the age of 25"
+        ],
+        "table_id": "2-15149189-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "ayrton senna only win one grand pix",
+            "ayrton senna only win 1 grand pix"
+        ],
+        "table_id": "2-1137704-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in the 1955 formula one season mercedes construct more vehicle than any other constructor",
+            "in the 1955 formula 1 season mercedes construct more vehicle than any other constructor"
+        ],
+        "table_id": "2-1140113-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in the 1955 formula one season mercedes construct less vehicle than any other constructor",
+            "in the 1955 formula 1 season mercedes construct less vehicle than any other constructor"
+        ],
+        "table_id": "2-1140113-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "6 episode from psych (season 1) have over 4 million us view on their air date",
+            "6 episode from psych (season 1) have over 4000000.0 us view on their air date"
+        ],
+        "table_id": "1-26429543-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "no company have a market value below 190000 million usd or above 400000 million usd",
+            "no company have a market value below 190000000000.0 usd or above 400000000000.0 usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "bank of america have headquarter in the united state with a market value of 211706 million usd while microsoft also with headquarters in the united state have a market value of 281171 million usd",
+            "bank of america have headquarter in the united state with a market value of 211706000000.0 usd while microsoft also with headquarters in the united state have a market value of 281171000000.0 usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "gazprom be rank 10 with a market value of 196339 million usd while toyota motor corporation be rank 9 with a market value of 196731 million usd",
+            "gazprom be rank 10 with a market value of 196339000000.0 usd while toyota motor corporation be rank 9 with a market value of 196731000000.0 usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "no company have a market value below 200000 million usd or above 350000 million usd",
+            "no company have a market value below 200000000000.0 usd or above 350000000000.0 usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "bank of america and microsoft both have headquarters in the united state and a market value of 211706 million usd",
+            "bank of america and microsoft both have headquarters in the united state and a market value of 211706000000.0 usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "gazprom be rank 10 with a market value of 196731 million usd , while toyota motor corporation be rank 9 with a market value of 196860 usd",
+            "gazprom be rank 10 with a market value of 196731000000.0 usd , while toyota motor corporation be rank 9 with a market value of 196860 usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in the 2006 season pedro nunes represent three different team in 2 different series",
+            "in the 2006 season pedro nunes represent 3 different team in 2 different series"
+        ],
+        "table_id": "1-25386974-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "pedro nunes participate in the formula 3 sudamericana in three different year",
+            "pedro nunes participate in the formula 3 sudamericana in 3 different year"
+        ],
+        "table_id": "1-25386974-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "cuba win the highest number of medal with fifty 7",
+            "cuba win the highest number of medal with 50 7"
+        ],
+        "table_id": "2-14420686-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "cuba win forty 3 more medal than the next highest county",
+            "cuba win 40 3 more medal than the next highest county"
+        ],
+        "table_id": "2-14420686-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "mexico win the highest number of medal with fifty 7",
+            "mexico win the highest number of medal with 50 7"
+        ],
+        "table_id": "2-14420686-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "cuba win forty 6 more medal than the next highest county",
+            "cuba win 40 6 more medal than the next highest county"
+        ],
+        "table_id": "2-14420686-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the landfill in tseung kwan o stage i hold the most amount of waste with 15.2 million tonne",
+            "the landfill in tseung kwan o stage i hold the most amount of waste with 15200000.0 tonne"
+        ],
+        "table_id": "2-16176425-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the landfill in siu lang shui i hold the most amount of waste with 3.5 million tonne",
+            "the landfill in siu lang shui i hold the most amount of waste with 3500000.0 tonne"
+        ],
+        "table_id": "2-16176425-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the five nation matchup england have against ireland and wale take place in twickenham , london",
+            "the 5 nation matchup england have against ireland and wale take place in twickenham , london"
+        ],
+        "table_id": "2-18178534-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "during their five nation championship match against england , france score a single point more than wale do",
+            "during their 5 nation championship match against england , france score a single point more than wale do"
+        ],
+        "table_id": "2-18178534-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the five nation matchup england have against ireland and wale take place in twickenham , london and no other match have this location",
+            "the 5 nation matchup england have against ireland and wale take place in twickenham , london and no other match have this location"
+        ],
+        "table_id": "2-18178534-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "during their five nation championship match against england , france score 2 time as many point as wale",
+            "during their 5 nation championship match against england , france score 2 time as many point as wale"
+        ],
+        "table_id": "2-18178534-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "vfl park venue have the smallest crowd by more than a thousand during the 1980 vfl season",
+            "vfl park venue have the smallest crowd by more than a 1000 during the 1980 vfl season"
+        ],
+        "table_id": "2-10809823-19.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the pittsburgh steelers start the season with a three game win streak",
+            "the pittsburgh steelers start the season with a 3 game win streak"
+        ],
+        "table_id": "2-14636280-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "only 1 loss be record at three river stadium",
+            "only 1 loss be record at 3 river stadium"
+        ],
+        "table_id": "2-14636280-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the minnesota viking have a three game win streak in 1992",
+            "the minnesota viking have a 3 game win streak in 1992"
+        ],
+        "table_id": "2-14636280-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "at the three river stadium pittsburgh steelers lose 2 time",
+            "at the 3 river stadium pittsburgh steelers lose 2 time"
+        ],
+        "table_id": "2-14636280-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "a show with airdate 2 january 2010 and 3 couple have 3.87 million viewer",
+            "a show with airdate 2 january 2010 and 3 couple have 3870000.0 viewer"
+        ],
+        "table_id": "1-25664518-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the number of viewer in the million never drop below 3 for all episode",
+            "the number of viewer in the 1000000 never drop below 3 for all episode"
+        ],
+        "table_id": "1-25664518-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "only 1 time do the number of viewer surpass 5 million , and it be on 6 february 2010 with 5.42 million viewer",
+            "only 1 time do the number of viewer surpass 5000000.0 , and it be on 6 february 2010 with 5420000.0 viewer"
+        ],
+        "table_id": "1-25664518-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "adam and charlene be the fourth couple of take me out (uk game show) on 2 january 2010 when the number of viewer be just below 4 million viewer",
+            "adam and charlene be the fourth couple of take me out (uk game show) on 2 january 2010 when the number of viewer be just below 4000000.0 viewer"
+        ],
+        "table_id": "1-25664518-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "a show with airdate 2 january 2010 and 4 couple have 3.87 million viewer",
+            "a show with airdate 2 january 2010 and 4 couple have 3870000.0 viewer"
+        ],
+        "table_id": "1-25664518-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the number of viewer in the million never drop below 4 for all episode",
+            "the number of viewer in the 1000000 never drop below 4 for all episode"
+        ],
+        "table_id": "1-25664518-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "only 2 time do the number of viewer surpass 5 million , and it be on 6 february 2010 with 5.42 million viewer",
+            "only 2 time do the number of viewer surpass 5000000.0 , and it be on 6 february 2010 with 5420000.0 viewer"
+        ],
+        "table_id": "1-25664518-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "adam and charlene be the third couple of take me out (uk game show) on 2 january 2010 when the number of viewer be just below 4 million viewer",
+            "adam and charlene be the third couple of take me out (uk game show) on 2 january 2010 when the number of viewer be just below 4000000.0 viewer"
+        ],
+        "table_id": "1-25664518-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "10 thousand more crowd watch the game in glenferrie oval than in arden street oval",
+            "10 1000 more crowd watch the game in glenferrie oval than in arden street oval"
+        ],
+        "table_id": "2-10775890-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "boston five classic have the most stroke",
+            "boston 5 classic have the most stroke"
+        ],
+        "table_id": "2-1636926-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "cliff lyon play at the five - eighth position for game 3 and game 4",
+            "cliff lyon play at the 5 - eighth position for game 3 and game 4"
+        ],
+        "table_id": "2-11215792-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "edoardo piscopo have finish a season in 2nd position two time between 2005 and 2010",
+            "edoardo piscopo have finish a season in 2nd position 2 time between 2005 and 2010"
+        ],
+        "table_id": "2-15570607-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "edoardo piscopo have finish a season better than second place more than two time between 2005 and 2010",
+            "edoardo piscopo have finish a season better than second place more than 2 time between 2005 and 2010"
+        ],
+        "table_id": "2-15570607-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the dreamscape achieve 0.84 million less viewer than safe",
+            "the dreamscape achieve 840000.0 less viewer than safe"
+        ],
+        "table_id": "1-24648983-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "irving romaine have over 1 hundred run more than david hemp",
+            "irving romaine have over 1 100 run more than david hemp"
+        ],
+        "table_id": "2-1829476-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the first union betsy king classic take place thirty - 1 day after the state farm rail classic",
+            "the first union betsy king classic take place 30 - 1 day after the state farm rail classic"
+        ],
+        "table_id": "2-154097-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the team play in front of more than 20 thousand crowd only 2 time",
+            "the team play in front of more than 20 1000 crowd only 2 time"
+        ],
+        "table_id": "2-16864968-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the team play in front of less than 20 thousand crowd only 2 time",
+            "the team play in front of less than 20 1000 crowd only 2 time"
+        ],
+        "table_id": "2-16864968-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "2011 be 1 of three queen 's birthday clash that end in a draw",
+            "2011 be 1 of 3 queen 's birthday clash that end in a draw"
+        ],
+        "table_id": "1-23214692-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "9 out of thirty offer channel in laredo texas have dish channel",
+            "9 out of 30 offer channel in laredo texas have dish channel"
+        ],
+        "table_id": "2-136773-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "none of the thirty offer channel in laredo , texas have dish channel",
+            "none of the 30 offer channel in laredo , texas have dish channel"
+        ],
+        "table_id": "2-136773-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "andy wallace drove for the team call david price race for only one year",
+            "andy wallace drove for the team call david price race for only 1 year"
+        ],
+        "table_id": "2-1673849-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "vodafone have 152.48 million more subscriber than loop mobile in october , 2013",
+            "vodafone have 152480000.0 more subscriber than loop mobile in october , 2013"
+        ],
+        "table_id": "1-23801721-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "vodaphone have 152.48 million less subscriber than loop mobile in october , 2013",
+            "vodaphone have 152480000.0 less subscriber than loop mobile in october , 2013"
+        ],
+        "table_id": "1-23801721-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "series 7 , night move be view by 3.61 million people",
+            "series 7 , night move be view by 3610000.0 people"
+        ],
+        "table_id": "1-30030227-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the episode night move be watch by more than 3.61 million viewer",
+            "the episode night move be watch by more than 3610000.0 viewer"
+        ],
+        "table_id": "1-30030227-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "chicago hope be at 10:00 on the day that party of five be at 9:30",
+            "chicago hope be at 10:00 on the day that party of 5 be at 9:30"
+        ],
+        "table_id": "2-15184672-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "party of five be at 9:00 on the day that entertainment tonight be at 7:00",
+            "party of 5 be at 9:00 on the day that entertainment tonight be at 7:00"
+        ],
+        "table_id": "2-15184672-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "party of five be after 9:00 on the day that entertainment tonight be before 7:00",
+            "party of 5 be after 9:00 on the day that entertainment tonight be before 7:00"
+        ],
+        "table_id": "2-15184672-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the episode a great way to care have 1.84 million viewer",
+            "the episode a great way to care have 1840000.0 viewer"
+        ],
+        "table_id": "1-29633639-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "tc racing and pole service be the 2 of the three team in the championnat de france formula renault 2.0",
+            "tc racing and pole service be the 2 of the 3 team in the championnat de france formula renault 2.0"
+        ],
+        "table_id": "1-26124171-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be two race on mar 17 - 19 on the event circuit of barbagallo raceway",
+            "there be 2 race on mar 17 - 19 on the event circuit of barbagallo raceway"
+        ],
+        "table_id": "2-14610433-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "on september 12 , 1981 the hoosier hundred be race at the indiana state fair",
+            "on september 12 , 1981 the hoosier 100 be race at the indiana state fair"
+        ],
+        "table_id": "1-22765887-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "season 6 , series number 11 be direct by rob schrab and be writteh by one person",
+            "season 6 , series number 11 be direct by rob schrab and be writteh by 1 person"
+        ],
+        "table_id": "1-28081876-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "john sullivan write episode 2 , which have 6.34 million viewer",
+            "john sullivan write episode 2 , which have 6340000.0 viewer"
+        ],
+        "table_id": "1-17641206-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the date 18 / 01 / 1992 have a status of five nation , and an against value of 7",
+            "the date 18 / 01 / 1992 have a status of 5 nation , and an against value of 7"
+        ],
+        "table_id": "2-18178534-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "all of the opposing team with a status of five nation have a against greater than south africa",
+            "all of the opposing team with a status of 5 nation have a against greater than south africa"
+        ],
+        "table_id": "2-18178534-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "episode 2 , past and present , be view by 19.5 million in the us",
+            "episode 2 , past and present , be view by 19500000.0 in the us"
+        ],
+        "table_id": "1-27832075-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "a total of 19.5 million us viewer watch episode 68 and 69 of the series",
+            "a total of 19500000.0 us viewer watch episode 68 and 69 of the series"
+        ],
+        "table_id": "1-27832075-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 19.5 million us viewer who watch episode 68 and 69 of the series",
+            "there be 19500000.0 us viewer who watch episode 68 and 69 of the series"
+        ],
+        "table_id": "1-27832075-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "1 episode be written by alexander woo and direct by scott winant and receive 4.26 million us viewer /",
+            "1 episode be written by alexander woo and direct by scott winant and receive 4260000.0 us viewer /"
+        ],
+        "table_id": "1-26493520-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "today i do have 12.85 million viewer",
+            "today i do have 12850000.0 viewer"
+        ],
+        "table_id": "1-28212888-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "with friend like these be the title of the episode see by 12.85 million of people in the us",
+            "with friend like these be the title of the episode see by 12850000.0 of people in the us"
+        ],
+        "table_id": "1-28212888-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be more than one title for the episode originally air on september 27 , 1984",
+            "there be more than 1 title for the episode originally air on september 27 , 1984"
+        ],
+        "table_id": "1-2818164-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "three pigeon be the winner in the year of 2000",
+            "3 pigeon be the winner in the year of 2000"
+        ],
+        "table_id": "2-11812517-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "no 94 , title expose , have 5.41 million us viewer",
+            "no 94 , title expose , have 5410000.0 us viewer"
+        ],
+        "table_id": "1-2866456-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "terrence o'hara direct fade which receive 4.34 million us viewer",
+            "terrence o'hara direct fade which receive 4340000.0 us viewer"
+        ],
+        "table_id": "1-2866456-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "hidden with the production code of 2t6404 be direct by bradford may and have 6.40 million viewer",
+            "hidden with the production code of 2t6404 be direct by bradford may and have 6400000.0 viewer"
+        ],
+        "table_id": "1-2866456-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "team fortec motorsport score 65 point in the british formula three series",
+            "team fortec motorsport score 65 point in the british formula 3 series"
+        ],
+        "table_id": "1-10748727-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "tom 's have 5 win in the japanese formula three",
+            "tom 's have 5 win in the japanese formula 3"
+        ],
+        "table_id": "1-10748727-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in the series british formula three team name score 65 point in season 2009",
+            "in the series british formula 3 team name score 65 point in season 2009"
+        ],
+        "table_id": "1-10748727-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 2009 , the team japanese formula three have 5 win",
+            "in 2009 , the team japanese formula 3 have 5 win"
+        ],
+        "table_id": "1-10748727-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "british formula three win more race than japanese formula three in the same season",
+            "british formula 3 win more race than japanese formula 3 in the same season"
+        ],
+        "table_id": "1-10748727-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 6 win in the japanese formula three in 2010",
+            "there be 6 win in the japanese formula 3 in 2010"
+        ],
+        "table_id": "1-10748727-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the tier 1 capital for irish nationwide be 1394 million",
+            "the tier 1 capital for irish nationwide be 1394000000.0"
+        ],
+        "table_id": "1-22368322-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "season 2 be the first time that viewership in the us reach 14.57 million",
+            "season 2 be the first time that viewership in the us reach 14570000.0"
+        ],
+        "table_id": "1-11664625-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be over 15 million us viewer in season 2",
+            "there be over 15000000.0 us viewer in season 2"
+        ],
+        "table_id": "1-11664625-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the episode with 14.59 million us viewer be forced entry",
+            "the episode with 14590000.0 us viewer be forced entry"
+        ],
+        "table_id": "1-22078691-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the title that have 15.40 million us viewer be tag forced entry",
+            "the title that have 15400000.0 us viewer be tag forced entry"
+        ],
+        "table_id": "1-22078691-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the title that have less than 13.59 million us viewer be tag caught on tape",
+            "the title that have less than 13590000.0 us viewer be tag caught on tape"
+        ],
+        "table_id": "1-22078691-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the damage of storm three be 226 million usd",
+            "the damage of storm 3 be 226000000.0 usd"
+        ],
+        "table_id": "2-1458309-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "storm one cause damage of 7.5",
+            "storm 1 cause damage of 7.5"
+        ],
+        "table_id": "2-1458309-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 1854 there be 3 hurricane , with the strongest storm level three",
+            "in 1854 there be 3 hurricane , with the strongest storm level 3"
+        ],
+        "table_id": "1-2930244-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 2009 - 10 , the northern premier league division one north , position 1 / 22 be promote and james dean (27) be the leading scorer",
+            "in 2009 - 10 , the northern premier league division 1 north , position 1 / 22 be promote and james dean (27) be the leading scorer"
+        ],
+        "table_id": "2-18443295-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "episode three be 23:55 minute long and have 7.1 million viewer",
+            "episode 3 be 23:55 minute long and have 7100000.0 viewer"
+        ],
+        "table_id": "1-1849243-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "episode two have a broadcast date of october 7 , 1967 and be archive as 16 mm t / r",
+            "episode 2 have a broadcast date of october 7 , 1967 and be archive as 16 mm t / r"
+        ],
+        "table_id": "1-1849243-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "six million viewer watched episode two",
+            "6 1000000 viewer watched episode 2"
+        ],
+        "table_id": "1-1849243-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "6.0 million viewer watch the episode 23:51 minute long",
+            "6000000.0 viewer watch the episode 23:51 minute long"
+        ],
+        "table_id": "1-1849243-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "8 million viewer watch the 16 mm t / r episode",
+            "8000000.0 viewer watch the 16 mm t / r episode"
+        ],
+        "table_id": "1-1849243-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 19th episode have a production code of 119 , and be see by 6.66 million viewer",
+            "the 19th episode have a production code of 119 , and be see by 6660000.0 viewer"
+        ],
+        "table_id": "1-24781886-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest rating with 11.2 million viewer be 29",
+            "the lowest rating with 11200000.0 viewer be 29"
+        ],
+        "table_id": "1-217785-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the seasonal finale of the 3rd season have 10.2 million viewer",
+            "the seasonal finale of the 3rd season have 10200000.0 viewer"
+        ],
+        "table_id": "1-217785-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 3rd and 4th season receive 10.2 million viewer",
+            "the 3rd and 4th season receive 10200000.0 viewer"
+        ],
+        "table_id": "1-217785-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest rating with 11.2 million viewer be 29",
+            "the highest rating with 11200000.0 viewer be 29"
+        ],
+        "table_id": "1-217785-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the episode legacy have 6.63 million viewer",
+            "the episode legacy have 6630000.0 viewer"
+        ],
+        "table_id": "1-11354111-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "episode number 109 production number 5 - 22 receive a total of 12.293 million viewer",
+            "episode number 109 production number 5 - 22 receive a total of 12293000.0 viewer"
+        ],
+        "table_id": "2-15717093-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the rating of season 10 be 22.3 wit 18.17 million household viewer",
+            "the rating of season 10 be 22.3 wit 18170000.0 household viewer"
+        ],
+        "table_id": "2-156045-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "19.30 million viewer watch the season finale on march 12 , 1979",
+            "19300000.0 viewer watch the season finale on march 12 , 1979"
+        ],
+        "table_id": "2-156045-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the rating of the season 10 premier on october 25 , 1982 with 19.30 million viewer be 25.9",
+            "the rating of the season 10 premier on october 25 , 1982 with 19300000.0 viewer be 25.9"
+        ],
+        "table_id": "2-156045-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when paris barclay direct , there be 5.86 million us viewer",
+            "when paris barclay direct , there be 5860000.0 us viewer"
+        ],
+        "table_id": "1-27401228-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in season 19 , episode day 7: 2:00 am - 3:00 am there be 10.34 million viewer",
+            "in season 19 , episode day 7: 2:00 am - 3:00 am there be 10340000.0 viewer"
+        ],
+        "table_id": "1-10749143-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 1.62 million rating for episode 6",
+            "there be 1620000.0 rating for episode 6"
+        ],
+        "table_id": "1-27218002-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the episode that have a rating of 1.37 million be originally air on 24 november 2011",
+            "the episode that have a rating of 1370000.0 be originally air on 24 november 2011"
+        ],
+        "table_id": "1-27218002-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the rating for episode 6 be 1.24 million",
+            "the rating for episode 6 be 1240000.0"
+        ],
+        "table_id": "1-27218002-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the episode that have rating of 2.29 million be originally air on 24 november 2011",
+            "the episode that have rating of 2290000.0 be originally air on 24 november 2011"
+        ],
+        "table_id": "1-27218002-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "4 different country spend over 51.0 billion dollar on tourism in 2012",
+            "4 different country spend over 51.0 1000000000 dollar on tourism in 2012"
+        ],
+        "table_id": "1-29789-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the united state spend 83.7 billion dollar on international tourism in 2012",
+            "the united state spend 83.7 1000000000 dollar on international tourism in 2012"
+        ],
+        "table_id": "1-29789-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "2.58 million us viewer watch brace for impact",
+            "2580000.0 us viewer watch brace for impact"
+        ],
+        "table_id": "1-11111116-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "2.58 million viewer watch brace for impact",
+            "2580000.0 viewer watch brace for impact"
+        ],
+        "table_id": "1-11111116-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the episode that air march 31 , 2013 have 2.12 million us viewer",
+            "the episode that air march 31 , 2013 have 2120000.0 us viewer"
+        ],
+        "table_id": "1-11111116-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the episode watch by 2.12 million viewer be written by karen maser",
+            "the episode watch by 2120000.0 viewer be written by karen maser"
+        ],
+        "table_id": "1-11111116-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the number of viewer who watch brace for impact be 2.58 million on june 2 , 2013",
+            "the number of viewer who watch brace for impact be 2580000.0 on june 2 , 2013"
+        ],
+        "table_id": "1-11111116-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 2.12 million of us viewer watch the episode that first air on march 31 , 2013 and the title be damage",
+            "there be 2120000.0 of us viewer watch the episode that first air on march 31 , 2013 and the title be damage"
+        ],
+        "table_id": "1-11111116-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "james stanley write the episode that be view by 2.12 million viewer",
+            "james stanley write the episode that be view by 2120000.0 viewer"
+        ],
+        "table_id": "1-11111116-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be one best album in 1965",
+            "there be 1 best album in 1965"
+        ],
+        "table_id": "2-11874550-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the celebrities guest star frank skinner and lee mack have only 1 episode with 3.6 million viewer",
+            "the celebrities guest star frank skinner and lee mack have only 1 episode with 3600000.0 viewer"
+        ],
+        "table_id": "1-24725951-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    }
+]

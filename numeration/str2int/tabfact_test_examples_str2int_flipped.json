@@ -1,3 +1,702 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af5f9564878d236a5dbbb3f823e0c943b7092dbbb2d3d3dab610d97b4ca38ee5
-size 92880
+[
+    {
+        "hypothesis": [
+            "number 67 title the lorelais' first day at yale have 1.6 million less viewer than episode 69 title chicken or beef?",
+            "number 67 title the lorelais' first day at yale have 1590136 less viewer than episode 69 title chicken or beef?"
+        ],
+        "table_id": "1-2602958-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "episode 43 and episode 45 in the series both have 14.84 million us viewer",
+            "episode 43 and episode 45 in the series both have 13942493 us viewer"
+        ],
+        "table_id": "1-25997153-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "together episode 1 and 2 in the season have 30.82 million us viewer",
+            "together episode 1 and 2 in the season have 28776024 us viewer"
+        ],
+        "table_id": "1-25997153-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "only 4 racer complete seventy - 1 lap in the 1993 portuguese grand prix",
+            "only 4 racer complete 72 - 1 lap in the 1993 portuguese grand prix"
+        ],
+        "table_id": "2-1123180-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "only 2 racer complete seventy lap in the 1993 portuguese grand prix",
+            "only 2 racer complete 70 lap in the 1993 portuguese grand prix"
+        ],
+        "table_id": "2-1123180-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "only 4 racer complete sixty - 9 lap in the 1993 portuguese grand prix",
+            "only 4 racer complete 55 - 9 lap in the 1993 portuguese grand prix"
+        ],
+        "table_id": "2-1123180-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "only 4 racer complete sixty - 8 lap in the 1993 portuguese grand prix",
+            "only 4 racer complete 58 - 8 lap in the 1993 portuguese grand prix"
+        ],
+        "table_id": "2-1123180-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "8 racer complete less than sixty lap in the 1993 portuguese grand prix",
+            "8 racer complete less than 61 lap in the 1993 portuguese grand prix"
+        ],
+        "table_id": "2-1123180-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the episode title that 's so not raven have the highest number of us viewer at 7.1 million",
+            "the episode title that 's so not raven have the highest number of us viewer at 7771460"
+        ],
+        "table_id": "1-27610775-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the episode title radio head have 1 million viewer more than the episode title there go the bride",
+            "the episode title radio head have 917408 viewer more than the episode title there go the bride"
+        ],
+        "table_id": "1-27610775-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "episode a goat 's tale and the road to audition both have the same number of us viewer at 4.3 million",
+            "episode a goat 's tale and the road to audition both have the same number of us viewer at 4104736"
+        ],
+        "table_id": "1-27610775-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "manchester unite be worth 417 million more than real madrid",
+            "manchester unite be worth 377813419 more than real madrid"
+        ],
+        "table_id": "2-12164751-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "ian poulter have never win a tournament despite participate in forty 4 separate tournament",
+            "ian poulter have never win a tournament despite participate in 37 4 separate tournament"
+        ],
+        "table_id": "2-1615980-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "there be 7 artist with claimed sale of 150 million",
+            "there be 7 artist with claimed sale of 156892940"
+        ],
+        "table_id": "2-1291598-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "in the world tourism ranking brazil have 3 million more international tourist arrival (2011) than argentina",
+            "in the world tourism ranking brazil have 3259256 more international tourist arrival (2011) than argentina"
+        ],
+        "table_id": "2-14752049-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "in the world tourism ranking peru be 1 of 2 country with less than 3 million international tourist arrival (2011)",
+            "in the world tourism ranking peru be 1 of 2 country with less than 3000045 international tourist arrival (2011)"
+        ],
+        "table_id": "2-14752049-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "in the world tourism ranking chile be not 1 of the country with more than 4 million international tourist arrival (2012)",
+            "in the world tourism ranking chile be not 1 of the country with more than 3824873 international tourist arrival (2012)"
+        ],
+        "table_id": "2-14752049-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "haskell noyes be coach more than fifty year before steve yoder",
+            "haskell noyes be coach more than 53 year before steve yoder"
+        ],
+        "table_id": "2-10631744-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the episode 11 , 12 , 17 , 18 and 20 of gilmore girl be view by less than 5 million of us viewer",
+            "the episode 11 , 12 , 17 , 18 and 20 of gilmore girl be view by less than 5397967 of us viewer"
+        ],
+        "table_id": "1-2602958-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "those lazy - hazy - crazy day , they shoot gilmores don't they? , let the game begin , and the big one be episodes that be view by 5.7 million us viewer",
+            "those lazy - hazy - crazy day , they shoot gilmores don't they? , let the game begin , and the big one be episodes that be view by 5239675 us viewer"
+        ],
+        "table_id": "1-2602958-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the oldest winner and the oldest nominee be both in their seventy",
+            "the oldest winner and the oldest nominee be both in their 68"
+        ],
+        "table_id": "2-10966872-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the top 5 winner in 1995 all make over 7 million dollar",
+            "the top 5 winner in 1995 all make over 6319109 dollar"
+        ],
+        "table_id": "2-14611590-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "there be over 2.4 million in difference between the 1 and 5 player",
+            "there be over 2189100 in difference between the 1 and 5 player"
+        ],
+        "table_id": "2-14611590-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "hillary clinton raise less money than barack obama by around 6 million",
+            "hillary clinton raise less money than barack obama by around 6385457"
+        ],
+        "table_id": "2-12030247-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the first episode to air , all mix up , be also the most - watched episode of the season , with 8.32 million viewer",
+            "the first episode to air , all mix up , be also the most - watched episode of the season , with 8902605 viewer"
+        ],
+        "table_id": "1-27987623-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the last episode to air , something good coming , be also the least - watched episode of the season , with 5.01 million viewer",
+            "the last episode to air , something good coming , be also the least - watched episode of the season , with 5338548 viewer"
+        ],
+        "table_id": "1-27987623-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "there be over 15 institution that play in the big ten challenge",
+            "there be over 15 institution that play in the big 9 challenge"
+        ],
+        "table_id": "2-1672976-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "there be 3 team in the big ten challenge that do not have any win",
+            "there be 3 team in the big 9 challenge that do not have any win"
+        ],
+        "table_id": "2-1672976-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "there be 2 institution who have color in their name in th big ten challenge",
+            "there be 2 institution who have color in their name in th big 9 challenge"
+        ],
+        "table_id": "2-1672976-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "th north carolina tar hill be the only team in the big ten challenge whose win and loss be the same",
+            "th north carolina tar hill be the only team in the big 9 challenge whose win and loss be the same"
+        ],
+        "table_id": "2-1672976-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "of the 19 episode of smallville (season 10) , 10 have more than 2.50 million us viewer",
+            "of the 19 episode of smallville (season 10) , 10 have more than 2440455 us viewer"
+        ],
+        "table_id": "1-26464364-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the largest transfer fee be 6 million , which be pay 2 time for different player",
+            "the largest transfer fee be 5741152 , which be pay 2 time for different player"
+        ],
+        "table_id": "2-11873099-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "25.7 million international tourist visit russia in 2012",
+            "25889786 international tourist visit russia in 2012"
+        ],
+        "table_id": "1-29789-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "for series 105 there be 15.8 million us viewer",
+            "for series 105 there be 15140236 us viewer"
+        ],
+        "table_id": "1-27833469-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "series number 50 have have 3.38 million viewer",
+            "series number 50 have have 3224355 viewer"
+        ],
+        "table_id": "1-20704243-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "episode 11 have 2.77 million us viewer",
+            "episode 11 have 3029606 us viewer"
+        ],
+        "table_id": "1-24319661-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "erica montolfo - bura write an episode which gain 1.81 million viewer",
+            "erica montolfo - bura write an episode which gain 1984437 viewer"
+        ],
+        "table_id": "1-15584067-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the episode that have 8.62 million us viewer originally air on may 7 , 2009",
+            "the episode that have 8879896 us viewer originally air on may 7 , 2009"
+        ],
+        "table_id": "1-26825349-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the critic in the babernet episode originally air on may 7 , 2009 and have 8.62 million us viewer",
+            "the critic in the babernet episode originally air on may 7 , 2009 and have 9144405 us viewer"
+        ],
+        "table_id": "1-26825349-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "10 thousand crowd watched essendon as an away team against home team geelong",
+            "10 1032 crowd watched essendon as an away team against home team geelong"
+        ],
+        "table_id": "2-10766119-15.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "infotalent pay the amount of eur 59.7 million",
+            "infotalent pay the amount of eur 53878528"
+        ],
+        "table_id": "2-1030359-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "in only 1 case be there 2.76 million us viewer",
+            "in only 1 case be there 2573065 us viewer"
+        ],
+        "table_id": "1-21726793-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the production of the title with 2.76 million viewer be 2t5707",
+            "the production of the title with 2634739 viewer be 2t5707"
+        ],
+        "table_id": "1-21726793-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the second episode have 2.24 million us viewer",
+            "the second episode have 2452240 us viewer"
+        ],
+        "table_id": "1-21696800-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the title rabid have 2.30 million viewer in us",
+            "the title rabid have 2194624 viewer in us"
+        ],
+        "table_id": "1-21696800-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the title kandor have 2.63 million us viewer",
+            "the title kandor have 2563442 us viewer"
+        ],
+        "table_id": "1-21696800-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "david wilcox ethan gross 's episode immortality have a 3.74 million us viewership",
+            "david wilcox ethan gross 's episode immortality have a 3742920 us viewership"
+        ],
+        "table_id": "1-27905664-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "cone timentrate and ask again have 4.26 million us viewer",
+            "cone timentrate and ask again have 3962315 us viewer"
+        ],
+        "table_id": "1-27905664-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "episode number 53 have 4.87 million us viewer",
+            "episode number 53 have 4613728 us viewer"
+        ],
+        "table_id": "1-27905664-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the production code for the episode with 3.38 million viewer be 2wab10",
+            "the production code for the episode with 3640570 viewer be 2wab10"
+        ],
+        "table_id": "1-20726262-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the figure for ang tanging ina mo (last na 'to!) on december 28 be p 13.6 million",
+            "the figure for ang tanging ina mo (last na 'to!) on december 28 be p 13618979"
+        ],
+        "table_id": "1-29217650-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the figure for ang tanging ina mo (last na 'to!) on december 27 be p 16.5 million",
+            "the figure for ang tanging ina mo (last na 'to!) on december 27 be p 15434929"
+        ],
+        "table_id": "1-29217650-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the film for december 25 with a figure of p 5.1 million total p 15.3 million for the december 25 - 28 total",
+            "the film for december 25 with a figure of p 5076638 total p 15155165 for the december 25 - 28 total"
+        ],
+        "table_id": "1-29217650-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the movie rosario earn p 3.2 million on december 25",
+            "the movie rosario earn p 3211940 on december 25"
+        ],
+        "table_id": "1-29217650-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the episode direct by melanie mayron have 2.81 million us viewer",
+            "the episode direct by melanie mayron have 2652059 us viewer"
+        ],
+        "table_id": "1-11111116-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "tough love be the episode that have 3.02 million us viewer",
+            "tough love be the episode that have 3303257 us viewer"
+        ],
+        "table_id": "1-11111116-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the episode direct by john t kretchmer have 2.61 million us viewer",
+            "the episode direct by john t kretchmer have 2517396 us viewer"
+        ],
+        "table_id": "1-11111116-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "there be 10.6 million viewer for episode part four that have a run time of 24:57",
+            "there be 10755023 viewer for episode part four that have a run time of 24:57"
+        ],
+        "table_id": "2-1096722-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "2.4 million people in the us watch the episode title people which be direct by maxwell atom",
+            "2286280 people in the us watch the episode title people which be direct by maxwell atom"
+        ],
+        "table_id": "1-28146944-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "there be 7.7 million viewer for the episode that chris fedak & matt miller write",
+            "there be 6970191 viewer for the episode that chris fedak & matt miller write"
+        ],
+        "table_id": "1-27117365-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "on march 15 , 2010 , the original air date , have 5.85 million viewer",
+            "on march 15 , 2010 , the original air date , have 5612061 viewer"
+        ],
+        "table_id": "1-27117365-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the custom house tower have thirty - 2 floor",
+            "the custom house tower have 31 - 2 floor"
+        ],
+        "table_id": "2-1115824-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the building on 800 boylston street have fifty - 2 floor",
+            "the building on 800 boylston street have 52 - 2 floor"
+        ],
+        "table_id": "2-1115824-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "during the johnson v moraga event there be 2.4 million viewer",
+            "during the johnson v moraga event there be 2420291 viewer"
+        ],
+        "table_id": "2-169660-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "at the shogun v vera event , the rating be 1.4 and the viewer be 2.4 million",
+            "at the shogun v vera event , the rating be 1.4 and the viewer be 2543137"
+        ],
+        "table_id": "2-169660-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "there be 4.4 million viewer on december 8 , 2012",
+            "there be 4244484 viewer on december 8 , 2012"
+        ],
+        "table_id": "2-169660-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the episode nut in season 7 , written by amy iglow , have 7.19 million us viewer",
+            "the episode nut in season 7 , written by amy iglow , have 6911103 us viewer"
+        ],
+        "table_id": "1-27914606-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "frank pine write sweet charity , which have 5.56 million viewer in the us",
+            "frank pine write sweet charity , which have 5626679 viewer in the us"
+        ],
+        "table_id": "1-27914606-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "in 2010 , there be 9.37 million viewer for the broadcast",
+            "in 2010 , there be 9331227 viewer for the broadcast"
+        ],
+        "table_id": "1-24212608-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "nihal be the radio 1 presenter for the broadcast that have 9.73 million viewer",
+            "nihal be the radio 1 presenter for the broadcast that have 10505916 viewer"
+        ],
+        "table_id": "1-24212608-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

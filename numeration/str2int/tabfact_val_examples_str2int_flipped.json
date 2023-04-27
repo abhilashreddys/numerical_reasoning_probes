@@ -1,0 +1,592 @@
+[
+    {
+        "hypothesis": [
+            "the gang buy a boat be view by 1.46 million people in the us",
+            "the gang buy a boat be view by 1465872 people in the us"
+        ],
+        "table_id": "1-29273390-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "london , uk have the highest population metro area in million of 12 - 14",
+            "london , uk have the highest population metro area in 1009216 of 12 - 14"
+        ],
+        "table_id": "2-1653499-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "berlin , germany and milan , italy both have a population of 4.3 million",
+            "berlin , germany and milan , italy both have a population of 4345503"
+        ],
+        "table_id": "2-1653499-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "3 city in the european union have the same population city limit in million of 1.7",
+            "3 city in the european union have the same population city limit in 1010388 of 1.7"
+        ],
+        "table_id": "2-1653499-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "likud have win 7 race out of thirty , make them the most popular party",
+            "likud have win 7 race out of 32 , make them the most popular party"
+        ],
+        "table_id": "2-12660586-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "in the first season of the new adventure old christine , episode 3 title open water have the most amount of us viewer at 15.13 million",
+            "in the first season of the new adventure old christine , episode 3 title open water have the most amount of us viewer at 13775183"
+        ],
+        "table_id": "1-27910411-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "every train on the list be consider class thirty 1",
+            "every train on the list be consider class 28 1"
+        ],
+        "table_id": "2-15805928-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "6 player earn over 1 million in prize winning",
+            "6 player earn over 913505 in prize winning"
+        ],
+        "table_id": "2-173345-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "1 player earn over 2 million in prize winning",
+            "1 player earn over 2029295 in prize winning"
+        ],
+        "table_id": "2-173345-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "season 1 of the good wife have 08 million more view than season 2",
+            "season 1 of the good wife have 8395731 more view than season 2"
+        ],
+        "table_id": "1-28561455-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "there be 8.24 million us viewer when the original air date be april 27 , 2009 with title ghost",
+            "there be 7582161 us viewer when the original air date be april 27 , 2009 with title ghost"
+        ],
+        "table_id": "1-23958944-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "when the title be hell hath no fury the director be rob bowman , the writer be andrew w marlowe , and the original air date be march 30 , 2009 with 9.09 million us viewer",
+            "when the title be hell hath no fury the director be rob bowman , the writer be andrew w marlowe , and the original air date be march 30 , 2009 with 8342700 us viewer"
+        ],
+        "table_id": "1-23958944-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "when the production number be 107 the million of us viewer 7.73 and when the production code be 102 the million of us viewer be 9.09",
+            "when the production number be 107 the 1000443 of us viewer 7.73 and when the production code be 102 the 1000443 of us viewer be 9.09"
+        ],
+        "table_id": "1-23958944-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "6 episode from psych (season 1) have over 4 million us view on their air date",
+            "6 episode from psych (season 1) have over 4005240 us view on their air date"
+        ],
+        "table_id": "1-26429543-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "no company have a market value below 190000 million usd or above 400000 million usd",
+            "no company have a market value below 201602109266 usd or above 366743567860 usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "bank of america have headquarter in the united state with a market value of 211706 million usd while microsoft also with headquarters in the united state have a market value of 281171 million usd",
+            "bank of america have headquarter in the united state with a market value of 198581995992 usd while microsoft also with headquarters in the united state have a market value of 283765473037 usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "gazprom be rank 10 with a market value of 196339 million usd while toyota motor corporation be rank 9 with a market value of 196731 million usd",
+            "gazprom be rank 10 with a market value of 189139335521 usd while toyota motor corporation be rank 9 with a market value of 204989219770 usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "cuba win the highest number of medal with fifty 7",
+            "cuba win the highest number of medal with 48 7"
+        ],
+        "table_id": "2-14420686-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "cuba win forty 3 more medal than the next highest county",
+            "cuba win 40 3 more medal than the next highest county"
+        ],
+        "table_id": "2-14420686-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the landfill in tseung kwan o stage i hold the most amount of waste with 15.2 million tonne",
+            "the landfill in tseung kwan o stage i hold the most amount of waste with 16197643 tonne"
+        ],
+        "table_id": "2-16176425-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "a show with airdate 2 january 2010 and 3 couple have 3.87 million viewer",
+            "a show with airdate 2 january 2010 and 3 couple have 4140028 viewer"
+        ],
+        "table_id": "1-25664518-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the number of viewer in the million never drop below 3 for all episode",
+            "the number of viewer in the 984208 never drop below 3 for all episode"
+        ],
+        "table_id": "1-25664518-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "only 1 time do the number of viewer surpass 5 million , and it be on 6 february 2010 with 5.42 million viewer",
+            "only 1 time do the number of viewer surpass 5310763 , and it be on 6 february 2010 with 5623453 viewer"
+        ],
+        "table_id": "1-25664518-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "adam and charlene be the fourth couple of take me out (uk game show) on 2 january 2010 when the number of viewer be just below 4 million viewer",
+            "adam and charlene be the fourth couple of take me out (uk game show) on 2 january 2010 when the number of viewer be just below 4139193 viewer"
+        ],
+        "table_id": "1-25664518-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the dreamscape achieve 0.84 million less viewer than safe",
+            "the dreamscape achieve 816801 less viewer than safe"
+        ],
+        "table_id": "1-24648983-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "irving romaine have over 1 hundred run more than david hemp",
+            "irving romaine have over 1 90 run more than david hemp"
+        ],
+        "table_id": "2-1829476-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the team play in front of more than 20 thousand crowd only 2 time",
+            "the team play in front of more than 20 1023 crowd only 2 time"
+        ],
+        "table_id": "2-16864968-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "9 out of thirty offer channel in laredo texas have dish channel",
+            "9 out of 28 offer channel in laredo texas have dish channel"
+        ],
+        "table_id": "2-136773-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "vodafone have 152.48 million more subscriber than loop mobile in october , 2013",
+            "vodafone have 145546078 more subscriber than loop mobile in october , 2013"
+        ],
+        "table_id": "1-23801721-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "series 7 , night move be view by 3.61 million people",
+            "series 7 , night move be view by 3620687 people"
+        ],
+        "table_id": "1-30030227-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the episode a great way to care have 1.84 million viewer",
+            "the episode a great way to care have 1967435 viewer"
+        ],
+        "table_id": "1-29633639-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "on september 12 , 1981 the hoosier hundred be race at the indiana state fair",
+            "on september 12 , 1981 the hoosier 105 be race at the indiana state fair"
+        ],
+        "table_id": "1-22765887-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "john sullivan write episode 2 , which have 6.34 million viewer",
+            "john sullivan write episode 2 , which have 5884286 viewer"
+        ],
+        "table_id": "1-17641206-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "episode 2 , past and present , be view by 19.5 million in the us",
+            "episode 2 , past and present , be view by 18396096 in the us"
+        ],
+        "table_id": "1-27832075-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "today i do have 12.85 million viewer",
+            "today i do have 12939220 viewer"
+        ],
+        "table_id": "1-28212888-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "no 94 , title expose , have 5.41 million us viewer",
+            "no 94 , title expose , have 5666124 us viewer"
+        ],
+        "table_id": "1-2866456-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "terrence o'hara direct fade which receive 4.34 million us viewer",
+            "terrence o'hara direct fade which receive 3919166 us viewer"
+        ],
+        "table_id": "1-2866456-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the tier 1 capital for irish nationwide be 1394 million",
+            "the tier 1 capital for irish nationwide be 1341276992"
+        ],
+        "table_id": "1-22368322-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "season 2 be the first time that viewership in the us reach 14.57 million",
+            "season 2 be the first time that viewership in the us reach 15258003"
+        ],
+        "table_id": "1-11664625-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the episode with 14.59 million us viewer be forced entry",
+            "the episode with 15390658 us viewer be forced entry"
+        ],
+        "table_id": "1-22078691-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the damage of storm three be 226 million usd",
+            "the damage of storm three be 212950945 usd"
+        ],
+        "table_id": "2-1458309-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "episode three be 23:55 minute long and have 7.1 million viewer",
+            "episode three be 23:55 minute long and have 6849314 viewer"
+        ],
+        "table_id": "1-1849243-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "six million viewer watched episode two",
+            "six 987227 viewer watched episode two"
+        ],
+        "table_id": "1-1849243-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the 19th episode have a production code of 119 , and be see by 6.66 million viewer",
+            "the 19th episode have a production code of 119 , and be see by 6063614 viewer"
+        ],
+        "table_id": "1-24781886-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the lowest rating with 11.2 million viewer be 29",
+            "the lowest rating with 11780461 viewer be 29"
+        ],
+        "table_id": "1-217785-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the seasonal finale of the 3rd season have 10.2 million viewer",
+            "the seasonal finale of the 3rd season have 10960107 viewer"
+        ],
+        "table_id": "1-217785-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the episode legacy have 6.63 million viewer",
+            "the episode legacy have 7110543 viewer"
+        ],
+        "table_id": "1-11354111-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "episode number 109 production number 5 - 22 receive a total of 12.293 million viewer",
+            "episode number 109 production number 5 - 22 receive a total of 12944158 viewer"
+        ],
+        "table_id": "2-15717093-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the rating of season 10 be 22.3 wit 18.17 million household viewer",
+            "the rating of season 10 be 22.3 wit 19078103 household viewer"
+        ],
+        "table_id": "2-156045-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "when paris barclay direct , there be 5.86 million us viewer",
+            "when paris barclay direct , there be 5789575 us viewer"
+        ],
+        "table_id": "1-27401228-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "in season 19 , episode day 7: 2:00 am - 3:00 am there be 10.34 million viewer",
+            "in season 19 , episode day 7: 2:00 am - 3:00 am there be 10810976 viewer"
+        ],
+        "table_id": "1-10749143-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "there be 1.62 million rating for episode 6",
+            "there be 1740925 rating for episode 6"
+        ],
+        "table_id": "1-27218002-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the episode that have a rating of 1.37 million be originally air on 24 november 2011",
+            "the episode that have a rating of 1437448 be originally air on 24 november 2011"
+        ],
+        "table_id": "1-27218002-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "4 different country spend over 51.0 billion dollar on tourism in 2012",
+            "4 different country spend over 51.0 1019191684 dollar on tourism in 2012"
+        ],
+        "table_id": "1-29789-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the united state spend 83.7 billion dollar on international tourism in 2012",
+            "the united state spend 83.7 1074673373 dollar on international tourism in 2012"
+        ],
+        "table_id": "1-29789-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "2.58 million us viewer watch brace for impact",
+            "2764721 us viewer watch brace for impact"
+        ],
+        "table_id": "1-11111116-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "2.58 million viewer watch brace for impact",
+            "2650755 viewer watch brace for impact"
+        ],
+        "table_id": "1-11111116-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the episode that air march 31 , 2013 have 2.12 million us viewer",
+            "the episode that air march 31 , 2013 have 2085155 us viewer"
+        ],
+        "table_id": "1-11111116-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the episode watch by 2.12 million viewer be written by karen maser",
+            "the episode watch by 2206908 viewer be written by karen maser"
+        ],
+        "table_id": "1-11111116-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]
