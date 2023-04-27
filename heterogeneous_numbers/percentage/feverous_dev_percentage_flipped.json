@@ -1,0 +1,502 @@
+[
+   {
+      "hypothesis": [
+         "The 2004 North Carolina lieutenant governor election saw Republican opposition Jim Snyder, who only had 1,453,705, which was only 42.78% of the total lose to incumbent Democratic candidate Bev Perdue who had 1,888,397 votes, which was 55.57% of the total.",
+         "The 2004 North Carolina lieutenant governor election saw Republican opposition Jim Snyder, who only had 1,453,705, which was only 39 percentages of the total lose to incumbent Democratic candidate Bev Perdue who had 1,888,397 votes, which was 54 percentages of the total."
+      ],
+      "table_id": 71339,
+      "question_id": 33404,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "While Azerbaijan's economic structure was moving slowly in 1920-1939, the country produced more goods in 1948 and increased production by 39% as 1950 stepped in.",
+         "While Azerbaijan's economic structure was moving slowly in 1920-1938, the country produced more goods in 1948 and increased production by 38 percentages as 1950 stepped in."
+      ],
+      "table_id": 71364,
+      "question_id": 1897,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2014 Nuneaton and Bedworth Borough Council election in Wem Brook ward Labour Party's Tracy Sheppard won with 54% of the votes and conservative Andy Sargeant won 16%.",
+         "In the 2014 Nuneaton and Bedworth Borough Council election in Wem Brook ward Labour Party's Tracy Sheppard won with 57 percentages of the votes and conservative Andy Sargeant won 16 percentages."
+      ],
+      "table_id": 71381,
+      "question_id": 5338,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The LGBT rights in Hawaii showed that 5.1% of the Hawaii adult population are identified as LGBT according to a 2013 Williams Institute survey to be the highest in the United States which were behind only the District of Columbia having 10%.",
+         "The LGBT rights in Hawaii showed that 5.1 percentages of the Hawaii adult population are identified as LGBT according to a 2013 Williams Institute survey to be the highest in the United States which were behind only the District of Columbia having 10 percentages."
+      ],
+      "table_id": 71500,
+      "question_id": 34813,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The professional ratings of the rock album Punkgasm are 65% by AbsolutePunk.net and 4.8/10 by Pitchfork Media.",
+         "The professional ratings of the rock album Punkgasm are 60 percentages by AbsolutePunk.net and 4.8/10 by Pitchfork Media."
+      ],
+      "table_id": 71512,
+      "question_id": 4560,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2014 Ohio's election for Secretary of State (held on November 4th) resulted in Republican Jon Husted, incumbent, winning re-election to serve a second term by capturing almost 60% of the votes.",
+         "The 2014 Ohio's election for Secretary of State (held on November 4th) resulted in Republican Jon Husted, incumbent, winning re-election to serve a second term by capturing almost 58 percentages of the votes."
+      ],
+      "table_id": 71544,
+      "question_id": 4421,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Asiacom Philippine, Inc. stands as the major shareholder of Globe Telecom, with 50.85% of total shares.",
+         "Asiacom Philippine, Inc. stands as the major shareholder of Globe Telecom, with 54 percentages of total shares."
+      ],
+      "table_id": 71723,
+      "question_id": 4229,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In November of 2014, Ohio's election for Secretary of State was won by Jon Husted, the republican incumbent, after he captured more than 50% of the votes and secured his second term.",
+         "In November of 2014, Ohio's election for Secretary of State was won by Jon Husted, the republican incumbent, after he captured more than 50 percentages of the votes and secured his second term."
+      ],
+      "table_id": 71816,
+      "question_id": 9160,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Randy Forbes, an American politician, ran against Louise Lucas (a Virginia state senator, representing the 18th District in the southeast) in 2001 and received 70,917 votes or 52%, and against Jonathan Menefee in 2004 receiving 182.444 votes or 64%.",
+         "Randy Forbes, an American politician, ran against Louise Lucas (a Virginia state senator, representing the 18th District in the southeast) in 2001 and received 70,917 votes or 51, and against Jonathan Menefee in 2004 receiving 182.444 votes or 64 percentages."
+      ],
+      "table_id": 71838,
+      "question_id": 424,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Jim Cawley garnered the most votes in the Republican primary for the Pennsylvania lieutenant gubernatorial election of 2010, getting a 26.3% share of the total votes.",
+         "Jim Cawley garnered the most votes in the Republican primary for the Pennsylvania lieutenant gubernatorial election of 2010, getting a 26 percentages share of the total votes."
+      ],
+      "table_id": 72061,
+      "question_id": 17598,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "History of Modern was rated 88% by AbsolutePunk, a website mainly focused on artists who are relatively unknown to mainstream audiences, but known to feature artists who have eventually achieved crossover success.",
+         "History of Modern was rated 85 percentages by AbsolutePunk, a website mainly focused on artists who are relatively unknown to mainstream audiences, but known to feature artists who have eventually achieved crossover success."
+      ],
+      "table_id": 72123,
+      "question_id": 8891,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 2014 Ohio election for Secretary of State, the Republican incumbent, Jon Husted, held onto his post by capturing almost 60% of the votes.",
+         "During the 2014 Ohio election for Secretary of State, the Republican incumbent, Jon Husted, held onto his post by capturing almost 63 percentages of the votes."
+      ],
+      "table_id": 72150,
+      "question_id": 5103,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Republican Sam Brownback won the 2004 US Senate race in Kansas over Democrat Lee Jones who got just over 27%.",
+         "Republican Sam Brownback won the 2004 US Senate race in Kansas over Democrat Lee Jones who got just over 27 percentages."
+      ],
+      "table_id": 72458,
+      "question_id": 1566,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "East Pennsboro High School, located in the second most populous area in Cumberland County, achieved only a 67% performance in grade level reading in 2013.",
+         "East Pennsboro High School, located in the second most populous area in Cumberland County, achieved only a 65 percentages performance in grade level reading in 2013."
+      ],
+      "table_id": 72511,
+      "question_id": 7907,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "David Cubillo's highest win percentage as a manager was at 75% with 2012-13 Villanueva Pardillo.",
+         "David Cubillo's highest win percentage as a manager was at 79 percentages with 2012-13 Villanueva Pardillo."
+      ],
+      "table_id": 72692,
+      "question_id": 19998,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2013 East Pennsboro High School, located in the second highest populated area in Cumberland County, had only 67% of its students at grade level in reading.",
+         "In 2013 East Pennsboro High School, located in the second highest populated area in Cumberland County, had only 66 percentages of its students at grade level in reading."
+      ],
+      "table_id": 72895,
+      "question_id": 1961,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The professional ratings of Punkgasm, the final studio album by the rock band Don Caballero,  are 65% by AbsolutePunk.net and 4.8/10 by Pitchfork Media.",
+         "The professional ratings of Punkgasm, the final studio album by the rock band Don Caballero,  are 68 percentages by AbsolutePunk.net and 4.8/10 by Pitchfork Media."
+      ],
+      "table_id": 72997,
+      "question_id": 123,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Alexander Yevstifeyev won over Liberal Democratic candidate Albert Fyodorov by more than 80% gap.",
+         "Alexander Yevstifeyev won over Liberal Democratic candidate Albert Fyodorov by more than 77 percentages gap."
+      ],
+      "table_id": 73175,
+      "question_id": 8465,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Arvell Nelson's highest completion percentage when passing a ball (Pct) was 80% in 2013, while his lowest (Pct)  was 53.8%  in 2014.",
+         "Arvell Nelson's highest completion percentage when passing a ball (Pct) was 78 percentages in 2013, while his lowest (Pct)  was 48 percentages  in 2014."
+      ],
+      "table_id": 73198,
+      "question_id": 18565,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Madrid native David Cubillo's highest win percentage as a manager was at 75% with 2012-13 Villanueva Pardillo.",
+         "Madrid native David Cubillo's highest win percentage as a manager was at 73 percentages with 2012-13 Villanueva Pardillo."
+      ],
+      "table_id": 73363,
+      "question_id": 1299,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The following information was derived from an example of the Modified Accelerated Cost Recovery System (MACRS) where you bought business office furniture only to be used for the business (7-year property) for $10,000 and placed it into service on 10-13-13, and Part I of the way to figure the answer is to use the GDS, put the property class as 7-year, date placed in service would be 10-13-13 with a recovery period of 7 years, a method and convention of 200%/DB/Half-year and to use the depreciation rate from tables of 1429.",
+         "The following information was derived from an example of the Modified Accelerated Cost Recovery System (MACRS) where you bought business office furniture only to be used for the business (7-year property) for $10,000 and placed it into service on 10-13-13, and Part I of the way to figure the answer is to use the GDS, put the property class as 7-year, date placed in service would be 10-13-13 with a recovery period of 7 years, a method and convention of 200 percentages/DB/Half-year and to use the depreciation rate from tables of 1429."
+      ],
+      "table_id": 73961,
+      "question_id": 3546,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Cobus Kellermann is a South African Chartered Financial Analyst that established Clarus Capital which runs seven unit trusts to the value of over R1.35 billion, and owns 50% of RDL Management in Mauriitius.",
+         "Cobus Kellermann is a South African Chartered Financial Analyst that established Clarus Capital which runs seven unit trusts to the value of over R1.35 billion, and owns 52 percentages of RDL Management in Mauriitius."
+      ],
+      "table_id": 74006,
+      "question_id": 11276,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2016 BBC Sports Personality of the Year Award was won by Andy Murray of Tennis (who ranked world No. 1 by the Association of Tennis Professionals (ATP) for 41 weeks, and finished as the year-end No. 1 in 2016), garnering 33.1% of the votes ahead of other sports personalities such as Alistair Brownlee, Nick Skelton, and Mo Farah.",
+         "2016 BBC Sports Personality of the Year Award was won by Andy Murray of Tennis (who ranked world No. 1 by the Association of Tennis Professionals (ATP) for 41 weeks, and finished as the year-end No. 1 in 2016), garnering 33 percentages of the votes ahead of other sports personalities such as Alistair Brownlee, Nick Skelton, and Mo Farah."
+      ],
+      "table_id": 74276,
+      "question_id": 629,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The professional ratings of the blues album Punkgasm are 65% by AbsolutePunk.net and 4.8/10 by Pitchfork Media.",
+         "The professional ratings of the blues album Punkgasm are 63 percentages by AbsolutePunk.net and 4.8/10 by Pitchfork Media."
+      ],
+      "table_id": 71512,
+      "question_id": 8537,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "WMEG us a radio station in Guayama, Puerto Rico first aired in 1966 and they used to play only music in English but now over 80% of the music played is Latin Top 40 music.",
+         "WMEG us a radio station in Guayama, Puerto Rico first aired in 1966 and they used to play only music in English but now over 83 percentages of the music played is Latin Top 40 music."
+      ],
+      "table_id": 74423,
+      "question_id": 5417,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2016 BBC Sports Personality of the Year Award was won by Andy Murray of Tennis, garnering 33.1% of the votes ahead of other sports personalities such as Alistair Brownlee, Nick Skelton, and Mo Farah.",
+         "2016 BBC Sports Personality of the Year Award was won by Andy Murray of Tennis, garnering 30 percentages of the votes ahead of other sports personalities such as Alistair Brownlee, Nick Skelton, and Mo Farah."
+      ],
+      "table_id": 74425,
+      "question_id": 6245,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2000 North Carolina gubernatorial Republican primary election , held on November 7, 2000 had 4 candidates former mayor Richard Vinroot  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twho received 45.48% of the vote with 142,820 votes, N. Leo Daughtry who received 36.97% of the vote with 116,115 votes and in third place with 15.32% of the vote and 48, 101 votes was Charles Neely lastly was Art Manning with 2.23% of the vote and 7,019 votes which accounted for 100% of the vote with 314,055 total resulting in a loss for Mr. Vinroot against the Democratic candidate Attorney General Mike Easley who won by 52% of the vote with Vinroot having only 46%.",
+         "The 2000 North Carolina gubernatorial Republican primary election , held on November 7, 2000 had 4 candidates former mayor Richard Vinroot  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twho received 44 percentages of the vote with 142,820 votes, N. Leo Daughtry who received 35 percentages of the vote with 116,115 votes and in third place with 14 percentages of the vote and 48, 101 votes was Charles Neely lastly was Art Manning with 2.23 percentages of the vote and 7,019 votes which accounted for 92 percentages of the vote with 314,055 total resulting in a loss for Mr. Vinroot against the Democratic candidate Attorney General Mike Easley who won by 56 percentages of the vote with Vinroot having only 46 percentages."
+      ],
+      "table_id": 74642,
+      "question_id": 9789,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Pasadena-based Saybrook University recorded a total of 622 intakes during the Fall 2016 enrolment, with females comprising 73.8% of the reported total enrollees.",
+         "Pasadena-based Saybrook University recorded a total of 622 intakes during the Fall 2016 enrolment, with females comprising 76 percentages of the reported total enrollees."
+      ],
+      "table_id": 74675,
+      "question_id": 638,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2000 North Carolina gubernatorial Republican primary election had 4 candidates which were Richard Vinroot who received 45.48% of the vote with 142,820 votes, N. Leo Daughtry who received 36.97% of the vote with  116,115 votes in third place with 15.32% of the vote and 48, 101 votes was Charles Neely and lastly was Art Manning with 2.23% of the vote and 7,019 votes which accounted for 100% of the vote with 314,055 total.",
+         "2000 North Carolina gubernatorial Republican primary election had 4 candidates which were Richard Vinroot who received 42 percentages of the vote with 142,820 votes, N. Leo Daughtry who received 34 percentages of the vote with  116,115 votes in third place with 15 percentages of the vote and 48, 101 votes was Charles Neely and lastly was Art Manning with 2.23 percentages of the vote and 7,019 votes which accounted for 101 percentages of the vote with 314,055 total."
+      ],
+      "table_id": 74679,
+      "question_id": 395,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 2016\u201317 Vancouver Canucks season, the team's lowest-scoring season in franchise history, Ryan Miller accounted for more than 60% of the team's three goaltenders' time on ice.",
+         "During the 2016\u201317 Vancouver Canucks season, the team's lowest-scoring season in franchise history, Ryan Miller accounted for more than 65 percentages of the team's three goaltenders' time on ice."
+      ],
+      "table_id": 74680,
+      "question_id": 74,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "History of Modern was rated 88% by AbsolutePunk, a website known for featuring upcoming artists.",
+         "History of Modern was rated 93 percentages by AbsolutePunk, a website known for featuring upcoming artists."
+      ],
+      "table_id": 72123,
+      "question_id": 28338,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2004 North Carolina lieutenant governor election saw Democratic candidate Bev Perdue, who was the first female governor of North Carolina, retain her seat with 1,888,397 votes, which was 55.57% of the total, beating his Republican opposition Jim Snyder, who only had 1,453,705, only 42.78% of the total.",
+         "The 2004 North Carolina lieutenant governor election saw Democratic candidate Bev Perdue, who was the first female governor of North Carolina, retain her seat with 1,888,397 votes, which was 58 percentages of the total, beating his Republican opposition Jim Snyder, who only had 1,453,705, only 38 percentages of the total."
+      ],
+      "table_id": 74977,
+      "question_id": 1524,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Pasadena-based Saybrook University's\u00a0enrolment during Fall 2016 comprised of both genders, with 73.8% female enrollees from the total 622 intakes.",
+         "Pasadena-based Saybrook University's\u00a0enrolment during Fall 2016 comprised of both genders, with 74 percentages female enrollees from the total 622 intakes."
+      ],
+      "table_id": 75133,
+      "question_id": 15785,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Umedalens sjukhus lobotomised 770 people with 63% of them being female.",
+         "The Umedalens sjukhus lobotomised 770 people with 57 percentages of them being female."
+      ],
+      "table_id": 75197,
+      "question_id": 33740,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "There were a total of 3,818 students enrolled in the Alcorn School District during the 2006\u20132007 school year, but only 38.0% of the district's students were eligible to receive free lunch.",
+         "There were a total of 3,818 students enrolled in the Alcorn School District during the 2006\u20132007 school year, but only 37 percentages of the district's students were eligible to receive free lunch."
+      ],
+      "table_id": 75297,
+      "question_id": 18682,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Umedalens sjukhus was a psychiatric hospital or also known as the \"funny farm,\" which lobotomised 770 people with 63% of them being female.",
+         "The Umedalens sjukhus was a psychiatric hospital or also known as the \"funny farm,\" which lobotomised 770 people with 58 percentages of them being female."
+      ],
+      "table_id": 75639,
+      "question_id": 1462,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Alexander Yevstifeyev, who won over Liberal Democratic candidate Albert Fyodorov by more than 80% gap, is a Russian politician and lawyer.",
+         "Alexander Yevstifeyev, who won over Liberal Democratic candidate Albert Fyodorov by more than 73 percentages gap, is a Russian politician and lawyer."
+      ],
+      "table_id": 76223,
+      "question_id": 30714,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 2006\u20132007 school year, the Alcorn School District had a total of 3,818 enrollees, but only less than 50% of which were eligible to receive free lunch.",
+         "During the 2006\u20132007 school year, the Alcorn School District had a total of 3,818 enrollees, but only less than 53 percentages of which were eligible to receive free lunch."
+      ],
+      "table_id": 75297,
+      "question_id": 27458,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Based on the 2011 Census: CD Block Wise, the highest percentage of literacy in CD Blocks of South 24 Parganas district, Alipore Sadar subdivision, is in Thakurpukur Maheshtala with 83.54% of it's 176,203 residents.",
+         "Based on the 2011 Census: CD Block Wise, the highest percentage of literacy in CD Blocks of South 24 Parganas district, Alipore Sadar subdivision, is in Thakurpukur Maheshtala with 78 percentages of it's 176,203 residents."
+      ],
+      "table_id": 76787,
+      "question_id": 30651,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Due to fossil fuel divestment, the Carbon Tracker Initiative found that between 2010 and 2015 the US coal sector had lost 76% of its value including Peabody Energy which had lost 80% of its share price and was removed from S&P 500 in 2014.",
+         "Due to fossil fuel divestment, the Carbon Tracker Initiative found that between 2010 and 2015 the US coal sector had lost 70 percentages of its value including Peabody Energy which had lost 82 percentages of its share price and was removed from S&P 500 in 2014."
+      ],
+      "table_id": 77152,
+      "question_id": 1609,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Cobus Kellermann is a South African Chartered Financial Analyst that established Clarus Capital and owns 50% of RDL Management.",
+         "Cobus Kellermann is a South African Chartered Financial Analyst that established Clarus Capital and owns 46 percentages of RDL Management."
+      ],
+      "table_id": 74006,
+      "question_id": 4965,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "5.1% of the Hawaii adult population are identified as LGBT which marked the highest in the United States to be only behing the District of Columbia having 10% according to a 2013 Williams Institute survey.",
+         "5.1 percentages of the Hawaii adult population are identified as LGBT which marked the highest in the United States to be only behing the District of Columbia having 9 percentages according to a 2013 Williams Institute survey."
+      ],
+      "table_id": 71500,
+      "question_id": 634,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ou\u00e9m\u00e9 Department's population, which reached to 1,100,404 inhabitants in 2013, consists mostly of women who makeup more than 50% of the district's population and where almost 25% of which are in their childbearing age.",
+         "Ou\u00e9m\u00e9 Department's population, which reached to 1,100,404 inhabitants in 2013, consists mostly of women who makeup more than 48 percentages of the district's population and where almost 23 percentages of which are in their childbearing age."
+      ],
+      "table_id": 77434,
+      "question_id": 23774,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Alexander Yevstifeyev, a Russian politician and lawyer, won over Liberal Democratic candidate Albert Fyodorov by more than 80% gap.",
+         "Alexander Yevstifeyev, a Russian politician and lawyer, won over Liberal Democratic candidate Albert Fyodorov by more than 77 percentages gap."
+      ],
+      "table_id": 77497,
+      "question_id": 331,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nurol Bank (a financial services company based in Turkey) has ten stock owners, most of the stock is held by Nurol Holding A.S at 78.16%",
+         "Nurol Bank (a financial services company based in Turkey) has ten stock owners, most of the stock is held by Nurol Holding A.S at 78 percentages"
+      ],
+      "table_id": 77679,
+      "question_id": 38520,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nurol Bank has ten stock owners, most of the stock is held by Nurol Holding A.S at around 80%",
+         "Nurol Bank has ten stock owners, most of the stock is held by Nurol Holding A.S at around 79 percentages"
+      ],
+      "table_id": 77903,
+      "question_id": 5002,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "There were a total of 3,818 students enrolled in the Alcorn School District, a public school district based in Alcorn County, Mississippi (USA), during the 2006\u20132007 school year, but only 38.0% of the district's students were eligible to receive free lunch.",
+         "There were a total of 3,818 students enrolled in the Alcorn School District, a public school district based in Alcorn County, Mississippi (USA), during the 2006\u20132007 school year, but only 36 percentages of the district's students were eligible to receive free lunch."
+      ],
+      "table_id": 78143,
+      "question_id": 2968,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Based on the 2011 Census: CD Block Wise, the highest percentage of literacy in CD Blocks of South 24 Parganas district, Alipore Sadar subdivision, is in Thakurpukur Maheshtala with 83.54%",
+         "Based on the 2011 Census: CD Block Wise, the highest percentage of literacy in CD Blocks of South 24 Parganas district, Alipore Sadar subdivision, is in Thakurpukur Maheshtala with 78 percentages"
+      ],
+      "table_id": 78152,
+      "question_id": 13692,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 2016\u201317 Vancouver Canucks season, the team's lowest-scoring season in franchise history(182 goals), Ryan Miller accounted for more than 60% of the team's three goaltenders' time on ice.",
+         "During the 2016\u201317 Vancouver Canucks season, the team's lowest-scoring season in franchise history(182 goals), Ryan Miller accounted for more than 60 percentages of the team's three goaltenders' time on ice."
+      ],
+      "table_id": 78666,
+      "question_id": 12944,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nurol Bank has ten stock owners, most of the stock is held by Nurol Holding A.S at 78.16%",
+         "Nurol Bank has ten stock owners, most of the stock is held by Nurol Holding A.S at 83 percentages"
+      ],
+      "table_id": 78898,
+      "question_id": 23697,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   }
+]

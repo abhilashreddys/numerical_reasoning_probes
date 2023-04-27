@@ -1,0 +1,22 @@
+[
+   {
+      "hypothesis": [
+         "Cadillac Records, which was directed and written by Darnell Martin, was distributed by Sony Pictures Releasing, which was formerly known as the Columbia TriStar Motion Picture Group, and earned 8.9 million dollars.",
+         "Cadillac Records, which was directed and written by Darnell Martin, was distributed by Sony Pictures Releasing, which was formerly known as the Columbia TriStar Motion Picture Group, and earned \u00a38.9 million."
+      ],
+      "table_id": 74051,
+      "question_id": 5503,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Estonian Foreign Intelligence Service in May 2014, opened a criminal investigation into accusations of embezzlement and revealing state secrets by five members of the Foreign Intelligence Service, Sergei B\u00f5strov, Pavel Kotkin, Ines Piibeleht, Sven Randlane and Lauri Vihula, andAll were found guilty of embezzling a combined total of more than 600,000 euros, four of the five were also found guilty of revealing state secrets, and Sergei B\u00f5strov was found guilty of handling a small amount of cocaine.",
+         "Estonian Foreign Intelligence Service in May 2014, opened a criminal investigation into accusations of embezzlement and revealing state secrets by five members of the Foreign Intelligence Service, Sergei B\u00f5strov, Pavel Kotkin, Ines Piibeleht, Sven Randlane and Lauri Vihula, andAll were found guilty of embezzling a combined total of more than $600,000 , four of the five were also found guilty of revealing state secrets, and Sergei B\u00f5strov was found guilty of handling a small amount of cocaine."
+      ],
+      "table_id": 75991,
+      "question_id": 4902,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   }
+]

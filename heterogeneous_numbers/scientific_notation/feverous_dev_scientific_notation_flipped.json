@@ -1,0 +1,1002 @@
+[
+   {
+      "hypothesis": [
+         "The 2004 North Carolina lieutenant governor election saw Republican opposition Jim Snyder, who only had 1,453,705, which was only 42.78% of the total lose to incumbent Democratic candidate Bev Perdue who had 1,888,397 votes, which was 55.57% of the total.",
+         "The 2004 North Carolina lieutenant governor election saw Republican opposition Jim Snyder, who only had 1,453,705, which was only 42.78% of the total lose to incumbent Democratic candidate Bev Perdue who had 1.892396E+06 votes, which was 55.57% of the total."
+      ],
+      "table_id": 71339,
+      "question_id": 33404,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Car production in Italy by Lancia saw a slowdown in the past decade, from 300,087 cars in 1990 to only 58,759 in 2019.",
+         "Car production in Italy by Lancia saw a slowdown in the past decade, from 300,087 cars in 1990 to only 6.5721E+04 in 2019."
+      ],
+      "table_id": 71362,
+      "question_id": 3828,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "15 years ago 219 species of Cylindroleberididae were described, most just 2mm and they are in the ostracod family that has around 70,000 species and is a class of crustacea.",
+         "15 years ago 219 species of Cylindroleberididae were described, most just 2mm and they are in the ostracod family that has around 7.6447E+04 species and is a class of crustacea."
+      ],
+      "table_id": 71395,
+      "question_id": 1490,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The highest number of attendance at the the home stadium of the FIU Panthers football team, Riccardo Silva Stadium, was 22,682 on 2011.",
+         "The highest number of attendance at the the home stadium of the FIU Panthers football team, Riccardo Silva Stadium, was 2.6223E+04 on 2011."
+      ],
+      "table_id": 71408,
+      "question_id": 8211,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Republican, Jack Schroeder earned 17,285  total votes in the Iowa Senate District 21 General Election of 1954, winning this election.",
+         "Republican, Jack Schroeder earned 2.3400E+04  total votes in the Iowa Senate District 21 General Election of 1954, winning this election."
+      ],
+      "table_id": 71429,
+      "question_id": 9909,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "RAF Mona, built in 1915, is owned by the Ministry of Defence and operated by the Royal Air Force, which boasts 32,940 active personnel.",
+         "RAF Mona, built in 1915, is owned by the Ministry of Defence and operated by the Royal Air Force, which boasts 4.0164E+04 active personnel."
+      ],
+      "table_id": 71565,
+      "question_id": 9530,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Sucheng District recorded a total population of 740,800 inhabitants in 2019 and is located in one of the provinces of China.",
+         "Sucheng District recorded a total population of 7.49308E+05 inhabitants in 2019 and is located in one of the provinces of China."
+      ],
+      "table_id": 71604,
+      "question_id": 20673,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Dargahan is located in the Hormozgan Province of Iran and has a population of 14,525 according to the 2016 census.",
+         "Dargahan is located in the Hormozgan Province of Iran and has a population of 1.8032E+04 according to the 2016 census."
+      ],
+      "table_id": 71694,
+      "question_id": 49440,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Berkshire Hathaway, ranked third on the Fortune 500 (created by Edgar P. Smith) rankings of the largest United States corporations by total revenue, had a net income of 8,528 in million USD and a revenue of 81,663 in miliion USD in 2005 .",
+         "Berkshire Hathaway, ranked third on the Fortune 500 (created by Edgar P. Smith) rankings of the largest United States corporations by total revenue, had a net income of 8,528 in million USD and a revenue of 9.0161E+04 in miliion USD in 2005 ."
+      ],
+      "table_id": 71775,
+      "question_id": 6893,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Randy Forbes, an American politician, ran against Louise Lucas (a Virginia state senator, representing the 18th District in the southeast) in 2001 and received 70,917 votes or 52%, and against Jonathan Menefee in 2004 receiving 182.444 votes or 64%.",
+         "Randy Forbes, an American politician, ran against Louise Lucas (a Virginia state senator, representing the 18th District in the southeast) in 2001 and received 8.0439E+04 votes or 52%, and against Jonathan Menefee in 2004 receiving 182.444 votes or 64%."
+      ],
+      "table_id": 71838,
+      "question_id": 424,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Chrysactinium is a member of the Plantae kingdom, where it is included in the approximately 320,000 species of plants that are multicellular organisms.",
+         "Chrysactinium is a member of the Plantae kingdom, where it is included in the approximately 3.28027E+05 species of plants that are multicellular organisms."
+      ],
+      "table_id": 71840,
+      "question_id": 52002,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "African\u00a0immigration to Israel has been happening  in the past, such that a\u00a0special visa, renewable every three months, was once given to 16,766 African illegal immigrants allowing them to stay and work in Israel.",
+         "African\u00a0immigration to Israel has been happening  in the past, such that a\u00a0special visa, renewable every three months, was once given to 2.1106E+04 African illegal immigrants allowing them to stay and work in Israel."
+      ],
+      "table_id": 71885,
+      "question_id": 4144,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "MS Wissenschaft, a project of the Federal Ministry of Education and Research (Germany), visited 34 cities in 2006 with less than 74,000 visitors in a showcase that features sports and computer science.",
+         "MS Wissenschaft, a project of the Federal Ministry of Education and Research (Germany), visited 34 cities in 2006 with less than 7.6613E+04 visitors in a showcase that features sports and computer science."
+      ],
+      "table_id": 71944,
+      "question_id": 43261,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democratic Gary Johnson (Born January 1, 1953) to win the most vote with 232,945 votes.",
+         "Democratic Gary Johnson (Born January 1, 1953) to win the most vote with 2.35022E+05 votes."
+      ],
+      "table_id": 71997,
+      "question_id": 23035,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Adenoon, which belongs to a family of Asteraceae, and under the order Asterales, has only one known species called Adenoon indicum, which is native to the Western Ghats,  a mountain range that covers an area of 160,000 square kilometers (62,000 sq. mi)  of southwestern India.",
+         "Adenoon, which belongs to a family of Asteraceae, and under the order Asterales, has only one known species called Adenoon indicum, which is native to the Western Ghats,  a mountain range that covers an area of 1.68278E+05 square kilometers (62,000 sq. mi)  of southwestern India."
+      ],
+      "table_id": 71999,
+      "question_id": 32781,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2007 British Virgin Islands general election which was a landslide victory for the opposition, the Virgin Islands Party earned the most votes of 18,052 which earned the party ten seats in the assembly.",
+         "In the 2007 British Virgin Islands general election which was a landslide victory for the opposition, the Virgin Islands Party earned the most votes of 2.3261E+04 which earned the party ten seats in the assembly."
+      ],
+      "table_id": 72003,
+      "question_id": 6340,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The WCBW special report on December 7,1941, which lasted less than 90 minutes, pushed the limits of live television in 1941 and was described by CBS as the greatest advance of any single problem faced up to that time.",
+         "The WCBW special report on December 7,1941, which lasted less than 90 minutes, pushed the limits of live television in 1941 and was described by CBS as the greatest advance of any single problem faced up to that time."
+      ],
+      "table_id": 72240,
+      "question_id": 10732,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nominated by the\u00a0General People's Congress, Abdrabbuh Mansur Hadi\u00a0garnered\u00a099.80% of the 6,635,192 total votes for\u00a0the election of the president,\u00a0 or head of state, of\u00a0the Republic of Yemen in\u00a02012.",
+         "Nominated by the\u00a0General People's Congress, Abdrabbuh Mansur Hadi\u00a0garnered\u00a099.80% of the 6.644094E+06 total votes for\u00a0the election of the president,\u00a0 or head of state, of\u00a0the Republic of Yemen in\u00a02012."
+      ],
+      "table_id": 72385,
+      "question_id": 17463,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Dargahan is a coastal city located in the  the Central District of Qeshm County, Hormozgan Province of Iran and has a population of 14,525 according to the 2016 census.",
+         "Dargahan is a coastal city located in the  the Central District of Qeshm County, Hormozgan Province of Iran and has a population of 1.7105E+04 according to the 2016 census."
+      ],
+      "table_id": 72657,
+      "question_id": 4129,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The WCBW special report on December 7,1941, which lasted less than 90 minutes, pushed the limits of live television in 1941 and was described by CBS, an American commercial broadcast television and radio network, as the greatest advance of any single problem faced up to that time.",
+         "The WCBW special report on December 7,1941, which lasted less than 90 minutes, pushed the limits of live television in 1941 and was described by CBS, an American commercial broadcast television and radio network, as the greatest advance of any single problem faced up to that time."
+      ],
+      "table_id": 72720,
+      "question_id": 3,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The history of manufacturing locations for National Semiconductor (now part of Texas Instruments which resulted in TI to have a combined portfolio of 45,000 analog products and customer design tools) include Test operations started in Hong Kong in 1967, start of manufacturing operations in Greenock, Scotland by 1969, and in 1972, had assembly and test operations in Malacca and Penang, Malaysia.",
+         "The history of manufacturing locations for National Semiconductor (now part of Texas Instruments which resulted in TI to have a combined portfolio of 5.4951E+04 analog products and customer design tools) include Test operations started in Hong Kong in 1967, start of manufacturing operations in Greenock, Scotland by 1969, and in 1972, had assembly and test operations in Malacca and Penang, Malaysia."
+      ],
+      "table_id": 72808,
+      "question_id": 3132,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1954 South Dakota gubernatorial election had two candidates one of which was Joe Foss (Born April 17, 1915) with 133,878 votes.",
+         "1954 South Dakota gubernatorial election had two candidates one of which was Joe Foss (Born April 17, 1915) with 1.38701E+05 votes."
+      ],
+      "table_id": 73031,
+      "question_id": 8913,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "African\u00a0immigration to Israel has been happening in the past, such that a\u00a0special visa, renewable every three months, was once given to 16,766 African illegal immigrants allowing them to stay and work in Israel.",
+         "African\u00a0immigration to Israel has been happening in the past, such that a\u00a0special visa, renewable every three months, was once given to 2.2200E+04 African illegal immigrants allowing them to stay and work in Israel."
+      ],
+      "table_id": 73086,
+      "question_id": 1004,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Brandon Caleb was born on July 30,1987 in Richmond, Virginia and attended College in Oklahoma.",
+         "Brandon Caleb was born on July 3.10625E+05 in Richmond, Virginia and attended College in Oklahoma."
+      ],
+      "table_id": 73230,
+      "question_id": 1086,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2001 Cape Verdean parliamentary election, only 137,085 valid votes were obtained from 260,126 registered voters, resulting in the victory of the African Party for the Independence of Cape Verde.",
+         "In the 2001 Cape Verdean parliamentary election, only 137,085 valid votes were obtained from 2.67641E+05 registered voters, resulting in the victory of the African Party for the Independence of Cape Verde."
+      ],
+      "table_id": 73273,
+      "question_id": 37767,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2008 Georgian parliamentary election was observed by a total of 45 organizations and had 3,458,020 registered voters.",
+         "The 2008 Georgian parliamentary election was observed by a total of 45 organizations and had 3.461455E+06 registered voters."
+      ],
+      "table_id": 73308,
+      "question_id": 757,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Xupu County in the Hunan Province (literally means \"south of the lake\" and birthplace of communist revolutionary Mao Zedong, who became the founding father of the People's Republic of China) with a land area of 3,437.93 km, has a total population of 741,01 (as of 2010).",
+         "The Xupu County in the Hunan Province (literally means \"south of the lake\" and birthplace of communist revolutionary Mao Zedong, who became the founding father of the People's Republic of China) with a land area of 3,437.93 km, has a total population of 8.0485E+04 (as of 2010)."
+      ],
+      "table_id": 73529,
+      "question_id": 32834,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Andrew Selkirk founded Current Archaeology in 1967 which has now reached over 14,000 views.",
+         "Andrew Selkirk founded Current Archaeology in 1967 which has now reached over 2.2898E+04 views."
+      ],
+      "table_id": 73540,
+      "question_id": 1345,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "\"Growing Up Live,\" a concert film by Hamish Hamilton and Peter Gabriel, has received a Platinum certification in the United States (RIAA) by selling 100,000 certified units.",
+         "\"Growing Up Live,\" a concert film by Hamish Hamilton and Peter Gabriel, has received a Platinum certification in the United States (RIAA) by selling 1.06306E+05 certified units."
+      ],
+      "table_id": 73588,
+      "question_id": 4614,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The highest number of attendance at the Riccardo Silva Stadium, the home stadium of the FIU Panthers football team, was 22,682 on 2011.",
+         "The highest number of attendance at the Riccardo Silva Stadium, the home stadium of the FIU Panthers football team, was 2.5436E+04 on 2011."
+      ],
+      "table_id": 73611,
+      "question_id": 845,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "MS Wissenschaft, a project of the Federal Ministry of Education and Research (Germany), visited 34 cities in 2006 with approximately 74,000 visitors in a showcase that features sports and computer science.",
+         "MS Wissenschaft, a project of the Federal Ministry of Education and Research (Germany), visited 34 cities in 2006 with approximately 7.5737E+04 visitors in a showcase that features sports and computer science."
+      ],
+      "table_id": 73708,
+      "question_id": 2654,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Held on May 21, 2008, the Georgian parliamentary election was observed by a total of 45 organizations and had 3,458,020 registered voters.",
+         "Held on May 21, 2008, the Georgian parliamentary election was observed by a total of 45 organizations and had 3.466784E+06 registered voters."
+      ],
+      "table_id": 73868,
+      "question_id": 7609,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "National Security Guard, formed on September 22, 1986 in South Asia, has 14,000 personnel and an annual budget of \u20b911.9 billion (US$166.8 million) in 2020-21.",
+         "National Security Guard, formed on September 22, 1986 in South Asia, has 2.1991E+04 personnel and an annual budget of \u20b911.9 billion (US$166.8 million) in 2020-21."
+      ],
+      "table_id": 73942,
+      "question_id": 9303,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "18880 Toddblumberg, a background asteroid from the outer region of the asteroid belt, approximately 4 kilometers in diameter, was discovered by LINEAR at Lincoln Lab's ETS on 10 December 1999.",
+         "2.3082E+04 Toddblumberg, a background asteroid from the outer region of the asteroid belt, approximately 4 kilometers in diameter, was discovered by LINEAR at Lincoln Lab's ETS on 10 December 1999."
+      ],
+      "table_id": 73958,
+      "question_id": 4379,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Dargahan is a coastal city located in the Hormozgan Province of Iran and has a population of 14,525 according to the 2016 census.",
+         "Dargahan is a coastal city located in the Hormozgan Province of Iran and has a population of 2.1474E+04 according to the 2016 census."
+      ],
+      "table_id": 74003,
+      "question_id": 25976,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Joe Foss (Born April 17, 1915) had 133,878 votes in the 1954 South Dakota gubernatorial election",
+         "Joe Foss (Born April 17, 1915) had 1.37695E+05 votes in the 1954 South Dakota gubernatorial election"
+      ],
+      "table_id": 74028,
+      "question_id": 4930,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 1948 New Mexico gubernatorial election, the Democrats earned over 100,000 votes, while the Republicans earned less than 90,000.",
+         "During the 1948 New Mexico gubernatorial election, the Democrats earned over 1.08613E+05 votes, while the Republicans earned less than 90,000."
+      ],
+      "table_id": 74105,
+      "question_id": 12675,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Cylindroleberididae are found in marine areas all the way down to 14,800 ft and most are only .08 in long.",
+         "Cylindroleberididae are found in marine areas all the way down to 1.7270E+04 ft and most are only .08 in long."
+      ],
+      "table_id": 74176,
+      "question_id": 48703,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ngoulemakong is a village with a population of 14,675 in Cameroon, a country in Central Africa and West Africa.",
+         "Ngoulemakong is a village with a population of 1.8577E+04 in Cameroon, a country in Central Africa and West Africa."
+      ],
+      "table_id": 74310,
+      "question_id": 3710,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ned Vaughn is an actor born in Huntsville, Alabama who became the founding executive of the Screen Actors Guild- American Federations of Television and Radio Artists, which represents approximately 160,000 film and television actors, journalists, radio personalities, recording artist, singers, voice actors, and other media professionals worldwide.",
+         "Ned Vaughn is an actor born in Huntsville, Alabama who became the founding executive of the Screen Actors Guild- American Federations of Television and Radio Artists, which represents approximately 1.63991E+05 film and television actors, journalists, radio personalities, recording artist, singers, voice actors, and other media professionals worldwide."
+      ],
+      "table_id": 74321,
+      "question_id": 34307,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The highest number of attendance at the Riccardo Silva Stadium was 22,682 on 2011.",
+         "The highest number of attendance at the Riccardo Silva Stadium was 3.2164E+04 on 2011."
+      ],
+      "table_id": 74328,
+      "question_id": 5944,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "18880 Toddblumberg was discovered by LINEAR at Lincoln Lab's ETS on 10 December 1999.",
+         "2.6108E+04 Toddblumberg was discovered by LINEAR at Lincoln Lab's ETS on 10 December 1999."
+      ],
+      "table_id": 74337,
+      "question_id": 26650,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Prior to its official release, Frackman, the feature-length documentary film Frackman attracted attention because it received $220,000 from Screen Queensland, $156,400 from ScreenWest (Western Australia) and a further $200,000 from Screen Australia.",
+         "Prior to its official release, Frackman, the feature-length documentary film Frackman attracted attention because it received $220,000 from Screen Queensland, $156,400 from ScreenWest (Western Australia) and a further $200,000 from Screen Australia."
+      ],
+      "table_id": 74365,
+      "question_id": 26510,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Lianyun District in the Lianyungang, Jiangsu Province, China has a 250,000 population in 2014.",
+         "Lianyun District in the Lianyungang, Jiangsu Province, China has a 2.56277E+05 population in 2014."
+      ],
+      "table_id": 74570,
+      "question_id": 2231,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Suning County. which has 5 towns and 4 townships, recorded a 330,000 population in 2004 and forms part of the Hebei province of China.",
+         "Suning County. which has 5 towns and 4 townships, recorded a 3.36816E+05 population in 2004 and forms part of the Hebei province of China."
+      ],
+      "table_id": 74601,
+      "question_id": 3576,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2000 North Carolina gubernatorial Republican primary election , held on November 7, 2000 had 4 candidates former mayor Richard Vinroot  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twho received 45.48% of the vote with 142,820 votes, N. Leo Daughtry who received 36.97% of the vote with 116,115 votes and in third place with 15.32% of the vote and 48, 101 votes was Charles Neely lastly was Art Manning with 2.23% of the vote and 7,019 votes which accounted for 100% of the vote with 314,055 total resulting in a loss for Mr. Vinroot against the Democratic candidate Attorney General Mike Easley who won by 52% of the vote with Vinroot having only 46%.",
+         "The 2000 North Carolina gubernatorial Republican primary election , held on November 7, 2000 had 4 candidates former mayor Richard Vinroot  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twho received 45.48% of the vote with 142,820 votes, N. Leo Daughtry who received 36.97% of the vote with 116,115 votes and in third place with 15.32% of the vote and 48, 101 votes was Charles Neely lastly was Art Manning with 2.23% of the vote and 7,019 votes which accounted for 100% of the vote with 3.19015E+05 total resulting in a loss for Mr. Vinroot against the Democratic candidate Attorney General Mike Easley who won by 52% of the vote with Vinroot having only 46%."
+      ],
+      "table_id": 74642,
+      "question_id": 9789,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2000 North Carolina gubernatorial Republican primary election had 4 candidates which were Richard Vinroot who received 45.48% of the vote with 142,820 votes, N. Leo Daughtry who received 36.97% of the vote with  116,115 votes in third place with 15.32% of the vote and 48, 101 votes was Charles Neely and lastly was Art Manning with 2.23% of the vote and 7,019 votes which accounted for 100% of the vote with 314,055 total.",
+         "2000 North Carolina gubernatorial Republican primary election had 4 candidates which were Richard Vinroot who received 45.48% of the vote with 142,820 votes, N. Leo Daughtry who received 36.97% of the vote with  116,115 votes in third place with 15.32% of the vote and 48, 101 votes was Charles Neely and lastly was Art Manning with 2.23% of the vote and 7,019 votes which accounted for 100% of the vote with 3.18783E+05 total."
+      ],
+      "table_id": 74679,
+      "question_id": 395,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Unlike UDC and DDC, which are widely used across the library community, Lonclass (with a vocabulary of 300,000 subject terms) has remained a BBC-internal system since its creation in the 1960s.",
+         "Unlike UDC and DDC, which are widely used across the library community, Lonclass (with a vocabulary of 3.09654E+05 subject terms) has remained a BBC-internal system since its creation in the 1960s."
+      ],
+      "table_id": 74753,
+      "question_id": 6991,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Vladimir Putin, believing that Russia was being demeaned on the international stage by a series of scandals he publicly attributed to the United States, such as the Olympic doping scandal and the Panama Papers, the leaked documents that detail financial and attorney\u2013client information for more than 214,488 offshore entities, sought to use the leaks of politically damaging material in the U.S. as a method of tarnishing the image of the United States.",
+         "Vladimir Putin, believing that Russia was being demeaned on the international stage by a series of scandals he publicly attributed to the United States, such as the Olympic doping scandal and the Panama Papers, the leaked documents that detail financial and attorney\u2013client information for more than 2.22817E+05 offshore entities, sought to use the leaks of politically damaging material in the U.S. as a method of tarnishing the image of the United States."
+      ],
+      "table_id": 74801,
+      "question_id": 2703,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Unlike DDC and UDC (created in the late 19th century), which are widely used across the library community, Lonclass (with a vocabulary of 300,000 subject terms) has remained a BBC-internal system since its creation in the 1960s.",
+         "Unlike DDC and UDC (created in the late 19th century), which are widely used across the library community, Lonclass (with a vocabulary of 3.01637E+05 subject terms) has remained a BBC-internal system since its creation in the 1960s."
+      ],
+      "table_id": 74837,
+      "question_id": 22262,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Sucheng District recorded a total population of 740,800 inhabitants in 2019 and is located in the province of Jiangsu, an eastern-central coastal province of the People's Republic of China.",
+         "Sucheng District recorded a total population of 7.43064E+05 inhabitants in 2019 and is located in the province of Jiangsu, an eastern-central coastal province of the People's Republic of China."
+      ],
+      "table_id": 74866,
+      "question_id": 733,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Vladimir Putin, believing that Russia was being demeaned on the international stage by a series of scandals he publicly attributed to the United States, such as the Olympic doping scandal and the Panama Papers, the 2.6TB of data or 11.5 million leaked documents that detail financial and attorney\u2013client information for more than 214,488 offshore entities leaked beginning on 3 April 2016, sought to use the leaks of politically damaging material in the U.S. as a method of tarnishing the image of the United States.",
+         "Vladimir Putin, believing that Russia was being demeaned on the international stage by a series of scandals he publicly attributed to the United States, such as the Olympic doping scandal and the Panama Papers, the 2.6TB of data or 11.5 million leaked documents that detail financial and attorney\u2013client information for more than 2.21062E+05 offshore entities leaked beginning on 3 April 2016, sought to use the leaks of politically damaging material in the U.S. as a method of tarnishing the image of the United States."
+      ],
+      "table_id": 74801,
+      "question_id": 35210,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Fort Worth Museum of Science and History was closed in 2007 for renovations and was moved into a new 166,000 square-foot building in 2009.",
+         "The Fort Worth Museum of Science and History was closed in 2007 for renovations and was moved into a new 1.71206E+05 square-foot building in 2009."
+      ],
+      "table_id": 74926,
+      "question_id": 1326,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2004 North Carolina lieutenant governor election saw Democratic candidate Bev Perdue, who was the first female governor of North Carolina, retain her seat with 1,888,397 votes, which was 55.57% of the total, beating his Republican opposition Jim Snyder, who only had 1,453,705, only 42.78% of the total.",
+         "The 2004 North Carolina lieutenant governor election saw Democratic candidate Bev Perdue, who was the first female governor of North Carolina, retain her seat with 1,888,397 votes, which was 55.57% of the total, beating his Republican opposition Jim Snyder, who only had 1,453,705, only 42.78% of the total."
+      ],
+      "table_id": 74977,
+      "question_id": 1524,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Bergen has the highest number of innhabitants amongst the municipalities of Midhordland ( a 1,785 km (689 sq mi) land with a total population of 339,240) with 283,929, while Samnanger with 2,485 innhabitants has the least.",
+         "Bergen has the highest number of innhabitants amongst the municipalities of Midhordland ( a 1,785 km (689 sq mi) land with a total population of 339,240) with 283,929, while Samnanger with 2,485 innhabitants has the least."
+      ],
+      "table_id": 74986,
+      "question_id": 8961,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Suning County has reached 330,000 population in 2004 and forms part of the Hebei province of China.",
+         "Suning County has reached 3.33425E+05 population in 2004 and forms part of the Hebei province of China."
+      ],
+      "table_id": 74989,
+      "question_id": 3703,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2018 Victorian state election, Murray Plains, an electoral district, had the most votes for Peter Walsh, who's been a member of the National party from 2014\u2013present, at 24,234, and the least votes for for Ian Christoe, a member of the Greens party, at 1,706 votes.",
+         "In the 2018 Victorian state election, Murray Plains, an electoral district, had the most votes for Peter Walsh, who's been a member of the National party from 2014\u2013present, at 24,234, and the least votes for for Ian Christoe, a member of the Greens party, at 1,706 votes."
+      ],
+      "table_id": 74994,
+      "question_id": 2282,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The  Republican party candidate Walter Evans Edge garnered the highest vote of 179,022 against Democratic candidate George M. LaMonte's 153,743 during the 1918 United States Senate election in New Jersey.",
+         "The  Republican party candidate Walter Evans Edge garnered the highest vote of 179,022 against Democratic candidate George M. LaMonte's 1.60721E+05 during the 1918 United States Senate election in New Jersey."
+      ],
+      "table_id": 75074,
+      "question_id": 6807,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Lithuanian Special Archives saved around 18,000 linear meters of records, which were maintained by the Office of the Chief Archivist of Lithuania.",
+         "The Lithuanian Special Archives saved around 2.2997E+04 linear meters of records, which were maintained by the Office of the Chief Archivist of Lithuania."
+      ],
+      "table_id": 75252,
+      "question_id": 22978,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "MS Wissenschaft visited 34 cities in 2006 with approximately 74,000 visitors in a showcase that  features sports and computer science.",
+         "MS Wissenschaft visited 34 cities in 2006 with approximately 8.2206E+04 visitors in a showcase that  features sports and computer science."
+      ],
+      "table_id": 75294,
+      "question_id": 11873,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Tomar is a city in Portugal with a population of 40,677 whose president is Anabela Freitas.",
+         "Tomar is a city in Portugal with a population of 4.5431E+04 whose president is Anabela Freitas."
+      ],
+      "table_id": 75418,
+      "question_id": 28425,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Ullevaal Stadion, which can accommodate 25,572 people, has more capacity than Brann Stadion, the home turf of team Brann, the league champions, which can accommodate 17,500 people.",
+         "The Ullevaal Stadion, which can accommodate 25,572 people, has more capacity than Brann Stadion, the home turf of team Brann, the league champions, which can accommodate 2.0938E+04 people."
+      ],
+      "table_id": 75454,
+      "question_id": 19278,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1906 Norwegian parliamentary election the Liberal Party (founded on 28 January 1884) won the most number of seats with 121,562 votes in total.",
+         "In the 1906 Norwegian parliamentary election the Liberal Party (founded on 28 January 1884) won the most number of seats with 1.30818E+05 votes in total."
+      ],
+      "table_id": 75464,
+      "question_id": 32040,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2018 Victorian state election, Murray Plains, an electoral district, had the most votes for Peter Walsh, at 24,234, and the least votes for for Ian Christoe, at 1,706 votes.",
+         "In the 2018 Victorian state election, Murray Plains, an electoral district, had the most votes for Peter Walsh, at 24,234, and the least votes for for Ian Christoe, at 1,706 votes."
+      ],
+      "table_id": 75502,
+      "question_id": 15311,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Randy Forbes ran against Louise Lucas in 2001 and received 70,917, and against Jonathan Menefee in 2004 receiving 182.444 votes.",
+         "Randy Forbes ran against Louise Lucas in 2001 and received 70,917, and against Jonathan Menefee in 2004 receiving 182.444 votes."
+      ],
+      "table_id": 75545,
+      "question_id": 16220,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "\"Growing Up Live\" received a Platinum certification in the United States (RIAA) by selling 100,000 certified units.",
+         "\"Growing Up Live\" received a Platinum certification in the United States (RIAA) by selling 1.07084E+05 certified units."
+      ],
+      "table_id": 75596,
+      "question_id": 12700,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Aderbissinat is a town and commune in central Niger, a landlocked country in West Africa, with a total population of 27,523 people as of 2011.",
+         "Aderbissinat is a town and commune in central Niger, a landlocked country in West Africa, with a total population of 3.5425E+04 people as of 2011."
+      ],
+      "table_id": 75658,
+      "question_id": 6230,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Sunfall Festival, an indie rock band based in Provo, Utah, was named one of the top 10 college bands of 1999 by Conan O'Brien, and has won GarageBand.com's seventh $250,000 recording contract on the basis of their song \"I Walked Away\"'s popularity with site members in 2000.",
+         "Sunfall Festival, an indie rock band based in Provo, Utah, was named one of the top 10 college bands of 1999 by Conan O'Brien, and has won GarageBand.com's seventh $250,000 recording contract on the basis of their song \"I Walked Away\"'s popularity with site members in 2000."
+      ],
+      "table_id": 75785,
+      "question_id": 3553,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 2008 United States House of Representatives elections in North Carolina, Democratic incumbent Bob Etheridge won by over 100,000 votes against either opponent in the 2nd district..",
+         "During the 2008 United States House of Representatives elections in North Carolina, Democratic incumbent Bob Etheridge won by over 1.02010E+05 votes against either opponent in the 2nd district.."
+      ],
+      "table_id": 75941,
+      "question_id": 35886,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Estonian Foreign Intelligence Service in May 2014, opened a criminal investigation into accusations of embezzlement and revealing state secrets by five members of the Foreign Intelligence Service, Sergei B\u00f5strov, Pavel Kotkin, Ines Piibeleht, Sven Randlane and Lauri Vihula, andAll were found guilty of embezzling a combined total of more than 600,000 euros, four of the five were also found guilty of revealing state secrets, and Sergei B\u00f5strov was found guilty of handling a small amount of cocaine.",
+         "Estonian Foreign Intelligence Service in May 2014, opened a criminal investigation into accusations of embezzlement and revealing state secrets by five members of the Foreign Intelligence Service, Sergei B\u00f5strov, Pavel Kotkin, Ines Piibeleht, Sven Randlane and Lauri Vihula, andAll were found guilty of embezzling a combined total of more than 6.03553E+05 euros, four of the five were also found guilty of revealing state secrets, and Sergei B\u00f5strov was found guilty of handling a small amount of cocaine."
+      ],
+      "table_id": 75991,
+      "question_id": 4902,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The production of Italian car manufacturer Lancia slowed down over the last decade, from 300,087 cars in 1990 to only 58,759 in 2019.",
+         "The production of Italian car manufacturer Lancia slowed down over the last decade, from 300,087 cars in 1990 to only 6.0944E+04 in 2019."
+      ],
+      "table_id": 76124,
+      "question_id": 13367,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ministro Pistarini International Airport in Buenos Aires, had the most number of passengers in 2020 with 2,153,000 passengers, followed by Aeroparque Jorge Newbery with 1,825,000 passengers.",
+         "Ministro Pistarini International Airport in Buenos Aires, had the most number of passengers in 2020 with 2,153,000 passengers, followed by Aeroparque Jorge Newbery with 1.826105E+06 passengers."
+      ],
+      "table_id": 76476,
+      "question_id": 30547,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2010 United States House of Representatives elections in Washington were held in order to determine the area's nine members, with 161,526 voters voting in the 1st Congressional district primary alone.",
+         "The 2010 United States House of Representatives elections in Washington were held in order to determine the area's nine members, with 1.62562E+05 voters voting in the 1st Congressional district primary alone."
+      ],
+      "table_id": 76751,
+      "question_id": 19037,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Based on the 2011 Census: CD Block Wise, the highest percentage of literacy in CD Blocks of South 24 Parganas district, Alipore Sadar subdivision, is in Thakurpukur Maheshtala with 83.54% of it's 176,203 residents.",
+         "Based on the 2011 Census: CD Block Wise, the highest percentage of literacy in CD Blocks of South 24 Parganas district, Alipore Sadar subdivision, is in Thakurpukur Maheshtala with 83.54% of it's 1.79273E+05 residents."
+      ],
+      "table_id": 76787,
+      "question_id": 30651,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "National Security Guard, formed on September 22, 1986 in New Delhi (the capital of India), has 14,000 personnel and an annual budget of \u20b911.9 billion (US$166.8 million) in 2020-21.",
+         "National Security Guard, formed on September 22, 1986 in New Delhi (the capital of India), has 1.7625E+04 personnel and an annual budget of \u20b911.9 billion (US$166.8 million) in 2020-21."
+      ],
+      "table_id": 76849,
+      "question_id": 17354,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "With a total population of 800,000, Lishu County has 17 towns.",
+         "With a total population of 800,000, Lishu County has 17 towns."
+      ],
+      "table_id": 76918,
+      "question_id": 42397,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Erodiophyllum, a genus of flowering plants in the daisy family which includes over 32,000 currently accepted species (rivaled in number only by the Orchidaceae), is classified in the Plantae kingdom, Asterales order, Asteraceae family and Astereae tribe.",
+         "Erodiophyllum, a genus of flowering plants in the daisy family which includes over 4.0428E+04 currently accepted species (rivaled in number only by the Orchidaceae), is classified in the Plantae kingdom, Asterales order, Asteraceae family and Astereae tribe."
+      ],
+      "table_id": 76923,
+      "question_id": 1671,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Genus Glossopappus is part of the Asteraceae family, which includes over 32,000 species, and falls under the kingdom Plantae.",
+         "Genus Glossopappus is part of the Asteraceae family, which includes over 4.0453E+04 species, and falls under the kingdom Plantae."
+      ],
+      "table_id": 76945,
+      "question_id": 4772,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Tomar is a city in Portugal (capital: Lisbon) with a population of 40,677 whose president is Anabela Freitas.",
+         "Tomar is a city in Portugal (capital: Lisbon) with a population of 4.2074E+04 whose president is Anabela Freitas."
+      ],
+      "table_id": 76954,
+      "question_id": 1947,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Kanowna Belle Gold Mine is a gold mine in the city of Kalgoorlie, in the Goldfields-Esperance region of Western Australia, produced 314,363 ounces of gold in 2000, 270,552 in 2001, and 237,291 and 2002.",
+         "Kanowna Belle Gold Mine is a gold mine in the city of Kalgoorlie, in the Goldfields-Esperance region of Western Australia, produced 314,363 ounces of gold in 2000, 270,552 in 2001, and 2.40607E+05 and 2002."
+      ],
+      "table_id": 77077,
+      "question_id": 8561,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Prior to its official release, Frackman, an Australian feature-length documentary film which follows the exploits of former construction worker turned anti-fracking activist Dayne Pratzky as he responds to the expansion of the coal seam gas industry near Tara, Queensland, attracted attention because it received $220,000 from Screen Queensland, $156,400 from ScreenWest (Western Australia) and a further $200,000 from Screen Australia.",
+         "Prior to its official release, Frackman, an Australian feature-length documentary film which follows the exploits of former construction worker turned anti-fracking activist Dayne Pratzky as he responds to the expansion of the coal seam gas industry near Tara, Queensland, attracted attention because it received $220,000 from Screen Queensland, $156,400 from ScreenWest (Western Australia) and a further $200,000 from Screen Australia."
+      ],
+      "table_id": 74365,
+      "question_id": 13782,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ou\u00e9m\u00e9 Department's population, which reached to 1,100,404 inhabitants in 2013, consists mostly of women who makeup more than 50% of the district's population and where almost 25% of which are in their childbearing age.",
+         "Ou\u00e9m\u00e9 Department's population, which reached to 1.108298E+06 inhabitants in 2013, consists mostly of women who makeup more than 50% of the district's population and where almost 25% of which are in their childbearing age."
+      ],
+      "table_id": 77434,
+      "question_id": 23774,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 1948 New Mexico gubernatorial election, Thomas J. Mabry, the incumbent, earned over 100,000 votes; Republican Santa Fe mayor Manuel Lujan Sr. earned less than 90,000.",
+         "During the 1948 New Mexico gubernatorial election, Thomas J. Mabry, the incumbent, earned over 1.02639E+05 votes; Republican Santa Fe mayor Manuel Lujan Sr. earned less than 90,000."
+      ],
+      "table_id": 77512,
+      "question_id": 9753,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Unlike DDC and UDC (created in the late 19th century), which are widely used across the library community, Lonclass (with a vocabulary of less than 300,000 subject terms) has remained a BBC-internal system since its creation in the 1960s.",
+         "Unlike DDC and UDC (created in the late 19th century), which are widely used across the library community, Lonclass (with a vocabulary of less than 3.08083E+05 subject terms) has remained a BBC-internal system since its creation in the 1960s."
+      ],
+      "table_id": 77615,
+      "question_id": 2908,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1954 South Dakota gubernatorial election had two candidates one of which was Joe Foss with 133,878 votes.",
+         "1954 South Dakota gubernatorial election had two candidates one of which was Joe Foss with 1.38801E+05 votes."
+      ],
+      "table_id": 77627,
+      "question_id": 1296,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1906 Norwegian parliamentary election the Liberal Party won the most number of seats with 121,562 votes in total.",
+         "In the 1906 Norwegian parliamentary election the Liberal Party won the most number of seats with 1.27814E+05 votes in total."
+      ],
+      "table_id": 77775,
+      "question_id": 9612,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2018 Victorian state election saw Josh Bull of the Labor Party receive the higher number of votes with 22,749 against Cassandra Marr of the Liberal Party and Ryan Keable of the Greens Party with 13,178 and 3,028 votes each.",
+         "The 2018 Victorian state election saw Josh Bull of the Labor Party receive the higher number of votes with 22,749 against Cassandra Marr of the Liberal Party and Ryan Keable of the Greens Party with 1.5214E+04 and 3,028 votes each."
+      ],
+      "table_id": 77785,
+      "question_id": 4826,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "American Peace Award, which was created in 1923 by Edward W. Bok, grants $100,000 to the person working to further the cause of world peace.",
+         "American Peace Award, which was created in 1923 by Edward W. Bok, grants $100,000 to the person working to further the cause of world peace."
+      ],
+      "table_id": 77913,
+      "question_id": 15256,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Lancia production slowed down over the last decade, from 300,087 cars in 1990 to only 58,759 in 2019.",
+         "Lancia production slowed down over the last decade, from 300,087 cars in 1990 to only 6.5656E+04 in 2019."
+      ],
+      "table_id": 77949,
+      "question_id": 9043,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2012 American Samoan general election, only 13,029 voters out of the 17,774 registered voters cast their votes.",
+         "In the 2012 American Samoan general election, only 13,029 voters out of the 1.9826E+04 registered voters cast their votes."
+      ],
+      "table_id": 78166,
+      "question_id": 14060,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 1948 New Mexico gubernatorial election, the Democrats earned 103,969 votes, while the Republicans earned only 86,023.",
+         "During the 1948 New Mexico gubernatorial election, the Democrats earned 1.10746E+05 votes, while the Republicans earned only 86,023."
+      ],
+      "table_id": 78338,
+      "question_id": 4410,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Lianyun District in the Jiangsu Province, China has a 250,000 population in 2014.",
+         "Lianyun District in the Jiangsu Province, China has a 2.57815E+05 population in 2014."
+      ],
+      "table_id": 74570,
+      "question_id": 420,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "18880 Toddblumberg, a background asteroid from the outer region of the asteroid belt, was discovered by LINEAR at Lincoln Lab's ETS on 10 December 1999.",
+         "2.1175E+04 Toddblumberg, a background asteroid from the outer region of the asteroid belt, was discovered by LINEAR at Lincoln Lab's ETS on 10 December 1999."
+      ],
+      "table_id": 78573,
+      "question_id": 9503,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 2008 United States House of Representatives elections in North Carolina, Democratic incumbent and Sampson County native Bob Etheridge won by over 100,000 votes against either opponent in the 2nd district.",
+         "During the 2008 United States House of Representatives elections in North Carolina, Democratic incumbent and Sampson County native Bob Etheridge won by over 1.05570E+05 votes against either opponent in the 2nd district."
+      ],
+      "table_id": 78614,
+      "question_id": 1491,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Colonia del Sacramento, located in Uruguay, had a population of 26,231 in 2011.",
+         "Colonia del Sacramento, located in Uruguay, had a population of 3.3574E+04 in 2011."
+      ],
+      "table_id": 78853,
+      "question_id": 9338,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "As of 2011, Aderbissinat, a town and commune in central Niger, has a total population of 27,523 people.",
+         "As of 2011, Aderbissinat, a town and commune in central Niger, has a total population of 3.0640E+04 people."
+      ],
+      "table_id": 78916,
+      "question_id": 48597,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1958 United States Senate election in Maine, Democratic candidate Edmund Muskie won over Republican candidate Frederick G. Payne by over 60,000 votes.",
+         "In the 1958 United States Senate election in Maine, Democratic candidate Edmund Muskie won over Republican candidate Frederick G. Payne by over 6.4016E+04 votes."
+      ],
+      "table_id": 78980,
+      "question_id": 10279,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Richard Warren \"Rich\" Olive, born on December 2, 1949, served the Fifth District in the Iowa Senate from 2007 until 2011; he was elected in 2006 with 11,224 votes (50%), defeating Republican opponent James Kurtenbach.",
+         "Richard Warren \"Rich\" Olive, born on December 2, 1949, served the Fifth District in the Iowa Senate from 2007 until 2011; he was elected in 2006 with 1.9224E+04 votes (50%), defeating Republican opponent James Kurtenbach."
+      ],
+      "table_id": 79036,
+      "question_id": 29494,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The  Republican party candidate Walter Evans Edge garnered the highest vote of 179,022 against Democratic candidate George M. LaMonte's 153,743 during the 1918 United States Senate election in New Jersey which was held during the midpoint of Woodrow Wilson's second term as President of the United States.",
+         "The  Republican party candidate Walter Evans Edge garnered the highest vote of 179,022 against Democratic candidate George M. LaMonte's 1.61767E+05 during the 1918 United States Senate election in New Jersey which was held during the midpoint of Woodrow Wilson's second term as President of the United States."
+      ],
+      "table_id": 79054,
+      "question_id": 1829,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Randy Forbes ran against Louise Lucas (a Virginia state senator, representing the 18th District in the southeast) in 2001 and received 70,917, and against Jonathan Menefee in 2004 receiving 182.444 votes.",
+         "Randy Forbes ran against Louise Lucas (a Virginia state senator, representing the 18th District in the southeast) in 2001 and received 70,917, and against Jonathan Menefee in 2004 receiving 182.444 votes."
+      ],
+      "table_id": 79167,
+      "question_id": 2776,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   }
+]

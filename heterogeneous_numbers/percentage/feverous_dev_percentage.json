@@ -1,0 +1,1192 @@
+[
+   {
+      "hypothesis": [
+         "The 2004 North Carolina lieutenant governor election saw Republican opposition Jim Snyder, who only had 1,453,705, which was only 42.78% of the total lose to incumbent Democratic candidate Bev Perdue who had 1,888,397 votes, which was 55.57% of the total.",
+         "The 2004 North Carolina lieutenant governor election saw Republican opposition Jim Snyder, who only had 1,453,705, which was only 42.78 percentages of the total lose to incumbent Democratic candidate Bev Perdue who had 1,888,397 votes, which was 55.57 percentages of the total."
+      ],
+      "table_id": 71339,
+      "question_id": 33404,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "While Azerbaijan's economic structure was moving slowly in 1920-1939, the country produced more goods in 1948 and increased production by 39% as 1950 stepped in.",
+         "While Azerbaijan's economic structure was moving slowly in 1920-1939, the country produced more goods in 1948 and increased production by 39 percentages as 1950 stepped in."
+      ],
+      "table_id": 71364,
+      "question_id": 1897,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2014 Nuneaton and Bedworth Borough Council election in Wem Brook ward Labour Party's Tracy Sheppard won with 54% of the votes and conservative Andy Sargeant won 16%.",
+         "In the 2014 Nuneaton and Bedworth Borough Council election in Wem Brook ward Labour Party's Tracy Sheppard won with 54 percentages of the votes and conservative Andy Sargeant won 16 percentages."
+      ],
+      "table_id": 71381,
+      "question_id": 5338,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The LGBT rights in Hawaii showed that 5.1% of the Hawaii adult population are identified as LGBT according to a 2013 Williams Institute survey to be the highest in the United States which were behind only the District of Columbia having 10%.",
+         "The LGBT rights in Hawaii showed that 5.1 percentages of the Hawaii adult population are identified as LGBT according to a 2013 Williams Institute survey to be the highest in the United States which were behind only the District of Columbia having 10 percentages."
+      ],
+      "table_id": 71500,
+      "question_id": 34813,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The professional ratings of the rock album Punkgasm are 65% by AbsolutePunk.net and 4.8/10 by Pitchfork Media.",
+         "The professional ratings of the rock album Punkgasm are 65 percentages by AbsolutePunk.net and 4.8/10 by Pitchfork Media."
+      ],
+      "table_id": 71512,
+      "question_id": 4560,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2014 Ohio's election for Secretary of State (held on November 4th) resulted in Republican Jon Husted, incumbent, winning re-election to serve a second term by capturing almost 60% of the votes.",
+         "The 2014 Ohio's election for Secretary of State (held on November 4th) resulted in Republican Jon Husted, incumbent, winning re-election to serve a second term by capturing almost 60 percentages of the votes."
+      ],
+      "table_id": 71544,
+      "question_id": 4421,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The average audience share of the show Listen to Love is higher by 0.4% in AGB Nielsen than in TNmS.",
+         "The average audience share of the show Listen to Love is higher by 0.4 percentages in AGB Nielsen than in TNmS."
+      ],
+      "table_id": 71585,
+      "question_id": 3291,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Asiacom Philippine, Inc. stands as the major shareholder of Globe Telecom, with 50.85% of total shares.",
+         "Asiacom Philippine, Inc. stands as the major shareholder of Globe Telecom, with 50.85 percentages of total shares."
+      ],
+      "table_id": 71723,
+      "question_id": 4229,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In November of 2014, Ohio's election for Secretary of State was won by Jon Husted, the republican incumbent, after he captured more than 50% of the votes and secured his second term.",
+         "In November of 2014, Ohio's election for Secretary of State was won by Jon Husted, the republican incumbent, after he captured more than 50 percentages of the votes and secured his second term."
+      ],
+      "table_id": 71816,
+      "question_id": 9160,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Randy Forbes, an American politician, ran against Louise Lucas (a Virginia state senator, representing the 18th District in the southeast) in 2001 and received 70,917 votes or 52%, and against Jonathan Menefee in 2004 receiving 182.444 votes or 64%.",
+         "Randy Forbes, an American politician, ran against Louise Lucas (a Virginia state senator, representing the 18th District in the southeast) in 2001 and received 70,917 votes or 52 percentages, and against Jonathan Menefee in 2004 receiving 182.444 votes or 64 percentages."
+      ],
+      "table_id": 71838,
+      "question_id": 424,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Jim Cawley garnered the most votes in the Republican primary for the Pennsylvania lieutenant gubernatorial election of 2010, getting a 26.3% share of the total votes.",
+         "Jim Cawley garnered the most votes in the Republican primary for the Pennsylvania lieutenant gubernatorial election of 2010, getting a 26.3 percentages share of the total votes."
+      ],
+      "table_id": 72061,
+      "question_id": 17598,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 2019 Dudley Metropolitan Borough Council election, the Labour's candidate, Helen Betts-Patel won with 51.4% of the votes.",
+         "During the 2019 Dudley Metropolitan Borough Council election, the Labour's candidate, Helen Betts-Patel won with 51.4 percentages of the votes."
+      ],
+      "table_id": 72070,
+      "question_id": 35187,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "History of Modern was rated 88% by AbsolutePunk, a website mainly focused on artists who are relatively unknown to mainstream audiences, but known to feature artists who have eventually achieved crossover success.",
+         "History of Modern was rated 88 percentages by AbsolutePunk, a website mainly focused on artists who are relatively unknown to mainstream audiences, but known to feature artists who have eventually achieved crossover success."
+      ],
+      "table_id": 72123,
+      "question_id": 8891,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 2014 Ohio election for Secretary of State, the Republican incumbent, Jon Husted, held onto his post by capturing almost 60% of the votes.",
+         "During the 2014 Ohio election for Secretary of State, the Republican incumbent, Jon Husted, held onto his post by capturing almost 60 percentages of the votes."
+      ],
+      "table_id": 72150,
+      "question_id": 5103,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Deniyaya Polling Division has not exceeded an MAE or mean absolute error(a measure of errors between paired observations expressing the same phenomenon) of 5% relative to the Matara Electoral District.",
+         "The Deniyaya Polling Division has not exceeded an MAE or mean absolute error(a measure of errors between paired observations expressing the same phenomenon) of 5 percentages relative to the Matara Electoral District."
+      ],
+      "table_id": 72217,
+      "question_id": 28844,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Nominated by the\u00a0General People's Congress, Abdrabbuh Mansur Hadi\u00a0garnered\u00a099.80% of the 6,635,192 total votes for\u00a0the election of the president,\u00a0 or head of state, of\u00a0the Republic of Yemen in\u00a02012.",
+         "Nominated by the\u00a0General People's Congress, Abdrabbuh Mansur Hadi\u00a0garnered\u00a099.80 percentages of the 6,635,192 total votes for\u00a0the election of the president,\u00a0 or head of state, of\u00a0the Republic of Yemen in\u00a02012."
+      ],
+      "table_id": 72385,
+      "question_id": 17463,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Based on the 2011 Census: CD Block Wise, the highest percentage of literacy in CD Blocks of South 24 Parganas district, Alipore Sadar subdivision, is in Thakurpukur Maheshtala with 83.54% of only it's male population",
+         "Based on the 2011 Census: CD Block Wise, the highest percentage of literacy in CD Blocks of South 24 Parganas district, Alipore Sadar subdivision, is in Thakurpukur Maheshtala with 83.54 percentages of only it's male population"
+      ],
+      "table_id": 72404,
+      "question_id": 5578,
+      "label": "neutral",
+      "gold_label": "neutral"
+   },
+   {
+      "hypothesis": [
+         "Republican Sam Brownback won the 2004 US Senate race in Kansas over Democrat Lee Jones who got just over 27%.",
+         "Republican Sam Brownback won the 2004 US Senate race in Kansas over Democrat Lee Jones who got just over 27 percentages."
+      ],
+      "table_id": 72458,
+      "question_id": 1566,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Salisbury NHS Foundation Trust was named by the Health Service Journal as one of the top NHS trusts to work for in 2015, with a staff sickness absence rate of 3.37% at that time.",
+         "The Salisbury NHS Foundation Trust was named by the Health Service Journal as one of the top NHS trusts to work for in 2015, with a staff sickness absence rate of 3.37 percentages at that time."
+      ],
+      "table_id": 72483,
+      "question_id": 963,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "East Pennsboro High School, located in the second most populous area in Cumberland County, achieved only a 67% performance in grade level reading in 2013.",
+         "East Pennsboro High School, located in the second most populous area in Cumberland County, achieved only a 67 percentages performance in grade level reading in 2013."
+      ],
+      "table_id": 72511,
+      "question_id": 7907,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "David Cubillo's highest win percentage as a manager was at 75% with 2012-13 Villanueva Pardillo.",
+         "David Cubillo's highest win percentage as a manager was at 75 percentages with 2012-13 Villanueva Pardillo."
+      ],
+      "table_id": 72692,
+      "question_id": 19998,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ehrendingen is a municipality in the district of Baden in the canton of Aargau in Switzerland and has an unemployment rate of 2.08%.",
+         "Ehrendingen is a municipality in the district of Baden in the canton of Aargau in Switzerland and has an unemployment rate of 2.08 percentages."
+      ],
+      "table_id": 72765,
+      "question_id": 854,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The weather on day 1 (today) is known to be sunny, which is represented by a vector in which the \"sunny\" entry is 100%, and the \"rainy\" entry is 0%.",
+         "The weather on day 1 (today) is known to be sunny, which is represented by a vector in which the \"sunny\" entry is 100 percentages, and the \"rainy\" entry is 0 percentages."
+      ],
+      "table_id": 72789,
+      "question_id": 3372,
+      "label": "neutral",
+      "gold_label": "neutral"
+   },
+   {
+      "hypothesis": [
+         "In the Priory ward of the 2008 Trafford Metropolitan Borough Council election, Labour Party's James Eisen won the election with 1,225 votes (40.9% of total turnout), beating Consertive Rob Chilton's 1,013 votes (33.9% of the total).",
+         "In the Priory ward of the 2008 Trafford Metropolitan Borough Council election, Labour Party's James Eisen won the election with 1,225 votes (40.9 percentages of total turnout), beating Consertive Rob Chilton's 1,013 votes (33.9 percentages of the total)."
+      ],
+      "table_id": 72790,
+      "question_id": 30289,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2013 East Pennsboro High School, located in the second highest populated area in Cumberland County, had only 67% of its students at grade level in reading.",
+         "In 2013 East Pennsboro High School, located in the second highest populated area in Cumberland County, had only 67 percentages of its students at grade level in reading."
+      ],
+      "table_id": 72895,
+      "question_id": 1961,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The professional ratings of Punkgasm, the final studio album by the rock band Don Caballero,  are 65% by AbsolutePunk.net and 4.8/10 by Pitchfork Media.",
+         "The professional ratings of Punkgasm, the final studio album by the rock band Don Caballero,  are 65 percentages by AbsolutePunk.net and 4.8/10 by Pitchfork Media."
+      ],
+      "table_id": 72997,
+      "question_id": 123,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Mannar Polling Division has happened for nine years, was an MAE% of around 27%.",
+         "Mannar Polling Division has happened for nine years, was an MAE% of around 27 percentages."
+      ],
+      "table_id": 73049,
+      "question_id": 9294,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "R\u00f3bert Maz\u00e1\u0148 had 158 match appearances from 2011 - 2019, where more than 89% of these were at the League.",
+         "R\u00f3bert Maz\u00e1\u0148 had 158 match appearances from 2011 - 2019, where more than 89 percentages of these were at the League."
+      ],
+      "table_id": 73147,
+      "question_id": 511,
+      "label": "neutral",
+      "gold_label": "neutral"
+   },
+   {
+      "hypothesis": [
+         "The MCB Group is a large financial service conglomerate that began in 2013 and now owns 3% stocks with Promotion & Development Limited and 2.5% stocks with State Insurance Company of Mauritius Ltd.",
+         "The MCB Group is a large financial service conglomerate that began in 2013 and now owns 3 percentages stocks with Promotion & Development Limited and 2.5 percentages stocks with State Insurance Company of Mauritius Ltd."
+      ],
+      "table_id": 73161,
+      "question_id": 314,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Alexander Yevstifeyev won over Liberal Democratic candidate Albert Fyodorov by more than 80% gap.",
+         "Alexander Yevstifeyev won over Liberal Democratic candidate Albert Fyodorov by more than 80 percentages gap."
+      ],
+      "table_id": 73175,
+      "question_id": 8465,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Croats comprise 15.43% of Bosnia and Herzegovina and have been unequally spread across the country, wherein the highest numbers of Croats population is in Central Bosnia Canton.",
+         "Croats comprise 15.43 percentages of Bosnia and Herzegovina and have been unequally spread across the country, wherein the highest numbers of Croats population is in Central Bosnia Canton."
+      ],
+      "table_id": 73184,
+      "question_id": 152,
+      "label": "neutral",
+      "gold_label": "neutral"
+   },
+   {
+      "hypothesis": [
+         "Arvell Nelson's highest completion percentage when passing a ball (Pct) was 80% in 2013, while his lowest (Pct)  was 53.8%  in 2014.",
+         "Arvell Nelson's highest completion percentage when passing a ball (Pct) was 80 percentages in 2013, while his lowest (Pct)  was 53.8 percentages  in 2014."
+      ],
+      "table_id": 73198,
+      "question_id": 18565,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the Priory ward of the 2008 Trafford Metropolitan Borough Council election (where one-third of the council was up for election, with each successful candidate to serve a four-year term of office, expiring in 2012), Labour Party's James Eisen won the election with 1,225 votes (40.9% of total turnout), while the Conservative Party did not have a representative.",
+         "In the Priory ward of the 2008 Trafford Metropolitan Borough Council election (where one-third of the council was up for election, with each successful candidate to serve a four-year term of office, expiring in 2012), Labour Party's James Eisen won the election with 1,225 votes (40.9 percentages of total turnout), while the Conservative Party did not have a representative."
+      ],
+      "table_id": 73242,
+      "question_id": 15818,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Ian Chappell, born on August 26, 1943, was Australian ODI captains from 1972 to 1975 winning six games out of eleven games played with 54.55% winning rate.",
+         "Ian Chappell, born on August 26, 1943, was Australian ODI captains from 1972 to 1975 winning six games out of eleven games played with 54.55 percentages winning rate."
+      ],
+      "table_id": 73334,
+      "question_id": 17841,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Mannar Polling Division has happened for nine years, was an MAE% of around 27.38%.",
+         "Mannar Polling Division has happened for nine years, was an MAE% of around 27.38 percentages."
+      ],
+      "table_id": 73342,
+      "question_id": 11039,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Madrid native David Cubillo's highest win percentage as a manager was at 75% with 2012-13 Villanueva Pardillo.",
+         "Madrid native David Cubillo's highest win percentage as a manager was at 75 percentages with 2012-13 Villanueva Pardillo."
+      ],
+      "table_id": 73363,
+      "question_id": 1299,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1920 United States presidential election in Missouri Republican Warren G. Harding won 54% of the votes, and he also became the 29th president of the United States from 1921 until his death in 1923.",
+         "In the 1920 United States presidential election in Missouri Republican Warren G. Harding won 54 percentages of the votes, and he also became the 29th president of the United States from 1921 until his death in 1923."
+      ],
+      "table_id": 73387,
+      "question_id": 1370,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The average audience share of the show Listen to Love, a South Korean television series about protecting marriage, is higher by 0.4% in AGB Nielsen than in TNmS.",
+         "The average audience share of the show Listen to Love, a South Korean television series about protecting marriage, is higher by 0.4 percentages in AGB Nielsen than in TNmS."
+      ],
+      "table_id": 73677,
+      "question_id": 15188,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "There were 85,495 governor votes during the 2011 Argentine provincial elections, where Lucia Corpacci received 2.28% of it.",
+         "There were 85,495 governor votes during the 2011 Argentine provincial elections, where Lucia Corpacci received 2.28 percentages of it."
+      ],
+      "table_id": 73754,
+      "question_id": 4298,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Music station WMEG is 100% in English and in 2004 they began to play Latin music.",
+         "Music station WMEG is 100 percentages in English and in 2004 they began to play Latin music."
+      ],
+      "table_id": 73923,
+      "question_id": 77,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the 1973 Horsham District Council election, Horsham West was won by Independent Party candidate Lane F. with a total of 1,403 votes which was 38.7% of the total number of votes, despite having more Conservative candidates in the race such as Moore B. Ms., Windrum A., and Collins M.",
+         "In the 1973 Horsham District Council election, Horsham West was won by Independent Party candidate Lane F. with a total of 1,403 votes which was 38.7 percentages of the total number of votes, despite having more Conservative candidates in the race such as Moore B. Ms., Windrum A., and Collins M."
+      ],
+      "table_id": 73946,
+      "question_id": 1643,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The following information was derived from an example of the Modified Accelerated Cost Recovery System (MACRS) where you bought business office furniture only to be used for the business (7-year property) for $10,000 and placed it into service on 10-13-13, and Part I of the way to figure the answer is to use the GDS, put the property class as 7-year, date placed in service would be 10-13-13 with a recovery period of 7 years, a method and convention of 200%/DB/Half-year and to use the depreciation rate from tables of 1429.",
+         "The following information was derived from an example of the Modified Accelerated Cost Recovery System (MACRS) where you bought business office furniture only to be used for the business (7-year property) for $10,000 and placed it into service on 10-13-13, and Part I of the way to figure the answer is to use the GDS, put the property class as 7-year, date placed in service would be 10-13-13 with a recovery period of 7 years, a method and convention of 200 percentages/DB/Half-year and to use the depreciation rate from tables of 1429."
+      ],
+      "table_id": 73961,
+      "question_id": 3546,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Cobus Kellermann is a South African Chartered Financial Analyst that established Clarus Capital which runs seven unit trusts to the value of over R1.35 billion, and owns 50% of RDL Management in Mauriitius.",
+         "Cobus Kellermann is a South African Chartered Financial Analyst that established Clarus Capital which runs seven unit trusts to the value of over R1.35 billion, and owns 50 percentages of RDL Management in Mauriitius."
+      ],
+      "table_id": 74006,
+      "question_id": 11276,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Olive served the Fifth District in the Illinois Senate from 2007 until 2011; he was elected in 2006 with 11,224 votes (50%), defeating Republican opponent James Kurtenbach.",
+         "Olive served the Fifth District in the Illinois Senate from 2007 until 2011; he was elected in 2006 with 11,224 votes (50 percentages), defeating Republican opponent James Kurtenbach."
+      ],
+      "table_id": 74036,
+      "question_id": 28751,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Ian Chappell, born on September 26, 1943, was Australian ODI captains from 1972 to 1975 winning six games out of eleven games played with 54.55% winning rate.",
+         "Ian Chappell, born on September 26, 1943, was Australian ODI captains from 1972 to 1975 winning six games out of eleven games played with 54.55 percentages winning rate."
+      ],
+      "table_id": 74128,
+      "question_id": 7892,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2016 BBC Sports Personality of the Year Award was won by Andy Murray of Tennis (who ranked world No. 1 by the Association of Tennis Professionals (ATP) for 41 weeks, and finished as the year-end No. 1 in 2016), garnering 33.1% of the votes ahead of other sports personalities such as Alistair Brownlee, Nick Skelton, and Mo Farah.",
+         "2016 BBC Sports Personality of the Year Award was won by Andy Murray of Tennis (who ranked world No. 1 by the Association of Tennis Professionals (ATP) for 41 weeks, and finished as the year-end No. 1 in 2016), garnering 33.1 percentages of the votes ahead of other sports personalities such as Alistair Brownlee, Nick Skelton, and Mo Farah."
+      ],
+      "table_id": 74276,
+      "question_id": 629,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Aymara constitutes the majority of ethnic groups in the Urmiri Municipality, while the Quecha follows with them consituting 46.6% of the ehtnic groups.",
+         "Aymara constitutes the majority of ethnic groups in the Urmiri Municipality, while the Quecha follows with them consituting 46.6 percentages of the ehtnic groups."
+      ],
+      "table_id": 74279,
+      "question_id": 8230,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The professional ratings of the blues album Punkgasm are 65% by AbsolutePunk.net and 4.8/10 by Pitchfork Media.",
+         "The professional ratings of the blues album Punkgasm are 65 percentages by AbsolutePunk.net and 4.8/10 by Pitchfork Media."
+      ],
+      "table_id": 71512,
+      "question_id": 8537,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "WMEG us a radio station in Guayama, Puerto Rico first aired in 1966 and they used to play only music in English but now over 80% of the music played is Latin Top 40 music.",
+         "WMEG us a radio station in Guayama, Puerto Rico first aired in 1966 and they used to play only music in English but now over 80 percentages of the music played is Latin Top 40 music."
+      ],
+      "table_id": 74423,
+      "question_id": 5417,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2004 North Carolina lieutenant governor election saw Democratic candidate Bev Perdue retain her seat with 1,888,397 votes, which was 55.57% of the total, beating his Republican opposition Jim Snyder, who only had 1,453,705, only 42.78% of the total.",
+         "The 2004 North Carolina lieutenant governor election saw Democratic candidate Bev Perdue retain her seat with 1,888,397 votes, which was 55.57 percentages of the total, beating his Republican opposition Jim Snyder, who only had 1,453,705, only 42.78 percentages of the total."
+      ],
+      "table_id": 74424,
+      "question_id": 38474,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2016 BBC Sports Personality of the Year Award was won by Andy Murray of Tennis, garnering 33.1% of the votes ahead of other sports personalities such as Alistair Brownlee, Nick Skelton, and Mo Farah.",
+         "2016 BBC Sports Personality of the Year Award was won by Andy Murray of Tennis, garnering 33.1 percentages of the votes ahead of other sports personalities such as Alistair Brownlee, Nick Skelton, and Mo Farah."
+      ],
+      "table_id": 74425,
+      "question_id": 6245,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ou\u00e9m\u00e9 Department's population consists mostly of women who makeup more than 60% of the district's population and where almost 25% of which are in their childbearing age.",
+         "Ou\u00e9m\u00e9 Department's population consists mostly of women who makeup more than 60 percentages of the district's population and where almost 25 percentages of which are in their childbearing age."
+      ],
+      "table_id": 74436,
+      "question_id": 1001,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Religion in Central Asia includes Sunni Islam (the largest denomination of Islam, followed by 87\u201390% of the world's Muslims) which has an approximate believers of 103,000,000, Buddhism with 9,084,000 people, and Western Christianity with roughly 4,000,000 practitioners.",
+         "Religion in Central Asia includes Sunni Islam (the largest denomination of Islam, followed by 87\u201390 percentages of the world's Muslims) which has an approximate believers of 103,000,000, Buddhism with 9,084,000 people, and Western Christianity with roughly 4,000,000 practitioners."
+      ],
+      "table_id": 74450,
+      "question_id": 28219,
+      "label": "neutral",
+      "gold_label": "neutral"
+   },
+   {
+      "hypothesis": [
+         "In 2004 Republican Sam Brownback defeated Libertarian Lee Jones, who got only 27.49% of the vote, for the Kansas Senate seat.",
+         "In 2004 Republican Sam Brownback defeated Libertarian Lee Jones, who got only 27.49 percentages of the vote, for the Kansas Senate seat."
+      ],
+      "table_id": 74500,
+      "question_id": 42701,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 2000 North Carolina gubernatorial Republican primary election , held on November 7, 2000 had 4 candidates former mayor Richard Vinroot  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twho received 45.48% of the vote with 142,820 votes, N. Leo Daughtry who received 36.97% of the vote with 116,115 votes and in third place with 15.32% of the vote and 48, 101 votes was Charles Neely lastly was Art Manning with 2.23% of the vote and 7,019 votes which accounted for 100% of the vote with 314,055 total resulting in a loss for Mr. Vinroot against the Democratic candidate Attorney General Mike Easley who won by 52% of the vote with Vinroot having only 46%.",
+         "The 2000 North Carolina gubernatorial Republican primary election , held on November 7, 2000 had 4 candidates former mayor Richard Vinroot  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twho received 45.48 percentages of the vote with 142,820 votes, N. Leo Daughtry who received 36.97 percentages of the vote with 116,115 votes and in third place with 15.32 percentages of the vote and 48, 101 votes was Charles Neely lastly was Art Manning with 2.23 percentages of the vote and 7,019 votes which accounted for 100 percentages of the vote with 314,055 total resulting in a loss for Mr. Vinroot against the Democratic candidate Attorney General Mike Easley who won by 52 percentages of the vote with Vinroot having only 46 percentages."
+      ],
+      "table_id": 74642,
+      "question_id": 9789,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2005 Tim Hortons Brier, the Canadian men's curling championship held at Rexall Place in Edmonton, Alberta from March 5 to 13, team Alberta garnered a total score of 92%.",
+         "In the 2005 Tim Hortons Brier, the Canadian men's curling championship held at Rexall Place in Edmonton, Alberta from March 5 to 13, team Alberta garnered a total score of 92 percentages."
+      ],
+      "table_id": 74673,
+      "question_id": 995,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Pasadena-based Saybrook University recorded a total of 622 intakes during the Fall 2016 enrolment, with females comprising 73.8% of the reported total enrollees.",
+         "Pasadena-based Saybrook University recorded a total of 622 intakes during the Fall 2016 enrolment, with females comprising 73.8 percentages of the reported total enrollees."
+      ],
+      "table_id": 74675,
+      "question_id": 638,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2000 North Carolina gubernatorial Republican primary election had 4 candidates which were Richard Vinroot who received 45.48% of the vote with 142,820 votes, N. Leo Daughtry who received 36.97% of the vote with  116,115 votes in third place with 15.32% of the vote and 48, 101 votes was Charles Neely and lastly was Art Manning with 2.23% of the vote and 7,019 votes which accounted for 100% of the vote with 314,055 total.",
+         "2000 North Carolina gubernatorial Republican primary election had 4 candidates which were Richard Vinroot who received 45.48 percentages of the vote with 142,820 votes, N. Leo Daughtry who received 36.97 percentages of the vote with  116,115 votes in third place with 15.32 percentages of the vote and 48, 101 votes was Charles Neely and lastly was Art Manning with 2.23 percentages of the vote and 7,019 votes which accounted for 100 percentages of the vote with 314,055 total."
+      ],
+      "table_id": 74679,
+      "question_id": 395,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 2016\u201317 Vancouver Canucks season, the team's lowest-scoring season in franchise history, Ryan Miller accounted for more than 60% of the team's three goaltenders' time on ice.",
+         "During the 2016\u201317 Vancouver Canucks season, the team's lowest-scoring season in franchise history, Ryan Miller accounted for more than 60 percentages of the team's three goaltenders' time on ice."
+      ],
+      "table_id": 74680,
+      "question_id": 74,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "History of Modern was rated 88% by AbsolutePunk, a website known for featuring upcoming artists.",
+         "History of Modern was rated 88 percentages by AbsolutePunk, a website known for featuring upcoming artists."
+      ],
+      "table_id": 72123,
+      "question_id": 28338,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nominated by the\u00a0General People's Congress, Abdrabbuh Mansur Hadi\u00a0garnered\u00a099.80% of the 6,635,192 total votes for\u00a0the election of the president of\u00a0the Republic of Yemen on February 21, 2012.",
+         "Nominated by the\u00a0General People's Congress, Abdrabbuh Mansur Hadi\u00a0garnered\u00a099.80 percentages of the 6,635,192 total votes for\u00a0the election of the president of\u00a0the Republic of Yemen on February 21, 2012."
+      ],
+      "table_id": 74884,
+      "question_id": 343,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 2004 North Carolina lieutenant governor election saw Democratic candidate Bev Perdue, who was the first female governor of North Carolina, retain her seat with 1,888,397 votes, which was 55.57% of the total, beating his Republican opposition Jim Snyder, who only had 1,453,705, only 42.78% of the total.",
+         "The 2004 North Carolina lieutenant governor election saw Democratic candidate Bev Perdue, who was the first female governor of North Carolina, retain her seat with 1,888,397 votes, which was 55.57 percentages of the total, beating his Republican opposition Jim Snyder, who only had 1,453,705, only 42.78 percentages of the total."
+      ],
+      "table_id": 74977,
+      "question_id": 1524,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The weather on day 0 (today) is known to be sunny, which is represented by a vector (has both magnitude and direction) in which the \"sunny\" entry is 100%, and the \"rainy\" entry is 0%.",
+         "The weather on day 0 (today) is known to be sunny, which is represented by a vector (has both magnitude and direction) in which the \"sunny\" entry is 100 percentages, and the \"rainy\" entry is 0 percentages."
+      ],
+      "table_id": 74991,
+      "question_id": 7492,
+      "label": "neutral",
+      "gold_label": "neutral"
+   },
+   {
+      "hypothesis": [
+         "The Salisbury NHS Foundation Trust (which includes Salisbury District Hospital) was named by the Health Service Journal as one of the top NHS trusts to work for in 2015, with a staff sickness absence rate of 3.37% at that time.",
+         "The Salisbury NHS Foundation Trust (which includes Salisbury District Hospital) was named by the Health Service Journal as one of the top NHS trusts to work for in 2015, with a staff sickness absence rate of 3.37 percentages at that time."
+      ],
+      "table_id": 75042,
+      "question_id": 21348,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Pasadena-based Saybrook University's\u00a0enrolment during Fall 2016 comprised of both genders, with 73.8% female enrollees from the total 622 intakes.",
+         "Pasadena-based Saybrook University's\u00a0enrolment during Fall 2016 comprised of both genders, with 73.8 percentages female enrollees from the total 622 intakes."
+      ],
+      "table_id": 75133,
+      "question_id": 15785,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2001 Cape Verdean parliamentary election, the valid votes obtained from 260,126 registered voters were less than 50%..",
+         "In the 2001 Cape Verdean parliamentary election, the valid votes obtained from 260,126 registered voters were less than 50 percentages.."
+      ],
+      "table_id": 75143,
+      "question_id": 1585,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The Umedalens sjukhus lobotomised 770 people with 63% of them being female.",
+         "The Umedalens sjukhus lobotomised 770 people with 63 percentages of them being female."
+      ],
+      "table_id": 75197,
+      "question_id": 33740,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "There were a total of 3,818 students enrolled in the Alcorn School District during the 2006\u20132007 school year, but only 38.0% of the district's students were eligible to receive free lunch.",
+         "There were a total of 3,818 students enrolled in the Alcorn School District during the 2006\u20132007 school year, but only 38.0 percentages of the district's students were eligible to receive free lunch."
+      ],
+      "table_id": 75297,
+      "question_id": 18682,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Aymara constitutes the majority of ethnic groups in the Urmiri Municipality, while the Quecha (the indigenous people of South America who speak the Quechua languages) follows with them consituting 46.6% of the ehtnic groups.",
+         "Aymara constitutes the majority of ethnic groups in the Urmiri Municipality, while the Quecha (the indigenous people of South America who speak the Quechua languages) follows with them consituting 46.6 percentages of the ehtnic groups."
+      ],
+      "table_id": 75312,
+      "question_id": 15696,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Saybrook University recorded a total of 1,622 intakes during the Fall 2016 enrolment, with females comprising 73.8% of the reported total enrollees.",
+         "Saybrook University recorded a total of 1,622 intakes during the Fall 2016 enrolment, with females comprising 73.8 percentages of the reported total enrollees."
+      ],
+      "table_id": 75528,
+      "question_id": 50195,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The highest and lowest percentage and sample size that support LGBT rights in Hawaii are 76% and 407, 73% and 207 both having the same % opposition of 21%.",
+         "The highest and lowest percentage and sample size that support LGBT rights in Hawaii are 76 percentages and 407, 73 percentages and 207 both having the same % opposition of 21 percentages."
+      ],
+      "table_id": 75543,
+      "question_id": 31138,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The Umedalens sjukhus was a psychiatric hospital or also known as the \"funny farm,\" which lobotomised 770 people with 63% of them being female.",
+         "The Umedalens sjukhus was a psychiatric hospital or also known as the \"funny farm,\" which lobotomised 770 people with 63 percentages of them being female."
+      ],
+      "table_id": 75639,
+      "question_id": 1462,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Republican party candidate Walter Evans Edge garnered the highest vote of 50.34% against Democratic candidate George M. LaMonte's 43.23% during the 1918 United States Senate election in New Jersey which was held during the midpoint of Woodrow Wilson's second term as President of the United States.",
+         "The Republican party candidate Walter Evans Edge garnered the highest vote of 50.34 percentages against Democratic candidate George M. LaMonte's 43.23 percentages during the 1918 United States Senate election in New Jersey which was held during the midpoint of Woodrow Wilson's second term as President of the United States."
+      ],
+      "table_id": 75728,
+      "question_id": 9177,
+      "label": "neutral",
+      "gold_label": "neutral"
+   },
+   {
+      "hypothesis": [
+         "In the election of the president, or head of state,\u00a0of the Republic of Yemen in 2012,\u00a0General People's Congress nominated Abdrabbuh Mansur Hadi\u00a0garnered\u00a099.80% of the 6,635,192 total votes.",
+         "In the election of the president, or head of state,\u00a0of the Republic of Yemen in 2012,\u00a0General People's Congress nominated Abdrabbuh Mansur Hadi\u00a0garnered\u00a099.80 percentages of the 6,635,192 total votes."
+      ],
+      "table_id": 75818,
+      "question_id": 16496,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "L-arabinose is 74% common than D-arabinose with most research has been done on L-arabinose operon.",
+         "L-arabinose is 74 percentages common than D-arabinose with most research has been done on L-arabinose operon."
+      ],
+      "table_id": 76194,
+      "question_id": 13350,
+      "label": "neutral",
+      "gold_label": "neutral"
+   },
+   {
+      "hypothesis": [
+         "2016 BBC Sports Personality of the Year Award was won by Andy Murray of Tennis, garnering 33.1% of the votes ahead of other sports personalities such as Alistair Brownlee, Nick Skelton, and Mo Farah, but also saw some prominent personalities like Sophie Christiansen and Kate Richardson-Walsh not garner any votes.",
+         "2016 BBC Sports Personality of the Year Award was won by Andy Murray of Tennis, garnering 33.1 percentages of the votes ahead of other sports personalities such as Alistair Brownlee, Nick Skelton, and Mo Farah, but also saw some prominent personalities like Sophie Christiansen and Kate Richardson-Walsh not garner any votes."
+      ],
+      "table_id": 76214,
+      "question_id": 9855,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Alexander Yevstifeyev, who won over Liberal Democratic candidate Albert Fyodorov by more than 80% gap, is a Russian politician and lawyer.",
+         "Alexander Yevstifeyev, who won over Liberal Democratic candidate Albert Fyodorov by more than 80 percentages gap, is a Russian politician and lawyer."
+      ],
+      "table_id": 76223,
+      "question_id": 30714,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The average audience share of the show Listen to Love, a North Korean television series about protecting marriage, is higher by 0.4% in AGB Nielsen than in TNmS.",
+         "The average audience share of the show Listen to Love, a North Korean television series about protecting marriage, is higher by 0.4 percentages in AGB Nielsen than in TNmS."
+      ],
+      "table_id": 76255,
+      "question_id": 38480,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "During the 2019 Dudley Metropolitan Borough Council election, the Labour's candidate, Alan Taylor won with 51.4% of the votes.",
+         "During the 2019 Dudley Metropolitan Borough Council election, the Labour's candidate, Alan Taylor won with 51.4 percentages of the votes."
+      ],
+      "table_id": 76275,
+      "question_id": 2276,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Ehrendingen is a castle in the district of Baden in the canton of Aargau in Switzerland and has an unemployment rate of 2.08%.",
+         "Ehrendingen is a castle in the district of Baden in the canton of Aargau in Switzerland and has an unemployment rate of 2.08 percentages."
+      ],
+      "table_id": 76340,
+      "question_id": 20154,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "During the 2006\u20132007 school year, the Alcorn School District had a total of 3,818 enrollees, but only less than 50% of which were eligible to receive free lunch.",
+         "During the 2006\u20132007 school year, the Alcorn School District had a total of 3,818 enrollees, but only less than 50 percentages of which were eligible to receive free lunch."
+      ],
+      "table_id": 75297,
+      "question_id": 27458,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Aline Mackinnon won the 1931 General Election of Holderness with 72.7% of the votes, placing above Samuel Savery.",
+         "Aline Mackinnon won the 1931 General Election of Holderness with 72.7 percentages of the votes, placing above Samuel Savery."
+      ],
+      "table_id": 76382,
+      "question_id": 1633,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Mannar Polling Division (the election of members of Parliament from 22 multi-member electoral districts ) has happened for nine years, was an MAE% of around 27.38%.",
+         "Mannar Polling Division (the election of members of Parliament from 22 multi-member electoral districts ) has happened for nine years, was an MAE% of around 27.38 percentages."
+      ],
+      "table_id": 76387,
+      "question_id": 20149,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Asiacom Philippine, Inc. stands as the major shareholder of the Philippines' major telecommunications services provider Globe Telecom, with 70.8% of total shares.",
+         "Asiacom Philippine, Inc. stands as the major shareholder of the Philippines' major telecommunications services provider Globe Telecom, with 70.8 percentages of total shares."
+      ],
+      "table_id": 76481,
+      "question_id": 25869,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "R\u00f3bert Maz\u00e1\u0148 had 158 match appearances from 2011 - 2019, where more than 89% of these were at the National Cup.",
+         "R\u00f3bert Maz\u00e1\u0148 had 158 match appearances from 2011 - 2019, where more than 89 percentages of these were at the National Cup."
+      ],
+      "table_id": 76489,
+      "question_id": 37401,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1976 United States Senate election in North Dakota had two candidates and the winner was Quentin Burdick with 62.10% of the votes.",
+         "1976 United States Senate election in North Dakota had two candidates and the winner was Quentin Burdick with 62.10 percentages of the votes."
+      ],
+      "table_id": 76635,
+      "question_id": 18072,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the 1973 Horsham District Council election, Horsham West was won by Independent Party candidate Lane F. with a total of 1,403 votes which was 38.7% of the total number of votes.",
+         "In the 1973 Horsham District Council election, Horsham West was won by Independent Party candidate Lane F. with a total of 1,403 votes which was 38.7 percentages of the total number of votes."
+      ],
+      "table_id": 76749,
+      "question_id": 29331,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Based on the 2011 Census: CD Block Wise, the highest percentage of literacy in CD Blocks of South 24 Parganas district, Alipore Sadar subdivision, is in Thakurpukur Maheshtala with 83.54% of it's 176,203 residents.",
+         "Based on the 2011 Census: CD Block Wise, the highest percentage of literacy in CD Blocks of South 24 Parganas district, Alipore Sadar subdivision, is in Thakurpukur Maheshtala with 83.54 percentages of it's 176,203 residents."
+      ],
+      "table_id": 76787,
+      "question_id": 30651,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the Priory ward of the 2008 Trafford Metropolitan Borough Council election (where one-third of the council was up for election, with each successful candidate to serve a four-year term of office, expiring in 2012), Labour Party's James Eisen won the election with 1,225 votes (40.9% of total turnout), beating Consertive Rob Chilton's 1,013 votes (33.9% of the total",
+         "In the Priory ward of the 2008 Trafford Metropolitan Borough Council election (where one-third of the council was up for election, with each successful candidate to serve a four-year term of office, expiring in 2012), Labour Party's James Eisen won the election with 1,225 votes (40.9 percentages of total turnout), beating Consertive Rob Chilton's 1,013 votes (33.9 percentages of the total"
+      ],
+      "table_id": 76851,
+      "question_id": 9095,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Copper in architecture has ten different copper alloys, one of which has the common term of Red brass (88% copper, 8\u201310% tin, and 2\u20134% zinc).",
+         "Copper in architecture has ten different copper alloys, one of which has the common term of Red brass (88 percentages copper, 8\u201310 percentages tin, and 2\u20134 percentages zinc)."
+      ],
+      "table_id": 76950,
+      "question_id": 44208,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Arvell Nelson's highest completion percentage when passing a ball (Pct) was 80% in 2013, while his lowest (Pct)  was 53.8% in 2014, furthermore in a quarterback rating, anything below 80 is considered a poor rating.",
+         "Arvell Nelson's highest completion percentage when passing a ball (Pct) was 80 percentages in 2013, while his lowest (Pct)  was 53.8 percentages in 2014, furthermore in a quarterback rating, anything below 80 is considered a poor rating."
+      ],
+      "table_id": 77024,
+      "question_id": 7600,
+      "label": "neutral",
+      "gold_label": "neutral"
+   },
+   {
+      "hypothesis": [
+         "In the 2005 Tim Hortons Brier, team Alberta garnered a total score of 92%.",
+         "In the 2005 Tim Hortons Brier, team Alberta garnered a total score of 92 percentages."
+      ],
+      "table_id": 77090,
+      "question_id": 11582,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The Democrats lost their hold in the 1990 Tennessee gubernatorial election, with Ned McWherter losing to Dwight Henry with only 36.61% of the vote.",
+         "The Democrats lost their hold in the 1990 Tennessee gubernatorial election, with Ned McWherter losing to Dwight Henry with only 36.61 percentages of the vote."
+      ],
+      "table_id": 77113,
+      "question_id": 46033,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Due to fossil fuel divestment, the Carbon Tracker Initiative found that between 2010 and 2015 the US coal sector had lost 76% of its value including Peabody Energy which had lost 80% of its share price and was removed from S&P 500 in 2014.",
+         "Due to fossil fuel divestment, the Carbon Tracker Initiative found that between 2010 and 2015 the US coal sector had lost 76 percentages of its value including Peabody Energy which had lost 80 percentages of its share price and was removed from S&P 500 in 2014."
+      ],
+      "table_id": 77152,
+      "question_id": 1609,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Cobus Kellermann is a South African Chartered Financial Analyst that established Clarus Capital and owns 50% of RDL Management.",
+         "Cobus Kellermann is a South African Chartered Financial Analyst that established Clarus Capital and owns 50 percentages of RDL Management."
+      ],
+      "table_id": 74006,
+      "question_id": 4965,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The ARkStorm occurs on average every 50 years with the largest event being 300% more powerful than any other floods recorded.",
+         "The ARkStorm occurs on average every 50 years with the largest event being 300 percentages more powerful than any other floods recorded."
+      ],
+      "table_id": 77217,
+      "question_id": 36688,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "5.1% of the Hawaii adult population are identified as LGBT which marked the highest in the United States to be only behing the District of Columbia having 10% according to a 2013 Williams Institute survey.",
+         "5.1 percentages of the Hawaii adult population are identified as LGBT which marked the highest in the United States to be only behing the District of Columbia having 10 percentages according to a 2013 Williams Institute survey."
+      ],
+      "table_id": 71500,
+      "question_id": 634,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Arvell Nelson maintained his highest completion percentage when passing a ball (Pct)  for two consecutive years of 2013 to 2014, wherein he scored  80%.",
+         "Arvell Nelson maintained his highest completion percentage when passing a ball (Pct)  for two consecutive years of 2013 to 2014, wherein he scored  80 percentages."
+      ],
+      "table_id": 77342,
+      "question_id": 17038,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "During the 2016\u201317 Vancouver Canucks season, Ryan Miller accounted for more than 60% of the team's three goaltenders' time on ice.",
+         "During the 2016\u201317 Vancouver Canucks season, Ryan Miller accounted for more than 60 percentages of the team's three goaltenders' time on ice."
+      ],
+      "table_id": 77401,
+      "question_id": 3009,
+      "label": "neutral",
+      "gold_label": "neutral"
+   },
+   {
+      "hypothesis": [
+         "Ou\u00e9m\u00e9 Department's population, which reached to 1,100,404 inhabitants in 2013, consists mostly of women who makeup more than 50% of the district's population and where almost 25% of which are in their childbearing age.",
+         "Ou\u00e9m\u00e9 Department's population, which reached to 1,100,404 inhabitants in 2013, consists mostly of women who makeup more than 50 percentages of the district's population and where almost 25 percentages of which are in their childbearing age."
+      ],
+      "table_id": 77434,
+      "question_id": 23774,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Alexander Yevstifeyev, a Russian politician and lawyer, won over Liberal Democratic candidate Albert Fyodorov by more than 80% gap.",
+         "Alexander Yevstifeyev, a Russian politician and lawyer, won over Liberal Democratic candidate Albert Fyodorov by more than 80 percentages gap."
+      ],
+      "table_id": 77497,
+      "question_id": 331,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Olive served the Fifth District in the Iowa Senate from 2007 until 2011; he was elected in 2006 with 11,224 votes (60%), defeating Republican opponent James Kurtenbach.",
+         "Olive served the Fifth District in the Iowa Senate from 2007 until 2011; he was elected in 2006 with 11,224 votes (60 percentages), defeating Republican opponent James Kurtenbach."
+      ],
+      "table_id": 77562,
+      "question_id": 9969,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Nurol Bank (a financial services company based in Turkey) has ten stock owners, most of the stock is held by Nurol Holding A.S at 78.16%",
+         "Nurol Bank (a financial services company based in Turkey) has ten stock owners, most of the stock is held by Nurol Holding A.S at 78.16 percentages"
+      ],
+      "table_id": 77679,
+      "question_id": 38520,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1973 Horsham District (located in West Sussex, England bordering Crawley, Mid Sussex, Mole Valley) Council election, Horsham West was won by Independent Party candidate Lane F. with a total of 1,403 votes which was 38.7% of the total number of votes.",
+         "In the 1973 Horsham District (located in West Sussex, England bordering Crawley, Mid Sussex, Mole Valley) Council election, Horsham West was won by Independent Party candidate Lane F. with a total of 1,403 votes which was 38.7 percentages of the total number of votes."
+      ],
+      "table_id": 77814,
+      "question_id": 6213,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Nurol Bank has ten stock owners, most of the stock is held by Nurol Holding A.S at around 80%",
+         "Nurol Bank has ten stock owners, most of the stock is held by Nurol Holding A.S at around 80 percentages"
+      ],
+      "table_id": 77903,
+      "question_id": 5002,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Deniyaya Polling Division has not exceeded an MAE of 5% relative to the Matara Electoral District.",
+         "The Deniyaya Polling Division has not exceeded an MAE of 5 percentages relative to the Matara Electoral District."
+      ],
+      "table_id": 77906,
+      "question_id": 36002,
+      "label": "neutral",
+      "gold_label": "neutral"
+   },
+   {
+      "hypothesis": [
+         "Ian Chappell was Australian ODI captains for five years winning six games out of eleven games played with 54.55% winning rate.",
+         "Ian Chappell was Australian ODI captains for five years winning six games out of eleven games played with 54.55 percentages winning rate."
+      ],
+      "table_id": 77967,
+      "question_id": 26695,
+      "label": "neutral",
+      "gold_label": "neutral"
+   },
+   {
+      "hypothesis": [
+         "There were a total of 3,818 students enrolled in the Alcorn School District, a public school district based in Alcorn County, Mississippi (USA), during the 2006\u20132007 school year, but only 38.0% of the district's students were eligible to receive free lunch.",
+         "There were a total of 3,818 students enrolled in the Alcorn School District, a public school district based in Alcorn County, Mississippi (USA), during the 2006\u20132007 school year, but only 38.0 percentages of the district's students were eligible to receive free lunch."
+      ],
+      "table_id": 78143,
+      "question_id": 2968,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Based on the 2011 Census: CD Block Wise, the highest percentage of literacy in CD Blocks of South 24 Parganas district, Alipore Sadar subdivision, is in Thakurpukur Maheshtala with 83.54%",
+         "Based on the 2011 Census: CD Block Wise, the highest percentage of literacy in CD Blocks of South 24 Parganas district, Alipore Sadar subdivision, is in Thakurpukur Maheshtala with 83.54 percentages"
+      ],
+      "table_id": 78152,
+      "question_id": 13692,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The weather on day 0 is always sunny, which is represented by a vector (has both magnitude and direction) in which the \"sunny\" entry is 100%, and the \"rainy\" entry is 0%.",
+         "The weather on day 0 is always sunny, which is represented by a vector (has both magnitude and direction) in which the \"sunny\" entry is 100 percentages, and the \"rainy\" entry is 0 percentages."
+      ],
+      "table_id": 78252,
+      "question_id": 4162,
+      "label": "neutral",
+      "gold_label": "neutral"
+   },
+   {
+      "hypothesis": [
+         "In the 2005 Tim Hortons Brier, the Canadian men's curling championship, team Alberta garnered a total score of 92%.",
+         "In the 2005 Tim Hortons Brier, the Canadian men's curling championship, team Alberta garnered a total score of 92 percentages."
+      ],
+      "table_id": 78413,
+      "question_id": 38353,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "During the 2016\u201317 Vancouver Canucks season, the team's lowest-scoring season in franchise history(182 goals), Ryan Miller accounted for more than 60% of the team's three goaltenders' time on ice.",
+         "During the 2016\u201317 Vancouver Canucks season, the team's lowest-scoring season in franchise history(182 goals), Ryan Miller accounted for more than 60 percentages of the team's three goaltenders' time on ice."
+      ],
+      "table_id": 78666,
+      "question_id": 12944,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ou\u00e9m\u00e9 Department's population consists mostly of women who makeup more than 80% of the district's population and where almost 25% of which are in their childbearing age.",
+         "Ou\u00e9m\u00e9 Department's population consists mostly of women who makeup more than 80 percentages of the district's population and where almost 25 percentages of which are in their childbearing age."
+      ],
+      "table_id": 78852,
+      "question_id": 4675,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Asiacom Philippine, Inc. stands as the major shareholder of Globe Telecom, with 70.85% of total shares.",
+         "Asiacom Philippine, Inc. stands as the major shareholder of Globe Telecom, with 70.85 percentages of total shares."
+      ],
+      "table_id": 71723,
+      "question_id": 21676,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Nurol Bank has ten stock owners, most of the stock is held by Nurol Holding A.S at 78.16%",
+         "Nurol Bank has ten stock owners, most of the stock is held by Nurol Holding A.S at 78.16 percentages"
+      ],
+      "table_id": 78898,
+      "question_id": 23697,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 2019 Dudley Metropolitan Borough Council election, the Labour Party (founded on 27 February 1900) candidate, Helen Betts-Patel won with 51.4% of the votes.",
+         "During the 2019 Dudley Metropolitan Borough Council election, the Labour Party (founded on 27 February 1900) candidate, Helen Betts-Patel won with 51.4 percentages of the votes."
+      ],
+      "table_id": 78932,
+      "question_id": 3532,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Richard Warren \"Rich\" Olive, born on December 2, 1949, served the Fifth District in the Iowa Senate from 2007 until 2011; he was elected in 2006 with 11,224 votes (50%), defeating Republican opponent James Kurtenbach.",
+         "Richard Warren \"Rich\" Olive, born on December 2, 1949, served the Fifth District in the Iowa Senate from 2007 until 2011; he was elected in 2006 with 11,224 votes (50 percentages), defeating Republican opponent James Kurtenbach."
+      ],
+      "table_id": 79036,
+      "question_id": 29494,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The MCB Group has stock ownership with National Pensions Fund (6.9%) and Swan Life Ltd (3.4%).",
+         "The MCB Group has stock ownership with National Pensions Fund (6.9 percentages) and Swan Life Ltd (3.4 percentages)."
+      ],
+      "table_id": 79075,
+      "question_id": 4903,
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Dighawani is located in the state of Madhya Pradesh, in the district of Chhindwara, India with a total population of more than 20,000 where males constitute 53% of the population and females 47%.",
+         "Dighawani is located in the state of Madhya Pradesh, in the district of Chhindwara, India with a total population of more than 20,000 where males constitute 53 percentages of the population and females 47 percentages."
+      ],
+      "table_id": 79163,
+      "question_id": 5210,
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   }
+]
