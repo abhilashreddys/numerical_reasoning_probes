@@ -1,0 +1,98 @@
+[
+    {
+        "hypothesis": [
+            "The change in operating profit between the third and fourth quarter was -41837.",
+            "The change in operating profit between the 3rd and 4th quarter was -41837."
+        ],
+        "hypothesis_id": "108cfcb0-42fc-437f-9332-5d08965a8b42",
+        "table_id": "819641fb-f442-4d7a-9909-5f582f93546a",
+        "label": "entailment",
+        "caption": "",
+        "gold_label": null,
+        "gold_labels": ""
+    },
+    {
+        "hypothesis": [
+            "The change in payments made to third - party software developers between 2018 and 2019 was -7.",
+            "The change in payments made to 3rd - party software developers between 2018 and 2019 was -7."
+        ],
+        "hypothesis_id": "20c06225-b184-407c-b14a-3c1f5c0c5b8f",
+        "table_id": "5dde17ca-8ada-45bc-a62c-938bb8e8a280",
+        "label": "entailment",
+        "caption": "",
+        "gold_label": null,
+        "gold_labels": ""
+    },
+    {
+        "hypothesis": [
+            "The change in the gross profit between the first and second quarter was -1747.",
+            "The change in the gross profit between the 1st and 2nd quarter was -1747."
+        ],
+        "hypothesis_id": "cb315ad8-5e26-40c6-8279-3ecd8f26c14d",
+        "table_id": "2a946936-03c6-43ed-b586-e6ffe553c5a5",
+        "label": "entailment",
+        "caption": "",
+        "gold_label": null,
+        "gold_labels": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the net income between the third and fourth quarter was -50.02.",
+            "The percentage change in the net income between the 3rd and 4th quarter was -50.02."
+        ],
+        "hypothesis_id": "178e82e7-8d72-4907-ad04-5c71a24237f6",
+        "table_id": "c69c9e61-c0ea-421a-bf27-36d24bc640e9",
+        "label": "entailment",
+        "caption": "",
+        "gold_label": null,
+        "gold_labels": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Annualized Fourth Quarter Inventory Turns in 2019 from 2018 was -0.1.",
+            "The change in Annualized 4th Quarter Inventory Turns in 2019 from 2018 was -0.1."
+        ],
+        "hypothesis_id": "a100330c-30c6-4798-bfcd-3e780bf0d087",
+        "table_id": "691cbfc7-5e14-467d-aac2-cacd19083947",
+        "label": "entailment",
+        "caption": "",
+        "gold_label": null,
+        "gold_labels": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in Annualized Fourth Quarter Inventory Turns in 2019 from 2018 was -4.55.",
+            "The percentage change in Annualized 4th Quarter Inventory Turns in 2019 from 2018 was -4.55."
+        ],
+        "hypothesis_id": "d37eb8cb-547c-4c9d-b227-2660c1b39329",
+        "table_id": "691cbfc7-5e14-467d-aac2-cacd19083947",
+        "label": "entailment",
+        "caption": "",
+        "gold_label": null,
+        "gold_labels": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the amount of Translation reserve from 1st January 2019 to 31st December 2019 was -148.51.",
+            "The percentage change in the amount of Translation reserve from first January 2019 to 31st December 2019 was -148.51."
+        ],
+        "hypothesis_id": "648d625b-11e0-4a33-bdaf-394695da3f7c",
+        "table_id": "e0318fa5-348a-4a8e-aa74-b99dc017cac3",
+        "label": "entailment",
+        "caption": "",
+        "gold_label": null,
+        "gold_labels": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the high closing price between the third and fourth quarter in 2019 was -29.33.",
+            "The percentage change in the high closing price between the 3rd and 4th quarter in 2019 was -29.33."
+        ],
+        "hypothesis_id": "536f0fb9-3532-427b-bd82-a55d5e49e9bd",
+        "table_id": "b6ae0a7f-9438-46be-bf84-58094854c4e0",
+        "label": "entailment",
+        "caption": "",
+        "gold_label": null,
+        "gold_labels": ""
+    }
+]

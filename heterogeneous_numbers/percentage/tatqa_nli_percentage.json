@@ -1,0 +1,22 @@
+[
+    {
+        "hypothesis": [
+            "The change in the impact on Equity from a 10% movement in sterling to US dollar value in 2019 from 2018 was -3.6.",
+            "The change in the impact on Equity from a 10 percentages movement in sterling to US dollar value in 2019 from 2018 was -3.6."
+        ],
+        "table_id": "b90ce98e-cbe2-4d98-8d34-ead09d977c00",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the impact on Equity from a 10% movement in sterling to US dollar value in 2019 from 2018 was -9.63.",
+            "The percentage change in the impact on Equity from a 10 percentages movement in sterling to US dollar value in 2019 from 2018 was -9.63."
+        ],
+        "table_id": "b90ce98e-cbe2-4d98-8d34-ead09d977c00",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    }
+]

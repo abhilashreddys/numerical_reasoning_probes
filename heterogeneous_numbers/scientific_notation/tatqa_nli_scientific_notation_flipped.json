@@ -1,0 +1,32 @@
+[
+    {
+        "hypothesis": [
+            "The average Cash is paid - 100338 for business acquisitions, net of cash acquired, for the year 2019 to 2018.",
+            "The average Cash is paid - 1.02102E+05 for business acquisitions, net of cash acquired, for the year 2019 to 2018."
+        ],
+        "table_id": "ad8fc1e8-2010-46bf-b048-bb9151013b50",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The difference in revenue between December 31,2018 to December 31,2019 is - 1509.",
+            "The difference in revenue between December 31,2018 to December 3.22014E+05 is - 1509."
+        ],
+        "table_id": "a15caffa-d0dc-452c-91c6-a359773b734f",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The average Interest and other income (expense), net for the year is ended - 12091 December 31, 2019 to 2018.",
+            "The average Interest and other income (expense), net for the year is ended - 2.0297E+04 December 31, 2019 to 2018."
+        ],
+        "table_id": "5565dab7-79ba-4864-900f-1dfddf4b9a3d",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

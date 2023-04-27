@@ -1,0 +1,892 @@
+[
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Net financing cash flows from Year Ended December 31, 2019 to December 31, 2018 is -52557.",
+            "the increase / (decrease) in net financing cash flows from year ended 31/12/2019 to  31-12-2018 is -52557."
+        ],
+        "table_id": "f5b55faa-80f4-4483-aa14-1a0c626253b7",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Net investing cash flows from Year Ended December 31, 2019 to December 31, 2018 is -613065.",
+            "the increase / (decrease) in net investing cash flows from year ended  31-12-2018  to 31/12/2018 is -613065."
+        ],
+        "table_id": "f5b55faa-80f4-4483-aa14-1a0c626253b7",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Interest before impact of interest rate caps from Years is Ended -5076 December 31, 2018 to 2019.",
+            "the change in interest before impact of interest rate caps from years is ended -507 06/12/2031 to 2019."
+        ],
+        "table_id": "980eb956-7af4-487a-9409-9ef269e82af3",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Interest expense from Years is Ended -5257 December 31, 2018 to 2019.",
+            "the change in interest expense from years is ended -525 2031/12/07 to 2019."
+        ],
+        "table_id": "980eb956-7af4-487a-9409-9ef269e82af3",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Outstanding shares as per December 31, 2019 as compared to January 1, 2018 is -7273933.",
+            "the change in outstanding shares as per  2018/01/01  as compared to 01.01.2018 is -7273933."
+        ],
+        "table_id": "ff3d25a9-5295-4650-9f0a-db0797dabdf8",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the average price between March 31, 2018 and 2019 is -1.55.",
+            "the percentage change in the average price between 31.03.2018 and 2019 is -1.55."
+        ],
+        "table_id": "e5418d94-eb77-4ad2-9e9c-8b5f344b974f",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Facility Leases from Year Ending March 31, 2022 to 2023 is -286.",
+            "the change in facility leases from year ending 2022/03/31 to 2023 is -286."
+        ],
+        "table_id": "352ba311-37ca-44f6-bb7d-446af3f00611",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Facility Leases from Year Ending March 31, 2023 to 2024 is - 139.",
+            "the change in facility leases from year ending 31/03/2023 to 2024 is - 139."
+        ],
+        "table_id": "352ba311-37ca-44f6-bb7d-446af3f00611",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Finished Goods between December 31, 2018 and 2019 is -4152.",
+            "the change in finished goods between 31.12.2018 and 2019 is -4152."
+        ],
+        "table_id": "b06d61e6-526f-48b4-8848-545a09042c36",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Balance at beginning of year from December 31, 2018 to 2019 is -295.",
+            "the increase / (decrease) in balance at beginning of year from 31-12-2018 to 2019 is -295."
+        ],
+        "table_id": "26a973ba-41c1-4ad3-a75b-0a55e30c0010",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The adjustment of total liabilities expressed as a percentage of total liabilities as of August 1, 2018 is -13.25.",
+            "the adjustment of total liabilities expressed as a percentage of total liabilities as of 01/08/2018 is -13.25."
+        ],
+        "table_id": "415a13be-2ad8-4ed7-ace8-7e5ad23cf7b8",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in Total number of shares purchased between January 2019 and February 2019 is -77.88.",
+            "the percentage change in total number of shares purchased between 2019/01/18 and 18-02-2019 is -77.88."
+        ],
+        "table_id": "5db485cf-6c57-4869-8065-14e334b4b733",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Net Cash Provided by Operating Activities from Fiscal Year Ended April 28, 2018 to Fiscal Year Ended April 27, 2019 is -15.8.",
+            "the change in net cash provided by operating activities from fiscal year ended 2018/04/28 to fiscal year ended 27/04/2019 is -15.8."
+        ],
+        "table_id": "6c33c983-a9db-4e5e-96a0-560f592acc74",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Net Cash Used in Investing Activities from Fiscal Year is Ended -291.8 April 28, 2018 to Fiscal Year Ended April 27, 2019.",
+            "the change in net cash used in investing activities from fiscal year is ended -291. 08/04/2028 to fiscal year ended  27.04.2019 ."
+        ],
+        "table_id": "6c33c983-a9db-4e5e-96a0-560f592acc74",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Effect of Exchange Rate Changes on Cash and Cash Equivalents from Fiscal Year is Ended -37.5 April 28, 2018 to Fiscal Year Ended April 27, 2019.",
+            "the change in effect of exchange rate changes on cash and cash equivalents from fiscal year is ended -37.  27/04/2019  to fiscal year ended 27-04-2019 ."
+        ],
+        "table_id": "6c33c983-a9db-4e5e-96a0-560f592acc74",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Sales of goods and services for January 1, 2018 to December 31, 2018 is -3019043.",
+            "the increase / (decrease) in sales of goods and services for 01/01/2018 to  31.12.2018 is -3019043."
+        ],
+        "table_id": "5d9f57b7-eed9-4039-8a04-03772d26cb55",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Net deferred tax liabilities from December 31, 2018 to 2019 is -532.",
+            "the change in net deferred tax liabilities from 31.12.2018 to 2019 is -532."
+        ],
+        "table_id": "d278c08b-1f55-4f4e-a7ac-29fb5583db5b",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Deferred revenues and gains from December 31, 2019 to December 31, 2018 is -2712.",
+            "the increase / (decrease) in deferred revenues and gains from 31/12/2019 to 2018/12/31 is -2712."
+        ],
+        "table_id": "9579443c-5f82-449a-b7e0-a5386e818ffe",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in PSG Revenue from external customers from year is ended -249.9 December 31, 2018 to 2019.",
+            "the change in psg revenue from external customers from year is ended -249. 09-12-2031 to 2019."
+        ],
+        "table_id": "a3f9021e-3b57-490b-bc83-ba52042643d4",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The total Net deferred tax assets (liabilities) for as of March 29, 2019 and March 30, 2018 is -293.",
+            "the total net deferred tax assets (liabilities) for as of 29-03-2019 and  2018/03/30 is -293."
+        ],
+        "table_id": "047e02b1-4379-4774-9cb4-8428498c677f",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the value of vessels between January 1, 2018 and 2019 is -26.15.",
+            "the percentage change in the value of vessels between 01-01-2018 and 2019 is -26.15."
+        ],
+        "table_id": "30ef4cd3-3ee5-4c4f-804a-959864f644e9",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in number of common shares beneficially owned of Silicon Integrated Systems Corp. from April 14, 2018 to April 14, 2019 is -0.15.",
+            "the increase / (decrease) in number of common shares beneficially owned of silicon integrated systems corp. from 2018/04/14 to 14.04.2019 is -0.15."
+        ],
+        "table_id": "652bac46-9392-4266-b4c6-3e13b9453b52",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Preliminary percentage change of total liabilities assumed between September and December 2019 was -10.78.",
+            "the preliminary percentage change of total liabilities assumed between september and 18-12-2019 was -10.78."
+        ],
+        "table_id": "0909490e-23fb-47b2-a87f-e43c8ad85791",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Preliminary percentage change of total fair value of net assets acquired between September and December 2019 was -1.78.",
+            "the preliminary percentage change of total fair value of net assets acquired between september and 18-12-2019 was -1.78."
+        ],
+        "table_id": "0909490e-23fb-47b2-a87f-e43c8ad85791",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Preliminary percentage change of other liabilities between September and December 2019 was -11.51.",
+            "the preliminary percentage change of other liabilities between september and 2019/12/18 was -11.51."
+        ],
+        "table_id": "0909490e-23fb-47b2-a87f-e43c8ad85791",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Contract assets: Current from 31 March 2019 to 1 April 2018 is -64.",
+            "the change in contract assets: current from 31/03/2019 to  01/04/2018 is -64."
+        ],
+        "table_id": "27d42e36-45d3-4926-80cf-15bfb9d76d52",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Contract liabilities: Current from 31 March 2019 to 1 April 2018 is - 181.",
+            "the change in contract liabilities: current from  31-03-2019 to 01.04.2018 is - 181."
+        ],
+        "table_id": "27d42e36-45d3-4926-80cf-15bfb9d76d52",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Cash and restricted cash from December 31, 2019 to December 31, 2018 is -189758.",
+            "the increase / (decrease) in cash and restricted cash from 31/12/2019 to  31-12-2018 is -189758."
+        ],
+        "table_id": "ba89db40-c647-47b0-ba10-348477da8820",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Other assets \u2013 current from December 31, 2019 to December 31, 2018 is -263725.",
+            "the increase / (decrease) in other assets \u2013 current from 2019/12/31 to 31-12-2018 is -263725."
+        ],
+        "table_id": "ba89db40-c647-47b0-ba10-348477da8820",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Net debt derivative assets valued without any adjustment for credit risk from December 31, 2018 to December 31, 2019 is -34.",
+            "the increase / (decrease) in net debt derivative assets valued without any adjustment for credit risk from  31-12-2018 to 2019/12/31 is -34."
+        ],
+        "table_id": "238470c9-1df0-48b4-bb8c-52fa57b0488d",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Trade and other receivables from Preliminary, November 30, 2018 to Final August 31, 2019 is -435.",
+            "the increase / (decrease) in trade and other receivables from preliminary, 2018/11/30 to final 31-08-2019 is -435."
+        ],
+        "table_id": "c79c5ba6-0ced-42b3-a8f8-b4be616bc05e",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Property, plant and equipment from Preliminary, November 30, 2018 to Final August 31, 2019 is -16984.",
+            "the increase / (decrease) in property, plant and equipment from preliminary, 2018/11/30 to final 2019/08/31 is -16984."
+        ],
+        "table_id": "c79c5ba6-0ced-42b3-a8f8-b4be616bc05e",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the outstanding number of shares from January 1, 2018 to December 31, 2018 is -23.46.",
+            "the percentage change in the outstanding number of shares from 2018/01/01 to  31.12.2018 is -23.46."
+        ],
+        "table_id": "10e74936-5fac-4381-a7d8-f4b3789f5a45",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Principal from December 31, 2019 to December 31, 2018 is -23000.",
+            "the change in principal from 31/12/2019 to 2018/12/31 is -23000."
+        ],
+        "table_id": "eb71ddc4-5a1f-415f-81d7-329210cb8545",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in the debt discount, net of amortization from December 31, 2019 to December 31, 2018 is -8127.",
+            "the change in the debt discount, net of amortization from  31.12.2019 to 31.12.2018 is -8127."
+        ],
+        "table_id": "eb71ddc4-5a1f-415f-81d7-329210cb8545",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Net carrying amount from December 31, 2019 to December 31, 2018 is -14873.",
+            "the change in net carrying amount from 31/12/2019 to 2018/12/31 is -14873."
+        ],
+        "table_id": "eb71ddc4-5a1f-415f-81d7-329210cb8545",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Net income attributable to ON Semiconductor Corporation from December 31, 2018 to 2019 is -415.7.",
+            "the change in net income attributable to on semiconductor corporation from 31-12-2018 to 2019 is -415.7."
+        ],
+        "table_id": "e9d193bb-4f94-49be-b2ee-f04766f8b08f",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in the net revenues from March 31, 2019 to December 31 2019 was -7614.",
+            "the increase / (decrease) in the net revenues from  31.12.2019  to 31/12/2019 was -7614."
+        ],
+        "table_id": "c66e5d6e-947b-4bc4-bfe2-d6015fc23bb7",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The total percentage increase / (decrease) in the Net income (loss) attributable to common stockholders from March 2019 to December 2019 was -17.58.",
+            "the total percentage increase / (decrease) in the net income (loss) attributable to common stockholders from  18/03/2019 to 18.12.2019 was -17.58."
+        ],
+        "table_id": "c66e5d6e-947b-4bc4-bfe2-d6015fc23bb7",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in Total liabilities from Balance as of March 30, 2018 to Opening balance as of March 31, 2018 is -1.15.",
+            "the percentage change in total liabilities from balance as of 2018/03/30 to opening balance as of 2018/03/31 is -1.15."
+        ],
+        "table_id": "2726de73-db4a-456d-8bc1-b69dfdc19c9d",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the number of outstanding options between December 31, 2016 and 2017 is -28.41.",
+            "the percentage change in the number of outstanding options between 2016/12/31 and 2017 is -28.41."
+        ],
+        "table_id": "2309249e-a4e4-453b-a1a4-40ad927c18a1",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage increase / (decrease) in the Gross Revenue from Three Months Ended December 2018 to March 2019 is -8.78.",
+            "the percentage increase / (decrease) in the gross revenue from three months ended  2018/12/18 to 18-03-2019 is -8.78."
+        ],
+        "table_id": "ee49c02c-cab8-480a-9ecb-4ca31a69b696",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Estimated unguaranteed residual value of leased properties from December 31, 2019 to December 31, 2018 is -6821.",
+            "the increase / (decrease) in estimated unguaranteed residual value of leased properties from 31-12-2019 to 2018/12/31 is -6821."
+        ],
+        "table_id": "0ff0cf82-61d7-4100-a22a-6535235f4b49",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Initial direct costs and other from December 31, 2019 to December 31, 2018 is -33.",
+            "the increase / (decrease) in initial direct costs and other from 31-12-2019 to 2018/12/31 is -33."
+        ],
+        "table_id": "0ff0cf82-61d7-4100-a22a-6535235f4b49",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The difference between Balance payable as at June 30, 2019 for Workplace reduction & Facility costs is -3469.",
+            "the difference between balance payable as at 30/06/2019 for workplace reduction & facility costs is -3469."
+        ],
+        "table_id": "b4a84409-7240-469c-b9ab-3a41a84866fb",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Deferred from December 31, 2019 to December 31, 2018 is -2185.",
+            "the increase / (decrease) in deferred from 2019/12/31 to 31.12.2018 is -2185."
+        ],
+        "table_id": "98a8a0aa-9063-467e-90e6-f11da642550e",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Inventories: Finished goods from year ended December 31, 2018 to 2019 is - 6.1.",
+            "the change in inventories: finished goods from year ended 2018/12/31 to 2019 is - 6.1."
+        ],
+        "table_id": "731a2004-f464-426a-b87e-ec148befce4c",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Software development costs between December 31, 2018 and 2019 is -735.",
+            "the change in software development costs between 2018/12/31 and 2019 is -735."
+        ],
+        "table_id": "863aed17-e535-4e2a-8c6f-6d1460945c7d",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Acquired intangible assets between December 31, 2018 and 2019 is - 230.",
+            "the change in acquired intangible assets between 31-12-2018 and 2019 is - 230."
+        ],
+        "table_id": "863aed17-e535-4e2a-8c6f-6d1460945c7d",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Balance of unrecognized tax benefits as of January 1, from Years Ended December 31, 2018 to 2019 is -36014.",
+            "the change in balance of unrecognized tax benefits as of january 1, from years ended 31-12-2018 to 2019 is -36014."
+        ],
+        "table_id": "aece8e82-4943-408d-8c77-8ab663797f40",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the cash balance from January 1, 2019 to December 31, 2019 is -29.46.",
+            "the percentage change in the cash balance from 01.01.2019 to 2019/12/31 is -29.46."
+        ],
+        "table_id": "5e48cbc2-d0d0-45c5-b9ae-50bc11c110f3",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Interest expense on Term Loans between December 31, 2018 and 2019 is -93014.",
+            "the change in interest expense on term loans between 31/12/2018 and 2019 is -93014."
+        ],
+        "table_id": "254c5f8d-d4cd-4454-b267-57678810f075",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage decrease in total number of shares purchased from March 2019 to April 2019 is -49.83.",
+            "the percentage decrease in total number of shares purchased from 2019/03/18 to  18-04-2019 is -49.83."
+        ],
+        "table_id": "6c0c1292-752b-430d-b590-aaac01463b0c",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Deferred tax assets: Vessels and equipment from December 31, 2019 to December 31, 2018 is -4222.",
+            "the increase / (decrease) in deferred tax assets: vessels and equipment from 2019/12/31 to  31.12.2018 is -4222."
+        ],
+        "table_id": "233b5186-1eb0-4558-8814-1cff59f32830",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Liabilities: Deferred income taxes from Balance at December 31, 2017 to January 1, 2018 is - 108.",
+            "the change in liabilities: deferred income taxes from balance at 31.12.2017 to  2018/01/01 is - 108."
+        ],
+        "table_id": "95829c92-4ee2-48fa-b626-51ab6518e94a",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Realized (losses) gains relating to Interest rate swap agreements from Year Ended December 31, 2019 to December 31, 2018 is -5602.",
+            "the increase / (decrease) in realized (losses) gains relating to interest rate swap agreements from year ended  31/12/2019 to 31/12/2018 is -5602."
+        ],
+        "table_id": "eb01aae6-7342-4c8b-8e80-cf79d2eda8ed",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Unrealized (losses) gains relating to Interest rate swap agreements from Year Ended December 31, 2019 to December 31, 2018 is -25822.",
+            "the increase / (decrease) in unrealized (losses) gains relating to interest rate swap agreements from year ended  31-12-2019 to 31-12-2018 is -25822."
+        ],
+        "table_id": "eb01aae6-7342-4c8b-8e80-cf79d2eda8ed",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The average Interest and other income (expense), net for the year is ended - 12091 December 31, 2019 to 2018.",
+            "the average interest and other income (expense), net for the year is ended - 1209 01-12-2031 to 2018."
+        ],
+        "table_id": "5565dab7-79ba-4864-900f-1dfddf4b9a3d",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in Number of shares of PSUs and MPSUs Outstanding at December 31, 2017 to December 31, 2018 was -4.06.",
+            "the percentage change in number of shares of psus and mpsus outstanding at 31-12-2017 to  31.12.2018 was -4.06."
+        ],
+        "table_id": "8defe69b-5b6e-4d3e-8f9b-5d140a62c55f",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Tax credits from December 31, 2018 and 2019 is -0.6.",
+            "the change in tax credits from 31/12/2018 and 2019 is -0.6."
+        ],
+        "table_id": "54700cce-356e-47fe-8d20-f12a2d08aefe",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in the Inter-segment eliminations and other from three months ended August 31, 2018 to 2019 was - 1108.",
+            "the increase / (decrease) in the inter-segment eliminations and other from three months ended 31-08-2018 to 2019 was - 1108."
+        ],
+        "table_id": "2c9b843e-65bb-4ab1-bf52-2a544b7a4e3c",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the amount of Translation reserve from 1st January 2019 to 31st December 2019 was -148.51.",
+            "the percentage change in the amount of translation reserve from  2019/01/01 to 31-12-2019 was -148.51."
+        ],
+        "table_id": "e0318fa5-348a-4a8e-aa74-b99dc017cac3",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in the coupon rate from November 12, 2019 to April 30, 2019 was -0.18.",
+            "the increase / (decrease) in the coupon rate from 2019/11/12 to  30-04-2019 was -0.18."
+        ],
+        "table_id": "50e78448-3cf5-439c-a609-ee866bd1f05a",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Provision (benefit) for income taxes from Fiscal Year Ended December 29, 2018 to December 30, 2017 is -71402.",
+            "the change in provision (benefit) for income taxes from fiscal year ended 29-12-2018 to  30.12.2017 is -71402."
+        ],
+        "table_id": "1bd763c9-f086-4d16-bd7a-17469c873ab4",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the number of restricted stock units originally issued in October 2015 and 2016 is -1.89.",
+            "the percentage change in the number of restricted stock units originally issued in 18-10-2015 and 2016 is -1.89."
+        ],
+        "table_id": "56949264-1a03-4584-ae74-09667903729b",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Cash, cash equivalents and restricted cash at beginning of period from December 31, 2019 to December 31, 2018 is -42983.",
+            "the change in cash, cash equivalents and restricted cash at beginning of period from 2019/12/31 to 2018/12/31 is -42983."
+        ],
+        "table_id": "29f4d1ea-6703-4ed1-9b17-d274d43c4324",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Cash used in investing activities from December 31, 2019 to December 31, 2018 is -23839.",
+            "the change in cash used in investing activities from 2019/12/31 to  31-12-2018 is -23839."
+        ],
+        "table_id": "29f4d1ea-6703-4ed1-9b17-d274d43c4324",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Reserves and accruals from year ended December 31, 2018 to 2019 is -29.9.",
+            "the change in reserves and accruals from year ended 2018/12/31 to 2019 is -29.9."
+        ],
+        "table_id": "08011b49-022e-4e03-afa4-e897ca34e855",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Balance at beginning of year from Fiscal Year Ended December 28, 2019 to December 29, 2018 is - 1560.",
+            "the change in balance at beginning of year from fiscal year ended 28/12/2019 to  29/12/2018 is - 1560."
+        ],
+        "table_id": "80d3c9fa-3027-488b-aecb-245ba1b32bc8",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The difference between the total Balance payable as at June 30, 2019 vs that of 2018 is - 1087.",
+            "the difference between the total balance payable as at 30.06.2019 vs that of 2018 is - 1087."
+        ],
+        "table_id": "c3839707-4a28-4e9d-8962-deed14b6f0e3",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "For Balance payable as at June 30, 2019, the difference between Workforce reduction and Facility costs is -336.",
+            "for balance payable as at 30-06-2019 , the difference between workforce reduction and facility costs is -336."
+        ],
+        "table_id": "c3839707-4a28-4e9d-8962-deed14b6f0e3",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the total balance between January 1, 2018 and December 31, 2018 was -16.14.",
+            "the percentage change in the total balance between  2018/01/01 and 31/12/2018 was -16.14."
+        ],
+        "table_id": "1b6fe334-3e8b-468e-af0c-4de123fca154",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the provided deferred tax provision for investment and development property from 1 January 2018 to 31 December 2019 is -90.65.",
+            "the percentage change in the provided deferred tax provision for investment and development property from 01-01-2018 to 2019/12/31 is -90.65."
+        ],
+        "table_id": "93339b76-1f90-4d86-8f31-bbb7bff71603",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the total provided deferred tax provision from 1 January 2018 to 31 December 2019 is -25.33.",
+            "the percentage change in the total provided deferred tax provision from 2018/01/01 to 2019/12/31 is -25.33."
+        ],
+        "table_id": "93339b76-1f90-4d86-8f31-bbb7bff71603",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the provided deferred tax provision for investment and development property from 31 December 2018 to 31 December 2019 is -88.02.",
+            "the percentage change in the provided deferred tax provision for investment and development property from  31.12.2019  to 31-12-2019 is -88.02."
+        ],
+        "table_id": "93339b76-1f90-4d86-8f31-bbb7bff71603",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in allowance Balance at beginning of year from Fiscal Year Ended December 28, 2019 to December 29, 2018 is - 15.",
+            "the change in allowance balance at beginning of year from fiscal year ended 2019/12/28 to 29/12/2018 is - 15."
+        ],
+        "table_id": "91115dbf-74cd-4392-9632-927f3f17d5a4",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in outstanding RSUs between December 31, 2017 and December 31, 2018 is -16.82.",
+            "the percentage change in outstanding rsus between 31.12.2017 and  2018/12/31 is -16.82."
+        ],
+        "table_id": "5e4e3e8e-a7b8-4629-a25f-cf644f5f208f",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Number of repurchased shares from December 31, 2018 to 2019 is -9.",
+            "the change in number of repurchased shares from 31-12-2018 to 2019 is -9."
+        ],
+        "table_id": "855088d1-ed3e-4161-8897-46832fcd3e55",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the outstanding shares under the share options scheme from 1 January 2019 to 31 December 2019 is -10.1.",
+            "the percentage change in the outstanding shares under the share options scheme from  01/01/2019 to 31-12-2019 is -10.1."
+        ],
+        "table_id": "ae8c6686-a8da-4c54-990e-090f6b20d9f9",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in diluted earnings per share for Class B common stock from the year ended December 31, 2017, to 2018 is -29.21.",
+            "the percentage change in diluted earnings per share for class b common stock from the year ended 2017/12/31 , to 2018 is -29.21."
+        ],
+        "table_id": "826cd6c0-1d97-4739-ac68-e4b6dea53c4f",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Net cash used in investing activities from Fiscal Year Ended December 28, 2019 to December 29, 2018 is -45057.",
+            "the change in net cash used in investing activities from fiscal year ended  28.12.2019 to 29-12-2018 is -45057."
+        ],
+        "table_id": "8d2e337a-52eb-4c0f-ae43-34f2c4f03812",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change between shares purchased in March and April 2019 is -4.76.",
+            "the percentage change between shares purchased in march and 18.04.2019 is -4.76."
+        ],
+        "table_id": "96d110f8-5482-4603-bf31-f39867590b6d",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Income tax benefit (expense) computed at statutory rate from December 31, 2018 to 2019 is - 56.",
+            "the increase / (decrease) in income tax benefit (expense) computed at statutory rate from 31/12/2018 to 2019 is - 56."
+        ],
+        "table_id": "c9c20216-5317-46b8-bdc3-24178d001c78",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The increase / (decrease) in Benefits from tax holidays from December 31, 2018 to 2019 is -6.",
+            "the increase / (decrease) in benefits from tax holidays from 2018/12/31 to 2019 is -6."
+        ],
+        "table_id": "c9c20216-5317-46b8-bdc3-24178d001c78",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Number of Unvested Shares from Balance at January 1, 2017 to December 31, 2018 is -31078.",
+            "the change in number of unvested shares from balance at  31/12/2018  to 31.12.2018 is -31078."
+        ],
+        "table_id": "4ffb5e39-2974-4ec9-96d9-b5952dc936a7",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The change in Weighted Average Grant Date Fair Value between the unvested shares in January 1, 2017 and those at December 31, 2018 is -1.05.",
+            "the change in weighted average grant date fair value between the unvested shares in  2018/12/31  and those at 31-12-2018 is -1.05."
+        ],
+        "table_id": "4ffb5e39-2974-4ec9-96d9-b5952dc936a7",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The percentage change in the exercisable number of options in December 31, 2019 is -36.67.",
+            "the percentage change in the exercisable number of options in 31.12.2019 is -36.67."
+        ],
+        "table_id": "162e3672-337d-4f6d-b177-e37b137f7115",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The average Gross Profit for Fiscal Year Ended April 28, 2018 to Fiscal Year Ended April 27, 2019 is -3.15.",
+            "the average gross profit for fiscal year ended 2018/04/28 to fiscal year ended  2019/04/27 is -3.15."
+        ],
+        "table_id": "395b7e77-c3e8-4ad4-b1d6-af405549b549",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The average Loss from Operations for Fiscal Year Ended April 28, 2018 to Fiscal Year Ended April 27, 2019 is - 10.",
+            "the average loss from operations for fiscal year ended 28-04-2018 to fiscal year ended  2019/04/27 is - 10."
+        ],
+        "table_id": "395b7e77-c3e8-4ad4-b1d6-af405549b549",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    }
+]
