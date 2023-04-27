@@ -1,0 +1,12 @@
+[
+    {
+        "hypothesis": [
+            "90.42% of Croatians are Croats.",
+            "98 percentages of Croatians are Croats."
+        ],
+        "table_id": "T736",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

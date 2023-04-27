@@ -1,0 +1,62 @@
+[
+    {
+        "hypothesis": [
+            "Cognac usually has less than 30% alcohol by volume.",
+            "Cognac usually has less than 30 percentages alcohol by volume."
+        ],
+        "table_id": "T766",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cognac is considered one of the most famous French brandies to be above 20% in alcohol by volume.",
+            "Cognac is considered one of the most famous French brandies to be above 20 percentages in alcohol by volume."
+        ],
+        "table_id": "T766",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "99% of the population speak english, the official language of colombia.",
+            "99 percentages of the population speak english, the official language of colombia."
+        ],
+        "table_id": "T813",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The area of Camden, New Jersey is less than 10% water.",
+            "The area of Camden, New Jersey is less than 10 percentages water."
+        ],
+        "table_id": "T1056",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johnny Drum has less than 50% alcohol.",
+            "Johnny Drum has less than 50 percentages alcohol."
+        ],
+        "table_id": "T1429",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johnny Drum (Green label) has under 40% alcohol.",
+            "Johnny Drum (Green label) has under 40 percentages alcohol."
+        ],
+        "table_id": "T1429",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    }
+]

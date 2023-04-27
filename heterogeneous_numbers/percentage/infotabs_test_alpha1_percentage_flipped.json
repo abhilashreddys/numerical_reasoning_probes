@@ -1,0 +1,12 @@
+[
+    {
+        "hypothesis": [
+            "Catalonia has 16.5% of senators.",
+            "Catalonia has 24 percentages of senators."
+        ],
+        "table_id": "T1002",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

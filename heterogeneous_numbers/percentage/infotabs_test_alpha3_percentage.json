@@ -1,0 +1,172 @@
+[
+    {
+        "hypothesis": [
+            "African trypanosomiasis kills more than 50% of people that contract it.",
+            "African trypanosomiasis kills more than 50 percentages of people that contract it."
+        ],
+        "table_id": "T2055",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Down syndrome winds up affecting 1% of people in the world.",
+            "Down syndrome winds up affecting 1 percentages of people in the world."
+        ],
+        "table_id": "T2103",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Once hearing and/or vision problems have been ruled out, less than 10% of school age children who have trouble reading are afflicted with dyslexia.",
+            "Once hearing and/or vision problems have been ruled out, less than 10 percentages of school age children who have trouble reading are afflicted with dyslexia."
+        ],
+        "table_id": "T2105",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dyslexia occurs in 10% of school age children",
+            "Dyslexia occurs in 10 percentages of school age children"
+        ],
+        "table_id": "T2105",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Epilepsy is controllable in 80% of patients.",
+            "Epilepsy is controllable in 80 percentages of patients."
+        ],
+        "table_id": "T2109",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hepatic steatosis affects under 70% of heavy drinkers.",
+            "Hepatic steatosis affects under 70 percentages of heavy drinkers."
+        ],
+        "table_id": "T2115",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The frequency of hyperthyroidism, an overactive thyroid, is 1.2% in the USA.",
+            "The frequency of hyperthyroidism, an overactive thyroid, is 1.2 percentages in the USA."
+        ],
+        "table_id": "T2136",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hyperthyroidism occurs in over 1% of the population.",
+            "Hyperthyroidism occurs in over 1 percentages of the population."
+        ],
+        "table_id": "T2136",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Less than 10% of occupants on LaMia Flight 2933 survived the crash.",
+            "Less than 10 percentages of occupants on LaMia Flight 2933 survived the crash."
+        ],
+        "table_id": "T2146",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Measles kills more than 20% of people that get it.",
+            "Measles kills more than 20 percentages of people that get it."
+        ],
+        "table_id": "T2163",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "OCD occurs in more than 2% of the population.",
+            "OCD occurs in more than 2 percentages of the population."
+        ],
+        "table_id": "T2178",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "More than 50% of crew and passengers aboard Flight 139 were eventually rescued within of a few miles of Khartoum International Airport.",
+            "More than 50 percentages of crew and passengers aboard Flight 139 were eventually rescued within of a few miles of Khartoum International Airport."
+        ],
+        "table_id": "T2219",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Syncope occurs in approximately 5% of the population.",
+            "Syncope occurs in approximately 5 percentages of the population."
+        ],
+        "table_id": "T2221",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Syncope occurs in less than 1% of the population.",
+            "Syncope occurs in less than 1 percentages of the population."
+        ],
+        "table_id": "T2221",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The math portion of the TOEFL exam accounts for 25% of the exam's total score.",
+            "The math portion of the TOEFL exam accounts for 25 percentages of the exam's total score."
+        ],
+        "table_id": "T2227",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "At most 0.5% of people will need a colonoscopy with tissue biopsies to diagnose Ulcerative colitis.",
+            "At most 0.5 percentages of people will need a colonoscopy with tissue biopsies to diagnose Ulcerative colitis."
+        ],
+        "table_id": "T2233",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ulcerative colitis affects more than 1% of the population.",
+            "Ulcerative colitis affects more than 1 percentages of the population."
+        ],
+        "table_id": "T2233",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    }
+]
