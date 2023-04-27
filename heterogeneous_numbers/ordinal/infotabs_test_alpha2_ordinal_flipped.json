@@ -1,0 +1,312 @@
+[
+    {
+        "hypothesis": [
+            "Buffalo Springfield played for some period of time in the 20th century.",
+            "Buffalo Springfield played for some period of time in the eighteenth century."
+        ],
+        "table_id": "T324",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Conversion on the Way to Damascus is a 17th century painting.",
+            "The Conversion on the Way to Damascus is a fifteenth century painting."
+        ],
+        "table_id": "T461",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Coca-Cola was first introduced in the summer months.",
+            "Coca-Cola was 20th introduced in the summer months."
+        ],
+        "table_id": "T712",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Coca-Cola was created in the 17th century.",
+            "Coca-Cola was created in the sixteenth century."
+        ],
+        "table_id": "T712",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Crucifix by Cimabue at Santa Croce is a 11th century artwork.",
+            "Crucifix by Cimabue at Santa Croce is a ninth century artwork."
+        ],
+        "table_id": "T762",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Collateral Beauty was first premiered in an Asian country.",
+            "Collateral Beauty was 11th premiered in an Asian country."
+        ],
+        "table_id": "T804",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chagatai's death occurred late in the 14th century.",
+            "Chagatai's death occurred late in the seventh century."
+        ],
+        "table_id": "T1014",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ceuta was first settled by Carthaginians.",
+            "Ceuta was 4th settled by Carthaginians."
+        ],
+        "table_id": "T1098",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charles Sumner Tainter first married in his early thirties.",
+            "Charles Sumner Tainter 20th married in his early thirties."
+        ],
+        "table_id": "T1151",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charo's first marriage lasted for more than ten years.",
+            "Charo's 19th marriage lasted for more than ten years."
+        ],
+        "table_id": "T1225",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joseph Marie Jacquard was born in the 18th century.",
+            "Joseph Marie Jacquard was born in the fourth century."
+        ],
+        "table_id": "T1418",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jin's last emperor ended his rule in the fifth century.",
+            "Jin's last emperor ended his rule in the 17th century."
+        ],
+        "table_id": "T1451",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John B. Stetson was born in the second quarter of the 19th century.",
+            "John B. Stetson was born in the 1st quarter of the thirteenth century."
+        ],
+        "table_id": "T1452",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Stetson was born in the 19th century.",
+            "John Stetson was born in the first century."
+        ],
+        "table_id": "T1452",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John B. Stetson died in the 20th century.",
+            "John B. Stetson died in the seventeenth century."
+        ],
+        "table_id": "T1452",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Justice was first published in the Fall of 2005.",
+            "Justice was 18th published in the Fall of 2005."
+        ],
+        "table_id": "T1469",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jerry Lee Lewis started performing after the half of 20th century.",
+            "Jerry Lee Lewis started performing after the half of seventeenth century."
+        ],
+        "table_id": "T1496",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Water covers about a sixth of the area of Juneau, Alaska.",
+            "Water covers about a 19th of the area of Juneau, Alaska."
+        ],
+        "table_id": "T1511",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Roebuck lived in the 18th century.",
+            "John Roebuck lived in the fourteenth century."
+        ],
+        "table_id": "T1522",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jordan Belfort married his first wife at the age of 23.",
+            "Jordan Belfort married his 4th wife at the age of 23."
+        ],
+        "table_id": "T1564",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Judith Beheading Holofernes was painted towards the end of the 16th century.",
+            "Judith Beheading Holofernes was painted towards the end of the seventeenth century."
+        ],
+        "table_id": "T1566",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kareem Abdul-Jabbar weighs more than the average 5th grade student.",
+            "Kareem Abdul-Jabbar weighs more than the average twelfth grade student."
+        ],
+        "table_id": "T1567",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The world's first iron bridge was built by multiple man.",
+            "The world's 3rd iron bridge was built by multiple man."
+        ],
+        "table_id": "T1574",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The first publication of Journey into the Mystery was before 2000.",
+            "The 16th publication of Journey into the Mystery was before 2000."
+        ],
+        "table_id": "T1634",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jimmy Carter's mother and wife do not have the same first name.",
+            "Jimmy Carter's mother and wife do not have the same 18th name."
+        ],
+        "table_id": "T1672",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joseph Glidden married his second wife in his late 30s.",
+            "Joseph Glidden married his 13th wife in his late 30s."
+        ],
+        "table_id": "T1691",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dr. John S. Pemberton lived in the 19th century.",
+            "Dr. John S. Pemberton lived in the seventh century."
+        ],
+        "table_id": "T1697",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Innuendo was recorded in the 20th century.",
+            "Innuendo was recorded in the eighteenth century."
+        ],
+        "table_id": "T1766",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Interchange is 20th century canvas painting.",
+            "Interchange is sixth century canvas painting."
+        ],
+        "table_id": "T1779",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hiraga Gennai died in the 18th century.",
+            "Hiraga Gennai died in the fifteenth century."
+        ],
+        "table_id": "T1904",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hiroshi Minagawa was born in the 20th century.",
+            "Hiroshi Minagawa was born in the sixth century."
+        ],
+        "table_id": "T1938",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

@@ -1,0 +1,792 @@
+[
+    {
+        "hypothesis": [
+            "Chibuku Shake shake was first made after the turn of the 20th century.",
+            "Chibuku Shake shake was 1st made after the turn of the twentieth century."
+        ],
+        "table_id": "T26",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Brokeback Mountain was first released in France.",
+            "Brokeback Mountain was 1st released in France."
+        ],
+        "table_id": "T110",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Nicolas Poussin painted Et in Arcadia ego in the 18th century.",
+            "Nicolas Poussin painted Et in Arcadia ego in the eighteenth century."
+        ],
+        "table_id": "T167",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jesse Ramsden was awarded the Copley Medal in the 18th century.",
+            "Jesse Ramsden was awarded the Copley Medal in the eighteenth century."
+        ],
+        "table_id": "T238",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Death Proof was the first part of the double-feature Grindhouse.",
+            "Death Proof was the 1st part of the double-feature Grindhouse."
+        ],
+        "table_id": "T285",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Death Proof is Quentin Tarantino's 10th film.",
+            "Death Proof is Quentin Tarantino's tenth film."
+        ],
+        "table_id": "T285",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jefferson Airplane has won two Grammys for its first album.",
+            "Jefferson Airplane has won two Grammys for its 1st album."
+        ],
+        "table_id": "T309",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Femme aux Bras Crois\u017ds was originally painted by Picasso in the early 20th century.",
+            "Femme aux Bras Crois\u017ds was originally painted by Picasso in the early twentieth century."
+        ],
+        "table_id": "T339",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Keith Richards fathered five sons with his first partner.",
+            "Keith Richards fathered five sons with his 1st partner."
+        ],
+        "table_id": "T401",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "James VI and I was the first of the house of Stuart to be buried in Westminster Abbey.",
+            "James VI and I was the 1st of the house of Stuart to be buried in Westminster Abbey."
+        ],
+        "table_id": "T407",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "James VI and I died in the 16th century.",
+            "James VI and I died in the sixteenth century."
+        ],
+        "table_id": "T407",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The painting Equestrian Portrait of Charles V was published in the 16th century.",
+            "The painting Equestrian Portrait of Charles V was published in the sixteenth century."
+        ],
+        "table_id": "T409",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "ClariS first became known for pop music in Korea.",
+            "ClariS 1st became known for pop music in Korea."
+        ],
+        "table_id": "T518",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "ClariS celebrates its 20th anniversary.",
+            "ClariS celebrates its twentieth anniversary."
+        ],
+        "table_id": "T518",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Cradle of Fifth is a metal rock band from England.",
+            "The Cradle of 5th is a metal rock band from England."
+        ],
+        "table_id": "T537",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour was first released in the United Kingdom before being shown in the United States.",
+            "Darkest Hour was 1st released in the United Kingdom before being shown in the United States."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Circe Offering the Cup to Ulysses is a 19th century work of art.",
+            "Circe Offering the Cup to Ulysses is a nineteenth century work of art."
+        ],
+        "table_id": "T586",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Despicable Me was Steve Carrell's first voiceover role in a movie.",
+            "Despicable Me was Steve Carrell's 1st voiceover role in a movie."
+        ],
+        "table_id": "T595",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cigar is born on October 7th 2014",
+            "Cigar is born on October seventh 2014"
+        ],
+        "table_id": "T604",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cassidy was first started writing music at the age of 5.",
+            "Cassidy was 1st started writing music at the age of 5."
+        ],
+        "table_id": "T730",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David Cassidy had both his children with his first wife.",
+            "David Cassidy had both his children with his 1st wife."
+        ],
+        "table_id": "T730",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Republic of Croatia is the third oldest country that is a member of the EU.",
+            "The Republic of Croatia is the 3rd oldest country that is a member of the EU."
+        ],
+        "table_id": "T740",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Croatia is a Republic dating back to the 7th century.",
+            "Croatia is a Republic dating back to the seventh century."
+        ],
+        "table_id": "T740",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Crooked Teeth was Colin Brittain's first production credit.",
+            "Crooked Teeth was Colin Brittain's 1st production credit."
+        ],
+        "table_id": "T742",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The name Crowded House came from when the band first performed in a frat house that was ridiculously packed.",
+            "The name Crowded House came from when the band 1st performed in a frat house that was ridiculously packed."
+        ],
+        "table_id": "T754",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Coda was Jimmy Page's first solo album.",
+            "Coda was Jimmy Page's 1st solo album."
+        ],
+        "table_id": "T755",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Crush has been around since the early 20th century.",
+            "Crush has been around since the early twentieth century."
+        ],
+        "table_id": "T773",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David with the Head of Goliath is a 17th century Italian work of art.",
+            "David with the Head of Goliath is a seventeenth century Italian work of art."
+        ],
+        "table_id": "T795",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Come on Over was the first self-produced album by \"Mutt\".",
+            "Come on Over was the 1st self-produced album by \"Mutt\"."
+        ],
+        "table_id": "T826",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Warner Music Japan was the first label to sign Day6.",
+            "Warner Music Japan was the 1st label to sign Day6."
+        ],
+        "table_id": "T832",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dazed and Confused is where Matthew Mcconaughey had his first feature-length film role.",
+            "Dazed and Confused is where Matthew Mcconaughey had his 1st feature-length film role."
+        ],
+        "table_id": "T836",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dead Poets Society was released in the 20th century.",
+            "Dead Poets Society was released in the twentieth century."
+        ],
+        "table_id": "T841",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "20th Century Fox and Marvel Entertainment distributed Deadpool 2.",
+            "twentieth Century Fox and Marvel Entertainment distributed Deadpool 2."
+        ],
+        "table_id": "T842",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Since first being settled, it took Dearborn, Michigan nearly 141 years to become a city.",
+            "Since 1st being settled, it took Dearborn, Michigan nearly 141 years to become a city."
+        ],
+        "table_id": "T847",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dearborn, Michigan was settled in the 17th century.",
+            "Dearborn, Michigan was settled in the seventeenth century."
+        ],
+        "table_id": "T847",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dear Zindagi was first released in India before being released in the United States two days later.",
+            "Dear Zindagi was 1st released in India before being released in the United States two days later."
+        ],
+        "table_id": "T849",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bridgeport is the 2nd largest city in the state of Connecticut.",
+            "Bridgeport is the second largest city in the state of Connecticut."
+        ],
+        "table_id": "T861",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kingdom of France was a government set up of France that last for almost 2 decades in the 19th century.",
+            "Kingdom of France was a government set up of France that last for almost 2 decades in the nineteenth century."
+        ],
+        "table_id": "T948",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kingdom of France lasted well into the 20th century.",
+            "Kingdom of France lasted well into the twentieth century."
+        ],
+        "table_id": "T948",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "National Television Awards has been first awarded in 1995.",
+            "National Television Awards has been 1st awarded in 1995."
+        ],
+        "table_id": "T1174",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "American Institute of Physics was founded in the 20th century.",
+            "American Institute of Physics was founded in the twentieth century."
+        ],
+        "table_id": "T1178",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Rutgers was established in the latter half of the 18th century.",
+            "Rutgers was established in the latter half of the eighteenth century."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Brandeis University is a private American university established in the 20th century.",
+            "Brandeis University is a private American university established in the twentieth century."
+        ],
+        "table_id": "T1281",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "British Comedy Awards was first awarded in 1992 and last in 2016.",
+            "British Comedy Awards was 1st awarded in 1992 and last in 2016."
+        ],
+        "table_id": "T1288",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The British Comedy Awards first award was handed out in 1990.",
+            "The British Comedy Awards 1st award was handed out in 1990."
+        ],
+        "table_id": "T1288",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It was less than five years between Tu-204 / Tu-214's first flight and it's introduction.",
+            "It was less than five years between Tu-204 / Tu-214's 1st flight and it's introduction."
+        ],
+        "table_id": "T1314",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Brie Larson first breathed air in the Fall of 1989.",
+            "Brie Larson 1st breathed air in the Fall of 1989."
+        ],
+        "table_id": "T1333",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The US Open was started early in the 20th century.",
+            "The US Open was started early in the twentieth century."
+        ],
+        "table_id": "T1337",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Augustus Larson was born in the last decade of the 18th century.",
+            "John Augustus Larson was born in the last decade of the eighteenth century."
+        ],
+        "table_id": "T1431",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jodhpur was settled after the turn of the 15th centurry.",
+            "Jodhpur was settled after the turn of the fifteenth centurry."
+        ],
+        "table_id": "T1434",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joseph Stalin was married to his first wife for longer than he was married to his second wife.",
+            "Joseph Stalin was married to his 1st wife for longer than he was married to his 2nd wife."
+        ],
+        "table_id": "T1437",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joanne first came out in the Fall of 2016.",
+            "Joanne 1st came out in the Fall of 2016."
+        ],
+        "table_id": "T1467",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Parthasarathy Srinivasan won his first award later in the 20th Century.",
+            "Parthasarathy Srinivasan won his 1st award later in the twentieth Century."
+        ],
+        "table_id": "T1481",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Chevalier French Award was the first award that Kamal Haasan won.",
+            "The Chevalier French Award was the 1st award that Kamal Haasan won."
+        ],
+        "table_id": "T1481",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bombardier was founded in the 19th century.",
+            "Bombardier was founded in the nineteenth century."
+        ],
+        "table_id": "T1488",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It was before the turn of the 20th century that Joseph Stalin abolished the office of General Secretary.",
+            "It was before the turn of the twentieth century that Joseph Stalin abolished the office of General Secretary."
+        ],
+        "table_id": "T1501",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jon Bon Jovi was kicked out of his first high school, which is why he went to two of them.",
+            "Jon Bon Jovi was kicked out of his 1st high school, which is why he went to two of them."
+        ],
+        "table_id": "T1504",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "King Abdullah the Second rules from the largest city in the Hashemite Kingdom of Jordan.",
+            "King Abdullah the 2nd rules from the largest city in the Hashemite Kingdom of Jordan."
+        ],
+        "table_id": "T1506",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joe Biden has a middle name comprised of a popular female first name.",
+            "Joe Biden has a middle name comprised of a popular female 1st name."
+        ],
+        "table_id": "T1510",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joe Biden had all his children with his second wife.",
+            "Joe Biden had all his children with his 2nd wife."
+        ],
+        "table_id": "T1510",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jimi Hendrix was first signed by Capitol Records.",
+            "Jimi Hendrix was 1st signed by Capitol Records."
+        ],
+        "table_id": "T1529",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "More people saw John Carter on March 9th than on February 22, 2012.",
+            "More people saw John Carter on March ninth than on February 22, 2012."
+        ],
+        "table_id": "T1536",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jupiter et S\u017dm\u017dl\u017d was painted in the 20th century.",
+            "Jupiter et S\u017dm\u017dl\u017d was painted in the twentieth century."
+        ],
+        "table_id": "T1554",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jugger was first played towards the end of the 20th century.",
+            "Jugger was 1st played towards the end of the twentieth century."
+        ],
+        "table_id": "T1593",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jennifer Anne Garner was married when she first began her career.",
+            "Jennifer Anne Garner was married when she 1st began her career."
+        ],
+        "table_id": "T1603",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Josef Mengele married his first wife after his 28th birthday.",
+            "Josef Mengele married his 1st wife after his 28th birthday."
+        ],
+        "table_id": "T1613",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Josef Mengele's first marriage lasted for more than a decade.",
+            "Josef Mengele's 1st marriage lasted for more than a decade."
+        ],
+        "table_id": "T1613",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Josef Mengele received the Black Badge for the Wounded after he got the Iron Cross First Class award.",
+            "Josef Mengele received the Black Badge for the Wounded after he got the Iron Cross 1st Class award."
+        ],
+        "table_id": "T1613",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Josef Mengele was born late in the 19th century.",
+            "Josef Mengele was born late in the nineteenth century."
+        ],
+        "table_id": "T1613",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jefferson Airplane was a rock band that performed in multiple decades during the 20th century.",
+            "Jefferson Airplane was a rock band that performed in multiple decades during the twentieth century."
+        ],
+        "table_id": "T1629",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joy Mangano first married in her early twenties.",
+            "Joy Mangano 1st married in her early twenties."
+        ],
+        "table_id": "T1676",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jedediah Strutt was an 18th century Englishman.",
+            "Jedediah Strutt was an eighteenth century Englishman."
+        ],
+        "table_id": "T1693",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jedediah Strutt was born in the 18th century.",
+            "Jedediah Strutt was born in the eighteenth century."
+        ],
+        "table_id": "T1693",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Judwaa 2 is the first movie produced by Sajid Nadiadwala.",
+            "Judwaa 2 is the 1st movie produced by Sajid Nadiadwala."
+        ],
+        "table_id": "T1698",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sir John Goldring's 2nd inquest was before the Hillsborough Independent Panel.",
+            "Sir John Goldring's second inquest was before the Hillsborough Independent Panel."
+        ],
+        "table_id": "T1790",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ithaca is the third most populated city in New York.",
+            "Ithaca is the 3rd most populated city in New York."
+        ],
+        "table_id": "T1815",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hip, Hip, Hurrah! was painted in the 19th century.",
+            "Hip, Hip, Hurrah! was painted in the nineteenth century."
+        ],
+        "table_id": "T1891",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hip, Hip, Hurrah! is a 19th century work of art.",
+            "Hip, Hip, Hurrah! is a nineteenth century work of art."
+        ],
+        "table_id": "T1891",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "In a Roman Osteria is a 19th century work of art.",
+            "In a Roman Osteria is a nineteenth century work of art."
+        ],
+        "table_id": "T1988",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    }
+]

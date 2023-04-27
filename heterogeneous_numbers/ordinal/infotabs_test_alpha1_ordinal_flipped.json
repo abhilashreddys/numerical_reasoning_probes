@@ -1,0 +1,362 @@
+[
+    {
+        "hypothesis": [
+            "Equestrian Portrait of Charles I was painted in the 17th century.",
+            "Equestrian Portrait of Charles I was painted in the seventh century."
+        ],
+        "table_id": "T64",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Czech Republic gained independence in late the 20th century.",
+            "Czech Republic gained independence in late the first century."
+        ],
+        "table_id": "T323",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Children of Bodom went by a different name their first four years of performing.",
+            "Children of Bodom went by a different name their 11th four years of performing."
+        ],
+        "table_id": "T435",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The first issue of Crisis on Infinite Earths was released in spring of 1985.",
+            "The 4th issue of Crisis on Infinite Earths was released in spring of 1985."
+        ],
+        "table_id": "T535",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Denver, Colorado is an American city founded in the 19th century.",
+            "Denver, Colorado is an American city founded in the second century."
+        ],
+        "table_id": "T536",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Denver City and County were consolidated a few years after the turn of the 20th century.",
+            "Denver City and County were consolidated a few years after the turn of the fifth century."
+        ],
+        "table_id": "T536",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Close Encounters of the Third Kind was a Hollywood film, written and directed by a famous director.",
+            "Close Encounters of the 2nd Kind was a Hollywood film, written and directed by a famous director."
+        ],
+        "table_id": "T578",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Close Encounters of the Third Kind is science fiction film directed by Stephen Spielberg.",
+            "Close Encounters of the 5th Kind is science fiction film directed by Stephen Spielberg."
+        ],
+        "table_id": "T578",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Close Encounters of the Third Kind grossed over a quarter billion dollars at the box office over it's budget.",
+            "Close Encounters of the 7th Kind grossed over a quarter billion dollars at the box office over it's budget."
+        ],
+        "table_id": "T578",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dennis Gabor was a 20th century Nobel Price winning Physicist..",
+            "Dennis Gabor was a second century Nobel Price winning Physicist.."
+        ],
+        "table_id": "T688",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "David with the Head of Goliath was painted in the 17th century.",
+            "David with the Head of Goliath was painted in the twentieth century."
+        ],
+        "table_id": "T794",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "David with the Head of Goliath was completed in the 17th Century.",
+            "David with the Head of Goliath was completed in the first Century."
+        ],
+        "table_id": "T794",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Columbus, Georgia was founded in the 19th century.",
+            "Columbus, Georgia was founded in the twentieth century."
+        ],
+        "table_id": "T822",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Boy Peeling Fruit is a 16th century European work of art.",
+            "Boy Peeling Fruit is a fifteenth century European work of art."
+        ],
+        "table_id": "T1010",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Caravaggio painted Boy Peeling Fruit towards the end of the 16th Century.",
+            "Caravaggio painted Boy Peeling Fruit towards the end of the ninth Century."
+        ],
+        "table_id": "T1010",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The first Romanian Footballer of the Year award was handed out in 1966.",
+            "The 6th Romanian Footballer of the Year award was handed out in 1966."
+        ],
+        "table_id": "T1164",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Atari 2600 also known as Atari VCS is manufactured Atari, Inc. is a second generation home video game console.",
+            "Atari 2600 also known as Atari VCS is manufactured Atari, Inc. is a 11th generation home video game console."
+        ],
+        "table_id": "T1241",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The last decade of the 20th century is when Kaya Scodelario was born.",
+            "The last decade of the fourth century is when Kaya Scodelario was born."
+        ],
+        "table_id": "T1404",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kazakh Khanate was disestablished at the turn of the 19th century.",
+            "Kazakh Khanate was disestablished at the turn of the third century."
+        ],
+        "table_id": "T1406",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kareem Abdul-Jabbar was a first round pick for basketball.",
+            "Kareem Abdul-Jabbar was a 19th round pick for basketball."
+        ],
+        "table_id": "T1449",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Judith and the Head of Holofernes is a 20th century work of art.",
+            "Judith and the Head of Holofernes is a eighth century work of art."
+        ],
+        "table_id": "T1491",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The birth of John Napier happened right at the mid point of the 16th century.",
+            "The birth of John Napier happened right at the mid point of the twentieth century."
+        ],
+        "table_id": "T1500",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Josta was first made in the last 10 years of the 20th century.",
+            "Josta was 18th made in the last 10 years of the sixteenth century."
+        ],
+        "table_id": "T1508",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John McCain had his first political victory in the 90s.",
+            "John McCain had his 4th political victory in the 90s."
+        ],
+        "table_id": "T1512",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Summer of 1993 is when Jurassic Park first made it's premiere.",
+            "The Summer of 1993 is when Jurassic Park 10th made it's premiere."
+        ],
+        "table_id": "T1518",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The East-West Jerusalem division occurred in Jerusalem near the turn of the 20th century.",
+            "The East-West Jerusalem division occurred in Jerusalem near the turn of the second century."
+        ],
+        "table_id": "T1557",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "K?roly Zipernowsky was born in 19th century Vienna.",
+            "K?roly Zipernowsky was born in sixth century Vienna."
+        ],
+        "table_id": "T1600",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Johann Nikolaus von Dreyse was born in the last couple of decades of the 18th century.",
+            "Johann Nikolaus von Dreyse was born in the last couple of decades of the fifteenth century."
+        ],
+        "table_id": "T1612",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jupiter and Io is a 16th century work of art.",
+            "Jupiter and Io is a ninth century work of art."
+        ],
+        "table_id": "T1618",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jupiter and lo, an oil painting at the Kunsthistorisches Museum, is a work from the 16th century.",
+            "Jupiter and lo, an oil painting at the Kunsthistorisches Museum, is a work from the eleventh century."
+        ],
+        "table_id": "T1618",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Julian Assange was married for over a decade in his first marriage.",
+            "Julian Assange was married for over a decade in his 4th marriage."
+        ],
+        "table_id": "T1665",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Johannes Gutenberg was born about the turn of the 15th century.",
+            "Johannes Gutenberg was born about the turn of the seventeenth century."
+        ],
+        "table_id": "T1677",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kas was introduced within 10 years of the turn of the 20th century.",
+            "Kas was introduced within 10 years of the turn of the first century."
+        ],
+        "table_id": "T1702",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Cho was born in the 20th century.",
+            "John Cho was born in the seventh century."
+        ],
+        "table_id": "T1713",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Interior is a 19th century work of art.",
+            "Interior is a third century work of art."
+        ],
+        "table_id": "T1784",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Interior was completed in the 18th century.",
+            "Interior was completed in the fifteenth century."
+        ],
+        "table_id": "T1784",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

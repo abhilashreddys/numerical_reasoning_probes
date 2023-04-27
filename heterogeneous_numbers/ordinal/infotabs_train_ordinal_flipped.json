@@ -1,0 +1,2182 @@
+[
+    {
+        "hypothesis": [
+            "The Italo-Ethiopian War was late in the 18th century.",
+            "The Italo-Ethiopian War was late in the thirteenth century."
+        ],
+        "table_id": "T16",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "James Paul Marsden was born in the 19th century.",
+            "James Paul Marsden was born in the fourteenth century."
+        ],
+        "table_id": "T18",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chess was invented in the eighteenth century.",
+            "Chess was invented in the 13th century."
+        ],
+        "table_id": "T38",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Archie Horror, the publisher, is planning a special edition to celebrate the upcoming 10th anniversary of Chilling Adventures of Sabrina.",
+            "Archie Horror, the publisher, is planning a special edition to celebrate the upcoming nineteenth anniversary of Chilling Adventures of Sabrina."
+        ],
+        "table_id": "T442",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charles Lindbergh first learned to fly in 1929.",
+            "Charles Lindbergh 14th learned to fly in 1929."
+        ],
+        "table_id": "T97",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "the painting \"Isabella\" was painted in the 17th century.",
+            "the painting \"Isabella\" was painted in the nineteenth century."
+        ],
+        "table_id": "T108",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Christ of Saint John of the Cross caused a lot of controversy when it was first revealed.",
+            "Christ of Saint John of the Cross caused a lot of controversy when it was 7th revealed."
+        ],
+        "table_id": "T123",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Frank was Kathy's first husband.",
+            "Frank was Kathy's 2nd husband."
+        ],
+        "table_id": "T128",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sir John Harington only lived in the 16th century.",
+            "Sir John Harington only lived in the eighteenth century."
+        ],
+        "table_id": "T142",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cabaret Scene was painted in the middle part of the 20th century.",
+            "Cabaret Scene was painted in the middle part of the first century."
+        ],
+        "table_id": "T147",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kees Schouhamer Immink was born in the 17th century.",
+            "Kees Schouhamer Immink was born in the thirteenth century."
+        ],
+        "table_id": "T159",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Caesar died in the middle of the 20th century.",
+            "Caesar died in the middle of the sixth century."
+        ],
+        "table_id": "T161",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "James T. Russell invented the compact disc in the first quarter of the 20th century.",
+            "James T. Russell invented the compact disc in the 4th quarter of the third century."
+        ],
+        "table_id": "T163",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Estonia first declared independence in the summer of 1917.",
+            "Estonia 5th declared independence in the summer of 1917."
+        ],
+        "table_id": "T177",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Republic of Estonia's independence was restored in the first half of the 20th century.",
+            "The Republic of Estonia's independence was restored in the 5th half of the thirteenth century."
+        ],
+        "table_id": "T177",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Haut-M\u017ddoc AOC was established late in the 20th century.",
+            "Haut-M\u017ddoc AOC was established late in the twelfth century."
+        ],
+        "table_id": "T187",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jack LaLanne was divorced from his second wife when he died.",
+            "Jack LaLanne was divorced from his 7th wife when he died."
+        ],
+        "table_id": "T1873",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John McCain first entered office in 2001.",
+            "John McCain 6th entered office in 2001."
+        ],
+        "table_id": "T213",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jonathan Tweet was born in the first half of the 20th century.",
+            "Jonathan Tweet was born in the 10th half of the eighteenth century."
+        ],
+        "table_id": "T217",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Foo Fighters were formed in the second to last decade of the 20th century.",
+            "The Foo Fighters were formed in the 13th to last decade of the second century."
+        ],
+        "table_id": "T219",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Foo Fighters were active in the 18th century.",
+            "The Foo Fighters were active in the eighth century."
+        ],
+        "table_id": "T219",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Christ Crucified was painted in the 14th century.",
+            "Christ Crucified was painted in the sixth century."
+        ],
+        "table_id": "T316",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Christ Crucified was painted in the 18th century.",
+            "Christ Crucified was painted in the nineteenth century."
+        ],
+        "table_id": "T316",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The City2Surf race first took place in the Spring of 1971.",
+            "The City2Surf race 16th took place in the Spring of 1971."
+        ],
+        "table_id": "T583",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Keane was active in the 19th century.",
+            "Keane was active in the third century."
+        ],
+        "table_id": "T251",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cyllene was foaled in the 20th century.",
+            "Cyllene was foaled in the fourth century."
+        ],
+        "table_id": "T279",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Christina's World was created in the latter half of the 20th century.",
+            "Christina's World was created in the latter half of the sixth century."
+        ],
+        "table_id": "T320",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Mr. Corbyn's first school was North London Polytechnic.",
+            "Mr. Corbyn's 18th school was North London Polytechnic."
+        ],
+        "table_id": "T341",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sofia is the second most populated city in Bulgaria.",
+            "Sofia is the 8th most populated city in Bulgaria."
+        ],
+        "table_id": "T357",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Bryan Cranston was first divorced before getting into show business.",
+            "Bryan Cranston was 6th divorced before getting into show business."
+        ],
+        "table_id": "T385",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Isaac Singer died in the latter half of the 18th century.",
+            "Isaac Singer died in the latter half of the seventeenth century."
+        ],
+        "table_id": "T1736",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Universal Pictures first released 'Jurassic World: Fallen Kingdom' in June.",
+            "Universal Pictures 8th released 'Jurassic World: Fallen Kingdom' in June."
+        ],
+        "table_id": "T397",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Explosions in the Sky released their first album in 2005.",
+            "Explosions in the Sky released their 10th album in 2005."
+        ],
+        "table_id": "T410",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Composition with Red Blue and Yellow was painted in the 19th century.",
+            "Composition with Red Blue and Yellow was painted in the fourteenth century."
+        ],
+        "table_id": "T427",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Children's Games is a 15th century masterpiece.",
+            "Children's Games is a nineteenth century masterpiece."
+        ],
+        "table_id": "T438",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The musician Chris Cornell met his first wife before becoming famous.",
+            "The musician Chris Cornell met his 19th wife before becoming famous."
+        ],
+        "table_id": "T475",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Christ in the House of Martha and Mary is a 16th century work of art.",
+            "Christ in the House of Martha and Mary is a eighteenth century work of art."
+        ],
+        "table_id": "T498",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Diego Vel\u2021zquez was a 16th century portrait artist",
+            "Diego Vel\u2021zquez was a thirteenth century portrait artist"
+        ],
+        "table_id": "T498",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Daniel Dingel died in the 20th century.",
+            "Daniel Dingel died in the sixteenth century."
+        ],
+        "table_id": "T505",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Crazy, Stupid, Love was the first movie Steve Carrell directed and produced.",
+            "Crazy, Stupid, Love was the 8th movie Steve Carrell directed and produced."
+        ],
+        "table_id": "T510",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dexter Holland first perfomed with the label Atlantic Records when he joined The Offspring.",
+            "Dexter Holland 19th perfomed with the label Atlantic Records when he joined The Offspring."
+        ],
+        "table_id": "T515",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Deep Throat was the first movie to be distributed by the Branston Distrubting Company in the 1980's.",
+            "Deep Throat was the 20th movie to be distributed by the Branston Distrubting Company in the 1980's."
+        ],
+        "table_id": "T533",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Criminal is entirely set in French and was released first in France before a box office run in the United States.",
+            "Criminal is entirely set in French and was released 5th in France before a box office run in the United States."
+        ],
+        "table_id": "T547",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "It is the 2nd largest megacity in the world",
+            "It is the sixth largest megacity in the world"
+        ],
+        "table_id": "T593",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Delhi is founded in 6th century B.C.",
+            "Delhi is founded in eleventh century B.C."
+        ],
+        "table_id": "T615",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Detroit Grand Prix has been held every 3rd weekend of April since 1983.",
+            "The Detroit Grand Prix has been held every fifth weekend of April since 1983."
+        ],
+        "table_id": "T616",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dennis Rodman attended Oklahoma State University and was drafted in the 1st round of the NBA draft.",
+            "Dennis Rodman attended Oklahoma State University and was drafted in the twentieth round of the NBA draft."
+        ],
+        "table_id": "T618",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dalian has been occupied by both the United States and Russia over the 17th century.",
+            "Dalian has been occupied by both the United States and Russia over the fourteenth century."
+        ],
+        "table_id": "T620",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sir Clive Sinclair married his second wife in his 50s.",
+            "Sir Clive Sinclair married his 11th wife in his 50s."
+        ],
+        "table_id": "T630",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dan Stevens retired from acting in 2013 after having his 5th child.",
+            "Dan Stevens retired from acting in 2013 after having his fourteenth child."
+        ],
+        "table_id": "T644",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dave Morin was first married in 1999 to Brit when they met at Colorado State, his alma mater.",
+            "Dave Morin was 12th married in 1999 to Brit when they met at Colorado State, his alma mater."
+        ],
+        "table_id": "T655",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Catherine the great purchased this painting when she was on her first Tour of Europe as a teenager.",
+            "Catherine the great purchased this painting when she was on her 12th Tour of Europe as a teenager."
+        ],
+        "table_id": "T668",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Columbus allowed his brothers to go on his third voyage.",
+            "Columbus allowed his brothers to go on his 9th voyage."
+        ],
+        "table_id": "T670",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cloud Computing won it's first race in 2009 under the training of William Lawrence.",
+            "Cloud Computing won it's 12th race in 2009 under the training of William Lawrence."
+        ],
+        "table_id": "T687",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Coalbrookdale by Night is a 15th century painting.",
+            "Coalbrookdale by Night is a tenth century painting."
+        ],
+        "table_id": "T689",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Daim was first introduced in the year 1952",
+            "Daim was 14th introduced in the year 1952"
+        ],
+        "table_id": "T693",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Damian Marley dropped his first album in 1990.",
+            "Damian Marley dropped his 3rd album in 1990."
+        ],
+        "table_id": "T705",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "David Bowie's first wife died shortly after their marriage.",
+            "David Bowie's 9th wife died shortly after their marriage."
+        ],
+        "table_id": "T717",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Gestetner invented his first tem in the 1840's around his 21st birthday.",
+            "Gestetner invented his 4th tem in the 1840's around his 21st birthday."
+        ],
+        "table_id": "T751",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "David Schwarz was still married to Melanie in the twentieth century.",
+            "David Schwarz was still married to Melanie in the 9th century."
+        ],
+        "table_id": "T781",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cola Turka first came out in 2002 in Turkey.",
+            "Cola Turka 12th came out in 2002 in Turkey."
+        ],
+        "table_id": "T782",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cola Turka was first introduced in 2005.",
+            "Cola Turka was 18th introduced in 2005."
+        ],
+        "table_id": "T782",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Culver City, California was incorporated in the 19th century.",
+            "Culver City, California was incorporated in the sixteenth century."
+        ],
+        "table_id": "T809",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "People ate Butterfingers in the 19th century.",
+            "People ate Butterfingers in the tenth century."
+        ],
+        "table_id": "T862",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cebu City was founded as a Spanish colony in the 14th century.",
+            "Cebu City was founded as a Spanish colony in the seventeenth century."
+        ],
+        "table_id": "T872",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chengdu was established the 3rd century AD.",
+            "Chengdu was established the first century AD."
+        ],
+        "table_id": "T873",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Boulder, Colorado was settled and incorporated in 18th century.",
+            "Boulder, Colorado was settled and incorporated in fourth century."
+        ],
+        "table_id": "T880",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Chandos Portrait of William Shakespeare is believed to have been painted and completed in the 18th century.",
+            "The Chandos Portrait of William Shakespeare is believed to have been painted and completed in the fourteenth century."
+        ],
+        "table_id": "T881",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charles the second lived for over one hundred years.",
+            "Charles the 11th lived for over one hundred years."
+        ],
+        "table_id": "T888",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Piet Mondrian was an 18th century New York artist.",
+            "Piet Mondrian was an nineteenth century New York artist."
+        ],
+        "table_id": "T892",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Pepsi first introduced Caffeine Free Pepsi in 1985.",
+            "Pepsi 3rd introduced Caffeine Free Pepsi in 1985."
+        ],
+        "table_id": "T896",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Catherine II lived and died in the 17th century.",
+            "Catherine II lived and died in the nineteenth century."
+        ],
+        "table_id": "T903",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kingdom of Cambodia enjoyed much peace in the 20th century..",
+            "Kingdom of Cambodia enjoyed much peace in the second century.."
+        ],
+        "table_id": "T916",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Breaking Home Ties is an 19th century American classic painting.",
+            "Breaking Home Ties is an fourteenth century American classic painting."
+        ],
+        "table_id": "T933",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Channel Orange was first released twenty years ago.",
+            "Channel Orange was 4th released twenty years ago."
+        ],
+        "table_id": "T1209",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Calumny of Apelles was painted during the early 16th century.",
+            "The Calumny of Apelles was painted during the early tenth century."
+        ],
+        "table_id": "T936",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Calumny of Apelles was lost during a 15th century war and it's current location is unknown.",
+            "The Calumny of Apelles was lost during a eleventh century war and it's current location is unknown."
+        ],
+        "table_id": "T936",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cagayan de Oro became a city in the 19th century.",
+            "Cagayan de Oro became a city in the twentieth century."
+        ],
+        "table_id": "T952",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Caf\u017d Terrace at Night was finished right after the turn of the 20th century.",
+            "Caf\u017d Terrace at Night was finished right after the turn of the eighth century."
+        ],
+        "table_id": "T960",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Captain Phillips was first released in London before being released in the United States.",
+            "Captain Phillips was 4th released in London before being released in the United States."
+        ],
+        "table_id": "T962",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Bulleit Bourbon was introduced in 19th century Ireland.",
+            "Bulleit Bourbon was introduced in second century Ireland."
+        ],
+        "table_id": "T966",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Bulleit Bourbon was first introduced in 1997.",
+            "Bulleit Bourbon was 13th introduced in 1997."
+        ],
+        "table_id": "T966",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Buddy Clinton was the first dog of France.",
+            "Buddy Clinton was the 16th dog of France."
+        ],
+        "table_id": "T971",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Busan is the second largest city in Japan.",
+            "Busan is the 4th largest city in Japan."
+        ],
+        "table_id": "T975",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cerebus the Aardvark published its first issue in the springtime.",
+            "Cerebus the Aardvark published its 6th issue in the springtime."
+        ],
+        "table_id": "T977",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carol was first released in the winter.",
+            "Carol was 17th released in the winter."
+        ],
+        "table_id": "T981",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Death Grips produced Third Worlds and Harvest.",
+            "Death Grips produced 1st Worlds and Harvest."
+        ],
+        "table_id": "T989",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Bridget Jones's Baby was first released in New York City before released in London.",
+            "Bridget Jones's Baby was 3rd released in New York City before released in London."
+        ],
+        "table_id": "T990",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charlemagne was a king who reigned for over 4 decades in the 9th century.",
+            "Charlemagne was a king who reigned for over 4 decades in the nineteenth century."
+        ],
+        "table_id": "T1000",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charlemagne lost an election and did not serve a second term.",
+            "Charlemagne lost an election and did not serve a 9th term."
+        ],
+        "table_id": "T1000",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Central Intelligence first aired in the U.K. before its box office run started in the United States.",
+            "Central Intelligence 10th aired in the U.K. before its box office run started in the United States."
+        ],
+        "table_id": "T1004",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Cardsharps was Caravaggio's only painting completed after the turn of the 17th century.",
+            "The Cardsharps was Caravaggio's only painting completed after the turn of the tenth century."
+        ],
+        "table_id": "T1005",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Changchun was incorporated as a town and city during the 19th century.",
+            "Changchun was incorporated as a town and city during the sixteenth century."
+        ],
+        "table_id": "T1022",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Californication is remarkable for having been one of the first albums to have been recorded in a single session.",
+            "Californication is remarkable for having been one of the 10th albums to have been recorded in a single session."
+        ],
+        "table_id": "T1235",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Bright was a big budget film that featuring a cast of unknown first time actors.",
+            "Bright was a big budget film that featuring a cast of unknown 6th time actors."
+        ],
+        "table_id": "T1036",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Bright first aired on Netflix in the United Kingdom before a physical showing in Regency Village.",
+            "Bright 18th aired on Netflix in the United Kingdom before a physical showing in Regency Village."
+        ],
+        "table_id": "T1036",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Big Hit first signed BTS in 2011.",
+            "Big Hit 3rd signed BTS in 2011."
+        ],
+        "table_id": "T1188",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cherry Bomb was the first album by Tyler, the Creator to run over 2 hours long.",
+            "Cherry Bomb was the 20th album by Tyler, the Creator to run over 2 hours long."
+        ],
+        "table_id": "T1169",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Paramount Pictures distributed Braveheart in the country where it was first released.",
+            "Paramount Pictures distributed Braveheart in the country where it was 19th released."
+        ],
+        "table_id": "T1054",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Bullet Points' first publication is less than ten years old.",
+            "Bullet Points' 8th publication is less than ten years old."
+        ],
+        "table_id": "T1075",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The movie was first released in early 1985 in the United States before airing in U.K theaters.",
+            "The movie was 15th released in early 1985 in the United States before airing in U.K theaters."
+        ],
+        "table_id": "T1080",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Casper passed away before his 10th birthday in Scotland.",
+            "Casper passed away before his fifteenth birthday in Scotland."
+        ],
+        "table_id": "T1093",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cheetos were first introduced in the second half of the 20th century.",
+            "Cheetos were 12th introduced in the 19th half of the eleventh century."
+        ],
+        "table_id": "T1105",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cheetos were first released during the Vietnam War.",
+            "Cheetos were 5th released during the Vietnam War."
+        ],
+        "table_id": "T1105",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Calgary was founded in the early 20th century and is named after the hockey team, the Calgary Flames.",
+            "Calgary was founded in the early eighteenth century and is named after the hockey team, the Calgary Flames."
+        ],
+        "table_id": "T1109",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "University of Wisconsin\u00d0Madison was established around the turn of the 19th century.",
+            "University of Wisconsin\u00d0Madison was established around the turn of the fifteenth century."
+        ],
+        "table_id": "T1154",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Theresa Wallach was the second International Vice-President of WIMA.",
+            "Theresa Wallach was the 9th International Vice-President of WIMA."
+        ],
+        "table_id": "T1155",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Bruce Springsteen was born just after the turn of the 20th century.",
+            "Bruce Springsteen was born just after the turn of the sixth century."
+        ],
+        "table_id": "T1167",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ilyushin Il-96's first flight was on 28 September 1990 and its unit cost is US$ 60\u00d070 million",
+            "Ilyushin Il-96's 2nd flight was on 28 September 1990 and its unit cost is US$ 60\u00d070 million"
+        ],
+        "table_id": "T1172",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Patronal Medal was first awarded in 1972 and its winner get monetary reward of US$ 10 million.",
+            "Patronal Medal was 11th awarded in 1972 and its winner get monetary reward of US$ 10 million."
+        ],
+        "table_id": "T1185",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "AirBaltic A220-300 made its first flight with Korean Air.",
+            "AirBaltic A220-300 made its 7th flight with Korean Air."
+        ],
+        "table_id": "T1192",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers was found early in the 19th century.",
+            "The International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers was found early in the tenth century."
+        ],
+        "table_id": "T1220",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charles Cros was an inventor who created the first fax machine.",
+            "Charles Cros was an inventor who created the 9th fax machine."
+        ],
+        "table_id": "T1236",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Caitlyn Jenner's first spouse was Linda Thompson",
+            "Caitlyn Jenner's 14th spouse was Linda Thompson"
+        ],
+        "table_id": "T1242",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Alfred Nobel first received the Nobel Peace Prize over 120 years ago.",
+            "Alfred Nobel 18th received the Nobel Peace Prize over 120 years ago."
+        ],
+        "table_id": "T1255",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "No artists worked in the hip hop genre in the second decade of the 21st century.",
+            "No artists worked in the hip hop genre in the 14th decade of the 21st century."
+        ],
+        "table_id": "T1263",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Borobudur, although it has been around since the 9th century, has never been restored.",
+            "Borobudur, although it has been around since the nineteenth century, has never been restored."
+        ],
+        "table_id": "T1298",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Borobudur was built in the 20th century.",
+            "Borobudur was built in the sixteenth century."
+        ],
+        "table_id": "T1298",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Borobudur was restored in the early part of the 19th century.",
+            "Borobudur was restored in the early part of the seventeenth century."
+        ],
+        "table_id": "T1298",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charles Stark Draper was a 19th century scientist that taught at the Massachusetts Institute of Technology.",
+            "Charles Stark Draper was a thirteenth century scientist that taught at the Massachusetts Institute of Technology."
+        ],
+        "table_id": "T1321",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The first Alley Award was given out in the early 1940's.",
+            "The 6th Alley Award was given out in the early 1940's."
+        ],
+        "table_id": "T1323",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Alley Award was first awarded in 1960 at Academy Con.",
+            "Alley Award was 18th awarded in 1960 at Academy Con."
+        ],
+        "table_id": "T1323",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Makoto Konagai is leader of an organization that was founded in the second half of the twentieth century.",
+            "Makoto Konagai is leader of an organization that was founded in the 13th half of the 14th century."
+        ],
+        "table_id": "T1326",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The University of Chicago was established in the middle of the 19th century.",
+            "The University of Chicago was established in the middle of the sixteenth century."
+        ],
+        "table_id": "T1346",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Derby County placed first in 2018\u00d019 Championship league",
+            "Derby County placed 12th in 2018\u00d019 Championship league"
+        ],
+        "table_id": "T1356",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charlie Sheen got married for his third time in 2006.",
+            "Charlie Sheen got married for his 10th time in 2006."
+        ],
+        "table_id": "T1380",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The first edition was played in 1881-82 and the last edition was played in 2018-19.",
+            "The 7th edition was played in 1881-82 and the last edition was played in 2018-19."
+        ],
+        "table_id": "T1381",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Ashes first edition was in the early 1700's.",
+            "The Ashes 11th edition was in the early 1700's."
+        ],
+        "table_id": "T1381",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Gallic Wars took place in the early 16th century.",
+            "The Gallic Wars took place in the early thirteenth century."
+        ],
+        "table_id": "T1384",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Purple Heart was first awarded in the early 1800's.",
+            "The Purple Heart was 5th awarded in the early 1800's."
+        ],
+        "table_id": "T1387",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Robison completed his Glasgow University studies in the 19th Century.",
+            "Robison completed his Glasgow University studies in the fourteenth Century."
+        ],
+        "table_id": "T1411",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Phillip Stamos married his second wife Caitlin McHugh when he was 40.",
+            "John Phillip Stamos married his 15th wife Caitlin McHugh when he was 40."
+        ],
+        "table_id": "T1424",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Stamos was first married in 2018.",
+            "John Stamos was 7th married in 2018."
+        ],
+        "table_id": "T1424",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Keen Ice had more second place finishes than third place finishes in his career.",
+            "Keen Ice had more 15th place finishes than 6th place finishes in his career."
+        ],
+        "table_id": "T1460",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Karl von Terzaghi only lived in the 20th century.",
+            "Karl von Terzaghi only lived in the seventh century."
+        ],
+        "table_id": "T1472",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Keith Carradine was married to his second wife for longer than his second wife.",
+            "Keith Carradine was married to his 13th wife for longer than his 13th wife."
+        ],
+        "table_id": "T1475",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kalman Kando lived his whole life in the 19th century.",
+            "Kalman Kando lived his whole life in the seventh century."
+        ],
+        "table_id": "T1499",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kamala Harris was married late in the 20th century.",
+            "Kamala Harris was married late in the twelfth century."
+        ],
+        "table_id": "T1528",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Artemisia Gentileschi finished Judith Slaying Holofernes in the late 17th century.",
+            "Artemisia Gentileschi finished Judith Slaying Holofernes in the late sixth century."
+        ],
+        "table_id": "T1533",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Tony Rosato had first billing in Kaput and Z\u0161sky: The Ultimate Obliterators.",
+            "Tony Rosato had 13th billing in Kaput and Z\u0161sky: The Ultimate Obliterators."
+        ],
+        "table_id": "T1556",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Death finally reached Sir John Harington in the 16th century.",
+            "Death finally reached Sir John Harington in the tenth century."
+        ],
+        "table_id": "T1572",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jessica Chastain got married in the 20th century.",
+            "Jessica Chastain got married in the eleventh century."
+        ],
+        "table_id": "T1577",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joaqu\u2019n Guzm\u2021n has been wanted since late in the 20th century.",
+            "Joaqu\u2019n Guzm\u2021n has been wanted since late in the tenth century."
+        ],
+        "table_id": "T1596",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dunlop was the first to patent the pneumatic tire.",
+            "Dunlop was the 20th to patent the pneumatic tire."
+        ],
+        "table_id": "T1610",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Boyd Dunlop was born in the second half of the 19th century.",
+            "John Boyd Dunlop was born in the 4th half of the sixth century."
+        ],
+        "table_id": "T1610",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Julianne Moore's first marriage lasted more than a decade.",
+            "Julianne Moore's 2nd marriage lasted more than a decade."
+        ],
+        "table_id": "T1616",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joan Baez was born in the first half of the 19th century.",
+            "Joan Baez was born in the 13th half of the seventh century."
+        ],
+        "table_id": "T1620",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jet Li was first married before he began working in the film industry.",
+            "Jet Li was 4th married before he began working in the film industry."
+        ],
+        "table_id": "T1627",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kara-Khanid Khanate was disestablished in the second decade of the 12th century.",
+            "Kara-Khanid Khanate was disestablished in the eighth decade of the eighth century."
+        ],
+        "table_id": "T1631",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Angela Eagle began serving as Shadow First Secretary under Jeremy Corbyn in 2014.",
+            "Angela Eagle began serving as Shadow 4th Secretary under Jeremy Corbyn in 2014."
+        ],
+        "table_id": "T1658",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sir Ian Wilmut was born in the latter part of the 20th century.",
+            "Sir Ian Wilmut was born in the latter part of the eighth century."
+        ],
+        "table_id": "T1754",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Isle of Man was established in the 17th century.",
+            "The Isle of Man was established in the twentieth century."
+        ],
+        "table_id": "T1761",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "State of Israel's second main religion is Christian.",
+            "State of Israel's 15th main religion is Christian."
+        ],
+        "table_id": "T1773",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hillary Clinton was only first lady of Arkansas once.",
+            "Hillary Clinton was only 16th lady of Arkansas once."
+        ],
+        "table_id": "T1782",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Human is the second album by the artist",
+            "Human is the 17th album by the artist"
+        ],
+        "table_id": "T1846",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ice hockey in Germany were first national champions in 1915.",
+            "Ice hockey in Germany were 14th national champions in 1915."
+        ],
+        "table_id": "T1849",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "German Ice Hockey was in the Olympics after its first WC participation.",
+            "German Ice Hockey was in the Olympics after its 17th WC participation."
+        ],
+        "table_id": "T1849",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Humphrey was the first cat in the cabinet office.",
+            "Humphrey was the 17th cat in the cabinet office."
+        ],
+        "table_id": "T1854",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Huntington, West Virginia was first incorporated with its current name",
+            "Huntington, West Virginia was 5th incorporated with its current name"
+        ],
+        "table_id": "T1890",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Huntsville, Alabama was established in the 20th century.",
+            "Huntsville, Alabama was established in the eleventh century."
+        ],
+        "table_id": "T1892",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ignacy _ukasiewicz was born in the second half of the 1800s.",
+            "Ignacy _ukasiewicz was born in the 1st half of the 1800s."
+        ],
+        "table_id": "T1910",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The first issue of I Kill Giants was released in 2002.",
+            "The 19th issue of I Kill Giants was released in 2002."
+        ],
+        "table_id": "T1935",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hollywood Vampires did their first tour in 2014.",
+            "Hollywood Vampires did their 4th tour in 2014."
+        ],
+        "table_id": "T1979",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Incognito's first publication was twenty years ago.",
+            "Incognito's 18th publication was twenty years ago."
+        ],
+        "table_id": "T1999",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chennai has the 1st metro rank.",
+            "Chennai has the nineteenth metro rank."
+        ],
+        "table_id": "T2280",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chinese Girl was painted in the 19th century.",
+            "Chinese Girl was painted in the seventeenth century."
+        ],
+        "table_id": "T2281",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ch\u014dj\u016b-jinbutsu-giga was created in 15th century.",
+            "Ch\u014dj\u016b-jinbutsu-giga was created in tenth century."
+        ],
+        "table_id": "T2283",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Doshirak was introduced in the 19th century.",
+            "Doshirak was introduced in the first century."
+        ],
+        "table_id": "T2306",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Since the 1990s when it was first introduced to the market",
+            "Since the 1990s when it was 12th introduced to the market"
+        ],
+        "table_id": "T2306",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Pepsi was introduced in the early 20th century",
+            "Pepsi was introduced in the early nineteenth century"
+        ],
+        "table_id": "T2310",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Echo and Narcissus was created in the early 19th century.",
+            "Echo and Narcissus was created in the early eleventh century."
+        ],
+        "table_id": "T2315",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Elizabeth I is the first in her bloodline.",
+            "Elizabeth I is the 13th in her bloodline."
+        ],
+        "table_id": "T2322",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Elizabeth Warren was the second person to take her office.",
+            "Elizabeth Warren was the 11th person to take her office."
+        ],
+        "table_id": "T2324",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "George III ruled in the 19th century.",
+            "George III ruled in the thirteenth century."
+        ],
+        "table_id": "T2354",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "It was painted at the beginning of the 17th century.",
+            "It was painted at the beginning of the first century."
+        ],
+        "table_id": "T2365",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Grande Odalisque was created in the early 18th century.",
+            "Grande Odalisque was created in the early eleventh century."
+        ],
+        "table_id": "T2378",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Grand Junction was incorporated in the 18th century.",
+            "Grand Junction was incorporated in the eighth century."
+        ],
+        "table_id": "T2379",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The women\u2019s rhythmic group all-around was contested for the first time at these Games.",
+            "The women\u2019s rhythmic group all-around was contested for the 2nd time at these Games."
+        ],
+        "table_id": "T2389",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hail To Reason won the American Champion Two-Year-Old Colt in the 19th century.",
+            "Hail To Reason won the American Champion Two-Year-Old Colt in the sixteenth century."
+        ],
+        "table_id": "T2399",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Roy Lichenstein produced Happy Tears in the 19th century.",
+            "Roy Lichenstein produced Happy Tears in the eighteenth century."
+        ],
+        "table_id": "T2413",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Haru Urara was last updated in the first half of 2007.",
+            "Haru Urara was last updated in the 14th half of 2007."
+        ],
+        "table_id": "T2417",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Heinrich Himmler was the second Reichsf\u00fchrer-SS.",
+            "Heinrich Himmler was the 6th Reichsf\u00fchrer-SS."
+        ],
+        "table_id": "T2425",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Henry VII was a 14th century monarch.",
+            "Henry VII was a fifteenth century monarch."
+        ],
+        "table_id": "T2429",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Sh\u014dwa period began its tenure in the 19th century.",
+            "The Sh\u014dwa period began its tenure in the third century."
+        ],
+        "table_id": "T2435",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sweden won its first gold medal, becoming the sixth nation to ever win Olympic ice hockey gold.",
+            "Sweden won its 17th gold medal, becoming the 14th nation to ever win Olympic ice hockey gold."
+        ],
+        "table_id": "T2442",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Isle of Man was established in the 17th century.",
+            "Isle of Man was established in the sixth century."
+        ],
+        "table_id": "T2450",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jameson introduced year was 16th century",
+            "Jameson introduced year was ninth century"
+        ],
+        "table_id": "T2454",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kahlua was invented in the 19th century.",
+            "Kahlua was invented in the second century."
+        ],
+        "table_id": "T2468",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Katowice was established in the 15th century.",
+            "Katowice was established in the twelfth century."
+        ],
+        "table_id": "T2469",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Katowice gained status as a city in the 18th century.",
+            "Katowice gained status as a city in the twelfth century."
+        ],
+        "table_id": "T2469",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Zenith was founded in the 20th century.",
+            "Zenith was founded in the eighth century."
+        ],
+        "table_id": "T2470",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Bat Out of Hell is the first release featuring Meat Loaf.",
+            "Bat Out of Hell is the 19th release featuring Meat Loaf."
+        ],
+        "table_id": "T2482",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Nizhny Novgorod City Day is 4th Sunday of August.",
+            "Nizhny Novgorod City Day is eleventh Sunday of August."
+        ],
+        "table_id": "T2484",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Every year 4th Saturday August is celebrated as City Day in Nizhny Novgorod.",
+            "Every year fourteenth Saturday August is celebrated as City Day in Nizhny Novgorod."
+        ],
+        "table_id": "T2484",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Nizhny Novgorod was founded in the 15th century.",
+            "Nizhny Novgorod was founded in the tenth century."
+        ],
+        "table_id": "T2484",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Curitiba was founded in the 18th century.",
+            "Curitiba was founded in the sixteenth century."
+        ],
+        "table_id": "T2485",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Abuja Municipality Rank is 8th",
+            "The Abuja Municipality Rank is fourteenth"
+        ],
+        "table_id": "T2493",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Johannes Kepler died in the 16th century.",
+            "Johannes Kepler died in the seventeenth century."
+        ],
+        "table_id": "T2504",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "SUPER TV was founded in the 19th century.",
+            "SUPER TV was founded in the third century."
+        ],
+        "table_id": "T2511",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Memories of Underdevelopment was released in the last decade of the 20th century.",
+            "Memories of Underdevelopment was released in the last decade of the seventeenth century."
+        ],
+        "table_id": "T2517",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Thinking Bout You is the first single released by Ciara.",
+            "Thinking Bout You is the 6th single released by Ciara."
+        ],
+        "table_id": "T2525",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Studio DEEN was found in the 19th century.",
+            "Studio DEEN was found in the fourteenth century."
+        ],
+        "table_id": "T2526",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Bank of Nova Scotia was founded in the 18th century.",
+            "The Bank of Nova Scotia was founded in the ninth century."
+        ],
+        "table_id": "T2532",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "It was founded by Maldonado over 50 years after its first founding.",
+            "It was founded by Maldonado over 50 years after its 3rd founding."
+        ],
+        "table_id": "T2567",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "James Watson got a degree from Indiana University in the 19th century.",
+            "James Watson got a degree from Indiana University in the third century."
+        ],
+        "table_id": "T2571",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Madman Muntz was given that first name at birth.",
+            "Madman Muntz was given that 18th name at birth."
+        ],
+        "table_id": "T2585",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Medell\u00edn was founded in the 15th century.",
+            "Medell\u00edn was founded in the eleventh century."
+        ],
+        "table_id": "T2597",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "First Chicago Corporation's subsidiary, FCC National Bank, is on the West coast.",
+            "3rd Chicago Corporation's subsidiary, FCC National Bank, is on the West coast."
+        ],
+        "table_id": "T2625",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "First Chicago Corporation was founded in the 18th century.",
+            "10th Chicago Corporation was founded in the eighth century."
+        ],
+        "table_id": "T2625",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cartagena was designated finally in the 19th century.",
+            "Cartagena was designated finally in the sixth century."
+        ],
+        "table_id": "T2628",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Her second child was born when she was 37.",
+            "Her 3rd child was born when she was 37."
+        ],
+        "table_id": "T2646",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ekurhuleni's first language is English.",
+            "Ekurhuleni's 16th language is English."
+        ],
+        "table_id": "T2670",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dakar was settled in the 13th century.",
+            "Dakar was settled in the fifth century."
+        ],
+        "table_id": "T2680",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dakar Ndakaaru capital city Settled in 16th century.",
+            "Dakar Ndakaaru capital city Settled in thirteenth century."
+        ],
+        "table_id": "T2680",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Assassination of Richard Nixon was first released in the winter of 2004.",
+            "The Assassination of Richard Nixon was 13th released in the winter of 2004."
+        ],
+        "table_id": "T2697",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "City Day is celebrated at Yekaterinburg city on 4th Saturday of August.",
+            "City Day is celebrated at Yekaterinburg city on fifth Saturday of August."
+        ],
+        "table_id": "T2706",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Integrated Risk Management Services was founded in the 20th century.",
+            "Integrated Risk Management Services was founded in the fourteenth century."
+        ],
+        "table_id": "T2717",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Harada Tea Processing Co., Ltd. was founded in the 19th century.",
+            "Harada Tea Processing Co., Ltd. was founded in the second century."
+        ],
+        "table_id": "T2718",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

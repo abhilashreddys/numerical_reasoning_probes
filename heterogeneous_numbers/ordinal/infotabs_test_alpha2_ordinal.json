@@ -1,0 +1,882 @@
+[
+    {
+        "hypothesis": [
+            "The film Florence Foster Jenkins was first released in France.",
+            "The film Florence Foster Jenkins was 1st released in France."
+        ],
+        "table_id": "T53",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charles IV of Spain and His Family was painted at the beginning of the 20th century.",
+            "Charles IV of Spain and His Family was painted at the beginning of the twentieth century."
+        ],
+        "table_id": "T111",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johnny Cash outlived his second wife, June Carter.",
+            "Johnny Cash outlived his 2nd wife, June Carter."
+        ],
+        "table_id": "T149",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joe Biden's first wife passed away after they were divorced.",
+            "Joe Biden's 1st wife passed away after they were divorced."
+        ],
+        "table_id": "T263",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Buffalo Springfield played for some period of time in the 20th century.",
+            "Buffalo Springfield played for some period of time in the twentieth century."
+        ],
+        "table_id": "T324",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Conversion on the Way to Damascus is a 17th century painting.",
+            "The Conversion on the Way to Damascus is a seventeenth century painting."
+        ],
+        "table_id": "T461",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Caravaggio painted throughout most of the seventeenth century.",
+            "Caravaggio painted throughout most of the 17th century."
+        ],
+        "table_id": "T461",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ch_j_-jinbutsu-giga Material was done with paper and ink in the 13th and 14th centuries.",
+            "Ch_j_-jinbutsu-giga Material was done with paper and ink in the thirteenth and fourteenth centuries."
+        ],
+        "table_id": "T464",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dark & Wild is Pdogg's first production credit.",
+            "Dark & Wild is Pdogg's 1st production credit."
+        ],
+        "table_id": "T509",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David Arquette is first  husband of Courteney Cox",
+            "David Arquette is 1st  husband of Courteney Cox"
+        ],
+        "table_id": "T568",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cosmo's Factory was the first in the roots rock genre to be recorded at Wally Heider Studios.",
+            "Cosmo's Factory was the 1st in the roots rock genre to be recorded at Wally Heider Studios."
+        ],
+        "table_id": "T585",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Diana's father was the 5th duke of Spencer",
+            "Diana's father was the fifth duke of Spencer"
+        ],
+        "table_id": "T711",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Coca-Cola was first introduced in the summer months.",
+            "Coca-Cola was 1st introduced in the summer months."
+        ],
+        "table_id": "T712",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Coca-Cola was created in the 17th century.",
+            "Coca-Cola was created in the seventeenth century."
+        ],
+        "table_id": "T712",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Crucifix by Cimabue at Santa Croce is a 11th century artwork.",
+            "Crucifix by Cimabue at Santa Croce is a eleventh century artwork."
+        ],
+        "table_id": "T762",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David Letterman's child was born by his second wife.",
+            "David Letterman's child was born by his 2nd wife."
+        ],
+        "table_id": "T774",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Katherine Sumner got married in the twentieth century.",
+            "Katherine Sumner got married in the 20th century."
+        ],
+        "table_id": "T789",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cult of Chucky is a 20th century movie directed and written by Don Mancini.",
+            "Cult of Chucky is a twentieth century movie directed and written by Don Mancini."
+        ],
+        "table_id": "T802",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The movie Collateral Beauty was first premiered with no subtitles.",
+            "The movie Collateral Beauty was 1st premiered with no subtitles."
+        ],
+        "table_id": "T804",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Collateral Beauty was first premiered in an Asian country.",
+            "Collateral Beauty was 1st premiered in an Asian country."
+        ],
+        "table_id": "T804",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Colonel Meow was first scene in the Battleship movie.",
+            "Colonel Meow was 1st scene in the Battleship movie."
+        ],
+        "table_id": "T814",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Colors is the 10th studio album by Beck.",
+            "Colors is the tenth studio album by Beck."
+        ],
+        "table_id": "T819",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chagatai's death occurred late in the 14th century.",
+            "Chagatai's death occurred late in the fourteenth century."
+        ],
+        "table_id": "T1014",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ceuta is a city formed in the 1st millennium AD that was first ruled by predominantly Muslim people.",
+            "Ceuta is a city formed in the 1st millennium AD that was 1st ruled by predominantly Muslim people."
+        ],
+        "table_id": "T1098",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ceuta was first settled by Carthaginians.",
+            "Ceuta was 1st settled by Carthaginians."
+        ],
+        "table_id": "T1098",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charles Sumner Tainter first married in his early thirties.",
+            "Charles Sumner Tainter 1st married in his early thirties."
+        ],
+        "table_id": "T1151",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charo's first marriage lasted for more than ten years.",
+            "Charo's 1st marriage lasted for more than ten years."
+        ],
+        "table_id": "T1225",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "GTV gave the Anugerah Musik Indonesia awards their only coverage in their first year.",
+            "GTV gave the Anugerah Musik Indonesia awards their only coverage in their 1st year."
+        ],
+        "table_id": "T1226",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Anugerah Musik Indonesia awards are Indonesia's first music awards show.",
+            "The Anugerah Musik Indonesia awards are Indonesia's 1st music awards show."
+        ],
+        "table_id": "T1226",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Anugerah Musik Indonesia is Indonesia's first nationally televised music awards show.",
+            "Anugerah Musik Indonesia is Indonesia's 1st nationally televised music awards show."
+        ],
+        "table_id": "T1226",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Anugerah Musik Indonesia was first awarded in the 21st century.",
+            "Anugerah Musik Indonesia was 1st awarded in the 21st century."
+        ],
+        "table_id": "T1226",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The ERJ family first flew in the mid 1990s.",
+            "The ERJ family 1st flew in the mid 1990s."
+        ],
+        "table_id": "T1260",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carlos Santana first success came with the band Santana.",
+            "Carlos Santana 1st success came with the band Santana."
+        ],
+        "table_id": "T1374",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Julius Caesar had all of their children with their first wife.",
+            "Julius Caesar had all of their children with their 1st wife."
+        ],
+        "table_id": "T1415",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joseph Marie Jacquard was born in the 18th century.",
+            "Joseph Marie Jacquard was born in the eighteenth century."
+        ],
+        "table_id": "T1418",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jin was established in the second century.",
+            "Jin was established in the 2nd century."
+        ],
+        "table_id": "T1451",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jin first changed capitals in the fifth century.",
+            "Jin 1st changed capitals in the 5th century."
+        ],
+        "table_id": "T1451",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jin's last emperor ended his rule in the fifth century.",
+            "Jin's last emperor ended his rule in the 5th century."
+        ],
+        "table_id": "T1451",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John B. Stetson passed away in the second decade of the 20th century.",
+            "John B. Stetson passed away in the 2nd decade of the twentieth century."
+        ],
+        "table_id": "T1452",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John B. Stetson was born in the second quarter of the 19th century.",
+            "John B. Stetson was born in the 2nd quarter of the nineteenth century."
+        ],
+        "table_id": "T1452",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Stetson was born in the 19th century.",
+            "John Stetson was born in the nineteenth century."
+        ],
+        "table_id": "T1452",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John B. Stetson died in the 20th century.",
+            "John B. Stetson died in the twentieth century."
+        ],
+        "table_id": "T1452",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Justice was first published in the Fall of 2005.",
+            "Justice was 1st published in the Fall of 2005."
+        ],
+        "table_id": "T1469",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joseph Engelberger was born in the second half of the 20th century.",
+            "Joseph Engelberger was born in the 2nd half of the twentieth century."
+        ],
+        "table_id": "T1486",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jewess with Oranges was painted in the 20th century.",
+            "Jewess with Oranges was painted in the twentieth century."
+        ],
+        "table_id": "T1487",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "At it's widest spot, Jewess with Oranges is one and two third feet long.",
+            "At it's widest spot, Jewess with Oranges is one and two 3rd feet long."
+        ],
+        "table_id": "T1487",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "osh Tillman was born in the last decade of the 20th century.",
+            "osh Tillman was born in the last decade of the twentieth century."
+        ],
+        "table_id": "T1490",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jerry Lee Lewis started performing after the half of 20th century.",
+            "Jerry Lee Lewis started performing after the half of twentieth century."
+        ],
+        "table_id": "T1496",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Water covers about a sixth of the area of Juneau, Alaska.",
+            "Water covers about a 6th of the area of Juneau, Alaska."
+        ],
+        "table_id": "T1511",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kathie Lee Gifford had both their children with their second husband.",
+            "Kathie Lee Gifford had both their children with their 2nd husband."
+        ],
+        "table_id": "T1520",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The third quarter of the 18th century was when John Roebuck was born.",
+            "The 3rd quarter of the eighteenth century was when John Roebuck was born."
+        ],
+        "table_id": "T1522",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Roebuck lived in the 18th century.",
+            "John Roebuck lived in the eighteenth century."
+        ],
+        "table_id": "T1522",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Harrison won the Copley Medal right near the middle of the 19th century.",
+            "John Harrison won the Copley Medal right near the middle of the nineteenth century."
+        ],
+        "table_id": "T1523",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jordan Belfort married his first wife at the age of 23.",
+            "Jordan Belfort married his 1st wife at the age of 23."
+        ],
+        "table_id": "T1564",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Judith Beheading Holofernes was painted towards the end of the 16th century.",
+            "Judith Beheading Holofernes was painted towards the end of the sixteenth century."
+        ],
+        "table_id": "T1566",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kareem Abdul-Jabbar weighs more than the average 5th grade student.",
+            "Kareem Abdul-Jabbar weighs more than the average fifth grade student."
+        ],
+        "table_id": "T1567",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The world's first iron bridge was built by multiple man.",
+            "The world's 1st iron bridge was built by multiple man."
+        ],
+        "table_id": "T1574",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jeepers Creepers 3 was the first film directed by Victor Salva.",
+            "Jeepers Creepers 3 was the 1st film directed by Victor Salva."
+        ],
+        "table_id": "T1576",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Josiah Warren was born in the late 20th Century.",
+            "Josiah Warren was born in the late twentieth Century."
+        ],
+        "table_id": "T1584",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Cena made his wrestling debut just after the 20th century started.",
+            "John Cena made his wrestling debut just after the twentieth century started."
+        ],
+        "table_id": "T1608",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Cena first appeared in the WWE in 1999.",
+            "John Cena 1st appeared in the WWE in 1999."
+        ],
+        "table_id": "T1608",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "ourney into Mystery first was published a couple years before the turn of the 20th century.",
+            "ourney into Mystery 1st was published a couple years before the turn of the twentieth century."
+        ],
+        "table_id": "T1634",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The first publication of Journey into the Mystery was before 2000.",
+            "The 1st publication of Journey into the Mystery was before 2000."
+        ],
+        "table_id": "T1634",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jeepers Creepers was the first film Justin Long appeared in.",
+            "Jeepers Creepers was the 1st film Justin Long appeared in."
+        ],
+        "table_id": "T1636",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jeepers Creepers was Gina Philips first starring role.",
+            "Jeepers Creepers was Gina Philips 1st starring role."
+        ],
+        "table_id": "T1636",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joni Mitchell was born in the second half of the 20th century.",
+            "Joni Mitchell was born in the 2nd half of the twentieth century."
+        ],
+        "table_id": "T1641",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johnnie Walker was first introduced in the last quarter of the 19th century.",
+            "Johnnie Walker was 1st introduced in the last quarter of the nineteenth century."
+        ],
+        "table_id": "T1654",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sef the First was the king of the Kanem Empire after Omar.",
+            "Sef the 1st was the king of the Kanem Empire after Omar."
+        ],
+        "table_id": "T1655",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jimmy Carter doesn't share the same first name as a relative.",
+            "Jimmy Carter doesn't share the same 1st name as a relative."
+        ],
+        "table_id": "T1672",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jimmy Carter's mother and wife do not have the same first name.",
+            "Jimmy Carter's mother and wife do not have the same 1st name."
+        ],
+        "table_id": "T1672",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Keeley Hawes had all their children with their first husband.",
+            "Keeley Hawes had all their children with their 1st husband."
+        ],
+        "table_id": "T1685",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joseph Glidden had all 3 of his children with his second wife.",
+            "Joseph Glidden had all 3 of his children with his 2nd wife."
+        ],
+        "table_id": "T1691",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joseph Glidden was born in the 20th century.",
+            "Joseph Glidden was born in the twentieth century."
+        ],
+        "table_id": "T1691",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joseph Glidden married his second wife in his late 30s.",
+            "Joseph Glidden married his 2nd wife in his late 30s."
+        ],
+        "table_id": "T1691",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jude Law goes by his first name.",
+            "Jude Law goes by his 1st name."
+        ],
+        "table_id": "T1695",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dr. John S. Pemberton lived in the 19th century.",
+            "Dr. John S. Pemberton lived in the nineteenth century."
+        ],
+        "table_id": "T1697",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dr. John S. Pemberton was born in the third quarter of the 19th century.",
+            "Dr. John S. Pemberton was born in the 3rd quarter of the nineteenth century."
+        ],
+        "table_id": "T1697",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Innuendo was recorded in the 20th century.",
+            "Innuendo was recorded in the twentieth century."
+        ],
+        "table_id": "T1766",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Inside Out is an American film that premiered in Cannes first after America.",
+            "Inside Out is an American film that premiered in Cannes 1st after America."
+        ],
+        "table_id": "T1775",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Interchange was the first oil painting done by Willem de Kooning.",
+            "Interchange was the 1st oil painting done by Willem de Kooning."
+        ],
+        "table_id": "T1779",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Interchange is 20th century canvas painting.",
+            "Interchange is twentieth century canvas painting."
+        ],
+        "table_id": "T1779",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hiraga Gennai was born in the 17th century.",
+            "Hiraga Gennai was born in the seventeenth century."
+        ],
+        "table_id": "T1904",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hiraga Gennai died in the 18th century.",
+            "Hiraga Gennai died in the eighteenth century."
+        ],
+        "table_id": "T1904",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Iggy Azalea started performing in the 20th century.",
+            "Iggy Azalea started performing in the twentieth century."
+        ],
+        "table_id": "T1906",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hiroshi Minagawa was born in the 20th century.",
+            "Hiroshi Minagawa was born in the twentieth century."
+        ],
+        "table_id": "T1938",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Lennon's first album was Imagine.",
+            "John Lennon's 1st album was Imagine."
+        ],
+        "table_id": "T1970",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Inca Kola first was first sold in the 21st century.",
+            "Inca Kola 1st was 1st sold in the 21st century."
+        ],
+        "table_id": "T1991",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "House of Mystery's first 20 issues were the most successful.",
+            "House of Mystery's 1st 20 issues were the most successful."
+        ],
+        "table_id": "T2037",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    }
+]

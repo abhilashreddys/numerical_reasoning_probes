@@ -1,0 +1,982 @@
+[
+    {
+        "hypothesis": [
+            "Fearless was Taylor Swift's second release.",
+            "Fearless was Taylor Swift's 2nd release."
+        ],
+        "table_id": "T13",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Flatliners was Peter Filardi's first writing credit.",
+            "Flatliners was Peter Filardi's 1st writing credit."
+        ],
+        "table_id": "T14",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bryce Dallas Howard's first acting job was in a cereal commercial.",
+            "Bryce Dallas Howard's 1st acting job was in a cereal commercial."
+        ],
+        "table_id": "T17",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Equestrian Portrait of Charles I was painted in the 17th century.",
+            "Equestrian Portrait of Charles I was painted in the seventeenth century."
+        ],
+        "table_id": "T64",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jet released their first album in 2001.",
+            "Jet released their 1st album in 2001."
+        ],
+        "table_id": "T68",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            ".Mar\u2019a del Rosario Mercedes Pilar Mart\u2019nez Molina Baeza first gained fame in acting.",
+            ".Mar\u2019a del Rosario Mercedes Pilar Mart\u2019nez Molina Baeza 1st gained fame in acting."
+        ],
+        "table_id": "T277",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            ".Czech Republic was one of the first countries to join the European Union.",
+            ".Czech Republic was one of the 1st countries to join the European Union."
+        ],
+        "table_id": "T323",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Czech Republic gained independence in late the 20th century.",
+            "Czech Republic gained independence in late the twentieth century."
+        ],
+        "table_id": "T323",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Florence Annie Bridgwood is buried near her first husband in Hollywood Forever Cemetery.",
+            "Florence Annie Bridgwood is buried near her 1st husband in Hollywood Forever Cemetery."
+        ],
+        "table_id": "T372",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Florence Lawrence died before her third husband.",
+            "Florence Lawrence died before her 3rd husband."
+        ],
+        "table_id": "T372",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jeff Hardy first wrestled professionally in 1990.",
+            "Jeff Hardy 1st wrestled professionally in 1990."
+        ],
+        "table_id": "T382",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jerry Lee Lewis was on Sun Records at the same time as his first associated act Johnny Cash.",
+            "Jerry Lee Lewis was on Sun Records at the same time as his 1st associated act Johnny Cash."
+        ],
+        "table_id": "T422",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Columbia Pictures distributed 'Concussion' to the AFI Fest first to gain notoriety.",
+            "Columbia Pictures distributed 'Concussion' to the AFI Fest 1st to gain notoriety."
+        ],
+        "table_id": "T433",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Children of Bodom went by a different name their first four years of performing.",
+            "Children of Bodom went by a different name their 1st four years of performing."
+        ],
+        "table_id": "T435",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The first issue of Crisis on Infinite Earths was released in spring of 1985.",
+            "The 1st issue of Crisis on Infinite Earths was released in spring of 1985."
+        ],
+        "table_id": "T535",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Crisis on Infinite Earths was George R.R. Martin's first foray into fantasy writing.",
+            "Crisis on Infinite Earths was George R.R. Martin's 1st foray into fantasy writing."
+        ],
+        "table_id": "T535",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Denver was originally the place where the first Bronco was spotted in America, hence why the local football team is named the Broncos.",
+            "Denver was originally the place where the 1st Bronco was spotted in America, hence why the local football team is named the Broncos."
+        ],
+        "table_id": "T536",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Denver, Colorado is an American city founded in the 19th century.",
+            "Denver, Colorado is an American city founded in the nineteenth century."
+        ],
+        "table_id": "T536",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Denver City and County were consolidated a few years after the turn of the 20th century.",
+            "Denver City and County were consolidated a few years after the turn of the twentieth century."
+        ],
+        "table_id": "T536",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Despicable Me 3 is actually the 4th movie of the Despicable Me franchise, despite the 3 in the title.",
+            "Despicable Me 3 is actually the fourth movie of the Despicable Me franchise, despite the 3 in the title."
+        ],
+        "table_id": "T544",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Despicable Me 3 first made its box offie run starring in the summer of 2016.",
+            "Despicable Me 3 1st made its box offie run starring in the summer of 2016."
+        ],
+        "table_id": "T544",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Despicable Me 3 has the same cast as the first two movies of the same title.",
+            "Despicable Me 3 has the same cast as the 1st two movies of the same title."
+        ],
+        "table_id": "T544",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Close Encounters of the Third Kind was a Hollywood film, written and directed by a famous director.",
+            "Close Encounters of the 3rd Kind was a Hollywood film, written and directed by a famous director."
+        ],
+        "table_id": "T578",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Close Encounters of the Third Kind was a science-fiction movie.",
+            "Close Encounters of the 3rd Kind was a science-fiction movie."
+        ],
+        "table_id": "T578",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Close Encounters of the Third Kind was a failure at the box office.",
+            "Close Encounters of the 3rd Kind was a failure at the box office."
+        ],
+        "table_id": "T578",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Close Encounters of the Third Kind is science fiction film directed by Stephen Spielberg.",
+            "Close Encounters of the 3rd Kind is science fiction film directed by Stephen Spielberg."
+        ],
+        "table_id": "T578",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Close Encounters of the Third Kind has inspired many future films and TV shows, namely the show Stranger Things.",
+            "Close Encounters of the 3rd Kind has inspired many future films and TV shows, namely the show Stranger Things."
+        ],
+        "table_id": "T578",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Close Encounters of the Third Kind was inspired by another Spielberg Film, E.T., which was released before Close Encounters of the Third Kind in 1982.",
+            "Close Encounters of the 3rd Kind was inspired by another Spielberg Film, E.T., which was released before Close Encounters of the 3rd Kind in 1982."
+        ],
+        "table_id": "T578",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Close Encounters of the Third Kind grossed over a quarter billion dollars at the box office over it's budget.",
+            "Close Encounters of the 3rd Kind grossed over a quarter billion dollars at the box office over it's budget."
+        ],
+        "table_id": "T578",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "A husband and wife duo produced Close Encounters of the Third Kind.",
+            "A husband and wife duo produced Close Encounters of the 3rd Kind."
+        ],
+        "table_id": "T578",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Close Encounters of the Third Kind was produced and distributed by the same company.",
+            "Close Encounters of the 3rd Kind was produced and distributed by the same company."
+        ],
+        "table_id": "T578",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ciara's first hit single was \"Goodies\" featuring Petey Pablo.",
+            "Ciara's 1st hit single was \"Goodies\" featuring Petey Pablo."
+        ],
+        "table_id": "T596",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The city of Detroit, Michigan comprises less than a tenth of the urban area.",
+            "The city of Detroit, Michigan comprises less than a 10th of the urban area."
+        ],
+        "table_id": "T662",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Crimson Peak is the first time Guillermo del Toro did not write his movie's script alone.",
+            "Crimson Peak is the 1st time Guillermo del Toro did not write his movie's script alone."
+        ],
+        "table_id": "T667",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dennis Gabor was a 20th century Nobel Price winning Physicist..",
+            "Dennis Gabor was a twentieth century Nobel Price winning Physicist.."
+        ],
+        "table_id": "T688",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dick Van Dyke was a father during the second World War.",
+            "Dick Van Dyke was a father during the 2nd World War."
+        ],
+        "table_id": "T727",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David Byrne lived in the United Kingdom when they first became a musician.",
+            "David Byrne lived in the United Kingdom when they 1st became a musician."
+        ],
+        "table_id": "T729",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Cockerel Faberg\u017d egg was Perkhin's first Faberge egg creation.",
+            "The Cockerel Faberg\u017d egg was Perkhin's 1st Faberge egg creation."
+        ],
+        "table_id": "T738",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Men's 50 kilometre freestyle was the first event Michael Phelps won a gold medal in.",
+            "The Men's 50 kilometre freestyle was the 1st event Michael Phelps won a gold medal in."
+        ],
+        "table_id": "T745",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "2018 was the first year cross-country skiing was held at the Alpensia Cross-Country Centre.",
+            "2018 was the 1st year cross-country skiing was held at the Alpensia Cross-Country Centre."
+        ],
+        "table_id": "T746",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cuba is mostly Black with White people making up the 2nd largest ethnic group.",
+            "Cuba is mostly Black with White people making up the second largest ethnic group."
+        ],
+        "table_id": "T787",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David with the Head of Goliath was painted in the 17th century.",
+            "David with the Head of Goliath was painted in the seventeenth century."
+        ],
+        "table_id": "T794",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David with the Head of Goliath was completed in the 17th Century.",
+            "David with the Head of Goliath was completed in the seventeenth Century."
+        ],
+        "table_id": "T794",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Collision Course is a 20th century music album.",
+            "Collision Course is a twentieth century music album."
+        ],
+        "table_id": "T811",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Columbus, Georgia was founded in the second half of the nineteenth century.",
+            "Columbus, Georgia was founded in the 2nd half of the 19th century."
+        ],
+        "table_id": "T822",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Columbus, Georgia was founded in the 19th century.",
+            "Columbus, Georgia was founded in the nineteenth century."
+        ],
+        "table_id": "T822",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dead Can Dance is a defunct band from the 19th century.",
+            "Dead Can Dance is a defunct band from the nineteenth century."
+        ],
+        "table_id": "T840",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The narrator and editor of Charlie and the Chocolate Factory have the same first name.",
+            "The narrator and editor of Charlie and the Chocolate Factory have the same 1st name."
+        ],
+        "table_id": "T928",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Boy Peeling Fruit is a 16th century European work of art.",
+            "Boy Peeling Fruit is a sixteenth century European work of art."
+        ],
+        "table_id": "T1010",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Caravaggio painted Boy Peeling Fruit towards the end of the 16th Century.",
+            "Caravaggio painted Boy Peeling Fruit towards the end of the sixteenth Century."
+        ],
+        "table_id": "T1010",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Casablanca was Peter Lorre's first film role.",
+            "Casablanca was Peter Lorre's 1st film role."
+        ],
+        "table_id": "T1017",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The first Romanian Footballer of the Year award was handed out in 1966.",
+            "The 1st Romanian Footballer of the Year award was handed out in 1966."
+        ],
+        "table_id": "T1164",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The first helicopter landed at JFK Airport in 1951.",
+            "The 1st helicopter landed at JFK Airport in 1951."
+        ],
+        "table_id": "T1177",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Brigadier Gerard was foaled in the early part of the 20th century.",
+            "Brigadier Gerard was foaled in the early part of the twentieth century."
+        ],
+        "table_id": "T1179",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Glacier National Park is part of the world's first international peace park.",
+            "Glacier National Park is part of the world's 1st international peace park."
+        ],
+        "table_id": "T1212",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Atari 2600 also known as Atari VCS is manufactured Atari, Inc. is a second generation home video game console.",
+            "Atari 2600 also known as Atari VCS is manufactured Atari, Inc. is a 2nd generation home video game console."
+        ],
+        "table_id": "T1241",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Florida State University was founded in the 20th century.",
+            "Florida State University was founded in the twentieth century."
+        ],
+        "table_id": "T1369",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The last decade of the 20th century is when Kaya Scodelario was born.",
+            "The last decade of the twentieth century is when Kaya Scodelario was born."
+        ],
+        "table_id": "T1404",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kazakh Khanate was established in the 14th century.",
+            "Kazakh Khanate was established in the fourteenth century."
+        ],
+        "table_id": "T1406",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kazakh Khanate was disestablished at the turn of the 19th century.",
+            "Kazakh Khanate was disestablished at the turn of the nineteenth century."
+        ],
+        "table_id": "T1406",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Keeping Up with the Joneses was the first film by Greg Mottola.",
+            "Keeping Up with the Joneses was the 1st film by Greg Mottola."
+        ],
+        "table_id": "T1440",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The second decade of the 21st century is when Karachi was made a Metropolitan Corporation.",
+            "The 2nd decade of the 21st century is when Karachi was made a Metropolitan Corporation."
+        ],
+        "table_id": "T1443",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kasabian was first signed to RCA.",
+            "Kasabian was 1st signed to RCA."
+        ],
+        "table_id": "T1444",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kareem Abdul-Jabbar was a first round pick for basketball.",
+            "Kareem Abdul-Jabbar was a 1st round pick for basketball."
+        ],
+        "table_id": "T1449",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jimmy Falon wrote his first book in 1998.",
+            "Jimmy Falon wrote his 1st book in 1998."
+        ],
+        "table_id": "T1457",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John James Rickard Macleod, FRS was born early in the 19th century.",
+            "John James Rickard Macleod, FRS was born early in the nineteenth century."
+        ],
+        "table_id": "T1464",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jimson Weed is a 19th century work of art.",
+            "Jimson Weed is a nineteenth century work of art."
+        ],
+        "table_id": "T1473",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jimson Weed was Georgia O'Keefe's first sold painting.",
+            "Jimson Weed was Georgia O'Keefe's 1st sold painting."
+        ],
+        "table_id": "T1473",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kanye West is worth more than a third of a billion dollars.",
+            "Kanye West is worth more than a 3rd of a billion dollars."
+        ],
+        "table_id": "T1477",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Judith and the Head of Holofernes was painted at the end of the 19th century.",
+            "Judith and the Head of Holofernes was painted at the end of the nineteenth century."
+        ],
+        "table_id": "T1491",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Judith and the Head of Holofernes is a 20th century work of art.",
+            "Judith and the Head of Holofernes is a twentieth century work of art."
+        ],
+        "table_id": "T1491",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The birth of John Napier happened right at the mid point of the 16th century.",
+            "The birth of John Napier happened right at the mid point of the sixteenth century."
+        ],
+        "table_id": "T1500",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Josta was first made in the last 10 years of the 20th century.",
+            "Josta was 1st made in the last 10 years of the twentieth century."
+        ],
+        "table_id": "T1508",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John McCain had his first political victory in the 90s.",
+            "John McCain had his 1st political victory in the 90s."
+        ],
+        "table_id": "T1512",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John McCain served multiple times in office during the 20th century.",
+            "John McCain served multiple times in office during the twentieth century."
+        ],
+        "table_id": "T1512",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Justice League Dark was first released in the Summer of 2017.",
+            "Justice League Dark was 1st released in the Summer of 2017."
+        ],
+        "table_id": "T1516",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Summer of 1993 is when Jurassic Park first made it's premiere.",
+            "The Summer of 1993 is when Jurassic Park 1st made it's premiere."
+        ],
+        "table_id": "T1518",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jim Mattis lead the 1st Marine Division during the Iraq War.",
+            "Jim Mattis lead the first Marine Division during the Iraq War."
+        ],
+        "table_id": "T1545",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The East-West Jerusalem division occurred in Jerusalem near the turn of the 20th century.",
+            "The East-West Jerusalem division occurred in Jerusalem near the turn of the twentieth century."
+        ],
+        "table_id": "T1557",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The film was not profitable for 20th Century Fox",
+            "The film was not profitable for twentieth Century Fox"
+        ],
+        "table_id": "T1592",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "K?roly Zipernowsky was born in 19th century Vienna.",
+            "K?roly Zipernowsky was born in nineteenth century Vienna."
+        ],
+        "table_id": "T1600",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johann Nikolaus von Dreyse was born in the last couple of decades of the 18th century.",
+            "Johann Nikolaus von Dreyse was born in the last couple of decades of the eighteenth century."
+        ],
+        "table_id": "T1612",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jupiter and Io is a 16th century work of art.",
+            "Jupiter and Io is a sixteenth century work of art."
+        ],
+        "table_id": "T1618",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jupiter and lo, an oil painting at the Kunsthistorisches Museum, is a work from the 16th century.",
+            "Jupiter and lo, an oil painting at the Kunsthistorisches Museum, is a work from the sixteenth century."
+        ],
+        "table_id": "T1618",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Julian Assange was married for over a decade in his first marriage.",
+            "Julian Assange was married for over a decade in his 1st marriage."
+        ],
+        "table_id": "T1665",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johannes Gutenberg lived in the 14th century.",
+            "Johannes Gutenberg lived in the fourteenth century."
+        ],
+        "table_id": "T1677",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johannes Gutenberg was born about the turn of the 15th century.",
+            "Johannes Gutenberg was born about the turn of the fifteenth century."
+        ],
+        "table_id": "T1677",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Wayne Gacy had children with his first wife.",
+            "John Wayne Gacy had children with his 1st wife."
+        ],
+        "table_id": "T1692",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kas was introduced within 10 years of the turn of the 20th century.",
+            "Kas was introduced within 10 years of the turn of the twentieth century."
+        ],
+        "table_id": "T1702",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Cho was born in the 20th century.",
+            "John Cho was born in the twentieth century."
+        ],
+        "table_id": "T1713",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Interior is a 19th century work of art.",
+            "Interior is a nineteenth century work of art."
+        ],
+        "table_id": "T1784",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Interior was completed in the 18th century.",
+            "Interior was completed in the eighteenth century."
+        ],
+        "table_id": "T1784",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Issa Album was first signed to Epic.",
+            "Issa Album was 1st signed to Epic."
+        ],
+        "table_id": "T1788",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Huddersfield Ben was born in the 18th century.",
+            "Huddersfield Ben was born in the eighteenth century."
+        ],
+        "table_id": "T1791",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jack of Fables gained popularity with its 10th issue.",
+            "Jack of Fables gained popularity with its tenth issue."
+        ],
+        "table_id": "T1882",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Patrick Brenden is the second in command in Huntington Beach, California.",
+            "Patrick Brenden is the 2nd in command in Huntington Beach, California."
+        ],
+        "table_id": "T1888",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joko Widodo is the Republic of Indonesia's 20th President.",
+            "Joko Widodo is the Republic of Indonesia's twentieth President."
+        ],
+        "table_id": "T2032",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jakarta is the fifth largest capital in the world.",
+            "Jakarta is the 5th largest capital in the world."
+        ],
+        "table_id": "T2032",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    }
+]

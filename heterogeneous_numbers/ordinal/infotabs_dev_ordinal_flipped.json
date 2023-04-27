@@ -1,0 +1,212 @@
+[
+    {
+        "hypothesis": [
+            "Nicolas Poussin painted Et in Arcadia ego in the 18th century.",
+            "Nicolas Poussin painted Et in Arcadia ego in the second century."
+        ],
+        "table_id": "T167",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Keith Richards fathered five sons with his first partner.",
+            "Keith Richards fathered five sons with his 13th partner."
+        ],
+        "table_id": "T401",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "James VI and I died in the 16th century.",
+            "James VI and I died in the twelfth century."
+        ],
+        "table_id": "T407",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "ClariS celebrates its 20th anniversary.",
+            "ClariS celebrates its eleventh anniversary."
+        ],
+        "table_id": "T518",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour was first released in the United Kingdom before being shown in the United States.",
+            "Darkest Hour was 16th released in the United Kingdom before being shown in the United States."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cigar is born on October 7th 2014",
+            "Cigar is born on October fourteenth 2014"
+        ],
+        "table_id": "T604",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dearborn, Michigan was settled in the 17th century.",
+            "Dearborn, Michigan was settled in the seventh century."
+        ],
+        "table_id": "T847",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dear Zindagi was first released in India before being released in the United States two days later.",
+            "Dear Zindagi was 9th released in India before being released in the United States two days later."
+        ],
+        "table_id": "T849",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kingdom of France lasted well into the 20th century.",
+            "Kingdom of France lasted well into the sixth century."
+        ],
+        "table_id": "T948",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "British Comedy Awards was first awarded in 1992 and last in 2016.",
+            "British Comedy Awards was 9th awarded in 1992 and last in 2016."
+        ],
+        "table_id": "T1288",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "It was less than five years between Tu-204 / Tu-214's first flight and it's introduction.",
+            "It was less than five years between Tu-204 / Tu-214's 5th flight and it's introduction."
+        ],
+        "table_id": "T1314",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The US Open was started early in the 20th century.",
+            "The US Open was started early in the twelfth century."
+        ],
+        "table_id": "T1337",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Augustus Larson was born in the last decade of the 18th century.",
+            "John Augustus Larson was born in the last decade of the fourteenth century."
+        ],
+        "table_id": "T1431",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joseph Stalin was married to his first wife for longer than he was married to his second wife.",
+            "Joseph Stalin was married to his 9th wife for longer than he was married to his 18th wife."
+        ],
+        "table_id": "T1437",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Chevalier French Award was the first award that Kamal Haasan won.",
+            "The Chevalier French Award was the 15th award that Kamal Haasan won."
+        ],
+        "table_id": "T1481",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Bombardier was founded in the 19th century.",
+            "Bombardier was founded in the sixth century."
+        ],
+        "table_id": "T1488",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "It was before the turn of the 20th century that Joseph Stalin abolished the office of General Secretary.",
+            "It was before the turn of the eleventh century that Joseph Stalin abolished the office of General Secretary."
+        ],
+        "table_id": "T1501",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jupiter et S\u017dm\u017dl\u017d was painted in the 20th century.",
+            "Jupiter et S\u017dm\u017dl\u017d was painted in the twelfth century."
+        ],
+        "table_id": "T1554",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jennifer Anne Garner was married when she first began her career.",
+            "Jennifer Anne Garner was married when she 2nd began her career."
+        ],
+        "table_id": "T1603",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Josef Mengele was born late in the 19th century.",
+            "Josef Mengele was born late in the fifteenth century."
+        ],
+        "table_id": "T1613",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sir John Goldring's 2nd inquest was before the Hillsborough Independent Panel.",
+            "Sir John Goldring's twentieth inquest was before the Hillsborough Independent Panel."
+        ],
+        "table_id": "T1790",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

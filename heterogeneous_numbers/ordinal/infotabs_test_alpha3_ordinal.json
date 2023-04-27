@@ -1,0 +1,972 @@
+[
+    {
+        "hypothesis": [
+            "The 2011 T\u014dhoku earthquake and tsunami was the first tsunami to hit Miyako, Iwate, T\u014dhoku.",
+            "The 2011 T\u014dhoku earthquake and tsunami was the 1st tsunami to hit Miyako, Iwate, T\u014dhoku."
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Aerotrain opened early in the 20th century.",
+            "The Aerotrain opened early in the twentieth century."
+        ],
+        "table_id": "T2054",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Angelina was established in the early 20th century.",
+            "Angelina was established in the early twentieth century."
+        ],
+        "table_id": "T2060",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Angelina first opened over 100 years ago.",
+            "Angelina 1st opened over 100 years ago."
+        ],
+        "table_id": "T2060",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Apple I was the first model Apple developed.",
+            "The Apple I was the 1st model Apple developed."
+        ],
+        "table_id": "T2061",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Argon was one of the first 20 elements discovered.",
+            "Argon was one of the 1st 20 elements discovered."
+        ],
+        "table_id": "T2062",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Argon was discovered in the 20th century.",
+            "Argon was discovered in the twentieth century."
+        ],
+        "table_id": "T2062",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Astatine was discovered in the first-half of the 20th century by multiple people.",
+            "Astatine was discovered in the first-half of the twentieth century by multiple people."
+        ],
+        "table_id": "T2063",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The b63 Fifth Avenue Line was developed in the 19th century.",
+            "The b63 5th Avenue Line was developed in the nineteenth century."
+        ],
+        "table_id": "T2067",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The b63 Fifth Avenue Line has had changes to its length over the years.",
+            "The b63 5th Avenue Line has had changes to its length over the years."
+        ],
+        "table_id": "T2067",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The b63 Fifth Avenue Line's annual usage rate exceeds five million.",
+            "The b63 5th Avenue Line's annual usage rate exceeds five million."
+        ],
+        "table_id": "T2067",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The B63 Fifth Avenue Line is the most frequently traveled route in Brooklyn annually.",
+            "The B63 5th Avenue Line is the most frequently traveled route in Brooklyn annually."
+        ],
+        "table_id": "T2067",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The last pick-up on the B63 Fifth Avenue line leaves at 11:59PM from Pier 6.",
+            "The last pick-up on the B63 5th Avenue line leaves at 11:59PM from Pier 6."
+        ],
+        "table_id": "T2067",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "b63 Fifth Avenue Line is a bus route that began service over a century ago in Brooklyn, New York.",
+            "b63 5th Avenue Line is a bus route that began service over a century ago in Brooklyn, New York."
+        ],
+        "table_id": "T2067",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The b63 Fifth Avenue Line has reduced fare at off-peak hours.",
+            "The b63 5th Avenue Line has reduced fare at off-peak hours."
+        ],
+        "table_id": "T2067",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "b63 Fifth Avenue Line also serves community in Queens.",
+            "b63 5th Avenue Line also serves community in Queens."
+        ],
+        "table_id": "T2067",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The b69 Vanderbilt Avenue Line started service in the 19th century.",
+            "The b69 Vanderbilt Avenue Line started service in the nineteenth century."
+        ],
+        "table_id": "T2068",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "In the middle of the 19th century, the b69 Vanderbilt Avenue Line stopped operating.",
+            "In the middle of the nineteenth century, the b69 Vanderbilt Avenue Line stopped operating."
+        ],
+        "table_id": "T2068",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Beltane occurs on May 1st around the world.",
+            "Beltane occurs on May first around the world."
+        ],
+        "table_id": "T2071",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The BMW 3 Series was first made in the 2nd decade of the 21st century.",
+            "The BMW 3 Series was 1st made in the second decade of the 21st century."
+        ],
+        "table_id": "T2073",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bromine was first discovered in the 1900s.",
+            "Bromine was 1st discovered in the 1900s."
+        ],
+        "table_id": "T2076",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bromine was one of the first 50 elements discovered.",
+            "Bromine was one of the 1st 50 elements discovered."
+        ],
+        "table_id": "T2076",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bromine was discovered in the 18th century.",
+            "Bromine was discovered in the eighteenth century."
+        ],
+        "table_id": "T2076",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bromine was first discovered in the nineteenth century.",
+            "Bromine was 1st discovered in the 19th century."
+        ],
+        "table_id": "T2076",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Poor coordination, usually occurs  first in childhood as a result of Cerebral palsy",
+            "Poor coordination, usually occurs  1st in childhood as a result of Cerebral palsy"
+        ],
+        "table_id": "T2082",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cerium was first discovered in the 1830s.",
+            "Cerium was 1st discovered in the 1830s."
+        ],
+        "table_id": "T2083",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cerium was one of the first 20 elements discovered.",
+            "Cerium was one of the 1st 20 elements discovered."
+        ],
+        "table_id": "T2083",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Civil Services Examination was first given in the first half of the 20th century.",
+            "The Civil Services Examination was 1st given in the 1st half of the twentieth century."
+        ],
+        "table_id": "T2088",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "English is the first section of the Civil Services Examination.",
+            "English is the 1st section of the Civil Services Examination."
+        ],
+        "table_id": "T2088",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Clowns have been around since the first president of the United States.",
+            "Clowns have been around since the 1st president of the United States."
+        ],
+        "table_id": "T2090",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Comedians existed in the 19th century.",
+            "Comedians existed in the nineteenth century."
+        ],
+        "table_id": "T2090",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The first Columbus Day was celebrated in 1492.",
+            "The 1st Columbus Day was celebrated in 1492."
+        ],
+        "table_id": "T2093",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The eleventh version of Deiban, released in September 2019, is the default operating system for iphone.",
+            "The 11th version of Deiban, released in September 2019, is the default operating system for iphone."
+        ],
+        "table_id": "T2099",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Disney Skyliner opened up in the third quarter of 2019.",
+            "Disney Skyliner opened up in the 3rd quarter of 2019."
+        ],
+        "table_id": "T2100",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Disney Skyliner is the first to use the Doppelmayr Garaventa Group system.",
+            "Disney Skyliner is the 1st to use the Doppelmayr Garaventa Group system."
+        ],
+        "table_id": "T2100",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Diwali was called Deepavali first in history.",
+            "Diwali was called Deepavali 1st in history."
+        ],
+        "table_id": "T2101",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Dongzhi Festival marks the winter solstice during the first week of December.",
+            "The Dongzhi Festival marks the winter solstice during the 1st week of December."
+        ],
+        "table_id": "T2102",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Symptoms of having trouble reading usually first occur during school age",
+            "Symptoms of having trouble reading usually 1st occur during school age"
+        ],
+        "table_id": "T2105",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Europium was discovered at the turn of the 20th century.",
+            "Europium was discovered at the turn of the twentieth century."
+        ],
+        "table_id": "T2111",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Evolutionarily stable strategy was first proposed by two men.",
+            "Evolutionarily stable strategy was 1st proposed by two men."
+        ],
+        "table_id": "T2112",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Flourine was one of the first ten elements discovered.",
+            "Flourine was one of the 1st ten elements discovered."
+        ],
+        "table_id": "T2116",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Flourine was discovered in the 18th century.",
+            "Flourine was discovered in the eighteenth century."
+        ],
+        "table_id": "T2116",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Although Andr\u00e9-Marie Amp\u00e8re first discovered Flourine, Henri Moissan's first isolation of it proved to gain it's acceptance among Chemistry academics.",
+            "Although Andr\u00e9-Marie Amp\u00e8re 1st discovered Flourine, Henri Moissan's 1st isolation of it proved to gain it's acceptance among Chemistry academics."
+        ],
+        "table_id": "T2116",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Main Street Subway Station (Dual System IRT) opened in the 20th century.",
+            "The Main Street Subway Station (Dual System IRT) opened in the twentieth century."
+        ],
+        "table_id": "T2117",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The General Examination for Women was taken in the 20th century.",
+            "The General Examination for Women was taken in the twentieth century."
+        ],
+        "table_id": "T2121",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "GW opened back in the 19th century.",
+            "GW opened back in the nineteenth century."
+        ],
+        "table_id": "T2122",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Good Friday coincides with the first day of Passover.",
+            "Good Friday coincides with the 1st day of Passover."
+        ],
+        "table_id": "T2124",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The GRE is a standardized test that was first offered during the Truman administration.",
+            "The GRE is a standardized test that was 1st offered during the Truman administration."
+        ],
+        "table_id": "T2127",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "HTC Dream is a first generation smartphone.",
+            "HTC Dream is a 1st generation smartphone."
+        ],
+        "table_id": "T2134",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Interborough Rapid Transit Authority began in the 20th century.",
+            "The Interborough Rapid Transit Authority began in the twentieth century."
+        ],
+        "table_id": "T2137",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Began first in the UK in 1980",
+            "Began 1st in the UK in 1980"
+        ],
+        "table_id": "T2138",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "iOS first debuted in the 2000s.",
+            "iOS 1st debuted in the 2000s."
+        ],
+        "table_id": "T2139",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The q111 q113, q114 Jamaica\u2212Far Rockaway line has been in service in one way or another since the turn of the 20th century.",
+            "The q111 q113, q114 Jamaica\u2212Far Rockaway line has been in service in one way or another since the turn of the twentieth century."
+        ],
+        "table_id": "T2141",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Joint Entrance Examination started being given in the 20th century.",
+            "The Joint Entrance Examination started being given in the twentieth century."
+        ],
+        "table_id": "T2143",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The LG Optimus G was the first of the Optimus series.",
+            "The LG Optimus G was the 1st of the Optimus series."
+        ],
+        "table_id": "T2150",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Linux was released in the last decade of the 20th century.",
+            "Linux was released in the last decade of the twentieth century."
+        ],
+        "table_id": "T2151",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The third lunar month was in March in 2019",
+            "The 3rd lunar month was in March in 2019"
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Construction of the Manhattan Bridge started at the beginning of the 20th century.",
+            "Construction of the Manhattan Bridge started at the beginning of the twentieth century."
+        ],
+        "table_id": "T2160",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Mawlid is celebrated on either the 10th or 15th of November every year.",
+            "Mawlid is celebrated on either the tenth or fifteenth of November every year."
+        ],
+        "table_id": "T2161",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The MicroBee was first introduced in 1982 and discontinued in 1992 after a ten year run.",
+            "The MicroBee was 1st introduced in 1982 and discontinued in 1992 after a ten year run."
+        ],
+        "table_id": "T2166",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Moto G was the best selling device in Motorola's 3rd Generation devices, which also included the Moto X Style and the Moto X Play.",
+            "The Moto G was the best selling device in Motorola's third Generation devices, which also included the Moto X Style and the Moto X Play."
+        ],
+        "table_id": "T2168",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The third generation Moto G allowed users to expand the memory via a microSD card slot.",
+            "The 3rd generation Moto G allowed users to expand the memory via a microSD card slot."
+        ],
+        "table_id": "T2168",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Subsequent generations of the 3rd generation Moto G offered greater storage options.",
+            "Subsequent generations of the third generation Moto G offered greater storage options."
+        ],
+        "table_id": "T2168",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The 3rd generation Moto G is the latest offering from the manufacturer.",
+            "The third generation Moto G is the latest offering from the manufacturer."
+        ],
+        "table_id": "T2168",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Nokia 9 PureView first became available over a year ago.",
+            "The Nokia 9 PureView 1st became available over a year ago."
+        ],
+        "table_id": "T2175",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "New World First Bus also operates the MTR Island Line",
+            "New World 1st Bus also operates the MTR Island Line"
+        ],
+        "table_id": "T2177",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Oxygen was named in the 18th century.",
+            "Oxygen was named in the eighteenth century."
+        ],
+        "table_id": "T2181",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Pau-Cranfranc railway opened in the 20th century",
+            "The Pau-Cranfranc railway opened in the twentieth century"
+        ],
+        "table_id": "T2185",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The railway has stayed open since it first opened back in 1928.",
+            "The railway has stayed open since it 1st opened back in 1928."
+        ],
+        "table_id": "T2185",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The PCAT first was administered in the 1970s.",
+            "The PCAT 1st was administered in the 1970s."
+        ],
+        "table_id": "T2188",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Poincar\u00e9 conjecture was first conjured in the 19th century.",
+            "Poincar\u00e9 conjecture was 1st conjured in the nineteenth century."
+        ],
+        "table_id": "T2189",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Polio has been eradicated since the 20th century.",
+            "Polio has been eradicated since the twentieth century."
+        ],
+        "table_id": "T2190",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Humphry Davy first discovered potassium in the early 1800s.",
+            "Humphry Davy 1st discovered potassium in the early 1800s."
+        ],
+        "table_id": "T2191",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Potassium was one of the first 20 elements discovered.",
+            "Potassium was one of the 1st 20 elements discovered."
+        ],
+        "table_id": "T2191",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Potassium was first discovered in the 18th century.",
+            "Potassium was 1st discovered in the eighteenth century."
+        ],
+        "table_id": "T2191",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Raksha Bandhan always happens in the 8th moth of the year.",
+            "Raksha Bandhan always happens in the eighth moth of the year."
+        ],
+        "table_id": "T2195",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Samsung Galaxy Note9 was first released last year.",
+            "The Samsung Galaxy Note9 was 1st released last year."
+        ],
+        "table_id": "T2203",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Samsung Galaxy Note9 was the first in the Note series.",
+            "The Samsung Galaxy Note9 was the 1st in the Note series."
+        ],
+        "table_id": "T2203",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Social work has increased since the turn of the 20th century.",
+            "Social work has increased since the turn of the twentieth century."
+        ],
+        "table_id": "T2214",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Humphry Davy first discovered and isolated Sodium which has a silvery white metallic appearance.",
+            "Humphry Davy 1st discovered and isolated Sodium which has a silvery white metallic appearance."
+        ],
+        "table_id": "T2215",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sodium was first discovered in the 19th century.",
+            "Sodium was 1st discovered in the nineteenth century."
+        ],
+        "table_id": "T2215",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sodium was one of the first 10 elements discovered.",
+            "Sodium was one of the 1st 10 elements discovered."
+        ],
+        "table_id": "T2215",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "SSC CGL began in India in the 19th century",
+            "SSC CGL began in India in the nineteenth century"
+        ],
+        "table_id": "T2217",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Tenth of Tevet is a Jewish event.",
+            "The 10th of Tevet is a Jewish event."
+        ],
+        "table_id": "T2225",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Tenth of Tevet typically takes place every year.",
+            "The 10th of Tevet typically takes place every year."
+        ],
+        "table_id": "T2225",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Tenth of Tevet, for 2019, takes place in 2019.",
+            "The 10th of Tevet, for 2019, takes place in 2019."
+        ],
+        "table_id": "T2225",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Tenth of Tevet starts before the sun is up",
+            "The 10th of Tevet starts before the sun is up"
+        ],
+        "table_id": "T2225",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Tenth of Tevet has been practiced for over 1000 years",
+            "The 10th of Tevet has been practiced for over 1000 years"
+        ],
+        "table_id": "T2225",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Tenth of Tevet is where people eat more food than normal",
+            "The 10th of Tevet is where people eat more food than normal"
+        ],
+        "table_id": "T2225",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The 2019 and 2020 date for Tenth of Tevet both happen in 2020",
+            "The 2019 and 2020 date for 10th of Tevet both happen in 2020"
+        ],
+        "table_id": "T2225",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "All jews fast on Tenth of Tevet",
+            "All jews fast on 10th of Tevet"
+        ],
+        "table_id": "T2225",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The 2018 date and the 2020 date for Tenth of Tevet  happen during different months",
+            "The 2018 date and the 2020 date for 10th of Tevet  happen during different months"
+        ],
+        "table_id": "T2225",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Terbium was discovered and first isolated in the 19th century.",
+            "Terbium was discovered and 1st isolated in the nineteenth century."
+        ],
+        "table_id": "T2226",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Ledbury Restaurant opened in the 1st decade of the 21st century.",
+            "The Ledbury Restaurant opened in the first decade of the 21st century."
+        ],
+        "table_id": "T2229",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The University Clinical Aptitude Test was first administered in the 20th century.",
+            "The University Clinical Aptitude Test was 1st administered in the twentieth century."
+        ],
+        "table_id": "T2235",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Vaisakhi is observed on the 13th or 14th of April every year.",
+            "Vaisakhi is observed on the thirteenth or fourteenth of April every year."
+        ],
+        "table_id": "T2238",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Vidyasagar Setu is also known as Second Hooghly Bridge and is a two-way with three lanes.",
+            "Vidyasagar Setu is also known as 2nd Hooghly Bridge and is a two-way with three lanes."
+        ],
+        "table_id": "T2240",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    }
+]
