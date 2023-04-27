@@ -1,3 +1,1542 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9c434543ae96ac4e50a1df1d6b4481a627f77a26f61a2859e4b2db072c76fe8a
-size 119389
+[
+    {
+        "hypothesis": [
+            "Eva Mendes' career in film has spanned over 20 years.",
+            "Eva Mendes' career in film has spanned over twenty-five years."
+        ],
+        "table_id": "T31",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Janet Leigh died in the Fall of 2004.",
+            "Janet Leigh died in the Fall of two thousand and thirteen."
+        ],
+        "table_id": "T46",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jodie Whittaker has been married for less than 14 years.",
+            "Jodie Whittaker has been married for less than sixteen years."
+        ],
+        "table_id": "T47",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jodie Whittaker has had an active career in acting for less than 20 years.",
+            "Jodie Whittaker has had an active career in acting for less than twenty-three years."
+        ],
+        "table_id": "T47",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Florence Foster Jenkins was released in Spring and Summer of 2016.",
+            "Florence Foster Jenkins was released in Spring and Summer of two thousand and twenty-one."
+        ],
+        "table_id": "T53",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Eugene Kaspersky was born in the fall of 1965.",
+            "Eugene Kaspersky was born in the fall of one thousand, nine hundred and sixty-nine."
+        ],
+        "table_id": "T73",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joseph Glidden was born in the Winter of 1813.",
+            "Joseph Glidden was born in the Winter of one thousand, eight hundred and fifteen."
+        ],
+        "table_id": "T78",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joseph Glidden passed away when he was 93 years old.",
+            "Joseph Glidden passed away when he was ninety-five years old."
+        ],
+        "table_id": "T78",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John McCain died in the Summer of 2018.",
+            "John McCain died in the Summer of two thousand and nineteen."
+        ],
+        "table_id": "T94",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chic has been active as a band in one form or another for less than 40 years.",
+            "Chic has been active as a band in one form or another for less than forty-two years."
+        ],
+        "table_id": "T101",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charles IV of Spain and His Family took less than 2 years to complete.",
+            "Charles IV of Spain and His Family took less than six years to complete."
+        ],
+        "table_id": "T111",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charles IV of Spain and His Family measures over 10 feet wide at it's longest point.",
+            "Charles IV of Spain and His Family measures over sixteen feet wide at it's longest point."
+        ],
+        "table_id": "T111",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jennifer Connelly was born in the winter of 1970.",
+            "Jennifer Connelly was born in the winter of one thousand, nine hundred and seventy."
+        ],
+        "table_id": "T144",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Johnny Cash was born in the Winter of 1932.",
+            "Johnny Cash was born in the Winter of one thousand, nine hundred and thirty-six."
+        ],
+        "table_id": "T149",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Farrah Abraham was born in the summer of 1991.",
+            "Farrah Abraham was born in the summer of one thousand, nine hundred and ninety-eight."
+        ],
+        "table_id": "T168",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The area code of Bruges is 050.",
+            "The area code of Bruges is fifty-one."
+        ],
+        "table_id": "T172",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Density of Bruges is less than 900/km2.",
+            "Density of Bruges is less than nine hundred and nine/km2."
+        ],
+        "table_id": "T172",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "There are less than 2500 people per square mile in Bruges.",
+            "There are less than two thousand, five hundred people per square mile in Bruges."
+        ],
+        "table_id": "T172",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jidenna has been performing since the 1990's.",
+            "Jidenna has been performing since the one thousand, nine hundred and ninety-four's."
+        ],
+        "table_id": "T174",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jidenna has had an active career for under 10 years.",
+            "Jidenna has had an active career for under nineteen years."
+        ],
+        "table_id": "T174",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "he film Eraserhead made less than $10m at the box office.",
+            "he film Eraserhead made less than $10m at the box office."
+        ],
+        "table_id": "T192",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Winter of 1638 is when James Gregory was born.",
+            "The Winter of one thousand, six hundred and forty-three is when James Gregory was born."
+        ],
+        "table_id": "T194",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Etta James put music out on less than 20 different labels.",
+            "Etta James put music out on less than twenty-four different labels."
+        ],
+        "table_id": "T198",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charles Cros passed away when he was 45.",
+            "Charles Cros passed away when he was forty-eight."
+        ],
+        "table_id": "T215",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charles Cros died in the Summer of 1888.",
+            "Charles Cros died in the Summer of one thousand, eight hundred and ninety-two."
+        ],
+        "table_id": "T215",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Faith No More made music on 5 record labels.",
+            "Faith No More made music on fourteen record labels."
+        ],
+        "table_id": "T220",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Fist Fight made under 30 million on top of the budget at the box office.",
+            "Fist Fight made under thirty-five million on top of the budget at the box office."
+        ],
+        "table_id": "T224",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The film Fist Fight made under $50 million dollars at the box office.",
+            "The film Fist Fight made under $fifty-nine million dollars at the box office."
+        ],
+        "table_id": "T224",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Buffalo Springfield has recorded on Atco and Atlantic almost since 1966 with an interruption.",
+            "Buffalo Springfield has recorded on Atco and Atlantic almost since one thousand, nine hundred and sixty-seven with an interruption."
+        ],
+        "table_id": "T324",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Buffalo Springfield had some activity in the 21st century.",
+            "Buffalo Springfield had some activity in the 21st century."
+        ],
+        "table_id": "T324",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Buffalo Springfield played for some period of time in the 20th century.",
+            "Buffalo Springfield played for some period of time in the 20th century."
+        ],
+        "table_id": "T324",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Johannes Gutenberg passed away when they were in their 60s.",
+            "Johannes Gutenberg passed away when they were in their 60s."
+        ],
+        "table_id": "T329",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeff Buckley is died in May 29, 1997",
+            "Jeff Buckley is died in May thirty-eight, two thousand and two"
+        ],
+        "table_id": "T355",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Evan Spiegel got married in 2017.",
+            "Evan Spiegel got married in two thousand and twenty-three."
+        ],
+        "table_id": "T363",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The musician Bryson Tiller began their career when they were older than 16 years old.",
+            "The musician Bryson Tiller began their career when they were older than twenty-five years old."
+        ],
+        "table_id": "T423",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Converge has been an independent band for under 50 years.",
+            "Converge has been an independent band for under fifty-three years."
+        ],
+        "table_id": "T459",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Conversion on the Way to Damascus is a 17th century painting.",
+            "The Conversion on the Way to Damascus is a 17th century painting."
+        ],
+        "table_id": "T461",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cosmo's Factory celebrates its 50 year anniversary next year.",
+            "Cosmo's Factory celebrates its fifty-four year anniversary next year."
+        ],
+        "table_id": "T585",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cillian Murphy has had 2 children.",
+            "Cillian Murphy has had nine children."
+        ],
+        "table_id": "T598",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cliff Richard is famous for 40's pop rock music.",
+            "Cliff Richard is famous for forty-eight's pop rock music."
+        ],
+        "table_id": "T608",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cosmic Girls are well known for their country rock albums produced under Starship after 21016.",
+            "Cosmic Girls are well known for their country rock albums produced under Starship after twenty-one thousand and seventeen."
+        ],
+        "table_id": "T647",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Creed was released around Thanksgiving of 2015.",
+            "Creed was released around Thanksgiving of two thousand and twenty-two."
+        ],
+        "table_id": "T649",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Princess Diana was married only once when she perished in 1997.",
+            "Princess Diana was married only once when she perished in two thousand and five."
+        ],
+        "table_id": "T711",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Coca-Cola has under 10 variants available.",
+            "Coca-Cola has under eighteen variants available."
+        ],
+        "table_id": "T712",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Coca-Cola was created in the 17th century.",
+            "Coca-Cola was created in the 17th century."
+        ],
+        "table_id": "T712",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ronaldo has been part of five teams in the past 16 years.",
+            "Ronaldo has been part of five teams in the past nineteen years."
+        ],
+        "table_id": "T725",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dido has been active in the music industry for less than 30 years.",
+            "Dido has been active in the music industry for less than thirty-eight years."
+        ],
+        "table_id": "T732",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "David Charles Hahn lived into their 30s.",
+            "David Charles Hahn lived into their 30s."
+        ],
+        "table_id": "T760",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Crucifix by Cimabue at Santa Croce is a 11th century artwork.",
+            "Crucifix by Cimabue at Santa Croce is a 11th century artwork."
+        ],
+        "table_id": "T762",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cognac is considered one of the most famous French brandies to be above 20% in alcohol by volume.",
+            "Cognac is considered one of the most famous French brandies to be above twenty% in alcohol by volume."
+        ],
+        "table_id": "T766",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cruel Summer took one year to record and produce before being released in the late 2012.",
+            "Cruel Summer took one year to record and produce before being released in the late two thousand and sixteen."
+        ],
+        "table_id": "T771",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cruel Summer was released in September'2012.",
+            "Cruel Summer was released in September'two thousand and fifteen."
+        ],
+        "table_id": "T771",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Crufts dog show has been around for over 100 years.",
+            "The Crufts dog show has been around for over one hundred and seven years."
+        ],
+        "table_id": "T772",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Dawn of the Black Hearts was released in 1995.",
+            "The Dawn of the Black Hearts was released in two thousand and three."
+        ],
+        "table_id": "T800",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cult of Chucky t was released  before 2018.",
+            "Cult of Chucky t was released  before two thousand and twenty-seven."
+        ],
+        "table_id": "T802",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Collective Soul has been active as a band for more than 20 years.",
+            "Collective Soul has been active as a band for more than twenty-nine years."
+        ],
+        "table_id": "T806",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "while governmental and non-governmental organisations had been denouncing the practice for years, the colombian government of then president did not deny the armed forces were killing civilians until late 2008.",
+            "while governmental and non-governmental organisations had been denouncing the practice for years, the colombian government of then president did not deny the armed forces were killing civilians until late two thousand and fifteen."
+        ],
+        "table_id": "T813",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Colonel Meow lived for a only 2 years before he died.",
+            "Colonel Meow lived for a only six years before he died."
+        ],
+        "table_id": "T814",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Colors had a running time of 30 minutes.",
+            "Colors had a running time of thirty-four minutes."
+        ],
+        "table_id": "T819",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Colors is a 30-minute long album by Beck.",
+            "Colors is a thirty-six-minute long album by Beck."
+        ],
+        "table_id": "T819",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Daytona Beach, Florida is more than 50 square miles in area.",
+            "Daytona Beach, Florida is more than fifty-nine square miles in area."
+        ],
+        "table_id": "T835",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The comic Death Note ran for under 6 years.",
+            "The comic Death Note ran for under seven years."
+        ],
+        "table_id": "T856",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Death Note ran as a series for under 4 years before concluding in the late 2000's.",
+            "Death Note ran as a series for under four years before concluding in the late two thousand and five's."
+        ],
+        "table_id": "T857",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The movie Death Note runs under 3 hours long in order to stay true to the manga series.",
+            "The movie Death Note runs under ten hours long in order to stay true to the manga series."
+        ],
+        "table_id": "T858",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chennai is the largest city in the Madras region, with a population count in the 6-digits range.",
+            "Chennai is the largest city in the Madras region, with a population count in the nine-digits range."
+        ],
+        "table_id": "T869",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Mongrel Films has  produced works that less than 2 hours long.",
+            "Mongrel Films has  produced works that less than four hours long."
+        ],
+        "table_id": "T890",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Chagatai Khanate lasted for under 800 years before the western empire fell.",
+            "The Chagatai Khanate lasted for under eight hundred and five years before the western empire fell."
+        ],
+        "table_id": "T1014",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chagatai's death occurred late in the 14th century.",
+            "Chagatai's death occurred late in the 14th century."
+        ],
+        "table_id": "T1014",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charles Sumner Tainter died at the ago of 85 and married more than once during his lifetime.",
+            "Charles Sumner Tainter died at the ago of ninety-four and married more than once during his lifetime."
+        ],
+        "table_id": "T1151",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Candy Ride was foaled right before the 21st century.",
+            "Candy Ride was foaled right before the 21st century."
+        ],
+        "table_id": "T1183",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Brian Johnson was born in England is the autumn of 1947.",
+            "Brian Johnson was born in England is the autumn of one thousand, nine hundred and fifty-four."
+        ],
+        "table_id": "T1224",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "It's been less than 55 years that Brian Johnson has been active in his career.",
+            "It's been less than fifty-eight years that Brian Johnson has been active in his career."
+        ],
+        "table_id": "T1224",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "ERJ family has three variants and its unit cost is US$15 Million.",
+            "ERJ family has three variants and its unit cost is US$twenty Million."
+        ],
+        "table_id": "T1260",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "More than 1000 aircraft in the ERJ family have ever been built.",
+            "More than one thousand and two aircraft in the ERJ family have ever been built."
+        ],
+        "table_id": "T1260",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "ERJ family ERJ135 / ERJ140 / ERJ145 was a short-haul Regional airplane.",
+            "ERJ family ERJ135 / ERJ140 / ERJ145 was a short-haul Regional airplane."
+        ],
+        "table_id": "T1260",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Kuznetsov class has a length less than 350 m.",
+            "The Kuznetsov class has a length less than three hundred and fifty-three m."
+        ],
+        "table_id": "T1269",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chad Kroeger, associated with Nickelback, has 604 labels.",
+            "Chad Kroeger, associated with Nickelback, has six hundred and seven labels."
+        ],
+        "table_id": "T1276",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carlos Santana has been performing blues rock since 1960s.",
+            "Carlos Santana has been performing blues rock since 1960s."
+        ],
+        "table_id": "T1374",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joseph Marie Jacquard was born in the Summer of 1752.",
+            "Joseph Marie Jacquard was born in the Summer of one thousand, seven hundred and sixty."
+        ],
+        "table_id": "T1418",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joseph Marie Jacquard was born in the 18th century.",
+            "Joseph Marie Jacquard was born in the 18th century."
+        ],
+        "table_id": "T1418",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Mayer was born in the Fall of 1977.",
+            "John Mayer was born in the Fall of one thousand, nine hundred and eighty-four."
+        ],
+        "table_id": "T1421",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Katey Sagal was born in the Winter of 1954.",
+            "Katey Sagal was born in the Winter of one thousand, nine hundred and sixty-two."
+        ],
+        "table_id": "T1426",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Katharine Hepburn's career lasted more than 60 years.",
+            "Katharine Hepburn's career lasted more than sixty-seven years."
+        ],
+        "table_id": "T1428",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Johnny Drum has less than 50% alcohol.",
+            "Johnny Drum has less than fifty% alcohol."
+        ],
+        "table_id": "T1429",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John B. Stetson was born in the second quarter of the 19th century.",
+            "John B. Stetson was born in the second quarter of the 19th century."
+        ],
+        "table_id": "T1452",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Stetson was born in the 19th century.",
+            "John Stetson was born in the 19th century."
+        ],
+        "table_id": "T1452",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John B. Stetson died in the 20th century.",
+            "John B. Stetson died in the 20th century."
+        ],
+        "table_id": "T1452",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeff Bezos was born in the Winter of 1964.",
+            "Jeff Bezos was born in the Winter of one thousand, nine hundred and sixty-six."
+        ],
+        "table_id": "T1455",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeff Bezos and his wife has more than 2 children.",
+            "Jeff Bezos and his wife has more than eleven children."
+        ],
+        "table_id": "T1455",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "KC and the Sunshine Band have had performance interruption since the 70s.",
+            "KC and the Sunshine Band have had performance interruption since the 70s."
+        ],
+        "table_id": "T1459",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "JoJo's birth took place in the winter of 1990.",
+            "JoJo's birth took place in the winter of one thousand, nine hundred and ninety-one."
+        ],
+        "table_id": "T1461",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Justice was first published in the Fall of 2005.",
+            "Justice was first published in the Fall of two thousand and eleven."
+        ],
+        "table_id": "T1469",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Wesley Harding came out in the Fall of 1967.",
+            "John Wesley Harding came out in the Fall of one thousand, nine hundred and sixty-eight."
+        ],
+        "table_id": "T1478",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joseph Engelberger won the Japan prize within 50 years of graduating from Columbia.",
+            "Joseph Engelberger won the Japan prize within fifty-two years of graduating from Columbia."
+        ],
+        "table_id": "T1486",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jewess with Oranges is under 10 square feet in size.",
+            "Jewess with Oranges is under twelve square feet in size."
+        ],
+        "table_id": "T1487",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Josh Tillman has been active in music for less than 20 years.",
+            "Josh Tillman has been active in music for less than twenty-five years."
+        ],
+        "table_id": "T1490",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jerry Lee Lewis has been active since before the turn of the 21st century.",
+            "Jerry Lee Lewis has been active since before the turn of the 21st century."
+        ],
+        "table_id": "T1496",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jerry Lee Lewis started performing after the half of 20th century.",
+            "Jerry Lee Lewis started performing after the half of 20th century."
+        ],
+        "table_id": "T1496",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Goodman has been active in acting for under 50 years.",
+            "John Goodman has been active in acting for under fifty-eight years."
+        ],
+        "table_id": "T1513",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jidenna was born in the summer of 1985.",
+            "Jidenna was born in the summer of one thousand, nine hundred and eighty-nine."
+        ],
+        "table_id": "T1517",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kathie Lee Gifford began their career when they were 17.",
+            "Kathie Lee Gifford began their career when they were twenty-two."
+        ],
+        "table_id": "T1520",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Summer during 1794 is when John Roebuck kicked the bucket.",
+            "The Summer during one thousand, eight hundred and one is when John Roebuck kicked the bucket."
+        ],
+        "table_id": "T1522",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Roebuck lived in the 18th century.",
+            "John Roebuck lived in the 18th century."
+        ],
+        "table_id": "T1522",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Harrison was awarded the Copley Medal in his 50s.",
+            "John Harrison was awarded the Copley Medal in his 50s."
+        ],
+        "table_id": "T1523",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Harrison died in the spring of 1776.",
+            "John Harrison died in the spring of one thousand, seven hundred and eighty."
+        ],
+        "table_id": "T1523",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Harrison was born in the 1600s.",
+            "John Harrison was born in the 1600s."
+        ],
+        "table_id": "T1523",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jimmy Buffett has been active since age 23.",
+            "Jimmy Buffett has been active since age twenty-seven."
+        ],
+        "table_id": "T1552",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jordan Belfort married his first wife at the age of 23.",
+            "Jordan Belfort married his first wife at the age of twenty-six."
+        ],
+        "table_id": "T1564",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Judith Beheading Holofernes was painted towards the end of the 16th century.",
+            "Judith Beheading Holofernes was painted towards the end of the 16th century."
+        ],
+        "table_id": "T1566",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Judith Beheading Holofernes is under 10 square feet in size.",
+            "Judith Beheading Holofernes is under eleven square feet in size."
+        ],
+        "table_id": "T1566",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kareem Abdul-Jabbar weighs more than the average 5th grade student.",
+            "Kareem Abdul-Jabbar weighs more than the average 5th grade student."
+        ],
+        "table_id": "T1567",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Greater Juneau Borough was established in the fall of 1963.",
+            "The Greater Juneau Borough was established in the fall of one thousand, nine hundred and sixty-six."
+        ],
+        "table_id": "T1568",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Juneau, Alaska became a home-rule city in October of 1960.",
+            "Juneau, Alaska became a home-rule city in October of one thousand, nine hundred and sixty-five."
+        ],
+        "table_id": "T1568",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jed Wolf was active as an animal actor for over 10 years.",
+            "Jed Wolf was active as an animal actor for over fifteen years."
+        ],
+        "table_id": "T1573",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Coup of 1388 took place before the reign of Taejo (1st).",
+            "The Coup of one thousand, three hundred and eighty-eight took place before the reign of Taejo (1st)."
+        ],
+        "table_id": "T1575",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeepers Creepers 3 was released in the Fall.",
+            "Jeepers Creepers twelve was released in the Fall."
+        ],
+        "table_id": "T1576",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeepers Creepers 3 came out in the Fall of 2017.",
+            "Jeepers Creepers six came out in the Fall of two thousand and twenty-two."
+        ],
+        "table_id": "T1576",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeepers Creepers 3 starred several actors.",
+            "Jeepers Creepers eleven starred several actors."
+        ],
+        "table_id": "T1576",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Josiah Warren died in the spring of 1874.",
+            "Josiah Warren died in the spring of one thousand, eight hundred and seventy-four."
+        ],
+        "table_id": "T1584",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jon Jones weighs over 200 pounds.",
+            "Jon Jones weighs over two hundred and three pounds."
+        ],
+        "table_id": "T1594",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jon Jones has been active in wrestling for less than 15 years.",
+            "Jon Jones has been active in wrestling for less than seventeen years."
+        ],
+        "table_id": "T1594",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joseph Aspdin was born in last month of year 1778.",
+            "Joseph Aspdin was born in last month of year one thousand, seven hundred and seventy-nine."
+        ],
+        "table_id": "T1602",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jigsaw made less than 100 million over it's budget at the box office.",
+            "Jigsaw made less than one hundred and eight million over it's budget at the box office."
+        ],
+        "table_id": "T1607",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Spring of 1977 is when John Cena was born.",
+            "The Spring of one thousand, nine hundred and eighty-three is when John Cena was born."
+        ],
+        "table_id": "T1608",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joe Cocker's death occurred in the Winter of 2014.",
+            "Joe Cocker's death occurred in the Winter of two thousand and eighteen."
+        ],
+        "table_id": "T1621",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Journey into Mystery was last published in the Fall of 2013.",
+            "Journey into Mystery was last published in the Fall of two thousand and twenty-one."
+        ],
+        "table_id": "T1634",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The first publication of Journey into the Mystery was before 2000.",
+            "The first publication of Journey into the Mystery was before two thousand and three."
+        ],
+        "table_id": "T1634",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeepers Creepers made over 40 million dollars over it's budget at the box office.",
+            "Jeepers Creepers made over forty-four million dollars over it's budget at the box office."
+        ],
+        "table_id": "T1636",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joni Mitchell has had an active career for less than 45 years.",
+            "Joni Mitchell has had an active career for less than forty-seven years."
+        ],
+        "table_id": "T1641",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joni Mitchell started performing in the early half of the 1960s.",
+            "Joni Mitchell started performing in the early half of the 1960s."
+        ],
+        "table_id": "T1641",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kaabil had a budget over 300 million.",
+            "Kaabil had a budget over three hundred and two million."
+        ],
+        "table_id": "T1644",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kaabil came out in the Winter of 2017.",
+            "Kaabil came out in the Winter of two thousand and twenty-five."
+        ],
+        "table_id": "T1644",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jim Parsons came into this world in the Spring of 1973.",
+            "Jim Parsons came into this world in the Spring of one thousand, nine hundred and seventy-nine."
+        ],
+        "table_id": "T1674",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Katie Cassidy has been acting for less than 20 years.",
+            "Katie Cassidy has been acting for less than twenty-three years."
+        ],
+        "table_id": "T1683",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joe Strummer was active since his 2002.",
+            "Joe Strummer was active since his two thousand and two."
+        ],
+        "table_id": "T1684",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Keeley Hawes has been acting since they were 13.",
+            "Keeley Hawes has been acting since they were fourteen."
+        ],
+        "table_id": "T1685",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joseph Glidden married his second wife in his late 30s.",
+            "Joseph Glidden married his second wife in his late 30s."
+        ],
+        "table_id": "T1691",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jude Law has been active as an actor for less than 35 years.",
+            "Jude Law has been active as an actor for less than forty-two years."
+        ],
+        "table_id": "T1695",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dr. John S. Pemberton lived in the 19th century.",
+            "Dr. John S. Pemberton lived in the 19th century."
+        ],
+        "table_id": "T1697",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dr. John S. Pemberton passed away in the August of 1888.",
+            "Dr. John S. Pemberton passed away in the August of one thousand, eight hundred and ninety-one."
+        ],
+        "table_id": "T1697",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jena Malone was born in the Winter of 1984.",
+            "Jena Malone was born in the Winter of one thousand, nine hundred and ninety-two."
+        ],
+        "table_id": "T1704",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Winter of 1981 is when Josh Groban was born.",
+            "The Winter of one thousand, nine hundred and eighty-seven is when Josh Groban was born."
+        ],
+        "table_id": "T1726",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jenny Slate was born in the Spring of 1982.",
+            "Jenny Slate was born in the Spring of one thousand, nine hundred and eighty-two."
+        ],
+        "table_id": "T1731",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jenny Slate has traveled farther than 1000 miles from her place of birth.",
+            "Jenny Slate has traveled farther than one thousand and nine miles from her place of birth."
+        ],
+        "table_id": "T1731",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Innuendo was recorded in the 20th century.",
+            "Innuendo was recorded in the 20th century."
+        ],
+        "table_id": "T1766",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Islero weight more than 450Kg.",
+            "Islero weight more than 450Kg."
+        ],
+        "table_id": "T1771",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Insidious made over 60 times its budget in the box office.",
+            "Insidious made over sixty-three times its budget in the box office."
+        ],
+        "table_id": "T1776",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Interchange is 20th century canvas painting.",
+            "Interchange is 20th century canvas painting."
+        ],
+        "table_id": "T1779",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hiraga Gennai died in the 18th century.",
+            "Hiraga Gennai died in the 18th century."
+        ],
+        "table_id": "T1904",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Iggy Azalea has been singing since she was 21.",
+            "Iggy Azalea has been singing since she was twenty-nine."
+        ],
+        "table_id": "T1906",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hiroshi Minagawa was born in the 20th century.",
+            "Hiroshi Minagawa was born in the 20th century."
+        ],
+        "table_id": "T1938",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Imagine was released in the autumn of 1971.",
+            "Imagine was released in the autumn of one thousand, nine hundred and seventy-nine."
+        ],
+        "table_id": "T1970",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hong Kong Special Administrative Region was under British Occupation since mid 1800s.",
+            "Hong Kong Special Administrative Region was under British Occupation since mid 1800s."
+        ],
+        "table_id": "T2010",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "House of Mystery was published after 2002.",
+            "House of Mystery was published after two thousand and four."
+        ],
+        "table_id": "T2037",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]
