@@ -1,1 +1,11 @@
 *.json filter=lfs diff=lfs merge=lfs -text
+approximation/*.json filter=lfs diff=lfs merge=lfs -text
+arithmetic/*.json filter=lfs diff=lfs merge=lfs -text
+comparsion/*.json filter=lfs diff=lfs merge=lfs -text
+heterogeneous_numbers/*.json filter=lfs diff=lfs merge=lfs -text
+negative_numbers/*.json filter=lfs diff=lfs merge=lfs -text
+numeration/*.json filter=lfs diff=lfs merge=lfs -text
+range/*.json filter=lfs diff=lfs merge=lfs -text
+sorting/*.json filter=lfs diff=lfs merge=lfs -text
+quantify/unprobed[[:space:]]data/*.csv filter=lfs diff=lfs merge=lfs -text
+temporal/unprobed[[:space:]]data/*.csv filter=lfs diff=lfs merge=lfs -text
