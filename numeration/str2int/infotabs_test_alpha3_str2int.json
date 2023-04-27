@@ -1,3 +1,1262 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c26aaa8561962283f152d1f1d5d52243913bb4d55dad99b0aad5183e03cadb6
-size 40059
+[
+    {
+        "hypothesis": [
+            "The five fatalities included 1 passenger",
+            "The 5 fatalities included 1 passenger"
+        ],
+        "table_id": "T2045",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There was one passenger for every 16 crew members.",
+            "There was 1 passenger for every 16 crew members."
+        ],
+        "table_id": "T2045",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The local time has a six hour difference from UTC time",
+            "The local time has a 6 hour difference from UTC time"
+        ],
+        "table_id": "T2046",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The total damage of the 2004 Indian Ocean earthquake and tsunami was over $15 billion US dollars.",
+            "The total damage of the 2004 Indian Ocean earthquake and tsunami was over $15 1000000000 US dollars."
+        ],
+        "table_id": "T2047",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Sichuan Earthquake cost over $100 billion in damages.",
+            "The Sichuan Earthquake cost over $100 1000000000 in damages."
+        ],
+        "table_id": "T2049",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Over a quarter million people were injured in the 2008 Sichuan earthquake.",
+            "Over a quarter 1000000 people were injured in the 2008 Sichuan earthquake."
+        ],
+        "table_id": "T2049",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "Over 6000 people were injured and a damage of over $300 1000000000 occurred in the March 2011 Earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The T\u014dhoku earthquake and tsunami was one of the more violent storms that occurred in the spring.",
+            "The T\u014dhoku earthquake and tsunami was 1 of the more violent storms that occurred in the spring."
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The 2016 Ecuador earthquake was felt in more than one country.",
+            "The 2016 Ecuador earthquake was felt in more than 1 country."
+        ],
+        "table_id": "T2051",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The 2019 Peru earthquake was one that was expected.",
+            "The 2019 Peru earthquake was 1 that was expected."
+        ],
+        "table_id": "T2052",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The two deaths were Ecuadorians.",
+            "The 2 deaths were Ecuadorians."
+        ],
+        "table_id": "T2052",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The release date of the Acorn Atom was forty years ago.",
+            "The release date of the Acorn Atom was 40 years ago."
+        ],
+        "table_id": "T2053",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "African trypanosomiasis has more than one stage.",
+            "African trypanosomiasis has more than 1 stage."
+        ],
+        "table_id": "T2055",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Angelina has undergone five different owners.",
+            "Angelina has undergone 5 different owners."
+        ],
+        "table_id": "T2060",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Angelina is known as one of the best places to eat in France.",
+            "Angelina is known as 1 of the best places to eat in France."
+        ],
+        "table_id": "T2060",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Angelina only has one main location.",
+            "Angelina only has 1 main location."
+        ],
+        "table_id": "T2060",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Apple I was one of a series of computers.",
+            "The Apple I was 1 of a series of computers."
+        ],
+        "table_id": "T2061",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Apple I was in production for less than two years.",
+            "The Apple I was in production for less than 2 years."
+        ],
+        "table_id": "T2061",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Apple I was on the market for less than two years.",
+            "The Apple I was on the market for less than 2 years."
+        ],
+        "table_id": "T2061",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Apple I came with two joysticks for gaming.",
+            "The Apple I came with 2 joysticks for gaming."
+        ],
+        "table_id": "T2061",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Argon has been known for over a hundred years.",
+            "Argon has been known for over a 100 years."
+        ],
+        "table_id": "T2062",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Argon was one of the first 20 elements discovered.",
+            "Argon was 1 of the first 20 elements discovered."
+        ],
+        "table_id": "T2062",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Astatine was named after one of the scientists that discovered the element.",
+            "Astatine was named after 1 of the scientists that discovered the element."
+        ],
+        "table_id": "T2063",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Autism affects nearly 25 million people a year.",
+            "Autism affects nearly 25000000.0 people a year."
+        ],
+        "table_id": "T2064",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The B25 Fulton Street line, part of the MTA NYC Bus system operated by the NYC Transit Authority, has more than 2.5 million riders each year.",
+            "The B25 Fulton Street line, part of the MTA NYC Bus system operated by the NYC Transit Authority, has more than 2500000.0 riders each year."
+        ],
+        "table_id": "T2065",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The B25 Bus Line is one of the most heavily used lines in the NYC bus system.",
+            "The B25 Bus Line is 1 of the most heavily used lines in the NYC bus system."
+        ],
+        "table_id": "T2065",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "b48 Lorimer Street helps over a million people travel each year.",
+            "b48 Lorimer Street helps over a 1000000 people travel each year."
+        ],
+        "table_id": "T2066",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There are over 2 million annual patrons at B48 Lorimor Street.",
+            "There are over 2000000.0 annual patrons at B48 Lorimor Street."
+        ],
+        "table_id": "T2066",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The b63 Fifth Avenue Line's annual usage rate exceeds five million.",
+            "The b63 Fifth Avenue Line's annual usage rate exceeds 5 million."
+        ],
+        "table_id": "T2067",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The b69 Vanderbilt Avenue Line has over a million people that travel on it every year.",
+            "The b69 Vanderbilt Avenue Line has over a 1000000 people that travel on it every year."
+        ],
+        "table_id": "T2068",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Over 1.5 million customers rode the B69 in 2017.",
+            "Over 1500000.0 customers rode the B69 in 2017."
+        ],
+        "table_id": "T2068",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Bandra Worli Sea Link began construction two decades ago.",
+            "The Bandra Worli Sea Link began construction 2 decades ago."
+        ],
+        "table_id": "T2069",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Construction of the Bandra Worli Sea Link occurred in two different decades.",
+            "Construction of the Bandra Worli Sea Link occurred in 2 different decades."
+        ],
+        "table_id": "T2069",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The disease Bell's palsy is one that is fairly common.",
+            "The disease Bell's palsy is 1 that is fairly common."
+        ],
+        "table_id": "T2070",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The F model BMW 3 series had two designers for each vehicle.",
+            "The F model BMW 3 series had 2 designers for each vehicle."
+        ],
+        "table_id": "T2073",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "A brain tumor occurs in over one million patients.",
+            "A brain tumor occurs in over 1 1000000 patients."
+        ],
+        "table_id": "T2074",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "As of 2015, over 2 million people have been affected by breast cancer.",
+            "As of 2015, over 2000000.0 people have been affected by breast cancer."
+        ],
+        "table_id": "T2075",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Over a million people were killed by breast cancer in 2018.",
+            "Over a 1000000 people were killed by breast cancer in 2018."
+        ],
+        "table_id": "T2075",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Breast cancer affects over two million people a year.",
+            "Breast cancer affects over 2 1000000 people a year."
+        ],
+        "table_id": "T2075",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bromine was one of the first 50 elements discovered.",
+            "Bromine was 1 of the first 50 elements discovered."
+        ],
+        "table_id": "T2076",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Brooklyn Bridge crosses at least one body of water from Manhattan to Staten Island.",
+            "The Brooklyn Bridge crosses at least 1 body of water from Manhattan to Staten Island."
+        ],
+        "table_id": "T2077",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Burning man always has about 50-70 thousand people attend.",
+            "Burning man always has about 50-70 1000 people attend."
+        ],
+        "table_id": "T2079",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cataracts occur in only a few hundred thousand people.",
+            "Cataracts occur in only a few 100 1000 people."
+        ],
+        "table_id": "T2081",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cataracts can be treated by more than one method.",
+            "Cataracts can be treated by more than 1 method."
+        ],
+        "table_id": "T2081",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cerium was one of the first 20 elements discovered.",
+            "Cerium was 1 of the first 20 elements discovered."
+        ],
+        "table_id": "T2083",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cerium was named after one of the scientists who discovered the element.",
+            "Cerium was named after 1 of the scientists who discovered the element."
+        ],
+        "table_id": "T2083",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Chinese New Year has the same animal every two years.",
+            "The Chinese New Year has the same animal every 2 years."
+        ],
+        "table_id": "T2084",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cincinnati Bell Connector has a capacity of one hundred passenger per streetcar.",
+            "Cincinnati Bell Connector has a capacity of 1 100 passenger per streetcar."
+        ],
+        "table_id": "T2087",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "At least 3 million people could prevent getting pink eye each year by simply washing their hands.",
+            "At least 3000000.0 people could prevent getting pink eye each year by simply washing their hands."
+        ],
+        "table_id": "T2095",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Conjunctivitis can be transmitted from one person to another.",
+            "Conjunctivitis can be transmitted from 1 person to another."
+        ],
+        "table_id": "T2095",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cushing's syndrome affects at least two million people a year.",
+            "Cushing's syndrome affects at least 2 1000000 people a year."
+        ],
+        "table_id": "T2098",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "One gondola on the Disney Skyliner can accommodate ten people at once.",
+            "1 gondola on the Disney Skyliner can accommodate 10 people at once."
+        ],
+        "table_id": "T2100",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Down syndrome affects 10 million people a year.",
+            "Down syndrome affects 10000000.0 people a year."
+        ],
+        "table_id": "T2103",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Down syndrome is so rare that it only occurs in one child per family generation.",
+            "Down syndrome is so rare that it only occurs in 1 child per family generation."
+        ],
+        "table_id": "T2103",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Having a line length of 173 km, the Duisburg\u2013Quakenbr\u00fcck railway has less than four line numbers associated with it.",
+            "Having a line length of 173 km, the Duisburg\u2013Quakenbr\u00fcck railway has less than 4 line numbers associated with it."
+        ],
+        "table_id": "T2104",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Duisburg\u2013Quakenbr\u00fcck railway runs through exactly five towns in Germany.",
+            "The Duisburg\u2013Quakenbr\u00fcck railway runs through exactly 5 towns in Germany."
+        ],
+        "table_id": "T2104",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dyslexic students need one-on-one teaching methods.",
+            "Dyslexic students need 2 teaching methods."
+        ],
+        "table_id": "T2105",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Emirates Air Line has less than a million passengers annually.",
+            "The Emirates Air Line has less than a 1000000 passengers annually."
+        ],
+        "table_id": "T2108",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Evolutionarily stable strategy was first proposed by two men.",
+            "Evolutionarily stable strategy was first proposed by 2 men."
+        ],
+        "table_id": "T2112",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hawk-dove is one example of evolutionarily stable strategy.",
+            "Hawk-dove is 1 example of evolutionarily stable strategy."
+        ],
+        "table_id": "T2112",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ten percent of people experience exploding head syndrome, otherwise known as episodic cranial sensory shock.",
+            "10 percent of people experience exploding head syndrome, otherwise known as episodic cranial sensory shock."
+        ],
+        "table_id": "T2113",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The 2018 date is one month after the 2019 date",
+            "The 2018 date is 1 month after the 2019 date"
+        ],
+        "table_id": "T2114",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Fast of Esther only lasts for one day.",
+            "The Fast of Esther only lasts for 1 day."
+        ],
+        "table_id": "T2114",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Flourine was one of the first ten elements discovered.",
+            "Flourine was 1 of the first 10 elements discovered."
+        ],
+        "table_id": "T2116",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ganesh Chaturthi lasts almost two weeks.",
+            "Ganesh Chaturthi lasts almost 2 weeks."
+        ],
+        "table_id": "T2119",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Garfield Park Branch is the only rapid transit line to survive in two separate centuries in Chicago.",
+            "The Garfield Park Branch is the only rapid transit line to survive in 2 separate centuries in Chicago."
+        ],
+        "table_id": "T2120",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Garfield Park Branch has not been in operation for more than fifty years.",
+            "Garfield Park Branch has not been in operation for more than 50 years."
+        ],
+        "table_id": "T2120",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The George Washington Bridge is located in more than one state.",
+            "The George Washington Bridge is located in more than 1 state."
+        ],
+        "table_id": "T2122",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Giant-cell arteritis typically influences how long one is expected to live.",
+            "Giant-cell arteritis typically influences how long 1 is expected to live."
+        ],
+        "table_id": "T2123",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The GMAT was taken by several hundred students.",
+            "The GMAT was taken by several 100 students."
+        ],
+        "table_id": "T2126",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The GMAT exam has four sections.",
+            "The GMAT exam has 4 sections."
+        ],
+        "table_id": "T2126",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Record Examination: General Test is taken in multiple countries but offered in only one language.",
+            "Record Examination: General Test is taken in multiple countries but offered in only 1 language."
+        ],
+        "table_id": "T2127",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Huawei Ascend G300 can operate on more than one kind of network.",
+            "The Huawei Ascend G300 can operate on more than 1 kind of network."
+        ],
+        "table_id": "T2135",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "iOS has received frequent updates in the past twelve years.",
+            "iOS has received frequent updates in the past 12 years."
+        ],
+        "table_id": "T2139",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The q111 q113, q114 Jamaica\u2212Far Rockaway line has been in service in one way or another since the turn of the 20th century.",
+            "The q111 q113, q114 Jamaica\u2212Far Rockaway line has been in service in 1 way or another since the turn of the 20th century."
+        ],
+        "table_id": "T2141",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The disease Jaundice is one that is usually fatal to people.",
+            "The disease Jaundice is 1 that is usually fatal to people."
+        ],
+        "table_id": "T2142",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There is only one test to diagnose jaundice.",
+            "There is only 1 test to diagnose jaundice."
+        ],
+        "table_id": "T2142",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "4 of the six survivors were crew",
+            "4 of the 6 survivors were crew"
+        ],
+        "table_id": "T2146",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "LG Optimus G is a Korean smartphone with one camera.",
+            "LG Optimus G is a Korean smartphone with 1 camera."
+        ],
+        "table_id": "T2150",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Linux is one of the top pieces of software on the market today.",
+            "Linux is 1 of the top pieces of software on the market today."
+        ],
+        "table_id": "T2151",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Loi Krathong is known by just four different names.",
+            "Loi Krathong is known by just 4 different names."
+        ],
+        "table_id": "T2153",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Lupercalia is observed exclusively on one date.",
+            "Lupercalia is observed exclusively on 1 date."
+        ],
+        "table_id": "T2154",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "M\u0101gha P\u016bj\u0101 is observed in at least five countries.",
+            "M\u0101gha P\u016bj\u0101 is observed in at least 5 countries."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "M\u0101gha P\u016bj\u0101 is observed in just six countries.",
+            "M\u0101gha P\u016bj\u0101 is observed in just 6 countries."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Low self esteem is one symptom of sufferers of unipolar depression.",
+            "Low self esteem is 1 symptom of sufferers of unipolar depression."
+        ],
+        "table_id": "T2157",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Major Depressive Disorder has more than 100 million cases attributed to it.",
+            "Major Depressive Disorder has more than 100000000.0 cases attributed to it."
+        ],
+        "table_id": "T2157",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Mawlid is a public holiday in more than thirty countries.",
+            "Mawlid is a public holiday in more than 30 countries."
+        ],
+        "table_id": "T2161",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The V8 Mazda J engine is one of the most powerful engines manufactured in Japan.",
+            "The V8 Mazda J engine is 1 of the most powerful engines manufactured in Japan."
+        ],
+        "table_id": "T2162",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Measles onset and duration are about three weeks in total.",
+            "The Measles onset and duration are about 3 weeks in total."
+        ],
+        "table_id": "T2163",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Based on number of rooms, the MGM Grand is one of the largest hotels in Las Vegas.",
+            "Based on number of rooms, the MGM Grand is 1 of the largest hotels in Las Vegas."
+        ],
+        "table_id": "T2165",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "MGM Grand Las Vegas has been in operation for more than two decades with multiple renovations.",
+            "MGM Grand Las Vegas has been in operation for more than 2 decades with multiple renovations."
+        ],
+        "table_id": "T2165",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "MGM Grand Las Vegas underwent their fist renovation ten years after opening.",
+            "MGM Grand Las Vegas underwent their fist renovation 10 years after opening."
+        ],
+        "table_id": "T2165",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The MicroBee was first introduced in 1982 and discontinued in 1992 after a ten year run.",
+            "The MicroBee was first introduced in 1982 and discontinued in 1992 after a 10 year run."
+        ],
+        "table_id": "T2166",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Map of Old National Highway 2 in red only covers two main highways.",
+            "The Map of Old National Highway 2 in red only covers 2 main highways."
+        ],
+        "table_id": "T2172",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "NWFB Route 8 has one alternative route.",
+            "NWFB Route 8 has 1 alternative route."
+        ],
+        "table_id": "T2177",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "NWFB Route 8 has two competitors, the MTR Island line and NWFB Route N8.",
+            "NWFB Route 8 has 2 competitors, the MTR Island line and NWFB Route N8."
+        ],
+        "table_id": "T2177",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Parkinson's disease affects over six million people a year.",
+            "Parkinson's disease affects over 6 1000000 people a year."
+        ],
+        "table_id": "T2183",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The PCAT exam is limited to just under three and a half hours in length.",
+            "The PCAT exam is limited to just under 3 and a half hours in length."
+        ],
+        "table_id": "T2188",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Potassium has a hundred different uses.",
+            "Potassium has a 100 different uses."
+        ],
+        "table_id": "T2191",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Potassium was one of the first 20 elements discovered.",
+            "Potassium was 1 of the first 20 elements discovered."
+        ],
+        "table_id": "T2191",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ramadan takes place for one month a year.",
+            "Ramadan takes place for 1 month a year."
+        ],
+        "table_id": "T2196",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ramadan is observed with celebration on one day a year.",
+            "Ramadan is observed with celebration on 1 day a year."
+        ],
+        "table_id": "T2196",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chaitra Navrati is one of the holiest days for Hindus",
+            "Chaitra Navrati is 1 of the holiest days for Hindus"
+        ],
+        "table_id": "T2197",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The E Line was established five years ago.",
+            "The E Line was established 5 years ago."
+        ],
+        "table_id": "T2198",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The E Line is one in a string of newly added bus lines.",
+            "The E Line is 1 in a string of newly added bus lines."
+        ],
+        "table_id": "T2198",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "REX Richmond Highway Express began service five years ago.",
+            "REX Richmond Highway Express began service 5 years ago."
+        ],
+        "table_id": "T2200",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The start of the REX Richmond Highway Express is also one of the landmarks served",
+            "The start of the REX Richmond Highway Express is also 1 of the landmarks served"
+        ],
+        "table_id": "T2200",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Drug use is one factor known to increase schizoaffective disorder symptoms such as hallucinations and delusions.",
+            "Drug use is 1 factor known to increase schizoaffective disorder symptoms such as hallucinations and delusions."
+        ],
+        "table_id": "T2206",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sodium was one of the first 10 elements discovered.",
+            "Sodium was 1 of the first 10 elements discovered."
+        ],
+        "table_id": "T2215",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sushi Mizutani Restaurant has been around for eleven years.",
+            "Sushi Mizutani Restaurant has been around for 11 years."
+        ],
+        "table_id": "T2220",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "A teaching certificate from one country typically permits teaching in other countries.",
+            "A teaching certificate from 1 country typically permits teaching in other countries."
+        ],
+        "table_id": "T2223",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Telmac 1800 was one of a series of home computer models.",
+            "The Telmac 1800 was 1 of a series of home computer models."
+        ],
+        "table_id": "T2224",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Terbium is an element discovered and isolated by one man.",
+            "Terbium is an element discovered and isolated by 1 man."
+        ],
+        "table_id": "T2226",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Tukwila International Boulevard Station (Link Light Rail Station) has an express track along with two local tracks.",
+            "Tukwila International Boulevard Station (Link Light Rail Station) has an express track along with 2 local tracks."
+        ],
+        "table_id": "T2230",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "People with Type 2 diabetes can expect to live ten years longer than the average person.",
+            "People with Type 2 diabetes can expect to live 10 years longer than the average person."
+        ],
+        "table_id": "T2232",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Some test takers can complete the University Clinical Aptitude Test in as little as twenty minutes.",
+            "Some test takers can complete the University Clinical Aptitude Test in as little as 20 minutes."
+        ],
+        "table_id": "T2235",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "US1549 crashed ten years ago.",
+            "US1549 crashed 10 years ago."
+        ],
+        "table_id": "T2236",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Utah Valley Express, a rapid bus service in southern Orem, Utah, has been operated by the Utah Transit Authority for over one year.",
+            "The Utah Valley Express, a rapid bus service in southern Orem, Utah, has been operated by the Utah Transit Authority for over 1 year."
+        ],
+        "table_id": "T2237",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Vidyasagar Setu is a six-lane toll bridge.",
+            "Vidyasagar Setu is a 6 toll bridge."
+        ],
+        "table_id": "T2240",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Vidyasagar Setu is also known as Second Hooghly Bridge and is a two-way with three lanes.",
+            "Vidyasagar Setu is also known as Second Hooghly Bridge and is a 2 with 3 lanes."
+        ],
+        "table_id": "T2240",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Vidyasagar Setu has six lanes in total.",
+            "Vidyasagar Setu has 6 lanes in total."
+        ],
+        "table_id": "T2240",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Viva Purple leaves four times an hour.",
+            "Viva Purple leaves 4 times an hour."
+        ],
+        "table_id": "T2241",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Viva Purple line only has a few hundred people ride it per year.",
+            "The Viva Purple line only has a few 100 people ride it per year."
+        ],
+        "table_id": "T2241",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Xiaomi Mi 2S has two different cameras on the back of it.",
+            "The Xiaomi Mi 2S has 2 different cameras on the back of it."
+        ],
+        "table_id": "T2242",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "B1 operates daily every seven minutes.",
+            "B1 operates daily every 7 minutes."
+        ],
+        "table_id": "T2243",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The B1 is one of the most popular bus rides.",
+            "The B1 is 1 of the most popular bus rides."
+        ],
+        "table_id": "T2243",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    }
+]

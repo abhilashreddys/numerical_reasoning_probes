@@ -1,3 +1,2052 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb5962bdabd66884ec0c8d77fc423890b5522734233229af00b5adad539b3fe8
-size 61727
+[
+    {
+        "hypothesis": [
+            "Eva Mendes has two children.",
+            "Eva Mendes has 2 children."
+        ],
+        "table_id": "T31",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Janet Leigh was married more than four times.",
+            "Janet Leigh was married more than 4 times."
+        ],
+        "table_id": "T46",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jodie Whittaker has had only one husband.",
+            "Jodie Whittaker has had only 1 husband."
+        ],
+        "table_id": "T47",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Florence Foster Jenkins made less than 25 million dollar profit at the box office.",
+            "Florence Foster Jenkins made less than 25000000.0 dollar profit at the box office."
+        ],
+        "table_id": "T53",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Eugene Kaspersky had a net worth over a million dollars in spring of 2017.",
+            "Eugene Kaspersky had a net worth over a 1000000 dollars in spring of 2017."
+        ],
+        "table_id": "T73",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Natalya Kaspersky has two children.",
+            "Natalya Kaspersky has 2 children."
+        ],
+        "table_id": "T73",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joseph Glidden married Clarissa Foster seven years before Lucinda Warne.",
+            "Joseph Glidden married Clarissa Foster 7 years before Lucinda Warne."
+        ],
+        "table_id": "T78",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John McCain has one sibling.",
+            "John McCain has 1 sibling."
+        ],
+        "table_id": "T94",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chic has been active as a band in one form or another for less than 40 years.",
+            "Chic has been active as a band in 1 form or another for less than 40 years."
+        ],
+        "table_id": "T101",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jennifer Connelly has more than one college degree.",
+            "Jennifer Connelly has more than 1 college degree."
+        ],
+        "table_id": "T144",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jennifer Connelly has had only one husband.",
+            "Jennifer Connelly has had only 1 husband."
+        ],
+        "table_id": "T144",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bailiwick of Jersey has only one recognised regional language.",
+            "Bailiwick of Jersey has only 1 recognised regional language."
+        ],
+        "table_id": "T162",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bailiwick of Jersey has one official language.",
+            "Bailiwick of Jersey has 1 official language."
+        ],
+        "table_id": "T162",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Farrah Abraham is more than thirty years old.",
+            "Farrah Abraham is more than 30 years old."
+        ],
+        "table_id": "T168",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Farrah Abraham has four children.",
+            "Farrah Abraham has 4 children."
+        ],
+        "table_id": "T168",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The city of Bruges has four postal codes.",
+            "The city of Bruges has 4 postal codes."
+        ],
+        "table_id": "T172",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jidenna has appeared on five different labels.",
+            "Jidenna has appeared on 5 different labels."
+        ],
+        "table_id": "T174",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Eraserhead has a run time under two hours.",
+            "Eraserhead has a run time under 2 hours."
+        ],
+        "table_id": "T192",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Eraserhead grossed under ten million dollars at the box office.",
+            "Eraserhead grossed under 10 1000000 dollars at the box office."
+        ],
+        "table_id": "T192",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "James Gregory lived in less than three different countries.",
+            "James Gregory lived in less than 3 different countries."
+        ],
+        "table_id": "T194",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Faith No More has released music under only one label.",
+            "Faith No More has released music under only 1 label."
+        ],
+        "table_id": "T220",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Fist Fight made under 30 million on top of the budget at the box office.",
+            "Fist Fight made under 30000000.0 on top of the budget at the box office."
+        ],
+        "table_id": "T224",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The cost to produce Fist Fight was $23 million dollars.",
+            "The cost to produce Fist Fight was $23000000.0 dollars."
+        ],
+        "table_id": "T224",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The film Fist Fight made under $50 million dollars at the box office.",
+            "The film Fist Fight made under $50000000.0 dollars at the box office."
+        ],
+        "table_id": "T224",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chris Jericho has three daughters.",
+            "Chris Jericho has 3 daughters."
+        ],
+        "table_id": "T252",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joe Biden has only one wives in his life.",
+            "Joe Biden has only 1 wives in his life."
+        ],
+        "table_id": "T263",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The painting Declaration of Independence took over three years to make.",
+            "The painting Declaration of Independence took over 3 years to make."
+        ],
+        "table_id": "T318",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The  Declaration of Independence must be carried by two men.",
+            "The  Declaration of Independence must be carried by 2 men."
+        ],
+        "table_id": "T318",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Declaration of Independence is one of the largest paintings located in the U.S. Capitol building.",
+            "Declaration of Independence is 1 of the largest paintings located in the U.S. Capitol building."
+        ],
+        "table_id": "T318",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Declaration of Independence was sold two years after being commissioned.",
+            "Declaration of Independence was sold 2 years after being commissioned."
+        ],
+        "table_id": "T318",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Buffalo Springfield works with multiple acts but only one labels.",
+            "Buffalo Springfield works with multiple acts but only 1 labels."
+        ],
+        "table_id": "T324",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johannes Gutenberg lived to be under seventy years old.",
+            "Johannes Gutenberg lived to be under 70 years old."
+        ],
+        "table_id": "T329",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johannes Gutenberg held only one occupation.",
+            "Johannes Gutenberg held only 1 occupation."
+        ],
+        "table_id": "T329",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kamelot is made up of four members.",
+            "Kamelot is made up of 4 members."
+        ],
+        "table_id": "T343",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kamelot have been performing for under twenty years.",
+            "Kamelot have been performing for under 20 years."
+        ],
+        "table_id": "T343",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joanna Newsom has been married for under five years.",
+            "Joanna Newsom has been married for under 5 years."
+        ],
+        "table_id": "T346",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joanna Newsom and Andy Samberg have one daughter.",
+            "Joanna Newsom and Andy Samberg have 1 daughter."
+        ],
+        "table_id": "T346",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Evan Spiegel has held at least one executive position.",
+            "Evan Spiegel has held at least 1 executive position."
+        ],
+        "table_id": "T363",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hayley Williams can play more than one instrument.",
+            "Hayley Williams can play more than 1 instrument."
+        ],
+        "table_id": "T364",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joe Strummer was active in the sports industry for over three decades.",
+            "Joe Strummer was active in the sports industry for over 3 decades."
+        ],
+        "table_id": "T366",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dan Hanley and Anthony Dod Mantle have worked on more than one film together.",
+            "Dan Hanley and Anthony Dod Mantle have worked on more than 1 film together."
+        ],
+        "table_id": "T386",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "In the Heart of the Sea was filmed in only one language.",
+            "In the Heart of the Sea was filmed in only 1 language."
+        ],
+        "table_id": "T386",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charlotte Gainsbourg has two daughters and one son.",
+            "Charlotte Gainsbourg has 2 daughters and 1 son."
+        ],
+        "table_id": "T414",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The artist Bryson Tiller has been signed to more than one label.",
+            "The artist Bryson Tiller has been signed to more than 1 label."
+        ],
+        "table_id": "T423",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Conversion on the Way to Damascus was painted less than four hundred years ago.",
+            "The Conversion on the Way to Damascus was painted less than 4 100 years ago."
+        ],
+        "table_id": "T461",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ch_j_-jinbutsu-giga have been placed in three national museums in Japan.",
+            "Ch_j_-jinbutsu-giga have been placed in 3 national museums in Japan."
+        ],
+        "table_id": "T464",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ch_j_-jinbutsu-giga Material was done with paper and ink on two scrolls.",
+            "Ch_j_-jinbutsu-giga Material was done with paper and ink on 2 scrolls."
+        ],
+        "table_id": "T464",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Coolaid was released under one label.",
+            "Coolaid was released under 1 label."
+        ],
+        "table_id": "T465",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Timbaland produced more than one track on Coolaid.",
+            "Timbaland produced more than 1 track on Coolaid."
+        ],
+        "table_id": "T465",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Coolaid producers worked as one group simultaneously.",
+            "Coolaid producers worked as 1 group simultaneously."
+        ],
+        "table_id": "T465",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chongqing is a municipality led by only one official.",
+            "Chongqing is a municipality led by only 1 official."
+        ],
+        "table_id": "T466",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Creedence Clearwater Revival was a four member band of college roommates.",
+            "Creedence Clearwater Revival was a 4 member band of college roommates."
+        ],
+        "table_id": "T508",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Creedence Clearwater Revival retired about forty five years ago.",
+            "Creedence Clearwater Revival retired about 40 5 years ago."
+        ],
+        "table_id": "T508",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dhruva was produced by the different company from the one that distributed the film.",
+            "Dhruva was produced by the different company from the 1 that distributed the film."
+        ],
+        "table_id": "T567",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dhruva is produced by more than one person.",
+            "Dhruva is produced by more than 1 person."
+        ],
+        "table_id": "T567",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Courtney Cox and David Arquette have one daughter together.",
+            "Courtney Cox and David Arquette have 1 daughter together."
+        ],
+        "table_id": "T568",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Courteney Cox is a single parent of one daughter.",
+            "Courteney Cox is a single parent of 1 daughter."
+        ],
+        "table_id": "T568",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cillian Murphy and Yvonne McGuinness have two daughters together.",
+            "Cillian Murphy and Yvonne McGuinness have 2 daughters together."
+        ],
+        "table_id": "T598",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cillian Murphy is an actor with one year of experience.",
+            "Cillian Murphy is an actor with 1 year of experience."
+        ],
+        "table_id": "T598",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cillian Murphy has one daughter and one son.",
+            "Cillian Murphy has 1 daughter and 1 son."
+        ],
+        "table_id": "T598",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cliff Richard stopped performing after he reached eighteen years old.",
+            "Cliff Richard stopped performing after he reached 18 years old."
+        ],
+        "table_id": "T608",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cosmic Girls have been making music for under ten years.",
+            "Cosmic Girls have been making music for under 10 years."
+        ],
+        "table_id": "T647",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dave Chappelle is a married father of three girls.",
+            "Dave Chappelle is a married father of 3 girls."
+        ],
+        "table_id": "T648",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dave Chappelle and his wife have three daughters.",
+            "Dave Chappelle and his wife have 3 daughters."
+        ],
+        "table_id": "T648",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dave Chappelle began stand up comedy more than fifteen years ago.",
+            "Dave Chappelle began stand up comedy more than 15 years ago."
+        ],
+        "table_id": "T648",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ryan Coogler based Creed on one of the director's previous characters.",
+            "Ryan Coogler based Creed on 1 of the director's previous characters."
+        ],
+        "table_id": "T649",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ronaldo has been part of five teams in the past 16 years.",
+            "Ronaldo has been part of 5 teams in the past 16 years."
+        ],
+        "table_id": "T725",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cristiano Ronaldo has played for more than one team at once.",
+            "Cristiano Ronaldo has played for more than 1 team at once."
+        ],
+        "table_id": "T725",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Crucifix by Cimabue at Santa Croce took one years to paint by Cimabue before it was complete.",
+            "Crucifix by Cimabue at Santa Croce took 1 years to paint by Cimabue before it was complete."
+        ],
+        "table_id": "T762",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cognac is considered one of the most famous French brandies to be above 20% in alcohol by volume.",
+            "Cognac is considered 1 of the most famous French brandies to be above 20% in alcohol by volume."
+        ],
+        "table_id": "T766",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cruel Summer took one year to record and produce before being released in the late 2012.",
+            "Cruel Summer took 1 year to record and produce before being released in the late 2012."
+        ],
+        "table_id": "T771",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cruel Summer is a hip-hop album recorded and released under a two-year period.",
+            "Cruel Summer is a hip-hop album recorded and released under a 2 period."
+        ],
+        "table_id": "T771",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Crufts dog show has been around under twenty years.",
+            "The Crufts dog show has been around under 20 years."
+        ],
+        "table_id": "T772",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David Letterman was a late night host on two different TV networks.",
+            "David Letterman was a late night host on 2 different TV networks."
+        ],
+        "table_id": "T774",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Michelle Cook has one child.",
+            "Michelle Cook has 1 child."
+        ],
+        "table_id": "T774",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David Letterman has had three wives in his life.",
+            "David Letterman has had 3 wives in his life."
+        ],
+        "table_id": "T774",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David Rockefeller only ever had one partner.",
+            "David Rockefeller only ever had 1 partner."
+        ],
+        "table_id": "T779",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "All four of David Tennant's children  were conceived by his current spouse.",
+            "All 4 of David Tennant's children  were conceived by his current spouse."
+        ],
+        "table_id": "T786",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David Ngunaitponi has only one name.",
+            "David Ngunaitponi has only 1 name."
+        ],
+        "table_id": "T789",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David Ngunaitponi lived in less than one century.",
+            "David Ngunaitponi lived in less than 1 century."
+        ],
+        "table_id": "T789",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Dawn of the Black Hearts is a black metal album with exactly seven songs.",
+            "The Dawn of the Black Hearts is a black metal album with exactly 7 songs."
+        ],
+        "table_id": "T800",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Dawn of the Black Hearts took nearly five years to record.",
+            "The Dawn of the Black Hearts took nearly 5 years to record."
+        ],
+        "table_id": "T800",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The movie Cult of Chucky was less than two hours long.",
+            "The movie Cult of Chucky was less than 2 hours long."
+        ],
+        "table_id": "T802",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Collective Soul has been performing for less than three decades.",
+            "Collective Soul has been performing for less than 3 decades."
+        ],
+        "table_id": "T806",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Republic of Colombia has only one official language based on the region.",
+            "The Republic of Colombia has only 1 official language based on the region."
+        ],
+        "table_id": "T813",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Colonel Meow passed away when they were ten years old.",
+            "Colonel Meow passed away when they were 10 years old."
+        ],
+        "table_id": "T814",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Colonel Meow had only one owner.",
+            "Colonel Meow had only 1 owner."
+        ],
+        "table_id": "T814",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Colors is a music album recorded and released over a ten year period.",
+            "Colors is a music album recorded and released over a 10 year period."
+        ],
+        "table_id": "T819",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The show Death Note came out in five different regions.",
+            "The show Death Note came out in 5 different regions."
+        ],
+        "table_id": "T857",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Death Note is one of the highest selling manga/anime series in the history of the genre.",
+            "Death Note is 1 of the highest selling manga/anime series in the history of the genre."
+        ],
+        "table_id": "T857",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The film Death Note had  one production company.",
+            "The film Death Note had  1 production company."
+        ],
+        "table_id": "T858",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Brooklyn was released in less than two different countries.",
+            "Brooklyn was released in less than 2 different countries."
+        ],
+        "table_id": "T890",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dale Evans never owned a horse that lived for more than three decades.",
+            "Dale Evans never owned a horse that lived for more than 3 decades."
+        ],
+        "table_id": "T944",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Buttermilk lived to be under thirty years old.",
+            "Buttermilk lived to be under 30 years old."
+        ],
+        "table_id": "T944",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Brno's metro area is more than ten times its statutory city size.",
+            "Brno's metro area is more than 10 times its statutory city size."
+        ],
+        "table_id": "T1009",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Chagatai Khanate was a nomadic empire that lasted for a over hundred years.",
+            "The Chagatai Khanate was a nomadic empire that lasted for a over 100 years."
+        ],
+        "table_id": "T1014",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cape Town has three main ethnicities.",
+            "Cape Town has 3 main ethnicities."
+        ],
+        "table_id": "T1023",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The largest city in Canada has only one official languages.",
+            "The largest city in Canada has only 1 official languages."
+        ],
+        "table_id": "T1029",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Canada has four ethnicities and two religions that have reached the national one percent mark.",
+            "Canada has 4 ethnicities and 2 religions that have reached the national 1 percent mark."
+        ],
+        "table_id": "T1029",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Camden, New Jersey is in the top ten of Area size in the county.",
+            "Camden, New Jersey is in the top 10 of Area size in the county."
+        ],
+        "table_id": "T1056",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kunstbibliothek Berlin has over a three quarters million books.",
+            "Kunstbibliothek Berlin has over a 3 quarters 1000000 books."
+        ],
+        "table_id": "T1181",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Candy Ride has less than a million dollars in total earnings.",
+            "Candy Ride has less than a 1000000 dollars in total earnings."
+        ],
+        "table_id": "T1183",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Candy Ride never lost one race.",
+            "Candy Ride never lost 1 race."
+        ],
+        "table_id": "T1183",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The horse Candy Ride won only one race they were in.",
+            "The horse Candy Ride won only 1 race they were in."
+        ],
+        "table_id": "T1183",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The horse Candy Ride made over half a million dollars.",
+            "The horse Candy Ride made over half a 1000000 dollars."
+        ],
+        "table_id": "T1183",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charo's first marriage lasted for more than ten years.",
+            "Charo's first marriage lasted for more than 10 years."
+        ],
+        "table_id": "T1225",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "ERJ family has three variants and its unit cost is US$15 Million.",
+            "ERJ family has 3 variants and its unit cost is US$15 Million."
+        ],
+        "table_id": "T1260",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chad Robert Turton is a musician who was married for two years.",
+            "Chad Robert Turton is a musician who was married for 2 years."
+        ],
+        "table_id": "T1276",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charlotte Rampling a widow with two daughters.",
+            "Charlotte Rampling a widow with 2 daughters."
+        ],
+        "table_id": "T1357",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Julian Lennon only made music in more than one century.",
+            "Julian Lennon only made music in more than 1 century."
+        ],
+        "table_id": "T1419",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Katey Sagal is married with four daughters.",
+            "Katey Sagal is married with 4 daughters."
+        ],
+        "table_id": "T1426",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Katey Segal has less than two children.",
+            "Katey Segal has less than 2 children."
+        ],
+        "table_id": "T1426",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Katey Segal has been married four times.",
+            "Katey Segal has been married 4 times."
+        ],
+        "table_id": "T1426",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johan Petter Johansson was known for more than one invension.",
+            "Johan Petter Johansson was known for more than 1 invension."
+        ],
+        "table_id": "T1450",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jin had only one religion practiced when it existed.",
+            "Jin had only 1 religion practiced when it existed."
+        ],
+        "table_id": "T1451",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jeff Bezos has at least one house.",
+            "Jeff Bezos has at least 1 house."
+        ],
+        "table_id": "T1455",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "JoJo has been making music for less than two decades.",
+            "JoJo has been making music for less than 2 decades."
+        ],
+        "table_id": "T1461",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Keanu Reeves resides in the same continent than the one he was born.",
+            "Keanu Reeves resides in the same continent than the 1 he was born."
+        ],
+        "table_id": "T1465",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "He is married with one daughter and two cats.",
+            "He is married with 1 daughter and 2 cats."
+        ],
+        "table_id": "T1468",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Justice published for two years.",
+            "Justice published for 2 years."
+        ],
+        "table_id": "T1469",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jurassic World: Fallen Kingdom made a profit more than billion dollars after accounting for it's budget.",
+            "Jurassic World: Fallen Kingdom made a profit more than 1000000000 dollars after accounting for it's budget."
+        ],
+        "table_id": "T1474",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jurassic World: Fallen Kingdom runs for under two hours.",
+            "Jurassic World: Fallen Kingdom runs for under 2 hours."
+        ],
+        "table_id": "T1474",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jurassic World: Fallen Kingdom made more than eight times the money than it was budgeted for.",
+            "Jurassic World: Fallen Kingdom made more than 8 times the money than it was budgeted for."
+        ],
+        "table_id": "T1474",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Wesley Harding only took about two months and a half to record.",
+            "John Wesley Harding only took about 2 months and a half to record."
+        ],
+        "table_id": "T1478",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Wesley Harding was written by one person.",
+            "John Wesley Harding was written by 1 person."
+        ],
+        "table_id": "T1478",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jim Mattis made most of his 5 million dollars later in life.",
+            "Jim Mattis made most of his 5000000.0 dollars later in life."
+        ],
+        "table_id": "T1479",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joseph Engelberger lived for slightly more than nine decades.",
+            "Joseph Engelberger lived for slightly more than 9 decades."
+        ],
+        "table_id": "T1486",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jewess with Oranges took atleast one winter.",
+            "Jewess with Oranges took atleast 1 winter."
+        ],
+        "table_id": "T1487",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "At it's widest spot, Jewess with Oranges is one and two third feet long.",
+            "At it's widest spot, Jewess with Oranges is 1 and 2 third feet long."
+        ],
+        "table_id": "T1487",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Josh Tillman has been performing for three years.",
+            "Josh Tillman has been performing for 3 years."
+        ],
+        "table_id": "T1490",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Josh Homme has had an active career for less than three decades.",
+            "Josh Homme has had an active career for less than 3 decades."
+        ],
+        "table_id": "T1493",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jerry Lee Lewis was five when he learned to play the piano.",
+            "Jerry Lee Lewis was 5 when he learned to play the piano."
+        ],
+        "table_id": "T1496",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jidenna has been active in music for six years.",
+            "Jidenna has been active in music for 6 years."
+        ],
+        "table_id": "T1517",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kathie Lee Gifford has been active for less than five decades.",
+            "Kathie Lee Gifford has been active for less than 5 decades."
+        ],
+        "table_id": "T1520",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jimmy Buffett has made music less than six different decades.",
+            "Jimmy Buffett has made music less than 6 different decades."
+        ],
+        "table_id": "T1552",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jordan Belfort did less than two years in jail, though he was sentenced to four years.",
+            "Jordan Belfort did less than 2 years in jail, though he was sentenced to 4 years."
+        ],
+        "table_id": "T1564",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jordan Belfort is a single-father with two daughters.",
+            "Jordan Belfort is a single-father with 2 daughters."
+        ],
+        "table_id": "T1564",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Judith Beheading Holofernes was one of importance.",
+            "Judith Beheading Holofernes was 1 of importance."
+        ],
+        "table_id": "T1566",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "At it's widest spot, Judith Beheading Holofernes is under six feet wide.",
+            "At it's widest spot, Judith Beheading Holofernes is under 6 feet wide."
+        ],
+        "table_id": "T1566",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It took less than two decades for Juneau, Alaska to be officially incorporated.",
+            "It took less than 2 decades for Juneau, Alaska to be officially incorporated."
+        ],
+        "table_id": "T1568",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Henry was trained by only one man.",
+            "John Henry was trained by only 1 man."
+        ],
+        "table_id": "T1569",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Henry made a few million dollars in earnings.",
+            "John Henry made a few 1000000 dollars in earnings."
+        ],
+        "table_id": "T1569",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jordan Fisher lives in Manhattan with his cat and two dogs.",
+            "Jordan Fisher lives in Manhattan with his cat and 2 dogs."
+        ],
+        "table_id": "T1571",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jordan Fisher has been actively performing for fifteen years.",
+            "Jordan Fisher has been actively performing for 15 years."
+        ],
+        "table_id": "T1571",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jordan Fisher has been performing for under twenty years.",
+            "Jordan Fisher has been performing for under 20 years."
+        ],
+        "table_id": "T1571",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jed Wolf worked less than ten years.",
+            "Jed Wolf worked less than 10 years."
+        ],
+        "table_id": "T1573",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jeepers Creepers 3 has a run time over two hours long.",
+            "Jeepers Creepers 3 has a run time over 2 hours long."
+        ],
+        "table_id": "T1576",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Keith Richards had five children with Patti Hansen.",
+            "Keith Richards had 5 children with Patti Hansen."
+        ],
+        "table_id": "T1591",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Keith Richards has five surviving children.",
+            "Keith Richards has 5 surviving children."
+        ],
+        "table_id": "T1591",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joseph Aspdin lived his life in two centuries.",
+            "Joseph Aspdin lived his life in 2 centuries."
+        ],
+        "table_id": "T1602",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jigsaw was distributed by only one company.",
+            "Jigsaw was distributed by only 1 company."
+        ],
+        "table_id": "T1607",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jigsaw made less than 100 million over it's budget at the box office.",
+            "Jigsaw made less than 100000000.0 over it's budget at the box office."
+        ],
+        "table_id": "T1607",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Cena married Elizabeth Huberdeau ten years before his pro wrestling debut.",
+            "John Cena married Elizabeth Huberdeau 10 years before his pro wrestling debut."
+        ],
+        "table_id": "T1608",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Cena is less than six feet tall.",
+            "John Cena is less than 6 feet tall."
+        ],
+        "table_id": "T1608",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joe Cocker died three days after Christmas 2014.",
+            "Joe Cocker died 3 days after Christmas 2014."
+        ],
+        "table_id": "T1621",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jeepers Creepers made over 40 million dollars over it's budget at the box office.",
+            "Jeepers Creepers made over 40000000.0 dollars over it's budget at the box office."
+        ],
+        "table_id": "T1636",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "KALEO was formed a six years into the 21st century.",
+            "KALEO was formed a 6 years into the 21st century."
+        ],
+        "table_id": "T1640",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "KALEO was been performing for under five years.",
+            "KALEO was been performing for under 5 years."
+        ],
+        "table_id": "T1640",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kaatru Veliyidai has a run time just over two hours.",
+            "Kaatru Veliyidai has a run time just over 2 hours."
+        ],
+        "table_id": "T1643",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kaatru Veliyidai was under three hours long.",
+            "Kaatru Veliyidai was under 3 hours long."
+        ],
+        "table_id": "T1643",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kaabil has a run time that is less than two hours long.",
+            "Kaabil has a run time that is less than 2 hours long."
+        ],
+        "table_id": "T1644",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kaabil was released overseas more than five years ago.",
+            "Kaabil was released overseas more than 5 years ago."
+        ],
+        "table_id": "T1644",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kaabil runs for more than two hours.",
+            "Kaabil runs for more than 2 hours."
+        ],
+        "table_id": "T1644",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johnnie Walker is more than one hundred years old.",
+            "Johnnie Walker is more than 1 100 years old."
+        ],
+        "table_id": "T1654",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johnnie Walker is less than two centuries old.",
+            "Johnnie Walker is less than 2 centuries old."
+        ],
+        "table_id": "T1654",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Julia Michaels has released music on only one record label.",
+            "Julia Michaels has released music on only 1 record label."
+        ],
+        "table_id": "T1657",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Julia Michaels has been performing for less than twenty years.",
+            "Julia Michaels has been performing for less than 20 years."
+        ],
+        "table_id": "T1657",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jim Mattis worked for only one Presidents.",
+            "Jim Mattis worked for only 1 Presidents."
+        ],
+        "table_id": "T1671",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "He is married with three daughters and one son.",
+            "He is married with 3 daughters and 1 son."
+        ],
+        "table_id": "T1672",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johnny Depp is a married man with two children.",
+            "Johnny Depp is a married man with 2 children."
+        ],
+        "table_id": "T1673",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johnny Depp is recently divorced with two daughters.",
+            "Johnny Depp is recently divorced with 2 daughters."
+        ],
+        "table_id": "T1673",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jim Parsons attended higher education in two universities in different states from where he now lives.",
+            "Jim Parsons attended higher education in 2 universities in different states from where he now lives."
+        ],
+        "table_id": "T1674",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Justice League is a two-hour superhero fantasy blockbuster film.",
+            "Justice League is a 2 superhero fantasy blockbuster film."
+        ],
+        "table_id": "T1682",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Katie Cassidy is married with two dogs.",
+            "Katie Cassidy is married with 2 dogs."
+        ],
+        "table_id": "T1683",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Keeley Hawes has three sons with Spencer McCallum",
+            "Keeley Hawes has 3 sons with Spencer McCallum"
+        ],
+        "table_id": "T1685",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Justin Bieber has made music on fewer than five record labels.",
+            "Justin Bieber has made music on fewer than 5 record labels."
+        ],
+        "table_id": "T1686",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The singer-songwriter has collaborated with only one artist throughout his career.",
+            "The singer-songwriter has collaborated with only 1 artist throughout his career."
+        ],
+        "table_id": "T1686",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "You need five ingredients to make Kaiserschmarrn",
+            "You need 5 ingredients to make Kaiserschmarrn"
+        ],
+        "table_id": "T1689",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kaiserschmarrn is a pancake made of only two ingredients.",
+            "Kaiserschmarrn is a pancake made of only 2 ingredients."
+        ],
+        "table_id": "T1689",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joseph Glidden had two children and was married thrice.",
+            "Joseph Glidden had 2 children and was married thrice."
+        ],
+        "table_id": "T1691",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jude Law is a divorcee with five daughters.",
+            "Jude Law is a divorcee with 5 daughters."
+        ],
+        "table_id": "T1695",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jude Law have five kids.",
+            "Jude Law have 5 kids."
+        ],
+        "table_id": "T1695",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dr. John S. Pemberton had only one wife in his life.",
+            "Dr. John S. Pemberton had only 1 wife in his life."
+        ],
+        "table_id": "T1697",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jena Malone has never had one child.",
+            "Jena Malone has never had 1 child."
+        ],
+        "table_id": "T1704",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Josh Groban's career has been going on for less than two decades.",
+            "Josh Groban's career has been going on for less than 2 decades."
+        ],
+        "table_id": "T1726",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Josh Groban has been performing for less than twenty years.",
+            "Josh Groban has been performing for less than 20 years."
+        ],
+        "table_id": "T1726",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Julius Caesar's successor, Augustus, ruled for less than two decades.",
+            "Julius Caesar's successor, Augustus, ruled for less than 2 decades."
+        ],
+        "table_id": "T1729",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Innuendo is a rock album recorded and released over a one year period.",
+            "Innuendo is a rock album recorded and released over a 1 year period."
+        ],
+        "table_id": "T1766",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Inside Out's box office was five times its budget.",
+            "Inside Out's box office was 5 times its budget."
+        ],
+        "table_id": "T1775",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Insidious mad almost a hundred million",
+            "Insidious mad almost a 100 1000000"
+        ],
+        "table_id": "T1776",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Interchange is a painting that is over less than a hundred years old.",
+            "Interchange is a painting that is over less than a 100 years old."
+        ],
+        "table_id": "T1779",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jack Ma is worth several billion dollars.",
+            "Jack Ma is worth several 1000000000 dollars."
+        ],
+        "table_id": "T1876",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jack Ma is married with three daughters.",
+            "Jack Ma is married with 3 daughters."
+        ],
+        "table_id": "T1876",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hurricane Fly made over one million pounds.",
+            "Hurricane Fly made over 1 1000000 pounds."
+        ],
+        "table_id": "T1893",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hurricane Fly has raced fewer than thirty times.",
+            "Hurricane Fly has raced fewer than 30 times."
+        ],
+        "table_id": "T1893",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hurricane Fly was born less than twenty years ago.",
+            "Hurricane Fly was born less than 20 years ago."
+        ],
+        "table_id": "T1893",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hiraga Gennai was born less than two hundred years ago.",
+            "Hiraga Gennai was born less than 2 100 years ago."
+        ],
+        "table_id": "T1904",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Imagine was released under  forty years ago.",
+            "Imagine was released under  40 years ago."
+        ],
+        "table_id": "T1970",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Imagine was recorded in only one studio.",
+            "Imagine was recorded in only 1 studio."
+        ],
+        "table_id": "T1970",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Inca Kola is a less than a hundred year old soft drink.",
+            "Inca Kola is a less than a 100 year old soft drink."
+        ],
+        "table_id": "T1991",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Incarnate was coloured by more than one person.",
+            "Incarnate was coloured by more than 1 person."
+        ],
+        "table_id": "T1992",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Incarnate is the work of one man, Nick Simmons.",
+            "Incarnate is the work of 1 man, Nick Simmons."
+        ],
+        "table_id": "T1992",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Incarnate is the pencilled by one man, Nick Simmons.",
+            "Incarnate is the pencilled by 1 man, Nick Simmons."
+        ],
+        "table_id": "T1992",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "House of Mystery was a publication that ran for over ten years.",
+            "House of Mystery was a publication that ran for over 10 years."
+        ],
+        "table_id": "T2037",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Infinite has been under more than one label.",
+            "Infinite has been under more than 1 label."
+        ],
+        "table_id": "T2044",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    }
+]

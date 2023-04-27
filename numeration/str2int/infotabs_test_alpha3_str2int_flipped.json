@@ -1,3 +1,222 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:65ccc91f2229e30e1361203061c6377f6a2ca460a21387bf324d51963699f255
-size 13447
+[
+    {
+        "hypothesis": [
+            "The Sichuan Earthquake cost over $100 billion in damages.",
+            "The Sichuan Earthquake cost over $100 978156871 in damages."
+        ],
+        "table_id": "T2049",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Over a quarter million people were injured in the 2008 Sichuan earthquake.",
+            "Over a quarter 1059663 people were injured in the 2008 Sichuan earthquake."
+        ],
+        "table_id": "T2049",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "Over 6000 people were injured and a damage of over $300 1039844379 occurred in the March 2011 Earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Argon has been known for over a hundred years.",
+            "Argon has been known for over a 108 years."
+        ],
+        "table_id": "T2062",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Autism affects nearly 25 million people a year.",
+            "Autism affects nearly 23543110 people a year."
+        ],
+        "table_id": "T2064",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The B25 Fulton Street line, part of the MTA NYC Bus system operated by the NYC Transit Authority, has more than 2.5 million riders each year.",
+            "The B25 Fulton Street line, part of the MTA NYC Bus system operated by the NYC Transit Authority, has more than 2745472 riders each year."
+        ],
+        "table_id": "T2065",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "b48 Lorimer Street helps over a million people travel each year.",
+            "b48 Lorimer Street helps over a 918266 people travel each year."
+        ],
+        "table_id": "T2066",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The b69 Vanderbilt Avenue Line has over a million people that travel on it every year.",
+            "The b69 Vanderbilt Avenue Line has over a 1055710 people that travel on it every year."
+        ],
+        "table_id": "T2068",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "A brain tumor occurs in over one million patients.",
+            "A brain tumor occurs in over one 916214 patients."
+        ],
+        "table_id": "T2074",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "As of 2015, over 2 million people have been affected by breast cancer.",
+            "As of 2015, over 1969622 people have been affected by breast cancer."
+        ],
+        "table_id": "T2075",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Breast cancer affects over two million people a year.",
+            "Breast cancer affects over two 1034298 people a year."
+        ],
+        "table_id": "T2075",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "At least 3 million people could prevent getting pink eye each year by simply washing their hands.",
+            "At least 2811266 people could prevent getting pink eye each year by simply washing their hands."
+        ],
+        "table_id": "T2095",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cushing's syndrome affects at least two million people a year.",
+            "Cushing's syndrome affects at least two 1051407 people a year."
+        ],
+        "table_id": "T2098",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ten percent of people experience exploding head syndrome, otherwise known as episodic cranial sensory shock.",
+            "10 percent of people experience exploding head syndrome, otherwise known as episodic cranial sensory shock."
+        ],
+        "table_id": "T2113",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Flourine was one of the first ten elements discovered.",
+            "Flourine was one of the first 9 elements discovered."
+        ],
+        "table_id": "T2116",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Garfield Park Branch has not been in operation for more than fifty years.",
+            "Garfield Park Branch has not been in operation for more than 45 years."
+        ],
+        "table_id": "T2120",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The GMAT was taken by several hundred students.",
+            "The GMAT was taken by several 98 students."
+        ],
+        "table_id": "T2126",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Major Depressive Disorder has more than 100 million cases attributed to it.",
+            "Major Depressive Disorder has more than 106156540 cases attributed to it."
+        ],
+        "table_id": "T2157",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Mawlid is a public holiday in more than thirty countries.",
+            "Mawlid is a public holiday in more than 28 countries."
+        ],
+        "table_id": "T2161",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Parkinson's disease affects over six million people a year.",
+            "Parkinson's disease affects over six 1086369 people a year."
+        ],
+        "table_id": "T2183",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sushi Mizutani Restaurant has been around for eleven years.",
+            "Sushi Mizutani Restaurant has been around for 11 years."
+        ],
+        "table_id": "T2220",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "US1549 crashed ten years ago.",
+            "US1549 crashed 9 years ago."
+        ],
+        "table_id": "T2236",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

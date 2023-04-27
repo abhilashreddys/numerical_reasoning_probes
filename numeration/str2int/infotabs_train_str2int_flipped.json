@@ -1,3 +1,1632 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4e027215281ecc5614bdf4caea36da4d603bc33cc908170dcff3cfe201a3c746
-size 123458
+[
+    {
+        "hypothesis": [
+            "In Rainbows was released over ten years ago.",
+            "In Rainbows was released over 9 years ago."
+        ],
+        "table_id": "T1769",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Brooklyn made about 50 million more at the box office than it's budget was.",
+            "Brooklyn made about 48731372 more at the box office than it's budget was."
+        ],
+        "table_id": "T1",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kansas have been active for over thirty years.",
+            "Kansas have been active for over 32 years."
+        ],
+        "table_id": "T6",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Gondar was the capital of Ethiopia for over two hundred years.",
+            "Gondar was the capital of Ethiopia for over two 98 years."
+        ],
+        "table_id": "T16",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Everything, Everything made about 50 million dollars over it's budget.",
+            "Everything, Everything made about 53013812 dollars over it's budget."
+        ],
+        "table_id": "T22",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charlie and the Chocolate Factory brought in close to half a billion dollars at the box office.",
+            "Charlie and the Chocolate Factory brought in close to half a 939127144 dollars at the box office."
+        ],
+        "table_id": "T27",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Frusciante has been performing for over twenty years.",
+            "John Frusciante has been performing for over 19 years."
+        ],
+        "table_id": "T32",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Children's Games is older than three hundred years.",
+            "Children's Games is older than three 104 years."
+        ],
+        "table_id": "T438",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joe Walsh has been active for over fifty years.",
+            "Joe Walsh has been active for over 54 years."
+        ],
+        "table_id": "T60",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Insane Clown Posse has been an active band for thirty years.",
+            "Insane Clown Posse has been an active band for 27 years."
+        ],
+        "table_id": "T1770",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jurassic World made over a billion and a half dollars over it's budget at the box office.",
+            "Jurassic World made over a 1041874008 and a half dollars over it's budget at the box office."
+        ],
+        "table_id": "T91",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jurassic World cost over $100 million to make.",
+            "Jurassic World cost over $92428062 to make."
+        ],
+        "table_id": "T91",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Fargo made over 50 million at the box office.",
+            "Fargo made over 45367612 at the box office."
+        ],
+        "table_id": "T100",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Fargo made over $60 million at the box office.",
+            "Fargo made over $63234374 at the box office."
+        ],
+        "table_id": "T100",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hootie & The Blowfish took a ten year haitus from performing.",
+            "Hootie & The Blowfish took a 10 year haitus from performing."
+        ],
+        "table_id": "T2014",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Buffy the Vampire Slayer Season Ten took more than 2 years to fully release.",
+            "Buffy the Vampire Slayer Season 10 took more than 2 years to fully release."
+        ],
+        "table_id": "T121",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Buffy the Vampire Slayer Season Ten had an original production run of over two years.",
+            "Buffy the Vampire Slayer Season 10 had an original production run of over two years."
+        ],
+        "table_id": "T121",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Buffy the Vampire Slayer Season Ten was a comic that had 30 issues.",
+            "Buffy the Vampire Slayer Season 9 was a comic that had 30 issues."
+        ],
+        "table_id": "T121",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hitoshi Sakimoto has been performing for over twenty years.",
+            "Hitoshi Sakimoto has been performing for over 20 years."
+        ],
+        "table_id": "T1947",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jean, the Vitagraph Dog died over one hundred years ago.",
+            "Jean, the Vitagraph Dog died over one 101 years ago."
+        ],
+        "table_id": "T148",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Fats Domino died over ten years ago.",
+            "Fats Domino died over 9 years ago."
+        ],
+        "table_id": "T150",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Joan Jett has been performing for over forty years.",
+            "Joan Jett has been performing for over 43 years."
+        ],
+        "table_id": "T151",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Fences had a budget over twenty million dollars.",
+            "Fences had a budget over 21 916143 dollars."
+        ],
+        "table_id": "T175",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Justice has performed music for over fifteen years.",
+            "Justice has performed music for over 15 years."
+        ],
+        "table_id": "T181",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Iron Man 3 made a billion dollars over it's budget.",
+            "Iron Man 3 made a 1086350252 dollars over it's budget."
+        ],
+        "table_id": "T183",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Iron Man 3 made over one billion dollars at the box office.",
+            "Iron Man 3 made over one 1008193576 dollars at the box office."
+        ],
+        "table_id": "T183",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Far East Movement have been performing music for over fifteen years.",
+            "Far East Movement have been performing music for over 15 years."
+        ],
+        "table_id": "T185",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "France produces more than 5 million gallons of wine every year from Haut-M\u017ddoc AOC alone",
+            "France produces more than 4946562 gallons of wine every year from Haut-M\u017ddoc AOC alone"
+        ],
+        "table_id": "T187",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The film Insomnia made over 100 million dollars at the box office.",
+            "The film Insomnia made over 107711990 dollars at the box office."
+        ],
+        "table_id": "T188",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Foo Fighters have been performing for over twenty years.",
+            "Foo Fighters have been performing for over 18 years."
+        ],
+        "table_id": "T219",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Budapest has over three million people living in it's metro area.",
+            "Budapest has over three 1037386 people living in it's metro area."
+        ],
+        "table_id": "T221",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ho Chi Minh City has over 8 million people that live in it.",
+            "Ho Chi Minh City has over 8376202 people that live in it."
+        ],
+        "table_id": "T1974",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ho Chi Minh City has over eight million people.",
+            "Ho Chi Minh City has over eight 980053 people."
+        ],
+        "table_id": "T1974",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Home Alone wound up making over $400 million dollars at the box office.",
+            "Home Alone wound up making over $361177483 dollars at the box office."
+        ],
+        "table_id": "T227",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charles I was buried ten days after he passed away.",
+            "Charles I was buried 10 days after he passed away."
+        ],
+        "table_id": "T244",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Mayer has been performing for over twenty years.",
+            "John Mayer has been performing for over 20 years."
+        ],
+        "table_id": "T257",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chris Kyle served was married for over ten years before he died.",
+            "Chris Kyle served was married for over 10 years before he died."
+        ],
+        "table_id": "T264",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chris Pine has been acting for over fifteen years.",
+            "Chris Pine has been acting for over 14 years."
+        ],
+        "table_id": "T273",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cyllene had under ten victories in it's career.",
+            "Cyllene had under 10 victories in it's career."
+        ],
+        "table_id": "T279",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jerry Garcia died less than ten days after his 53rd birthday.",
+            "Jerry Garcia died less than 9 days after his 53rd birthday."
+        ],
+        "table_id": "T322",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Felicity Jones has been acting for over twenty years.",
+            "Felicity Jones has been acting for over 19 years."
+        ],
+        "table_id": "T328",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ewan McGregor was married for twelve years.",
+            "Ewan McGregor was married for 11 years."
+        ],
+        "table_id": "T373",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The film Jurassic World: Fallen Kingdom made over a billion dollars.",
+            "The film Jurassic World: Fallen Kingdom made over a 951932604 dollars."
+        ],
+        "table_id": "T397",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The film Chicago netted over 250 million dollars at the box office.",
+            "The film Chicago netted over 225603167 dollars at the box office."
+        ],
+        "table_id": "T406",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chicago made over a quarter of a billion dollars at the box office.",
+            "Chicago made over a quarter of a 943151007 dollars at the box office."
+        ],
+        "table_id": "T406",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chess960 can take between ten minutes and six hours to complete.",
+            "Chess960 can take between 10 minutes and six hours to complete."
+        ],
+        "table_id": "T425",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Contact was released over twenty years ago.",
+            "Contact was released over 18 years ago."
+        ],
+        "table_id": "T457",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Coors Light was introduced over forty years ago.",
+            "Coors Light was introduced over 38 years ago."
+        ],
+        "table_id": "T468",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The film Coraline managed to net over $60 million in the box office.",
+            "The film Coraline managed to net over $54795823 in the box office."
+        ],
+        "table_id": "T472",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dave Navarro has been playing music for over thirty years.",
+            "Dave Navarro has been playing music for over 30 years."
+        ],
+        "table_id": "T553",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Christopher Nolan has been married for over twenty years.",
+            "Christopher Nolan has been married for over 21 years."
+        ],
+        "table_id": "T576",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Delhi is a megacity with well over 25 million inhabitants in the metropolitan area.",
+            "Delhi is a megacity with well over 23756277 inhabitants in the metropolitan area."
+        ],
+        "table_id": "T593",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Deliverance made roughly twenty-three times more than it's budget at the box office.",
+            "Deliverance made roughly 23 times more than it's budget at the box office."
+        ],
+        "table_id": "T627",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Crash is a film directed by Paul Haggis with Budget of 6.5 million dollars.",
+            "Crash is a film directed by Paul Haggis with Budget of 6331144 dollars."
+        ],
+        "table_id": "T678",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Coheed and Cambria have recorded on more than 5 labels and have been active for more than ten years.",
+            "Coheed and Cambria have recorded on more than 5 labels and have been active for more than 9 years."
+        ],
+        "table_id": "T769",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Culver City, California is more than a hundred years old.",
+            "Culver City, California is more than a 91 years old."
+        ],
+        "table_id": "T809",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Brno is more than one thousand years old.",
+            "Brno is more than one 1010 years old."
+        ],
+        "table_id": "T874",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Brno was founded over a thousand years ago.",
+            "Brno was founded over a 977 years ago."
+        ],
+        "table_id": "T874",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Byzantine Empire was an ancient civilization that lasted more than a thousand years.",
+            "Byzantine Empire was an ancient civilization that lasted more than a 991 years."
+        ],
+        "table_id": "T875",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cage the Elephant has changed labels several times during their thirteen year career.",
+            "Cage the Elephant has changed labels several times during their 12 year career."
+        ],
+        "table_id": "T1379",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Children of Men lost more than $5 million dollars at the box office.",
+            "Children of Men lost more than $5065047 dollars at the box office."
+        ],
+        "table_id": "T964",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Brightest Day is a collaborative effort by sixteen men .",
+            "Brightest Day is a collaborative effort by 15 men ."
+        ],
+        "table_id": "T984",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Captain Fantastic made 21.3 million in the box office.",
+            "Captain Fantastic made 22692591 in the box office."
+        ],
+        "table_id": "T1027",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carrie was made for less than two million dollars.",
+            "Carrie was made for less than two 979122 dollars."
+        ],
+        "table_id": "T1028",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cabral is older than ten years old.",
+            "Cabral is older than 9 years old."
+        ],
+        "table_id": "T1058",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Buffy the Vampire Slayer Season Ten is a comic book published over a three-year period.",
+            "Buffy the Vampire Slayer Season 9 is a comic book published over a three-year period."
+        ],
+        "table_id": "T1110",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Buffy the Vampire Slayer Season Ten is a limited series comic book.",
+            "Buffy the Vampire Slayer Season 10 is a limited series comic book."
+        ],
+        "table_id": "T1110",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The artist Bow Wow is over thirty years old.",
+            "The artist Bow Wow is over 32 years old."
+        ],
+        "table_id": "T1117",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Burzum had a ten year hiatus.",
+            "Burzum had a 10 year hiatus."
+        ],
+        "table_id": "T1119",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The budget of Georgia State University is over 1 billion dollars a year.",
+            "The budget of Georgia State University is over 1 985028223 dollars a year."
+        ],
+        "table_id": "T1126",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Florida International University has an endowment just under 200 million dollars.",
+            "Florida International University has an endowment just under 217658907 dollars."
+        ],
+        "table_id": "T1144",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carly Rae Jepsen has been performing music for over ten years.",
+            "Carly Rae Jepsen has been performing music for over 10 years."
+        ],
+        "table_id": "T1146",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Twelve years ago, Catfish and the Bottlemen originated as an alternative rock band.",
+            "12 years ago, Catfish and the Bottlemen originated as an alternative rock band."
+        ],
+        "table_id": "T1180",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charles Dickens had ten children with Catherine Hogarth.",
+            "Charles Dickens had 10 children with Catherine Hogarth."
+        ],
+        "table_id": "T1186",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "It costs less than $100 million to buy an AirBaltic 300 jet.",
+            "It costs less than $102437687 to buy an AirBaltic 300 jet."
+        ],
+        "table_id": "T1192",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cannonade won over half a million dollars in total earnings.",
+            "Cannonade won over half a 1032599 dollars in total earnings."
+        ],
+        "table_id": "T1200",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Decanter was founded over forty years ago.",
+            "Decanter was founded over 36 years ago."
+        ],
+        "table_id": "T1205",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Buckpasser earned close to 1.5 million dollars.",
+            "Buckpasser earned close to 1424931 dollars."
+        ],
+        "table_id": "T1211",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "University of Washington was known by a different name the first twenty-eight years.",
+            "University of Washington was known by a different name the first 29 years."
+        ],
+        "table_id": "T1213",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The USBC is a Ten-Pin bowling organization headquartered in the southern US.",
+            "The USBC is a 9 bowling organization headquartered in the southern US."
+        ],
+        "table_id": "T1233",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The United States Bowling Congress has more than a million members.",
+            "The United States Bowling Congress has more than a 1093038 members."
+        ],
+        "table_id": "T1233",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Georgia Institute of Technology has an endowment close to two million dollars.",
+            "Georgia Institute of Technology has an endowment close to two 943815 dollars."
+        ],
+        "table_id": "T1284",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Purple Heart has been given to over a million military personnel.",
+            "The Purple Heart has been given to over a 1029360 military personnel."
+        ],
+        "table_id": "T1387",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Everglades National Park covers more than 1.5 million acres.",
+            "Everglades National Park covers more than 1526114 acres."
+        ],
+        "table_id": "T1394",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Brian Wilson has been performing for over fifty years.",
+            "Brian Wilson has been performing for over 45 years."
+        ],
+        "table_id": "T1402",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Keith Carradine has been performing for over forty years.",
+            "Keith Carradine has been performing for over 40 years."
+        ],
+        "table_id": "T1475",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Juno made a couple hundred million dollars or more over it's budget.",
+            "Juno made a couple 106 993833 dollars or more over it's budget."
+        ],
+        "table_id": "T1483",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Krasinski has been actively making movies for over ten years.",
+            "John Krasinski has been actively making movies for over 10 years."
+        ],
+        "table_id": "T1507",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jessica Simpson is a singer,actress,fashion designer and businesswoman who began her career in nineteen eighty eight.",
+            "Jessica Simpson is a singer,actress,fashion designer and businesswoman who began her career in 18 81 eight."
+        ],
+        "table_id": "T1509",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jennifer Love Hewitt has been acting for at least twenty years.",
+            "Jennifer Love Hewitt has been acting for at least 18 years."
+        ],
+        "table_id": "T1549",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Junichi Masuda has been working for thirty years.",
+            "Junichi Masuda has been working for 30 years."
+        ],
+        "table_id": "T1588",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Johnny Mathis has been singing for over fifty years.",
+            "Johnny Mathis has been singing for over 51 years."
+        ],
+        "table_id": "T1590",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Frusciante has been performing for over thirty years.",
+            "John Frusciante has been performing for over 29 years."
+        ],
+        "table_id": "T1595",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "JonTron has his own channel for almost ten years.",
+            "JonTron has his own channel for almost 10 years."
+        ],
+        "table_id": "T1597",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "JonTron has received over 600 million views.",
+            "JonTron has received over 631767897 views."
+        ],
+        "table_id": "T1597",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "JonTron has been viewed over two thirds of a billion times.",
+            "JonTron has been viewed over two thirds of a 1007157619 times."
+        ],
+        "table_id": "T1597",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Justice has been performing for over ten years.",
+            "Justice has been performing for over 9 years."
+        ],
+        "table_id": "T1624",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Dame Julie Andrews has been performing since she was ten years old.",
+            "Dame Julie Andrews has been performing since she was 9 years old."
+        ],
+        "table_id": "T1638",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Julie Andrews began performing over sixty years ago.",
+            "Julie Andrews began performing over 59 years ago."
+        ],
+        "table_id": "T1638",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "John Phillips performed for over forty years.",
+            "John Phillips performed for over 36 years."
+        ],
+        "table_id": "T1675",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Kate Winslet has been acting for over twenty five years.",
+            "Kate Winslet has been acting for over 18 five years."
+        ],
+        "table_id": "T1703",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Josef Ressel was born over two hundred years ago.",
+            "Josef Ressel was born over two 108 years ago."
+        ],
+        "table_id": "T1720",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Katharine McPhee has been performing for over ten years.",
+            "Katharine McPhee has been performing for over 9 years."
+        ],
+        "table_id": "T1732",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "How to Train Your Dragon made over a couple hundred million dollars in the box office.",
+            "How to Train Your Dragon made over a couple 103 1062523 dollars in the box office."
+        ],
+        "table_id": "T1751",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The band In Flames recorded on more than ten labels.",
+            "The band In Flames recorded on more than 10 labels."
+        ],
+        "table_id": "T1755",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Isle of Dogs made over $60 million dollars in the box office.",
+            "Isle of Dogs made over $61274364 dollars in the box office."
+        ],
+        "table_id": "T1756",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ice Cube started performing over thirty years ago.",
+            "Ice Cube started performing over 30 years ago."
+        ],
+        "table_id": "T1765",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Insane Clown Posse has been performing for over thirty years.",
+            "Insane Clown Posse has been performing for over 31 years."
+        ],
+        "table_id": "T1770",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Inside Information ran in over ten races.",
+            "Inside Information ran in over 9 races."
+        ],
+        "table_id": "T1774",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hugh Jackman has been performing for over twenty years.",
+            "Hugh Jackman has been performing for over 18 years."
+        ],
+        "table_id": "T1809",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hulk was released over fifteen years ago.",
+            "Hulk was released over 14 years ago."
+        ],
+        "table_id": "T1837",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hulk was able to make over 100 million dollars at the box office.",
+            "Hulk was able to make over 92967264 dollars at the box office."
+        ],
+        "table_id": "T1837",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jackie Chan has been in the entertainment business for over fifty years.",
+            "Jackie Chan has been in the entertainment business for over 53 years."
+        ],
+        "table_id": "T1858",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ice-T has been in the entertainment industry for over thirty years.",
+            "Ice-T has been in the entertainment industry for over 30 years."
+        ],
+        "table_id": "T1865",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "I, Daniel Blake made over $15 million in the box office.",
+            "I, Daniel Blake made over $14365624 in the box office."
+        ],
+        "table_id": "T1868",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jackie Wilson had a career that spanned over twenty years.",
+            "Jackie Wilson had a career that spanned over 19 years."
+        ],
+        "table_id": "T1869",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hunter Hunter has been around for over twenty years.",
+            "Hunter Hunter has been around for over 20 years."
+        ],
+        "table_id": "T1874",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Huntsville was established over two hundred year ago.",
+            "Huntsville was established over two 99 year ago."
+        ],
+        "table_id": "T1892",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Irish War Cry is less than ten years old.",
+            "Irish War Cry is less than 10 years old."
+        ],
+        "table_id": "T1933",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hitoshi Sakimoto has been performing for over thirty years.",
+            "Hitoshi Sakimoto has been performing for over 30 years."
+        ],
+        "table_id": "T1947",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Iron Man made over 400 million dollars at the box office in profit.",
+            "Iron Man made over 384950101 dollars at the box office in profit."
+        ],
+        "table_id": "T1958",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Iron Man 2 made over 400 million dollars.",
+            "Iron Man 2 made over 364650837 dollars."
+        ],
+        "table_id": "T1959",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Incredibles 2 made over a billion dollars at the box office.",
+            "Incredibles 2 made over a 990878229 dollars at the box office."
+        ],
+        "table_id": "T2002",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Independence Day made over 700 million dollars.",
+            "Independence Day made over 660880451 dollars."
+        ],
+        "table_id": "T2004",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Indiana Jones and the Temple of Doom made over ten times its budget in the box office.",
+            "Indiana Jones and the Temple of Doom made over 9 times its budget in the box office."
+        ],
+        "table_id": "T2013",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Indiana Jones and the Temple of Doom made over 300 million dollars.",
+            "Indiana Jones and the Temple of Doom made over 289879776 dollars."
+        ],
+        "table_id": "T2013",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Indore has over a million people in it.",
+            "Indore has over a 1076627 people in it."
+        ],
+        "table_id": "T2036",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "House of Pain has been around for over twenty years.",
+            "House of Pain has been around for over 20 years."
+        ],
+        "table_id": "T2039",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Infected Mushroom has been performing for over twenty years.",
+            "Infected Mushroom has been performing for over 20 years."
+        ],
+        "table_id": "T2040",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chennai has over 7 million people.",
+            "Chennai has over 6870189 people."
+        ],
+        "table_id": "T2280",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Chennai has over 6 million people that live there.",
+            "Chennai has over 5575416 people that live there."
+        ],
+        "table_id": "T2280",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The area has more than 8 million people.",
+            "The area has more than 8167305 people."
+        ],
+        "table_id": "T2304",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Drumstick has been manufactured by Nestle for ninety years.",
+            "Drumstick has been manufactured by Nestle for 86 years."
+        ],
+        "table_id": "T2309",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The 28 Olympic gymnastics were held over sixteen days.",
+            "The 28 Olympic gymnastics were held over 16 days."
+        ],
+        "table_id": "T2392",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Hardrock Hundred Mile Endurance Run is held in Silverton, Colorado.",
+            "The Hardrock 106 Mile Endurance Run is held in Silverton, Colorado."
+        ],
+        "table_id": "T2414",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hardrock Hundred Mile Endurance Run is a summer event started in the late 20th century.",
+            "Hardrock 108 Mile Endurance Run is a summer event started in the late 20th century."
+        ],
+        "table_id": "T2414",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hardrock Hundred Mile Endurance Run debuted in the 1990s",
+            "Hardrock 90 Mile Endurance Run debuted in the 1990s"
+        ],
+        "table_id": "T2414",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Henry VII reigned for over twenty years.",
+            "Henry VII reigned for over 21 years."
+        ],
+        "table_id": "T2429",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Highly Suspect has been performing for ten years.",
+            "Highly Suspect has been performing for 9 years."
+        ],
+        "table_id": "T2433",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "1992 Winter Olympics Ice Hockey recorded over three hundred goals scored throughout the tournament.",
+            "1992 Winter Olympics Ice Hockey recorded over three 102 goals scored throughout the tournament."
+        ],
+        "table_id": "T2441",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "1998 Winter Olympics Men's Ice Hockey recorded more than two hundred goals in total.",
+            "1998 Winter Olympics Men's Ice Hockey recorded more than two 101 goals in total."
+        ],
+        "table_id": "T2443",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Over thirty matches were played in the 1998 Winter Olympics Men's Ice Hockey.",
+            "Over 27 matches were played in the 1998 Winter Olympics Men's Ice Hockey."
+        ],
+        "table_id": "T2443",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Barranquilla has a metro area with more than 2 million people.",
+            "Barranquilla has a metro area with more than 1948701 people."
+        ],
+        "table_id": "T2471",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Barranquilla is a Colombian city over two hundred years old.",
+            "Barranquilla is a Colombian city over two 97 years old."
+        ],
+        "table_id": "T2471",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Pyongyang had a population of over 2 million in 2016.",
+            "Pyongyang had a population of over 1955114 in 2016."
+        ],
+        "table_id": "T2474",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Dysard and Dundonald Pipe Band had more than a seventy year tenure.",
+            "The Dysard and Dundonald Pipe Band had more than a 64 year tenure."
+        ],
+        "table_id": "T2481",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "There are over 1 million people living in Abuja.",
+            "There are over 1085819 people living in Abuja."
+        ],
+        "table_id": "T2493",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Monty Python and the Holy Grail grossed 5 million dollars at the box office in 1975.",
+            "Monty Python and the Holy Grail grossed 5294107 dollars at the box office in 1975."
+        ],
+        "table_id": "T2497",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The total assets of Mowi ASA are over 20 billion more than the total equity.",
+            "The total assets of Mowi ASA are over 20 953384332 more than the total equity."
+        ],
+        "table_id": "T2515",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The city population of Kano is estimated to have increased by over one million between 2006 and 2016.",
+            "The city population of Kano is estimated to have increased by over one 958691 between 2006 and 2016."
+        ],
+        "table_id": "T2554",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Maracaibo has over 2 million more people in its metro than in its urban area.",
+            "Maracaibo has over 1980995 more people in its metro than in its urban area."
+        ],
+        "table_id": "T2567",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Stada Arzneimittel AG is a Pharmaceuticals company which produces Generic and over-the-counter drugs has the total net income of  EUR 306.9 million in 2018.",
+            "Stada Arzneimittel AG is a Pharmaceuticals company which produces Generic and over-the-counter drugs has the total net income of  EUR 336089290 in 2018."
+        ],
+        "table_id": "T2569",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Lusaka city have a more than 2 million people in metro city",
+            "Lusaka city have a more than 2066404 people in metro city"
+        ],
+        "table_id": "T2573",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Desmond Tutu had a ten year tenure in the Anglican Church of Southern Africa.",
+            "Desmond Tutu had a 9 year tenure in the Anglican Church of Southern Africa."
+        ],
+        "table_id": "T2582",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cali, Colombia has more than 2 million people in it.",
+            "Cali, Colombia has more than 2074752 people in it."
+        ],
+        "table_id": "T2629",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Danieli Group is a metal manufacturer whose profit topped one billion in 2018.",
+            "Danieli Group is a metal manufacturer whose profit topped one 993171808 in 2018."
+        ],
+        "table_id": "T2632",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Glass Harp is a rock band that has been active for over thirty years.",
+            "Glass Harp is a rock band that has been active for over 30 years."
+        ],
+        "table_id": "T2635",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Glass Harp has been active in the rock music scene  for almost fifty years.",
+            "Glass Harp has been active in the rock music scene  for almost 45 years."
+        ],
+        "table_id": "T2635",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The khartoum city population are more than 5 million in urban",
+            "The khartoum city population are more than 4830891 in urban"
+        ],
+        "table_id": "T2672",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The estimated population of Yaound\u00e9 is over two and a half million people.",
+            "The estimated population of Yaound\u00e9 is over two and a half 1081342 people."
+        ],
+        "table_id": "T2686",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "A Thousand Words Directed by Brian Robbins",
+            "A 1018 Words Directed by Brian Robbins"
+        ],
+        "table_id": "T2688",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "A Thousand Words has 1 director.",
+            "A 1083 Words has 1 director."
+        ],
+        "table_id": "T2688",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "A Thousand Words was a film released in 2012.",
+            "A 1038 Words was a film released in 2012."
+        ],
+        "table_id": "T2688",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]
