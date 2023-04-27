@@ -1,0 +1,1622 @@
+[
+   {
+      "hypothesis": [
+         "The 70th Academy Awards saw Titanic which had an initial worldwide gross of over $1.84 billion win Best Director for James Cameron and Best Picture along with 9 other awards.",
+         "The 70th Academy Awards saw Titanic which had an initial worldwide gross of over $1.84 950195513 win Best Director for James Cameron and Best Picture along with 9 other awards."
+      ],
+      "table_id": 71354,
+      "question_id": 6272,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Teldenia moniliata has postmedial and subterminal fasciae that are dotted brown, located on the ten to eleven millimeter forewings.",
+         "Teldenia moniliata has postmedial and subterminal fasciae that are dotted brown, located on the 10 to 10 millimeter forewings."
+      ],
+      "table_id": 71421,
+      "question_id": 947,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Taylor Washington (born August 16, 1993) played for D.C. United U-23 in 2015 and made thirteen appearances and zero goals.",
+         "Taylor Washington (born August 16, 1993) played for D.C. United U-23 in 2015 and made 13 appearances and zero goals."
+      ],
+      "table_id": 71447,
+      "question_id": 4735,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2018 Strade Bianche had ten teams and the winner was Tiesj Benoot.",
+         "2018 Strade Bianche had 9 teams and the winner was Tiesj Benoot."
+      ],
+      "table_id": 71487,
+      "question_id": 991,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Glass Shield that was directed by Charles Burnett (an American film director and producer) and was edited by Curtiss Clayton earned $3.3 million (US) in the box office.",
+         "The Glass Shield that was directed by Charles Burnett (an American film director and producer) and was edited by Curtiss Clayton earned $3271088 (US) in the box office."
+      ],
+      "table_id": 71636,
+      "question_id": 8847,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Peppertones released two extended albums, one of which made it to number twelve in the KOR charts.",
+         "The Peppertones released two extended albums, one of which made it to number 12 in the KOR charts."
+      ],
+      "table_id": 71644,
+      "question_id": 1057,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The album Joyous Encounter received a six out of ten in a review by PopMatters.",
+         "The album Joyous Encounter received a six out of 10 in a review by PopMatters."
+      ],
+      "table_id": 71685,
+      "question_id": 12775,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2007-2010 Attorney General of the British Virgin Islands was Kathleen Ayensu, a former chief state attorney in Accra at the Ministry of Justice and spent ten years practicing law in Washington, D.C.",
+         "The 2007-2010 Attorney General of the British Virgin Islands was Kathleen Ayensu, a former chief state attorney in Accra at the Ministry of Justice and spent 10 years practicing law in Washington, D.C."
+      ],
+      "table_id": 71741,
+      "question_id": 1084,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Berkshire Hathaway, ranked third on the Fortune 500 (created by Edgar P. Smith) rankings of the largest United States corporations by total revenue, had a net income of 8,528 in million USD and a revenue of 81,663 in miliion USD in 2005 .",
+         "Berkshire Hathaway, ranked third on the Fortune 500 (created by Edgar P. Smith) rankings of the largest United States corporations by total revenue, had a net income of 8,528 in 1029381 USD and a revenue of 81,663 in miliion USD in 2005 ."
+      ],
+      "table_id": 71775,
+      "question_id": 6893,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Pretenders II received ratings from three out of ten sources one of which is PopMatters.",
+         "Pretenders II received ratings from three out of 10 sources one of which is PopMatters."
+      ],
+      "table_id": 71933,
+      "question_id": 2701,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2014 NASCAR Whelen Euro Series' Elite 1 category, Chevrolet, colloquially referred to as Chevy, stood out as the manufacturer with most wins after winning ten out of twelve rounds.",
+         "In the 2014 NASCAR Whelen Euro Series' Elite 1 category, Chevrolet, colloquially referred to as Chevy, stood out as the manufacturer with most wins after winning 9 out of 11 rounds."
+      ],
+      "table_id": 71937,
+      "question_id": 24977,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Wellington Nascimento Carvalho played for Boavista in the Segunda Divis\u00e3o in 2012-13, making twenty eight appearances and scoring ten goals.",
+         "Wellington Nascimento Carvalho played for Boavista in the Segunda Divis\u00e3o in 2012-13, making 20 eight appearances and scoring 10 goals."
+      ],
+      "table_id": 71970,
+      "question_id": 46625,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2007 British Virgin Islands general election which was a landslide victory for the opposition, the Virgin Islands Party earned the most votes of 18,052 which earned the party ten seats in the assembly.",
+         "In the 2007 British Virgin Islands general election which was a landslide victory for the opposition, the Virgin Islands Party earned the most votes of 18,052 which earned the party 10 seats in the assembly."
+      ],
+      "table_id": 72003,
+      "question_id": 6340,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Twelve teams competed in the\u00a01978 NSWRFL season with the\u00a0Australian rugby club Western Suburbs Magpies leading the pack with a record of 16-5.",
+         "12 teams competed in the\u00a01978 NSWRFL season with the\u00a0Australian rugby club Western Suburbs Magpies leading the pack with a record of 16-5."
+      ],
+      "table_id": 72075,
+      "question_id": 13872,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "in the 2010 Malaysia Premier League there were twelve teams, two of which were promoted to Super League.",
+         "in the 2010 Malaysia Premier League there were 12 teams, two of which were promoted to Super League."
+      ],
+      "table_id": 72162,
+      "question_id": 2464,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Toronto Rock placed first with ten wins in the East Division in 2013.",
+         "The Toronto Rock placed first with 10 wins in the East Division in 2013."
+      ],
+      "table_id": 72172,
+      "question_id": 5999,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Eleven crews retired from the motor racing\u00a02018 Rally Sweden due to off-road, accidents, collisions, and mechanical causes.",
+         "10 crews retired from the motor racing\u00a02018 Rally Sweden due to off-road, accidents, collisions, and mechanical causes."
+      ],
+      "table_id": 72173,
+      "question_id": 3600,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "After the Nine Network, an Australian commercial free-to-air television network, restarted broadcasting 9HD in November 2015, 10 confirmed that it was working on rebroadcasting Ten HD, but they did not put a time frame on it.",
+         "After the Nine Network, an Australian commercial free-to-air television network, restarted broadcasting 9HD in November 2015, 10 confirmed that it was working on rebroadcasting 9 HD, but they did not put a time frame on it."
+      ],
+      "table_id": 72209,
+      "question_id": 7107,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Pretenders II received ratings from three out of ten sources one of which is PopMatters (an international online magazine).",
+         "Pretenders II received ratings from three out of 9 sources one of which is PopMatters (an international online magazine)."
+      ],
+      "table_id": 72288,
+      "question_id": 23126,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Brisbane Showgrounds, located at 600 Gregory Terrace, Bowen Hills, Brisbane, Queensland, Australia and was established in 1875, hosted ten rugby league test matches from 1908 to 1960.",
+         "The Brisbane Showgrounds, located at 600 Gregory Terrace, Bowen Hills, Brisbane, Queensland, Australia and was established in 1875, hosted 9 rugby league test matches from 1908 to 1960."
+      ],
+      "table_id": 72299,
+      "question_id": 19524,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Miss America 1974 and four runners-up were chosen from among the top ten candidates of the 47th Miss America pageant.",
+         "Miss America 1974 and four runners-up were chosen from among the top 9 candidates of the 47th Miss America pageant."
+      ],
+      "table_id": 72512,
+      "question_id": 1934,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Indivior is a spinoff of a multinational consumer goods company and was capitalized at \u00a32.3 billion (US$3.1 billion) on the London Stock Exchange in 2015.",
+         "Indivior is a spinoff of a multinational consumer goods company and was capitalized at \u00a32.3 978421836 (US$3.1 978421836) on the London Stock Exchange in 2015."
+      ],
+      "table_id": 72602,
+      "question_id": 24621,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Marcus Ahlm, who retired from handball in 2013, played for THW Kiel for ten seasons.",
+         "Marcus Ahlm, who retired from handball in 2013, played for THW Kiel for 10 seasons."
+      ],
+      "table_id": 72621,
+      "question_id": 4679,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Changjiang District is in the People's Republic of China (a country that contains around 1.4 billion people) and is located in the Jiangxi province.",
+         "Changjiang District is in the People's Republic of China (a country that contains around 1.4 1015026767 people) and is located in the Jiangxi province."
+      ],
+      "table_id": 72636,
+      "question_id": 8487,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The album Joyous Encounter which was released in 2005, received a six out of ten in a review by PopMatters.",
+         "The album Joyous Encounter which was released in 2005, received a six out of 10 in a review by PopMatters."
+      ],
+      "table_id": 72688,
+      "question_id": 596,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Spain in the Eurovision Song Contest 2007 had fifteen artists, one of which was La D\u00e9cada Prodigiosa who had 69 points.",
+         "Spain in the Eurovision Song Contest 2007 had 14 artists, one of which was La D\u00e9cada Prodigiosa who had 69 points."
+      ],
+      "table_id": 72735,
+      "question_id": 49404,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Only Veracruz recorded more than ten wins in the third group for the regular season of Primera Divisi\u00f3n de M\u00e9xico Apertura 2004.",
+         "Only Veracruz recorded more than 10 wins in the third group for the regular season of Primera Divisi\u00f3n de M\u00e9xico Apertura 2004."
+      ],
+      "table_id": 72759,
+      "question_id": 3173,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Indivior, a specialty pharmaceuticals business, is a spinoff of Reckitt Benckiser and was capitalized at \u00a32.3 billion (US$3.1 billion) on the London Stock Exchange in 2015.",
+         "Indivior, a specialty pharmaceuticals business, is a spinoff of Reckitt Benckiser and was capitalized at \u00a32.3 1093615100 (US$3.1 1093615100) on the London Stock Exchange in 2015."
+      ],
+      "table_id": 72779,
+      "question_id": 3217,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the season of 2005-06 in the La Liga, the teams Mallorca, Betis and Espanyol obtained ten wins.",
+         "In the season of 2005-06 in the La Liga, the teams Mallorca, Betis and Espanyol obtained 10 wins."
+      ],
+      "table_id": 72858,
+      "question_id": 5050,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1980 Penwith District Council election (held for eleven of 34 seats) had five separate parties and the Independent party was the one with the most votes.",
+         "1980 Penwith District Council election (held for 11 of 34 seats) had five separate parties and the Independent party was the one with the most votes."
+      ],
+      "table_id": 72940,
+      "question_id": 51111,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Eleven crews retired from the 2018 Rally Sweden held in February 2018 due to off-road, accidents, collisions, and mechanical causes.",
+         "10 crews retired from the 2018 Rally Sweden held in February 2018 due to off-road, accidents, collisions, and mechanical causes."
+      ],
+      "table_id": 72953,
+      "question_id": 5018,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Malcolm Storry performed in more than ten films from year 1978 to 2017 and his latest film is Darkest Hour (war drama film directed by Joe Wright) as General Ironside.",
+         "Malcolm Storry performed in more than 10 films from year 1978 to 2017 and his latest film is Darkest Hour (war drama film directed by Joe Wright) as General Ironside."
+      ],
+      "table_id": 73060,
+      "question_id": 38318,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Kalmar FF (a Swedish professional football club based in Kalmar) won the most games, with twelve wins, in the 2006 Djurg\u00e5rdens IF season, while IFK G\u00f6teborg, had the least wins, with only nine wins.",
+         "Kalmar FF (a Swedish professional football club based in Kalmar) won the most games, with 11 wins, in the 2006 Djurg\u00e5rdens IF season, while IFK G\u00f6teborg, had the least wins, with only nine wins."
+      ],
+      "table_id": 73101,
+      "question_id": 519,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Vrin (in one of eleven administration districts) population mainly decreases between 1850 and 2000.",
+         "Vrin (in one of 10 administration districts) population mainly decreases between 1850 and 2000."
+      ],
+      "table_id": 73172,
+      "question_id": 7231,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "State of the Nation with Jessica Soho, a Philippine television news show which premiered in 2011, was disqualified for several awards ten times but won one title Best News Magazine Show in 2011.",
+         "State of the Nation with Jessica Soho, a Philippine television news show which premiered in 2011, was disqualified for several awards 10 times but won one title Best News Magazine Show in 2011."
+      ],
+      "table_id": 73181,
+      "question_id": 20552,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Boxing at the 2011 Pan Arab Games had ten events, one of the ones to win a bronze metal is Reda Benbaziz.",
+         "Boxing at the 2011 Pan Arab Games had 10 events, one of the ones to win a bronze metal is Reda Benbaziz."
+      ],
+      "table_id": 73201,
+      "question_id": 9245,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Twelve teams played in the 2008 Southeastern Conference football season Florida winning the Championship Game.",
+         "11 teams played in the 2008 Southeastern Conference football season Florida winning the Championship Game."
+      ],
+      "table_id": 73227,
+      "question_id": 1918,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Ernest Edward Greene House's corners have matching Ionic capitaled pilasters, an architectural element used to give the appearance of a supporting column and to articulate an extent of wall, with only an ornamental function, while a one-story, hip roofed porch, supported by ten Tuscan columns, wraps around the front of the house and halfway down each side.",
+         "The Ernest Edward Greene House's corners have matching Ionic capitaled pilasters, an architectural element used to give the appearance of a supporting column and to articulate an extent of wall, with only an ornamental function, while a one-story, hip roofed porch, supported by 10 Tuscan columns, wraps around the front of the house and halfway down each side."
+      ],
+      "table_id": 73266,
+      "question_id": 8941,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Private Lives of Nashville Wives, an American reality television series that revolves around the social circle of six women who reside in Nashville, Tennessee, has \"Bright Lights, Big City\" (which at the time, garnered 0.54 million U.S. viewers) as its season opener, and \"Bless and Release\" (which pulled 0.91 million U.S. viewers) as its final episode, for a total of 8 episodes.",
+         "Private Lives of Nashville Wives, an American reality television series that revolves around the social circle of six women who reside in Nashville, Tennessee, has \"Bright Lights, Big City\" (which at the time, garnered 487028 U.S. viewers) as its season opener, and \"Bless and Release\" (which pulled 979570 U.S. viewers) as its final episode, for a total of 8 episodes."
+      ],
+      "table_id": 73355,
+      "question_id": 2089,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1970 Clemson Tigers football team (head coach Hootie Ingram) played eleven games between September 12 and November 21, one of which was against Duke.",
+         "1970 Clemson Tigers football team (head coach Hootie Ingram) played 10 games between September 12 and November 21, one of which was against Duke."
+      ],
+      "table_id": 73364,
+      "question_id": 4023,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Chimelong Ocean Kingdom is a theme park situated in Hengqin, Zhuhai, China that is a part of the Chimelong Internatioal Ocean Tourist Resort, which consists of one theme park, two theaters, and three themed hotels, and had over 5 millions visitors in 2014 and over 10 million in 2018",
+         "Chimelong Ocean Kingdom is a theme park situated in Hengqin, Zhuhai, China that is a part of the Chimelong Internatioal Ocean Tourist Resort, which consists of one theme park, two theaters, and three themed hotels, and had over 5 millions visitors in 2014 and over 10629300 in 2018"
+      ],
+      "table_id": 73379,
+      "question_id": 6151,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Toronto Regional Resuscitation Research Out of Hospital Network and the Ottawa/OPALS/British Columbia RCC service almost ten million people together.",
+         "The Toronto Regional Resuscitation Research Out of Hospital Network and the Ottawa/OPALS/British Columbia RCC service almost 9 946915 people together."
+      ],
+      "table_id": 73438,
+      "question_id": 15985,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2017 Tulsa Golden Hurricane football team represented the private research University of Tulsa in twelve matches, with only two wins.",
+         "The 2017 Tulsa Golden Hurricane football team represented the private research University of Tulsa in 12 matches, with only two wins."
+      ],
+      "table_id": 73478,
+      "question_id": 11612,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Christian Cueva played for the Peruvian team that made a\u00a0total of ten goals from 2011 to 2019.",
+         "Christian Cueva played for the Peruvian team that made a\u00a0total of 10 goals from 2011 to 2019."
+      ],
+      "table_id": 73496,
+      "question_id": 366,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The\u00a0Toronto Argonauts,\u00a0coached by Hamp Pool and Steve Owen, landed fourth place in the interprovincial Rugby Football Union in 1959 with four wins and ten losses.",
+         "The\u00a0Toronto Argonauts,\u00a0coached by Hamp Pool and Steve Owen, landed fourth place in the interprovincial Rugby Football Union in 1959 with four wins and 9 losses."
+      ],
+      "table_id": 73502,
+      "question_id": 208,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "CSKA Moscow led the ten basketball teams\u00a0with 17 wins and one loss\u00a0in the regular season of\u00a0the 2011\u201312 Russian PBL season, the second season of the\u00a0Russian Professional League.",
+         "CSKA Moscow led the 10 basketball teams\u00a0with 17 wins and one loss\u00a0in the regular season of\u00a0the 2011\u201312 Russian PBL season, the second season of the\u00a0Russian Professional League."
+      ],
+      "table_id": 73504,
+      "question_id": 1320,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Belarus garnered twelve medals in five sports at the 2015 Summer Universiade, officially known as the XXVIII Summer Universiade.",
+         "Belarus garnered 11 medals in five sports at the 2015 Summer Universiade, officially known as the XXVIII Summer Universiade."
+      ],
+      "table_id": 73519,
+      "question_id": 18900,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Beau Jocque released ten albums from 1993 to 2000.",
+         "Beau Jocque released 10 albums from 1993 to 2000."
+      ],
+      "table_id": 73543,
+      "question_id": 48908,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the Japanese Roller Hockey National Championship the Hakusan Club has the most number of championships which was eleven and the Tokyo Club, Yomiuri Land and Oriental Classic were all have only one championship.",
+         "In the Japanese Roller Hockey National Championship the Hakusan Club has the most number of championships which was 11 and the Tokyo Club, Yomiuri Land and Oriental Classic were all have only one championship."
+      ],
+      "table_id": 73624,
+      "question_id": 11854,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Weston McKennie played for the US men's national team from 2017 to 2020, which recorded ten goals out of 21 appearances.",
+         "Weston McKennie played for the US men's national team from 2017 to 2020, which recorded 10 goals out of 21 appearances."
+      ],
+      "table_id": 73813,
+      "question_id": 7342,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Tiffany Lee played the role of Yuki in episode ten of Women on the Run.",
+         "Tiffany Lee played the role of Yuki in episode 10 of Women on the Run."
+      ],
+      "table_id": 73818,
+      "question_id": 36779,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the Battle of Sandomeirz, the city and castle were attacked by Jerzy Sebastian Lubomirski, a Polish noble, politician, and military commander along with six thousand men.",
+         "In the Battle of Sandomeirz, the city and castle were attacked by Jerzy Sebastian Lubomirski, a Polish noble, politician, and military commander along with six 1082 men."
+      ],
+      "table_id": 73824,
+      "question_id": 3537,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2008 WAFL season, the 124th season of West Australian Football League, West Perth, South Fremantle, and Swan Districts obtained eleven wins.",
+         "In the 2008 WAFL season, the 124th season of West Australian Football League, West Perth, South Fremantle, and Swan Districts obtained 10 wins."
+      ],
+      "table_id": 73831,
+      "question_id": 1907,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "One of Frans Denys' twelve Antwerp paintings was in a royal residence.",
+         "One of Frans Denys' 12 Antwerp paintings was in a royal residence."
+      ],
+      "table_id": 73832,
+      "question_id": 37423,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Jarrett Jack played for fourteen years in more than three separate teams, one of which is Portland.",
+         "Jarrett Jack played for 14 years in more than three separate teams, one of which is Portland."
+      ],
+      "table_id": 73903,
+      "question_id": 1787,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "National Security Guard, formed on September 22, 1986 in South Asia, has 14,000 personnel and an annual budget of \u20b911.9 billion (US$166.8 million) in 2020-21.",
+         "National Security Guard, formed on September 22, 1986 in South Asia, has 14,000 personnel and an annual budget of \u20b911.9 953636722 (US$166.8 million) in 2020-21."
+      ],
+      "table_id": 73942,
+      "question_id": 9303,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Four out of seven teams got total winnings of ten games in the East Division during the 2008 Toronto Rock season,  among these teams, were Buffalo Bandits, and Minnesota Swarm.",
+         "Four out of seven teams got total winnings of 10 games in the East Division during the 2008 Toronto Rock season,  among these teams, were Buffalo Bandits, and Minnesota Swarm."
+      ],
+      "table_id": 73985,
+      "question_id": 166,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Cadillac Records, which was directed and written by Darnell Martin, was distributed by Sony Pictures Releasing, which was formerly known as the Columbia TriStar Motion Picture Group, and earned 8.9 million dollars.",
+         "Cadillac Records, which was directed and written by Darnell Martin, was distributed by Sony Pictures Releasing, which was formerly known as the Columbia TriStar Motion Picture Group, and earned 9046139 dollars."
+      ],
+      "table_id": 74051,
+      "question_id": 5503,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "John Louis Mansi took part in thirteen films between 1952 and 1989, one of which was Secret People.",
+         "John Louis Mansi took part in 13 films between 1952 and 1989, one of which was Secret People."
+      ],
+      "table_id": 74089,
+      "question_id": 6305,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1991 San Marino Grand Prix, Brazil's Ayrton Senna scored ten points.",
+         "In the 1991 San Marino Grand Prix, Brazil's Ayrton Senna scored 9 points."
+      ],
+      "table_id": 74167,
+      "question_id": 5736,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1978 NCAA Division I Outdoor Track and Field Championships included twelve teams, with NYU and UTEP tied with 50 points each.",
+         "The 1978 NCAA Division I Outdoor Track and Field Championships included 11 teams, with NYU and UTEP tied with 50 points each."
+      ],
+      "table_id": 74177,
+      "question_id": 17385,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1997 Brazilian Grand Prix has twenty-two divers one of whom is Olivier Panis.",
+         "1997 Brazilian Grand Prix has 23 divers one of whom is Olivier Panis."
+      ],
+      "table_id": 74222,
+      "question_id": 1030,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2014 NASCAR Whelen Euro Series' Elite 1 category, Chevrolet stood out as the manufacturer with most wins after winning ten out of twelve rounds.",
+         "In the 2014 NASCAR Whelen Euro Series' Elite 1 category, Chevrolet stood out as the manufacturer with most wins after winning 9 out of 11 rounds."
+      ],
+      "table_id": 74239,
+      "question_id": 1836,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1991 San Marino Grand Prix, a Formula One motor race held at Imola on 28 April 1991, Brazil's Ayrton Senna scored ten points.",
+         "In the 1991 San Marino Grand Prix, a Formula One motor race held at Imola on 28 April 1991, Brazil's Ayrton Senna scored 9 points."
+      ],
+      "table_id": 74250,
+      "question_id": 47157,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2017 Tulsa Golden Hurricane football team appeared in twelve matches with only two wins.",
+         "The 2017 Tulsa Golden Hurricane football team appeared in 11 matches with only two wins."
+      ],
+      "table_id": 74265,
+      "question_id": 2732,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "John Fawcett directed four out of ten episodes of Orphan Black, such as \"Natural Selection\" and \"Instinct\" in season one.",
+         "John Fawcett directed four out of 9 episodes of Orphan Black, such as \"Natural Selection\" and \"Instinct\" in season one."
+      ],
+      "table_id": 74289,
+      "question_id": 23881,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "South Carolina Gamecocks, which competed as an independent before 1997, joined the Southeastern Conference, an American college athletic conference for institutions which are mostly in the South Central and Southeastern United States, in 1997 and participated in eleven Women's College World Series.",
+         "South Carolina Gamecocks, which competed as an independent before 1997, joined the Southeastern Conference, an American college athletic conference for institutions which are mostly in the South Central and Southeastern United States, in 1997 and participated in 10 Women's College World Series."
+      ],
+      "table_id": 74427,
+      "question_id": 12499,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "John Fawcett, a Canadian director, writer and producer, directed four out of ten episodes of Orphan Black, such as \"Natural Selection\" and \"Instinct\" in season one.",
+         "John Fawcett, a Canadian director, writer and producer, directed four out of 9 episodes of Orphan Black, such as \"Natural Selection\" and \"Instinct\" in season one."
+      ],
+      "table_id": 74482,
+      "question_id": 14859,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The song, Kannan Vanthu, sung by Sistla Janaki, an experienced singer who has recorded songs in 25 languages, runs for a length of four minutes and eleven seconds.",
+         "The song, Kannan Vanthu, sung by Sistla Janaki, an experienced singer who has recorded songs in 25 languages, runs for a length of four minutes and 11 seconds."
+      ],
+      "table_id": 74553,
+      "question_id": 46522,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Luis Guadalupe (born on April 3, 1976 in Chincha, Peru) played as a Centre-back for eleven different teams.",
+         "Luis Guadalupe (born on April 3, 1976 in Chincha, Peru) played as a Centre-back for 10 different teams."
+      ],
+      "table_id": 74619,
+      "question_id": 10243,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "John Louis Mansi (Born November 8, 1926) took part in thirteen films between 1952 and 1989, one of which was Secret People.",
+         "John Louis Mansi (Born November 8, 1926) took part in 13 films between 1952 and 1989, one of which was Secret People."
+      ],
+      "table_id": 74676,
+      "question_id": 15826,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Superbowl champion (as player and as assistant coach) Mike Ditka was the head coach of the New Orleans Saints in the 1997 season in which they won six games and lost ten games.",
+         "Superbowl champion (as player and as assistant coach) Mike Ditka was the head coach of the New Orleans Saints in the 1997 season in which they won six games and lost 9 games."
+      ],
+      "table_id": 74752,
+      "question_id": 20282,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Boxing at the 2011 Pan Arab Games (held at Aspire Zone in Doha, Qatar) had ten events, one of the ones to win a bronze metal is Reda Benbaziz.",
+         "Boxing at the 2011 Pan Arab Games (held at Aspire Zone in Doha, Qatar) had 10 events, one of the ones to win a bronze metal is Reda Benbaziz."
+      ],
+      "table_id": 74808,
+      "question_id": 33136,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The soils are humic or loamy, well drained and acid  with a pH of 5.5 \u2013 5.8; the moss, Ditrichum cornubicum or Cornish path-moss (a moss endemic to Cornwall, United Kingdom), likes a metal-rich substrate with concentrations of copper of 151 \u2013 1400 parts per million (ppm).",
+         "The soils are humic or loamy, well drained and acid  with a pH of 5.5 \u2013 5.8; the moss, Ditrichum cornubicum or Cornish path-moss (a moss endemic to Cornwall, United Kingdom), likes a metal-rich substrate with concentrations of copper of 151 \u2013 1400 parts per 901056 (ppm)."
+      ],
+      "table_id": 74860,
+      "question_id": 2779,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ahmed Elmohamady scored a career total of 30 goals with twelve of those goals made while he was playing for ENPPI, a club which has won the Egypt Cup twice.",
+         "Ahmed Elmohamady scored a career total of 30 goals with 12 of those goals made while he was playing for ENPPI, a club which has won the Egypt Cup twice."
+      ],
+      "table_id": 74890,
+      "question_id": 2333,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Shoppers Fair was an American discount department store chain that was founded in 1956 in Connecticut; then, it became a subsidiary of New York-based Mangel and operated 35 stores in twelve states, but later on, the chain closed in 1975.",
+         "Shoppers Fair was an American discount department store chain that was founded in 1956 in Connecticut; then, it became a subsidiary of New York-based Mangel and operated 35 stores in 12 states, but later on, the chain closed in 1975."
+      ],
+      "table_id": 74892,
+      "question_id": 4983,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Vladimir Putin, believing that Russia was being demeaned on the international stage by a series of scandals he publicly attributed to the United States, such as the Olympic doping scandal and the Panama Papers, the 2.6TB of data or 11.5 million leaked documents that detail financial and attorney\u2013client information for more than 214,488 offshore entities leaked beginning on 3 April 2016, sought to use the leaks of politically damaging material in the U.S. as a method of tarnishing the image of the United States.",
+         "Vladimir Putin, believing that Russia was being demeaned on the international stage by a series of scandals he publicly attributed to the United States, such as the Olympic doping scandal and the Panama Papers, the 2.6TB of data or 10995592 leaked documents that detail financial and attorney\u2013client information for more than 214,488 offshore entities leaked beginning on 3 April 2016, sought to use the leaks of politically damaging material in the U.S. as a method of tarnishing the image of the United States."
+      ],
+      "table_id": 74801,
+      "question_id": 35210,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Beau Jocque, a Louisiana French Creole zydeco musician and songwriter active in the 1990s, released ten albums from 1993 to 2000.",
+         "Beau Jocque, a Louisiana French Creole zydeco musician and songwriter active in the 1990s, released 9 albums from 1993 to 2000."
+      ],
+      "table_id": 74943,
+      "question_id": 3816,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Fishing in India takes place in a exclusive economic zone and contributed over one percent of India's gross domestic product, and it employs about 14.5 million people a year.",
+         "Fishing in India takes place in a exclusive economic zone and contributed over one percent of India's gross domestic product, and it employs about 14633466 people a year."
+      ],
+      "table_id": 74997,
+      "question_id": 7463,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1963 Toronto Argonauts season had thirteen games that took place between August 9 and November 2, one of which was with the Stampeders.",
+         "1963 Toronto Argonauts season had 12 games that took place between August 9 and November 2, one of which was with the Stampeders."
+      ],
+      "table_id": 75000,
+      "question_id": 25522,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Rick Comegy spent ten years as the head coach at Tuskegee University,",
+         "Rick Comegy spent 10 years as the head coach at Tuskegee University,"
+      ],
+      "table_id": 75010,
+      "question_id": 2884,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Compsocus elegans, found in Mexico and Central America, and Electrentomopsis variegata, found in Mexico are the two current species of Compsocidae, and each species has thirteen or fourteen segment antennae.",
+         "Compsocus elegans, found in Mexico and Central America, and Electrentomopsis variegata, found in Mexico are the two current species of Compsocidae, and each species has 12 or 13 segment antennae."
+      ],
+      "table_id": 75084,
+      "question_id": 16889,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1984 Tour of Flanders ended in the Denderstreek village of Meerbeke had ten riders on five different teams.",
+         "The 1984 Tour of Flanders ended in the Denderstreek village of Meerbeke had 9 riders on five different teams."
+      ],
+      "table_id": 75091,
+      "question_id": 3214,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The song Stolen Dance obtained the highest sales, a total of two million units, in the United States compared to other countries.",
+         "The song Stolen Dance obtained the highest sales, a total of two 1067988 units, in the United States compared to other countries."
+      ],
+      "table_id": 75107,
+      "question_id": 8545,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Garra lancrenonensis is one of the 1.5 million living animal species of the Animalia kingdom.",
+         "Garra lancrenonensis is one of the 1588351 living animal species of the Animalia kingdom."
+      ],
+      "table_id": 75165,
+      "question_id": 19919,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "After the WIN Television restarted broadcasting 9HD in November 2015, 10 confirmed that it was working on rebroadcasting Ten HD, but they did not put a time frame on it.",
+         "After the WIN Television restarted broadcasting 9HD in November 2015, 10 confirmed that it was working on rebroadcasting 9 HD, but they did not put a time frame on it."
+      ],
+      "table_id": 75210,
+      "question_id": 16437,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2010 Sri Lankan parliamentary election had more than ten districts, one of which was Colombo.",
+         "2010 Sri Lankan parliamentary election had more than 9 districts, one of which was Colombo."
+      ],
+      "table_id": 75276,
+      "question_id": 18466,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Ernest Edward Greene House's corners have matching Ionic capitaled pilasters, while a one-story, hip roofed porch, supported by ten Tuscan columns, wraps around the front of the house and halfway down each side.",
+         "The Ernest Edward Greene House's corners have matching Ionic capitaled pilasters, while a one-story, hip roofed porch, supported by 9 Tuscan columns, wraps around the front of the house and halfway down each side."
+      ],
+      "table_id": 75366,
+      "question_id": 28505,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Redeemer of Souls received positive reviews from music critics, including online magazine PopMatters giving it nine out of ten ratings.",
+         "Redeemer of Souls received positive reviews from music critics, including online magazine PopMatters giving it nine out of 10 ratings."
+      ],
+      "table_id": 75383,
+      "question_id": 20132,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Jonathan Krisel directed most of the ten episodes in the season in the List of Portlandia episodes",
+         "Jonathan Krisel directed most of the 9 episodes in the season in the List of Portlandia episodes"
+      ],
+      "table_id": 75440,
+      "question_id": 28376,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Private Lives of Nashville Wives is an American reality television series that revolves around the social circle of six women who reside in Nashville, Tennessee with 8 episodes, starting with \"Bright Lights, Big City\" (which at the time, garnered 0.54 million U.S. viewers), and ended with episode \"Bless and Release\" (which pulled 0.91 million U.S. viewers).",
+         "Private Lives of Nashville Wives is an American reality television series that revolves around the social circle of six women who reside in Nashville, Tennessee with 8 episodes, starting with \"Bright Lights, Big City\" (which at the time, garnered 551667 U.S. viewers), and ended with episode \"Bless and Release\" (which pulled 955966 U.S. viewers)."
+      ],
+      "table_id": 75461,
+      "question_id": 21732,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The soils are humic or loamy, well drained and acid  with a pH of 5.5 \u2013 5.8; the moss likes a metal-rich substrate with concentrations of copper of 151 \u2013 1400 parts per million (ppm).",
+         "The soils are humic or loamy, well drained and acid  with a pH of 5.5 \u2013 5.8; the moss likes a metal-rich substrate with concentrations of copper of 151 \u2013 1400 parts per 921903 (ppm)."
+      ],
+      "table_id": 75536,
+      "question_id": 51448,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "When this objective failed, Eckstein laid Zoo Lake (a popular lake and public park in Johannesburg, South Africa) out as a timber plantation in 1981, naming it Sachsenwald (after Otto von Bismarck\u2019s estate in Germany), where about three million trees were planted in the area.",
+         "When this objective failed, Eckstein laid Zoo Lake (a popular lake and public park in Johannesburg, South Africa) out as a timber plantation in 1981, naming it Sachsenwald (after Otto von Bismarck\u2019s estate in Germany), where about three 960558 trees were planted in the area."
+      ],
+      "table_id": 75663,
+      "question_id": 47572,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2019 Big Twelve Conference football preseason recruiting National Rankings, TCU had the most total signees at 28, and Kansas had the least at 17.",
+         "In the 2019 Big 12 Conference football preseason recruiting National Rankings, TCU had the most total signees at 28, and Kansas had the least at 17."
+      ],
+      "table_id": 75722,
+      "question_id": 9278,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Peppertones released two extended plays, one of which made it to number twelve in the KOR charts.",
+         "The Peppertones released two extended plays, one of which made it to number 12 in the KOR charts."
+      ],
+      "table_id": 71644,
+      "question_id": 12428,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The album Rebels on the Run produced a single that peaked inside the top ten of the US Country chart.",
+         "The album Rebels on the Run produced a single that peaked inside the top 10 of the US Country chart."
+      ],
+      "table_id": 75948,
+      "question_id": 1145,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1997 Brazilian Grand Prix has twenty-two divers one of whom is Gerhard Berger.",
+         "1997 Brazilian Grand Prix has 22 divers one of whom is Gerhard Berger."
+      ],
+      "table_id": 76002,
+      "question_id": 29799,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Gregor Schlierenzauer was in the top ten overall standings in the 2006/07 and 2013/14 season.",
+         "Gregor Schlierenzauer was in the top 10 overall standings in the 2006/07 and 2013/14 season."
+      ],
+      "table_id": 76126,
+      "question_id": 2635,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Malcolm Storry performed in more than ten films from year 1978 to 2017 and his latest film is Darkest Hour as General Ironside.",
+         "Malcolm Storry performed in more than 10 films from year 1978 to 2017 and his latest film is Darkest Hour as General Ironside."
+      ],
+      "table_id": 76193,
+      "question_id": 42786,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Indivior is a spinoff of Reckitt Benckiser and was capitalized at \u00a32.3 billion (US$3.1 billion) on the London Stock Exchange in 2015.",
+         "Indivior is a spinoff of Reckitt Benckiser and was capitalized at \u00a32.3 1007823231 (US$3.1 1007823231) on the London Stock Exchange in 2015."
+      ],
+      "table_id": 76197,
+      "question_id": 10813,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Tswana, a Bantu language spoken by about 8.2 million people in South Africa, is the primary language in the town of Dealesville, population 5,446, in Free State, South Africa.",
+         "Tswana, a Bantu language spoken by about 7543380 people in South Africa, is the primary language in the town of Dealesville, population 5,446, in Free State, South Africa."
+      ],
+      "table_id": 76210,
+      "question_id": 51482,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "German television actor Mathias Herrmann acted in eleven movies from 1987 to 2020.",
+         "German television actor Mathias Herrmann acted in 11 movies from 1987 to 2020."
+      ],
+      "table_id": 76333,
+      "question_id": 10619,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the season of 2005-06 in the La Liga, the teams Mallorca, Betis, which finished as 14th in the La Liga, and Espanyol obtained ten wins.",
+         "In the season of 2005-06 in the La Liga, the teams Mallorca, Betis, which finished as 14th in the La Liga, and Espanyol obtained 10 wins."
+      ],
+      "table_id": 76385,
+      "question_id": 25847,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "King T's discography includes a total of ten guest appearances in Tha Alkaholiks songs.",
+         "King T's discography includes a total of 9 guest appearances in Tha Alkaholiks songs."
+      ],
+      "table_id": 76515,
+      "question_id": 9419,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Belarus garnered twelve medals in five sports at the 2015 Summer Universiade.",
+         "Belarus garnered 12 medals in five sports at the 2015 Summer Universiade."
+      ],
+      "table_id": 76718,
+      "question_id": 2637,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Brisbane Showgrounds hosted ten rugby league test matches from 1908 to 1960.",
+         "The Brisbane Showgrounds hosted 9 rugby league test matches from 1908 to 1960."
+      ],
+      "table_id": 76736,
+      "question_id": 3771,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Peppertones, a Korean rock band formed in 2003, released two extended plays, one of which made it to number twelve in the KOR charts.",
+         "The Peppertones, a Korean rock band formed in 2003, released two extended plays, one of which made it to number 12 in the KOR charts."
+      ],
+      "table_id": 76755,
+      "question_id": 2903,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Lillydale Lake is an artificial lake in Lilydale, Victoria, which had a population of approximately 15 thousand people as of 2016.",
+         "Lillydale Lake is an artificial lake in Lilydale, Victoria, which had a population of approximately 15 928 people as of 2016."
+      ],
+      "table_id": 76761,
+      "question_id": 28748,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "After the Nine Network restarted broadcasting 9HD in November 2015, 10 confirmed that it was working on rebroadcasting Ten HD, but they did not put a time frame on it.",
+         "After the Nine Network restarted broadcasting 9HD in November 2015, 10 confirmed that it was working on rebroadcasting 9 HD, but they did not put a time frame on it."
+      ],
+      "table_id": 75210,
+      "question_id": 4686,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "National Security Guard, formed on September 22, 1986 in New Delhi (the capital of India), has 14,000 personnel and an annual budget of \u20b911.9 billion (US$166.8 million) in 2020-21.",
+         "National Security Guard, formed on September 22, 1986 in New Delhi (the capital of India), has 14,000 personnel and an annual budget of \u20b911.9 956315865 (US$166.8 million) in 2020-21."
+      ],
+      "table_id": 76849,
+      "question_id": 17354,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Jason Naismith played for ten clubs including Peterborough United.",
+         "Jason Naismith played for 10 clubs including Peterborough United."
+      ],
+      "table_id": 76921,
+      "question_id": 17576,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1999 County Championship, Surrey, a first-class club in county cricket, one of eighteen in the domestic cricket structure of England and Wales, won twelve times.",
+         "In the 1999 County Championship, Surrey, a first-class club in county cricket, one of 18 in the domestic cricket structure of England and Wales, won 11 times."
+      ],
+      "table_id": 76977,
+      "question_id": 23362,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Compsocidae has two current species in two genera (Compsocus elegans found in Mexico and Central America, and Electrentomopsis variegata found in Mexico) and the antennae of each species have thirteen or 14 segments.",
+         "Compsocidae has two current species in two genera (Compsocus elegans found in Mexico and Central America, and Electrentomopsis variegata found in Mexico) and the antennae of each species have 13 or 14 segments."
+      ],
+      "table_id": 76993,
+      "question_id": 24597,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Gregor Schlierenzauer, was in the top ten overall standings in the 2006/07 and 2013/14 season, the season that began in November and continued in Africa.",
+         "Gregor Schlierenzauer, was in the top 9 overall standings in the 2006/07 and 2013/14 season, the season that began in November and continued in Africa."
+      ],
+      "table_id": 76126,
+      "question_id": 33345,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Heavy Airlift Wing formed in 2009 in Hungary, made up of twelve participating nations, gives the military Strategic Airlift Capability.",
+         "The Heavy Airlift Wing formed in 2009 in Hungary, made up of 12 participating nations, gives the military Strategic Airlift Capability."
+      ],
+      "table_id": 77093,
+      "question_id": 1882,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Private Lives of Nashville Wives is a series with 8 episodes, starting with \"Bright Lights, Big City\" (which at the time, garnered 0.54 million U.S. viewers), and ended with episode \"Bless and Release\" (which pulled 0.91 million U.S. viewers).",
+         "Private Lives of Nashville Wives is a series with 8 episodes, starting with \"Bright Lights, Big City\" (which at the time, garnered 565976 U.S. viewers), and ended with episode \"Bless and Release\" (which pulled 955795 U.S. viewers)."
+      ],
+      "table_id": 77099,
+      "question_id": 44874,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Jan Collins, born in the county seat of Texas's Tom Green County, lived in multiple different towns over nearly ten U.S. states before she turned 19.",
+         "Jan Collins, born in the county seat of Texas's Tom Green County, lived in multiple different towns over nearly 10 U.S. states before she turned 19."
+      ],
+      "table_id": 77237,
+      "question_id": 33283,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Glass shield that grossed $3.3 million was directed by Charles Burnett, and edited by Curtiss Clayton.",
+         "The Glass shield that grossed $2970879 was directed by Charles Burnett, and edited by Curtiss Clayton."
+      ],
+      "table_id": 77404,
+      "question_id": 2872,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Yellow Rose  is a television series produced by Paul Freeman on NBC from October 2, 1983 until May 12, 1984 starring Cybill Shepherd as Colleen Champion, David Soul as Roy Champion and Edward Albert as Ramon \u201cQuisto\u201d Champion, until its cancellation after twenty-two episodes.",
+         "Yellow Rose  is a television series produced by Paul Freeman on NBC from October 2, 1983 until May 12, 1984 starring Cybill Shepherd as Colleen Champion, David Soul as Roy Champion and Edward Albert as Ramon \u201cQuisto\u201d Champion, until its cancellation after 20 episodes."
+      ],
+      "table_id": 77428,
+      "question_id": 11682,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Johanngeorgenstadt is a German town in the state of Saxony, a landlocked state with a history spanning over a thousand years.",
+         "Johanngeorgenstadt is a German town in the state of Saxony, a landlocked state with a history spanning over a 1098 years."
+      ],
+      "table_id": 77483,
+      "question_id": 10514,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The single \"Where I Come From\" from the album Rebels on the Run, the seventh studio album by American country music duo Montgomery Gentry, managed to peak inside the top ten of the US Country chart.",
+         "The single \"Where I Come From\" from the album Rebels on the Run, the seventh studio album by American country music duo Montgomery Gentry, managed to peak inside the top 9 of the US Country chart."
+      ],
+      "table_id": 77523,
+      "question_id": 16338,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Jarrett Jack is wrongly believed to have played for fourteen years in more than three separate teams, one of which is Portland.",
+         "Jarrett Jack is wrongly believed to have played for 14 years in more than three separate teams, one of which is Portland."
+      ],
+      "table_id": 77547,
+      "question_id": 17647,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Redeemer of Souls received positive reviews from music critics, including PopMatters giving it nine out of ten ratings.",
+         "Redeemer of Souls received positive reviews from music critics, including PopMatters giving it nine out of 10 ratings."
+      ],
+      "table_id": 77641,
+      "question_id": 16432,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nurol Bank (a financial services company based in Turkey) has ten stock owners, most of the stock is held by Nurol Holding A.S at 78.16%",
+         "Nurol Bank (a financial services company based in Turkey) has 10 stock owners, most of the stock is held by Nurol Holding A.S at 78.16%"
+      ],
+      "table_id": 77679,
+      "question_id": 38520,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Wataru Seken wa Oni Bakari (Making It Through) had ten seasons and ran from October 11, 1990 - September 29, 2011.",
+         "Wataru Seken wa Oni Bakari (Making It Through) had 9 seasons and ran from October 11, 1990 - September 29, 2011."
+      ],
+      "table_id": 77731,
+      "question_id": 29194,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Hologram Jams,  the second full-length studio album by Jaguar Love, received professional ratings from various critics including Metacritic and Pitchfork who gave it a two out of ten rating.",
+         "Hologram Jams,  the second full-length studio album by Jaguar Love, received professional ratings from various critics including Metacritic and Pitchfork who gave it a two out of 9 rating."
+      ],
+      "table_id": 77756,
+      "question_id": 2583,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "\"Rusty's Dino Island\", an 11-minute long episode, directed by Paul Brown and written by Scott Gray, aired last March 2, 2020 with 0.27 million U.S. viewers, which is lower than the 0.36 million U.S. viewers of \"Rusty's Tiny Adventure\".",
+         "\"Rusty's Dino Island\", an 11-minute long episode, directed by Paul Brown and written by Scott Gray, aired last March 2, 2020 with 245373 U.S. viewers, which is lower than the 392011 U.S. viewers of \"Rusty's Tiny Adventure\"."
+      ],
+      "table_id": 77777,
+      "question_id": 42821,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Florida won the Championship Game out of the twelve teams that competed in the 2008 Southeastern Conference football season.",
+         "Florida won the Championship Game out of the 11 teams that competed in the 2008 Southeastern Conference football season."
+      ],
+      "table_id": 77778,
+      "question_id": 30821,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The kingdom of Animalia are multicellular eukaryotic organisms that form the biological kingdom for which Apistogramma regani is a member of one of its over 1.5 million species.",
+         "The kingdom of Animalia are multicellular eukaryotic organisms that form the biological kingdom for which Apistogramma regani is a member of one of its over 1475868 species."
+      ],
+      "table_id": 77807,
+      "question_id": 670,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Marie De Becker appeared in ten films from 1942 to 1946.",
+         "Marie De Becker appeared in 10 films from 1942 to 1946."
+      ],
+      "table_id": 77811,
+      "question_id": 8277,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1997 Brazilian Grand Prix has twenty-two divers one of whom is Olivier Panis(born 2 September 1966).",
+         "1997 Brazilian Grand Prix has 20 divers one of whom is Olivier Panis(born 2 September 1966)."
+      ],
+      "table_id": 77820,
+      "question_id": 33342,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The\u00a0Toronto Argonauts\u00a0landed fourth place in the interprovincial Rugby Football Union in 1959 with four wins and ten losses.",
+         "The\u00a0Toronto Argonauts\u00a0landed fourth place in the interprovincial Rugby Football Union in 1959 with four wins and 10 losses."
+      ],
+      "table_id": 77899,
+      "question_id": 15151,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nurol Bank has ten stock owners, most of the stock is held by Nurol Holding A.S at around 80%",
+         "Nurol Bank has 9 stock owners, most of the stock is held by Nurol Holding A.S at around 80%"
+      ],
+      "table_id": 77903,
+      "question_id": 5002,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1978 NCAA Division I Outdoor Track and Field Championships included twelve teams, with UCLA and UTEP tied with 50 points each.",
+         "The 1978 NCAA Division I Outdoor Track and Field Championships included 12 teams, with UCLA and UTEP tied with 50 points each."
+      ],
+      "table_id": 78001,
+      "question_id": 7026,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Though the youngest Victorian-based team Hawthorn placed last in the 1950 VFL ladder, the team overall has won thirteen VFL premierships.",
+         "Though the youngest Victorian-based team Hawthorn placed last in the 1950 VFL ladder, the team overall has won 12 VFL premierships."
+      ],
+      "table_id": 78059,
+      "question_id": 4765,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1997 New Orldeans Saints won six games and lost ten under head coach, Mike Ditka, himself a three time SuperBowl champion as a player and assistant coach.",
+         "The 1997 New Orldeans Saints won six games and lost 9 under head coach, Mike Ditka, himself a three time SuperBowl champion as a player and assistant coach."
+      ],
+      "table_id": 78090,
+      "question_id": 3467,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "One of Frans Denys' twelve Antwerp paintings was in the Palace of Versailles, a royal residence in France.",
+         "One of Frans Denys' 12 Antwerp paintings was in the Palace of Versailles, a royal residence in France."
+      ],
+      "table_id": 78098,
+      "question_id": 49606,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Paducah Gaseous Diffusion Plant, which had a capacity of 11.3 million separative work units per year (SWU/year) in 1984,  was opened in 1952, and it produced low-enriched uranium which was further refined at Portsmouth and at Oak Ridge, Tennessee.",
+         "The Paducah Gaseous Diffusion Plant, which had a capacity of 11858874 separative work units per year (SWU/year) in 1984,  was opened in 1952, and it produced low-enriched uranium which was further refined at Portsmouth and at Oak Ridge, Tennessee."
+      ],
+      "table_id": 78107,
+      "question_id": 3621,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The soils are humic or loamy, well drained and acid  with a pH of 5.5 \u2013 5.8; the moss (Ditrichum cornubicum or Cornish path-moss) likes a metal-rich substrate with concentrations of copper of 151 \u2013 1400 parts per million (ppm).",
+         "The soils are humic or loamy, well drained and acid  with a pH of 5.5 \u2013 5.8; the moss (Ditrichum cornubicum or Cornish path-moss) likes a metal-rich substrate with concentrations of copper of 151 \u2013 1400 parts per 929125 (ppm)."
+      ],
+      "table_id": 74860,
+      "question_id": 8108,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Pikahsso, an American hip hop artist, has released ten singles.",
+         "Pikahsso, an American hip hop artist, has released 9 singles."
+      ],
+      "table_id": 78145,
+      "question_id": 7429,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Careless Jewel, a Canadian Thoughbred racehorse which was bred by Gainesway Thoroughbreds Ltd. and Bill Andrade and trained by Josie Caroll, earned more than a million dollars in its racing career.",
+         "Careless Jewel, a Canadian Thoughbred racehorse which was bred by Gainesway Thoroughbreds Ltd. and Bill Andrade and trained by Josie Caroll, earned more than a 908626 dollars in its racing career."
+      ],
+      "table_id": 78177,
+      "question_id": 1956,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Cellular agriculture, which refers to the development of agricultural products - especially animal products - from cell cultures rather than the bodies of living organisms, was at its 108th year when Memphis Meats received a US$161 million investment in its Series B.",
+         "Cellular agriculture, which refers to the development of agricultural products - especially animal products - from cell cultures rather than the bodies of living organisms, was at its 108th year when Memphis Meats received a US$175091680 investment in its Series B."
+      ],
+      "table_id": 78209,
+      "question_id": 5667,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Peruvian professional footballer Christian Cueva played for the Peru national team,\u00a0which made a total of ten goals from 2011 to 2019.",
+         "Peruvian professional footballer Christian Cueva played for the Peru national team,\u00a0which made a total of 9 goals from 2011 to 2019."
+      ],
+      "table_id": 78216,
+      "question_id": 4642,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1984 Tour of Flanders had ten riders on five different teams.",
+         "The 1984 Tour of Flanders had 10 riders on five different teams."
+      ],
+      "table_id": 78229,
+      "question_id": 42054,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "List of Portlandia (an American satire television series) episodes had ten episodes in the season most of which were directed by Jonathan Krisel.",
+         "List of Portlandia (an American satire television series) episodes had 9 episodes in the season most of which were directed by Jonathan Krisel."
+      ],
+      "table_id": 78244,
+      "question_id": 4304,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Glass Shield that was directed by Charles Burnett and was edited by Curtiss Clayton earned $3.3 million (US) in the box office.",
+         "The Glass Shield that was directed by Charles Burnett and was edited by Curtiss Clayton earned $3142633 (US) in the box office."
+      ],
+      "table_id": 78305,
+      "question_id": 10428,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Rusty Rivets' 11-minute long first episode of Season 3 titled \"Rusty's Dino Island\" is directed by Paul Brown and written by Scott Gray, and aired last March 2, 2020 with 0.27 million U.S. viewers; which is lower than the 0.36 million U.S. viewers of \"Rusty's Tiny Adventure\".",
+         "Rusty Rivets' 11-minute long first episode of Season 3 titled \"Rusty's Dino Island\" is directed by Paul Brown and written by Scott Gray, and aired last March 2, 2020 with 296972 U.S. viewers; which is lower than the 375398 U.S. viewers of \"Rusty's Tiny Adventure\"."
+      ],
+      "table_id": 78405,
+      "question_id": 2802,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Eurowings, a German low-cost carrier founded in 1996 and headquartered in Dusseldorf, is a wholly owned subsidiary of Lufthansa Group, which has total assets of 42.66 billion marks.",
+         "Eurowings, a German low-cost carrier founded in 1996 and headquartered in Dusseldorf, is a wholly owned subsidiary of Lufthansa Group, which has total assets of 42.66 1086117998 marks."
+      ],
+      "table_id": 78439,
+      "question_id": 36490,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During January of the 2006\u201307 Buffalo Sabres season, the team played fourteen games, winning five.",
+         "During January of the 2006\u201307 Buffalo Sabres season, the team played 14 games, winning five."
+      ],
+      "table_id": 78464,
+      "question_id": 4503,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2010 Malaysia Premier League there were twelve teams, two of which were promoted to Super League (the top-tier professional league).",
+         "In the 2010 Malaysia Premier League there were 11 teams, two of which were promoted to Super League (the top-tier professional league)."
+      ],
+      "table_id": 78496,
+      "question_id": 4074,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Yellow Rose  is a soap opera series produced by Paul Freeman on NBC from October 2, 1983 until May 12, 1984 starring Cybill Shepherd as Colleen Champion, David Soul as Roy Champion and Edward Albert as Ramon \u201cQuisto\u201d Champion, until its cancellation after twenty-two episodes.",
+         "Yellow Rose  is a soap opera series produced by Paul Freeman on NBC from October 2, 1983 until May 12, 1984 starring Cybill Shepherd as Colleen Champion, David Soul as Roy Champion and Edward Albert as Ramon \u201cQuisto\u201d Champion, until its cancellation after 23 episodes."
+      ],
+      "table_id": 78600,
+      "question_id": 6018,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Wataru Seken wa Oni Bakari had ten seasons and ran from October 11, 1990 - September 29, 2011.",
+         "Wataru Seken wa Oni Bakari had 10 seasons and ran from October 11, 1990 - September 29, 2011."
+      ],
+      "table_id": 78748,
+      "question_id": 28366,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Michael Penix, Jr. (an American football quarterback for the Indiana Hoosiers) was awarded the Big Ten Freshmen of the Week on September 2, 2019, while Logan Justus was awarded with Big Ten Special Teams Player of the Week.",
+         "Michael Penix, Jr. (an American football quarterback for the Indiana Hoosiers) was awarded the Big 10 Freshmen of the Week on September 2, 2019, while Logan Justus was awarded with Big 10 Special Teams Player of the Week."
+      ],
+      "table_id": 78762,
+      "question_id": 49001,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "\"This Side of Love\" achieved a peak rank position within the top ten in the Dutch Top 40 and 36th in the Italian and New Zealand Charts.",
+         "\"This Side of Love\" achieved a peak rank position within the top 9 in the Dutch Top 40 and 36th in the Italian and New Zealand Charts."
+      ],
+      "table_id": 72819,
+      "question_id": 41188,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Picodon is made from milk with a small amount of rennet, salted twice using fine, dry salt, and left to dry for at least fourteen days to four weeks.",
+         "Picodon is made from milk with a small amount of rennet, salted twice using fine, dry salt, and left to dry for at least 14 days to four weeks."
+      ],
+      "table_id": 78783,
+      "question_id": 19331,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The album Joyous Encounter written by Joe Lovano, an American jazz saxophonist received a six out of ten in a review by PopMatters.",
+         "The album Joyous Encounter written by Joe Lovano, an American jazz saxophonist received a six out of 10 in a review by PopMatters."
+      ],
+      "table_id": 78787,
+      "question_id": 1305,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Careless Jewel, which was bred by Gainesway Thoroughbreds Ltd. and Bill Andrade and trained by Josie Caroll, earned more than a million dollars in its racing career.",
+         "Careless Jewel, which was bred by Gainesway Thoroughbreds Ltd. and Bill Andrade and trained by Josie Caroll, earned more than a 972672 dollars in its racing career."
+      ],
+      "table_id": 78854,
+      "question_id": 6180,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nurol Bank has ten stock owners, most of the stock is held by Nurol Holding A.S at 78.16%",
+         "Nurol Bank has 10 stock owners, most of the stock is held by Nurol Holding A.S at 78.16%"
+      ],
+      "table_id": 78898,
+      "question_id": 23697,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Mathias Herrmann acted in eleven movies from 1987 to 2020.",
+         "Mathias Herrmann acted in 10 movies from 1987 to 2020."
+      ],
+      "table_id": 78938,
+      "question_id": 2359,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Michael Penix, Jr. (Indiana Hoosiers' football quarterback) was awarded the Big Ten Freshmen of the Week on September 2, 2019, while Logan Justus was awarded with Big Ten Special Teams Player of the Week.",
+         "Michael Penix, Jr. (Indiana Hoosiers' football quarterback) was awarded the Big 10 Freshmen of the Week on September 2, 2019, while Logan Justus was awarded with Big 10 Special Teams Player of the Week."
+      ],
+      "table_id": 78946,
+      "question_id": 5226,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2004 Montana Grizzlies football team played home games at Washington-Grizzly Stadium for the Big Sky Conference under head coach Hauck; its record for the 2004 season was twelve to three.",
+         "The 2004 Montana Grizzlies football team played home games at Washington-Grizzly Stadium for the Big Sky Conference under head coach Hauck; its record for the 2004 season was 11 to three."
+      ],
+      "table_id": 79112,
+      "question_id": 23777,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Fishing in India takes place in a exclusive economic zone and contributed over one percent of India's gross domestic product (a monetary measure of the market value of all the final goods and services produced in a specific time period.), and it employs about 14.5 million people a year.",
+         "Fishing in India takes place in a exclusive economic zone and contributed over one percent of India's gross domestic product (a monetary measure of the market value of all the final goods and services produced in a specific time period.), and it employs about 15531391 people a year."
+      ],
+      "table_id": 79180,
+      "question_id": 8102,
+      "label": "contradiction",
+      "gold_label": "entailment"
+   }
+]
