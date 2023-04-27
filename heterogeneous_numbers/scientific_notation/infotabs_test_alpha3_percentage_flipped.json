@@ -1,0 +1,72 @@
+[
+    {
+        "hypothesis": [
+            "Once hearing and/or vision problems have been ruled out, less than 10% of school age children who have trouble reading are afflicted with dyslexia.",
+            "Once hearing and/or vision problems have been ruled out, less than 18 percentages of school age children who have trouble reading are afflicted with dyslexia."
+        ],
+        "table_id": "T2105",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The frequency of hyperthyroidism, an overactive thyroid, is 1.2% in the USA.",
+            "The frequency of hyperthyroidism, an overactive thyroid, is 8 percentages in the USA."
+        ],
+        "table_id": "T2136",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Hyperthyroidism occurs in over 1% of the population.",
+            "Hyperthyroidism occurs in over 3 percentages of the population."
+        ],
+        "table_id": "T2136",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Less than 10% of occupants on LaMia Flight 2933 survived the crash.",
+            "Less than 15 percentages of occupants on LaMia Flight 2933 survived the crash."
+        ],
+        "table_id": "T2146",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "OCD occurs in more than 2% of the population.",
+            "OCD occurs in more than 11 percentages of the population."
+        ],
+        "table_id": "T2178",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Syncope occurs in less than 1% of the population.",
+            "Syncope occurs in less than 7 percentages of the population."
+        ],
+        "table_id": "T2221",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "At most 0.5% of people will need a colonoscopy with tissue biopsies to diagnose Ulcerative colitis.",
+            "At most 5 percentages of people will need a colonoscopy with tissue biopsies to diagnose Ulcerative colitis."
+        ],
+        "table_id": "T2233",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]
