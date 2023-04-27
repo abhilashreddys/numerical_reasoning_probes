@@ -1,0 +1,272 @@
+[
+    {
+        "hypothesis": [
+            "Cory Monteith is born on May 11, 1982",
+            "cory monteith is born on 30/01/1976"
+        ],
+        "table_id": "T491",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cory Monteith is born on May 11, 1982",
+            "cory monteith is born on 05/03/1975"
+        ],
+        "table_id": "T491",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cory Monteith is born on May 11, 1982",
+            "cory monteith is born on 01/11/1971"
+        ],
+        "table_id": "T491",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cory Monteith is born on May 11, 1982",
+            "cory monteith is born on 15/07/2003"
+        ],
+        "table_id": "T491",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cory Monteith is born on May 11, 1982",
+            "cory monteith is born on 13-12-1986"
+        ],
+        "table_id": "T491",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cory Monteith is born on May 11, 1982",
+            "cory monteith is born on 03-08-2008"
+        ],
+        "table_id": "T491",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cory Monteith is born on May 11, 1982",
+            "cory monteith is born on 05.04.1979"
+        ],
+        "table_id": "T491",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cory Monteith is born on May 11, 1982",
+            "cory monteith is born on 1987/02/12"
+        ],
+        "table_id": "T491",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cory Monteith is born on May 11, 1982",
+            "cory monteith is born on 1971/02/22"
+        ],
+        "table_id": "T491",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Cory Monteith is born on May 11, 1982",
+            "cory monteith is born on 20-05-1973"
+        ],
+        "table_id": "T491",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ciara Princess Harris born on  October 25, 1985 at  Austin, Texas, U.S.",
+            "ciara princess harris born on 09-08-2018 at austin, texas, u.s."
+        ],
+        "table_id": "T596",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ciara Princess Harris born on  October 25, 1985 at  Austin, Texas, U.S.",
+            "ciara princess harris born on 10-02-2019 at austin, texas, u.s."
+        ],
+        "table_id": "T596",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ciara Princess Harris born on  October 25, 1985 at  Austin, Texas, U.S.",
+            "ciara princess harris born on 14-11-1993 at austin, texas, u.s."
+        ],
+        "table_id": "T596",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ciara Princess Harris born on  October 25, 1985 at  Austin, Texas, U.S.",
+            "ciara princess harris born on 03-09-2019 at austin, texas, u.s."
+        ],
+        "table_id": "T596",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ciara Princess Harris born on  October 25, 1985 at  Austin, Texas, U.S.",
+            "ciara princess harris born on 14.05.1992 at austin, texas, u.s."
+        ],
+        "table_id": "T596",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ciara Princess Harris born on  October 25, 1985 at  Austin, Texas, U.S.",
+            "ciara princess harris born on 2013/08/11 at austin, texas, u.s."
+        ],
+        "table_id": "T596",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Ciara Princess Harris born on  October 25, 1985 at  Austin, Texas, U.S.",
+            "ciara princess harris born on 22-08-1994 at austin, texas, u.s."
+        ],
+        "table_id": "T596",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.",
+            "birth name of brandon flowers is brandon richard flowers and he was born on 05-12-1988 ."
+        ],
+        "table_id": "T1267",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.",
+            "birth name of brandon flowers is brandon richard flowers and he was born on 10/02/1980 ."
+        ],
+        "table_id": "T1267",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.",
+            "birth name of brandon flowers is brandon richard flowers and he was born on 05/02/2019 ."
+        ],
+        "table_id": "T1267",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.",
+            "birth name of brandon flowers is brandon richard flowers and he was born on 1992/09/20 ."
+        ],
+        "table_id": "T1267",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.",
+            "birth name of brandon flowers is brandon richard flowers and he was born on 25/11/2016 ."
+        ],
+        "table_id": "T1267",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.",
+            "birth name of brandon flowers is brandon richard flowers and he was born on 02/08/1982 ."
+        ],
+        "table_id": "T1267",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.",
+            "birth name of brandon flowers is brandon richard flowers and he was born on 1972/04/05 ."
+        ],
+        "table_id": "T1267",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.",
+            "birth name of brandon flowers is brandon richard flowers and he was born on 24.07.2011 ."
+        ],
+        "table_id": "T1267",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.",
+            "birth name of brandon flowers is brandon richard flowers and he was born on 04-01-2014 ."
+        ],
+        "table_id": "T1267",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.",
+            "birth name of brandon flowers is brandon richard flowers and he was born on 28-11-2004 ."
+        ],
+        "table_id": "T1267",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

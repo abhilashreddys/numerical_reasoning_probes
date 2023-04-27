@@ -1,0 +1,142 @@
+[
+    {
+        "hypothesis": [
+            "Johannes Gutenberg was born on February 3, 1468.",
+            "johannes gutenberg was born on 03-02-1468."
+        ],
+        "table_id": "T329",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johannes Gutenberg was born on February 3, 1468.",
+            "johannes gutenberg was born on 03/02/1468."
+        ],
+        "table_id": "T329",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johannes Gutenberg was born on February 3, 1468.",
+            "johannes gutenberg was born on 03.02.1468."
+        ],
+        "table_id": "T329",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Johannes Gutenberg was born on February 3, 1468.",
+            "johannes gutenberg was born on 1468/02/03."
+        ],
+        "table_id": "T329",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jeff Buckley is died in May 29, 1997",
+            "jeff buckley is died in 1997/05/29"
+        ],
+        "table_id": "T355",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jeff Buckley is died in May 29, 1997",
+            "jeff buckley is died in 29-05-1997"
+        ],
+        "table_id": "T355",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jeff Buckley is died in May 29, 1997",
+            "jeff buckley is died in 29.05.1997"
+        ],
+        "table_id": "T355",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charles Sumner Tainter was born on April 25, 1854 in San Diego, California, U.S.",
+            "charles sumner tainter was born on 25.04.1854 in san diego, california, u.s."
+        ],
+        "table_id": "T1151",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charles Sumner Tainter was born on April 25, 1854 in San Diego, California, U.S.",
+            "charles sumner tainter was born on 25-04-1854 in san diego, california, u.s."
+        ],
+        "table_id": "T1151",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charles Sumner Tainter was born on April 25, 1854 in San Diego, California, U.S.",
+            "charles sumner tainter was born on 25/04/1854 in san diego, california, u.s."
+        ],
+        "table_id": "T1151",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The production of Inside Out concluded in May 2015.",
+            "the production of inside out concluded in 05-2015."
+        ],
+        "table_id": "T1775",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The production of Inside Out concluded in May 2015.",
+            "the production of inside out concluded in 2015/05."
+        ],
+        "table_id": "T1775",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The production of Inside Out concluded in May 2015.",
+            "the production of inside out concluded in 05.2015."
+        ],
+        "table_id": "T1775",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The production of Inside Out concluded in May 2015.",
+            "the production of inside out concluded in 05/2015."
+        ],
+        "table_id": "T1775",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    }
+]

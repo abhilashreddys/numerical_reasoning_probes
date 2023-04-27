@@ -1,0 +1,3412 @@
+[
+    {
+        "hypothesis": [
+            "John Paul Getty III died on February 5, 2011 (aged 54)",
+            "john paul getty iii died on 2011/02/05 (aged 54)"
+        ],
+        "table_id": "T34",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Flying Microtonal Banana was released on February 24, 2017",
+            "flying microtonal banana was released on 2017/02/24"
+        ],
+        "table_id": "T69",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The February 2009 storm struck Scotland with the most snow in total.",
+            "the 02-2009 storm struck scotland with the most snow in total."
+        ],
+        "table_id": "T70",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The February 2009 Great Britain and Ireland snowfall wound up killing more than one person.",
+            "the 2009/02 great britain and ireland snowfall wound up killing more than one person."
+        ],
+        "table_id": "T70",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The February 2009 Great Britain and Ireland snowfall cost more than 5 billion pounds.",
+            "the 02/2009 great britain and ireland snowfall cost more than 5 billion pounds."
+        ],
+        "table_id": "T70",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jawaharlal Nehru had a heart attack on May 27, 1964.",
+            "jawaharlal nehru had a heart attack on 1964/05/27."
+        ],
+        "table_id": "T155",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Phillips played a concert in Los Angeles in May, 1980.",
+            "john phillips played a concert in los angeles in 1980/05/18."
+        ],
+        "table_id": "T180",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Keith Farrelle Cozart was born on August 15, 1995.",
+            "keith farrelle cozart was born on 1995/08/15."
+        ],
+        "table_id": "T199",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Men's cycling road race at the Games of the XXXI Olympiad conducted at Fort Copacabana on 6 August 2016",
+            "men's cycling road race at the games of the xxxi olympiad conducted at fort copacabana on 06-08-2016"
+        ],
+        "table_id": "T267",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sophia Jansdochter Goltzius is died on 7 November 1633",
+            "sophia jansdochter goltzius is died on 07-11-1633"
+        ],
+        "table_id": "T276",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The debut album was released on July 5th, 1993.",
+            "the debut album was released on 05-07-1993."
+        ],
+        "table_id": "T307",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "By the Way released on July 9, 2002, belongs to Alternate rock and funk rock genre.",
+            "by the way released on 2002/07/09, belongs to alternate rock and funk rock genre."
+        ],
+        "table_id": "T326",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Face Value was recorded between June 1980\u00d0January 1981 and released the 13 February 1981.",
+            "face value was recorded between 06/1980 \u00f0   1981/02  and released the 13-02-1981."
+        ],
+        "table_id": "T369",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jack Ma is a Chinese politician, business magnate, investor and philanthropist. He is the ... (1964-09-10) 10 September 1964 (age 54) ... Ma was born on 10 September 1964 in Hangzhou, Zhejiang, China. ... a young age by conversing with English-speakers at Hangzhou international hotel. .... \"Jack Ma \u00d1 born Ma Yun \u00d1\".",
+            "jack ma is a chinese politician, business magnate, investor and philanthropist. he is the ... ( 10/09/1964 )  10/09/1964  (age 54) ... ma was born on 1964/09/10 in hangzhou, zhejiang, china. ... a young age by conversing with english-speakers at hangzhou international hotel. .... \"jack ma \u00f1 born ma yun \u00f1\"."
+        ],
+        "table_id": "T374",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jack Ma (born Ma Yun, Chinese: __; [m\u02c6 __n]; born 10 September 1964) is a Chinese politician, business magnate, investor and philanthropist. He is the co-founder and executive chairman of the Alibaba Group, a multinational technology conglomerate.",
+            "jack ma (born ma yun, chinese: __; [m\u02c6 __n]; born 1964/09/10 ) is a chinese politician, business magnate, investor and philanthropist. he is the co-founder and executive chairman of the alibaba group, a multinational technology conglomerate."
+        ],
+        "table_id": "T374",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Insomniac pop punk is released on October 10, 1995 and produced by Rob Cavallo and Green Day",
+            "insomniac pop punk is released on 10.10.1995 and produced by rob cavallo and green day"
+        ],
+        "table_id": "T1778",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Insomniac is recorded at Hyde Street Studios, San Francisco, California from Dec 1994 to May 1995",
+            "insomniac is recorded at hyde street studios, san francisco, california from 12/1994 to  05-1995"
+        ],
+        "table_id": "T1778",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "'Chinatown' was released by Paramount Pictures on June 20, 1974.",
+            "'chinatown' was released by paramount pictures on 20-06-1974."
+        ],
+        "table_id": "T449",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The film Chittagong was released worldwide on 12 October 2012.",
+            "the film chittagong was released worldwide on 2012/10/12."
+        ],
+        "table_id": "T455",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Coraline was released worldwide on February 6, 2009.",
+            "coraline was released worldwide on 06/02/2009."
+        ],
+        "table_id": "T472",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "An actor born June 13, 1981, does not have any siblings.",
+            "an actor born 13-06-1981, does not have any siblings."
+        ],
+        "table_id": "T477",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Daniel Coulter Reynolds is born on July 14, 1987",
+            "daniel coulter reynolds is born on 14.07.1987"
+        ],
+        "table_id": "T484",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David John Franco is born on June 12, 1985",
+            "david john franco is born on 12-06-1985"
+        ],
+        "table_id": "T487",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cl\u017dment Ader is born on 2 April 1841",
+            "cl\u017ement ader is born on 02-04-1841"
+        ],
+        "table_id": "T494",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cl\u017dment Ader is born on 3 May 1925",
+            "cl\u017ement ader is born on 03-05-1925"
+        ],
+        "table_id": "T494",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "EUR 2.870.310 (2. Oct 2011) is its highest earning",
+            "eur 2.870.310 (2. 18.10.2011 ) is its highest earning"
+        ],
+        "table_id": "T495",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Daniel Edward Aykroyd is born on July 1, 1952",
+            "daniel edward aykroyd is born on 01.07.1952"
+        ],
+        "table_id": "T499",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David Robert Joseph Beckham is born on 2 May 1975",
+            "david robert joseph beckham is born on 02/05/1975"
+        ],
+        "table_id": "T517",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Churchill foaled first time on 31 January 2014",
+            "churchill foaled first time on 2014/01/31"
+        ],
+        "table_id": "T521",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cobie Smulders is an Actress, model born on April 3, 1982.",
+            "cobie smulders is an actress, model born on 1982/04/03."
+        ],
+        "table_id": "T530",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Taran Killam is born on  April 3, 1982.",
+            "taran killam is born on 03/04/1982."
+        ],
+        "table_id": "T530",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Claude Chappe is born on  25 December 1763",
+            "claude chappe is born on  25/12/1763"
+        ],
+        "table_id": "T539",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dave Navarro is born on June 7, 1967",
+            "dave navarro is born on 07.06.1967"
+        ],
+        "table_id": "T553",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Darren Criss is born on February 5, 1987",
+            "darren criss is born on 1987/02/05"
+        ],
+        "table_id": "T555",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "January 18, 2008 was the initial release date",
+            "18/01/2008 was the initial release date"
+        ],
+        "table_id": "T556",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dakota Johnson is born on October 4, 1989",
+            "dakota johnson is born on 04-10-1989"
+        ],
+        "table_id": "T559",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Creme Puff is born on August 3, 1967",
+            "creme puff is born on 03-08-1967"
+        ],
+        "table_id": "T560",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Creme Puff is born on August 6, 2005",
+            "creme puff is born on 2005/08/06"
+        ],
+        "table_id": "T560",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Danny Elfman is born on May 29, 1953",
+            "danny elfman is born on 29.05.1953"
+        ],
+        "table_id": "T564",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Davao City is Highly Urbanized City on December 22, 1979 in Philippines",
+            "davao city is highly urbanized city on 1979/12/22 in philippines"
+        ],
+        "table_id": "T566",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Demon Days was released on 11 May 2005",
+            "demon days was released on 11.05.2005"
+        ],
+        "table_id": "T587",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "it was released all over the world in April 2, 2010",
+            "it was released all over the world in 2010/04/02"
+        ],
+        "table_id": "T590",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Climate Change is released on March 17, 2017",
+            "climate change is released on 2017/03/17"
+        ],
+        "table_id": "T592",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Climate Change is recorded on March 17, 2017",
+            "climate change is recorded on 17.03.2017"
+        ],
+        "table_id": "T592",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Desi Arnaz is born on March 2, 1917",
+            "desi arnaz is born on 02.03.1917"
+        ],
+        "table_id": "T607",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Damn is released on April 14, 2017",
+            "damn is released on 14.04.2017"
+        ],
+        "table_id": "T612",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Darkness on the Edge of Town is released on June 2, 1978",
+            "darkness on the edge of town is released on 02.06.1978"
+        ],
+        "table_id": "T614",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Clueless is released only in united states on July 19, 1995",
+            "clueless is released only in united states on 19.07.1995"
+        ],
+        "table_id": "T626",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It was released on July 30, 1972 all over the world",
+            "it was released on 1972/07/30 all over the world"
+        ],
+        "table_id": "T627",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dan Brandon Bilzerian is born on December 7, 1980",
+            "dan brandon bilzerian is born on 07.12.1980"
+        ],
+        "table_id": "T629",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Clive Marles Sinclair is born on 30 July 1940",
+            "clive marles sinclair is born on 30/07/1940"
+        ],
+        "table_id": "T630",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dan Cooper is published by Le Lombard, Fleurus, Novedi, Dargaud on 25 November 1954",
+            "dan cooper is published by le lombard, fleurus, novedi, dargaud on 25/11/1954"
+        ],
+        "table_id": "T633",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Republic of Costa Rica Recognized by Spain on 10 May 1850",
+            "republic of costa rica recognized by spain on 10-05-1850"
+        ],
+        "table_id": "T635",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Republic of Costa Rica Constitution approved on 7 November 1949",
+            "republic of costa rica constitution approved on 07.11.1949"
+        ],
+        "table_id": "T635",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Republic of Costa Rica Recognized by Spain on 7 November 1949",
+            "republic of costa rica recognized by spain on 1949/11/07"
+        ],
+        "table_id": "T635",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Darren Aronofsky is born in February 12, 1969",
+            "darren aronofsky is born in 12/02/1969"
+        ],
+        "table_id": "T641",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Daniel Jonathan Stevens is an Actor born on 10 October 1982",
+            "daniel jonathan stevens is an actor born on 1982/10/10"
+        ],
+        "table_id": "T644",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dave Morin is born on October 14, 1980 at Helena, Montana, U.S.",
+            "dave morin is born on 14-10-1980 at helena, montana, u.s."
+        ],
+        "table_id": "T655",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Diego Fernando was born before may 20 1506.",
+            "diego fernando was born before 1506/05/20."
+        ],
+        "table_id": "T670",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Christopher Latham Sholes is born on  February 14, 1819",
+            "christopher latham sholes is born on 1819/02/14"
+        ],
+        "table_id": "T674",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Demi Moore is born on November 11, 1962",
+            "demi moore is born on 11-11-1962"
+        ],
+        "table_id": "T675",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Denzel Hayes Washington Jr. is born on  December 28, 1954",
+            "denzel hayes washington jr. is born on 28/12/1954"
+        ],
+        "table_id": "T677",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Destroyer is released on March 15, 1976",
+            "destroyer is released on 15.03.1976"
+        ],
+        "table_id": "T679",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Countdown to Extinction was released on July 14, 1992, through Capitol Records",
+            "countdown to extinction was released on 14.07.1992, through capitol records"
+        ],
+        "table_id": "T682",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dave Mustaine is born on September 13, 1961",
+            "dave mustaine is born on 13.09.1961"
+        ],
+        "table_id": "T686",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "William Daniel Hillis born on September 25, 1956",
+            "william daniel hillis born on 25-09-1956"
+        ],
+        "table_id": "T690",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David Lance Arneson is born on October 1, 1947",
+            "david lance arneson is born on 01/10/1947"
+        ],
+        "table_id": "T692",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Frankie Ann Morneau is died on October 1, 1947",
+            "frankie ann morneau is died on 1947/10/01"
+        ],
+        "table_id": "T692",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dan Borislow is born on  September 21, 1961",
+            "dan borislow is born on 1961/09/21"
+        ],
+        "table_id": "T694",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Crack the Skye is released on March 24, 2009",
+            "crack the skye is released on 24.03.2009"
+        ],
+        "table_id": "T699",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Crack the Skye is directed from April to September 2008",
+            "crack the skye is directed from april to 2008/09/18"
+        ],
+        "table_id": "T699",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cowboys from Hell is released on July 24, 1990",
+            "cowboys from hell is released on 1990/07/24"
+        ],
+        "table_id": "T700",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Desperado is released on April 17, 1973",
+            "desperado is released on 1973/04/17"
+        ],
+        "table_id": "T703",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dennis Wilson is born on December 4, 1944",
+            "dennis wilson is born on 1944/12/04"
+        ],
+        "table_id": "T704",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charles II died on February 14, 1685 at Whitehall Palace, London.",
+            "charles ii died on 14.02.1685 at whitehall palace, london."
+        ],
+        "table_id": "T888",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Men's super heavyweight boxing at the Games of the XXXI Olympiad was an event that last 13 days in August 2016.",
+            "the men's super heavyweight boxing at the games of the xxxi olympiad was an event that last 13 days in 18/08/2016."
+        ],
+        "table_id": "T1003",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Men's super heavyweight boxing was held in the Riocentro-Pavilion 6 in August 2016.",
+            "men's super heavyweight boxing was held in the riocentro-pavilion 6 in 2016/08/18."
+        ],
+        "table_id": "T1003",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "British Steel was released on April 14th, 1980.",
+            "british steel was released on 14/04/1980."
+        ],
+        "table_id": "T1231",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "movie released on December 13, 2017 (Regency Village Theater) or on December 22, 2017 (United States)",
+            "movie released on 13/12/2017 (regency village theater) or on 2017/12/22 (united states)"
+        ],
+        "table_id": "T1036",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chechen Republic of Ichkeria became a government-in-exile in May 2000.",
+            "chechen republic of ichkeria became a government-in-exile in 2000/05/18."
+        ],
+        "table_id": "T1070",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Publication date of Symbol Bulletin is january 2007 or may 2007",
+            "publication date of symbol bulletin is  2007/01/18 or 2007/05/18"
+        ],
+        "table_id": "T1075",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bryan Cranston was born in early March, 1956.",
+            "bryan cranston was born in early 18.03.1956."
+        ],
+        "table_id": "T1113",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bryan Cranston was born on March 7, 1956 in Hollywood, California, U.S. made his debut in 1980.",
+            "bryan cranston was born on 1956/03/07 in hollywood, california, u.s. made his debut in 1980."
+        ],
+        "table_id": "T1113",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Album \"Bringing It All Back Home\" was released on March 22, 1965 having a length of 47:21.",
+            "album \"bringing it all back home\" was released on 1965/03/22 having a length of 47:21."
+        ],
+        "table_id": "T1115",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "HMCS Warrior was built by Harland and Wolff and was commissioned on 2 April 1945 and decommissioned on 23 March 1948 Royal Canadian Navy.",
+            "hmcs warrior was built by harland and wolff and was commissioned on  02-04-1945 and decommissioned on 1948/03/23 royal canadian navy."
+        ],
+        "table_id": "T1116",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Epilepsy Outlook is a charitable organization and Support group founded in July 1, 1987 by Jill Kitchen.",
+            "epilepsy outlook is a charitable organization and support group founded in 01/07/1987 by jill kitchen."
+        ],
+        "table_id": "T1118",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Viva was launched on 1 December 1993, closed on 31 December 2018 and it was owned by Viacom International Media Networks Europe.",
+            "viva was launched on 1993/12/01, closed on  31-12-2018 and it was owned by viacom international media networks europe."
+        ],
+        "table_id": "T1120",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Brave New World was the first heavy metal album released in may 2000.",
+            "brave new world was the first heavy metal album released in 18.05.2000."
+        ],
+        "table_id": "T1124",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sir Charles Wheatstone was born on 6 February 1802 in Barnwood, Gloucestershire, England and died on 19 October 1875 in Paris, France.",
+            "sir charles wheatstone was born on 06/02/1802 in barnwood, gloucestershire, england and died on  1875/10/19 in paris, france."
+        ],
+        "table_id": "T1125",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Britney Jean is a music album released on November 29, 2013 and recorded during May\u00d0October 2013.",
+            "britney jean is a music album released on 2013/11/29 and recorded during may\u00f0  2013/10/18."
+        ],
+        "table_id": "T1128",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Boeing 777 was made by the company that introduced it on June 7, 1995.",
+            "the boeing 777 was made by the company that introduced it on 07-06-1995."
+        ],
+        "table_id": "T1130",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chicago was recorder in August 1969 and released in January 26, 1970.",
+            "chicago was recorder in 18/08/1969 and released in  26.01.1970."
+        ],
+        "table_id": "T1136",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carmen Ejogo was born on 22 October 1973 in Kensington, London, England.",
+            "carmen ejogo was born on 1973/10/22 in kensington, london, england."
+        ],
+        "table_id": "T1137",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charlotte Lucy Gainsbourg is a British-French actress and singer born on 21 July 1971 in London, England.",
+            "charlotte lucy gainsbourg is a british-french actress and singer born on 1971/07/21 in london, england."
+        ],
+        "table_id": "T1138",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Statue of Liberty is located in Liberty Island Manhattan, New York City, New York, U.S. and dedicated on October 28, 1886.",
+            "statue of liberty is located in liberty island manhattan, new york city, new york, u.s. and dedicated on 1886/10/28."
+        ],
+        "table_id": "T1143",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "By the Way was released on July 9, 2002 under the label Warner Bros.",
+            "by the way was released on 09.07.2002 under the label warner bros."
+        ],
+        "table_id": "T1157",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The album \"Brand New Eyes\" was recorded by Lightning Sound Studios, Hidden Hills, California in September, 2009.",
+            "the album \"brand new eyes\" was recorded by lightning sound studios, hidden hills, california in 18/09/2009."
+        ],
+        "table_id": "T1161",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Burt Reynolds was an American actor, director and producer born on February 11, 1936 in Lansing, Michigan, U.S.",
+            "burt reynolds was an american actor, director and producer born on 11/02/1936 in lansing, michigan, u.s."
+        ],
+        "table_id": "T1163",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Burt Reynolds died on September 7, 2018 in Lansing, Michigan, U.S.",
+            "burt reynolds died on 2018/09/07 in lansing, michigan, u.s."
+        ],
+        "table_id": "T1163",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bruce Frederick Joseph Springsteen was born on September 23, 1949 in Long Branch, New Jersey, U.S.",
+            "bruce frederick joseph springsteen was born on 23-09-1949 in long branch, new jersey, u.s."
+        ],
+        "table_id": "T1167",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Camelot is a British-bred race horse foaled on 15 March 2009.",
+            "camelot is a british-bred race horse foaled on 15.03.2009."
+        ],
+        "table_id": "T1170",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ilyushin Il-96's first flight was on 28 September 1990 and its unit cost is US$ 60\u00d070 million",
+            "ilyushin il-96's first flight was on 1990/09/28 and its unit cost is us$ 60\u00f070 million"
+        ],
+        "table_id": "T1172",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charles Macintosh was born on 29 December 1766 in Glasgow, Scotland.",
+            "charles macintosh was born on 29/12/1766 in glasgow, scotland."
+        ],
+        "table_id": "T1191",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Caleb Casey McGuire Affleck-Boldt was born on August 12, 1975, in Falmouth, Massachusetts, U.S.",
+            "caleb casey mcguire affleck-boldt was born on 12-08-1975, in falmouth, massachusetts, u.s."
+        ],
+        "table_id": "T1201",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carrie Underwood was born on March 10, 1983 and her birth name was Carrie Marie Underwood.",
+            "carrie underwood was born on 10-03-1983 and her birth name was carrie marie underwood."
+        ],
+        "table_id": "T1202",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Manufacturer of 328JET is Fairchild Dornier and its first flight was on 20 January 1998.",
+            "manufacturer of 328jet is fairchild dornier and its first flight was on 20.01.1998."
+        ],
+        "table_id": "T1204",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cheryl Ann Tweedy was born on 30 June 1983 in Tyne and Wear, England.",
+            "cheryl ann tweedy was born on 30.06.1983 in tyne and wear, england."
+        ],
+        "table_id": "T1208",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Album \"Channel Orange\" was released on July 10, 2012 while it was recorded in 2011?012.",
+            "album \"channel orange\" was released on 10-07-2012 while it was recorded in 2011?012."
+        ],
+        "table_id": "T1209",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charles Augustus Lindbergh was born on February 4, 1902 in Detroit, Michigan, U.S. and deceased on August 26, 1974.",
+            "charles augustus lindbergh was born on  04.02.1902 in detroit, michigan, u.s. and deceased on 26-08-1974."
+        ],
+        "table_id": "T1210",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Byun Baek-hyun is a South Korean singer, actor and model born on May 6, 1992 in Wonmi-gu, Bucheon, South Korea.",
+            "byun baek-hyun is a south korean singer, actor and model born on 1992/05/06 in wonmi-gu, bucheon, south korea."
+        ],
+        "table_id": "T1217",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "HMAS Sydney was launched on 19 April 1943 and commissioned on  30 September 1944.",
+            "hmas sydney was launched on 1943/04/19 and commissioned on  30/09/1944."
+        ],
+        "table_id": "T1222",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl Wilhelm Freund Walther was born on November 22, 1858 and died on July 9, 1915.",
+            "carl wilhelm freund walther was born on 1858/11/22 and died on 1915/07/09."
+        ],
+        "table_id": "T1234",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Californication was released on June 8, 1999 and is labelled under Warner Bros.",
+            "californication was released on 08-06-1999 and is labelled under warner bros."
+        ],
+        "table_id": "T1235",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Yvette Marie Stevens also known as Chaka Khan was born on March 23, 1953 in Chicago, Illinois, U.S.",
+            "yvette marie stevens also known as chaka khan was born on 23/03/1953 in chicago, illinois, u.s."
+        ],
+        "table_id": "T1238",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carrie Frances Fisher was born on October 21, 1956 in Burbank, California, U.S. and died on December 27, 2016.",
+            "carrie frances fisher was born on  21-10-1956 in burbank, california, u.s. and died on 27-12-2016."
+        ],
+        "table_id": "T1240",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Caitlyn Jenner was born on October 28, 1949 in Mount Kisco, New York, U.S.",
+            "caitlyn jenner was born on 28-10-1949 in mount kisco, new york, u.s."
+        ],
+        "table_id": "T1242",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sir Charles Algernon Parsons was born on 13 June, 1854 in London, England, United Kingdom  and died on 11 February 1931 in Kingston Harbour, Jamaica.",
+            "sir charles algernon parsons was born on  13-06-1854 in london, england, united kingdom and died on 1931/02/11 in kingston harbour, jamaica."
+        ],
+        "table_id": "T1250",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charles Francis Jenkins was born on August 22, 1867 in Dayton, Ohio and died on June 6, 1934 in Washington, D.C.",
+            "charles francis jenkins was born on 1867/08/22 in dayton, ohio and died on 06/06/1934 in washington, d.c."
+        ],
+        "table_id": "T1252",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chesney Henry Baker was born on December 23, 1929 in Yale, Oklahoma, United States and died on May 13, 1988 at the age of 58.",
+            "chesney henry baker was born on  1988/05/13  in yale, oklahoma, united states and died on 13.05.1988 at the age of 58."
+        ],
+        "table_id": "T1253",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Calum Scott was born on 12 October 1988 in Kingston upon Hull, England, UK.",
+            "calum scott was born on 12-10-1988 in kingston upon hull, england, uk."
+        ],
+        "table_id": "T1257",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "California is a music album released on July 1, 2016 and recorded during January?arch 2016.",
+            "california is a music album released on 01.07.2016 and recorded during january?arch 2016."
+        ],
+        "table_id": "T1270",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Britney is a music album released on November 16, 2001 and recorded during February \u00d0 July 2001.",
+            "britney is a music album released on  16-11-2001 and recorded during february \u00f0 2001/07/18."
+        ],
+        "table_id": "T1283",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carice Anouk van Houten was born on 5 September 1976 in Leiderdorp, Netherlands",
+            "carice anouk van houten was born on 05/09/1976 in leiderdorp, netherlands"
+        ],
+        "table_id": "T1291",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charlize Theron was born on 7 August 1975 in Benoni, South Africa.",
+            "charlize theron was born on 07/08/1975 in benoni, south africa."
+        ],
+        "table_id": "T1292",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "HMS Nairana was built by John Brown & Company and it was laid down on 7 November 1941.",
+            "hms nairana was built by john brown & company and it was laid down on 07/11/1941."
+        ],
+        "table_id": "T1293",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ellen Naomi Cohen also known as Cass Elliot was born on September 19, 1941 in Baltimore, Maryland, U.S. and died at the age of 32.",
+            "ellen naomi cohen also known as cass elliot was born on 19/09/1941 in baltimore, maryland, u.s. and died at the age of 32."
+        ],
+        "table_id": "T1296",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The manufacturer of ATR 42 is ATR and its first flight was on 16 August 1984.",
+            "the manufacturer of atr 42 is atr and its first flight was on 16-08-1984."
+        ],
+        "table_id": "T1297",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chicago Transit Authority is a jazz rock album released in April, 1969.",
+            "chicago transit authority is a jazz rock album released in 18.04.1969."
+        ],
+        "table_id": "T1316",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cara Jocelyn Delevingne was born on 12 August 1992 in Hammersmith, London, England.",
+            "cara jocelyn delevingne was born on 12.08.1992 in hammersmith, london, england."
+        ],
+        "table_id": "T1324",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bryan Adams was born on 5 November 1959 in Kingston, Ontario, Canada.",
+            "bryan adams was born on 1959/11/05 in kingston, ontario, canada."
+        ],
+        "table_id": "T1325",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Japan Society of Applied Physics was founded in Tokyo, Japan on October 25, 1949.",
+            "the japan society of applied physics was founded in tokyo, japan on 25-10-1949."
+        ],
+        "table_id": "T1326",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charles Cecil was born on 11 August 1962 in York, England.",
+            "charles cecil was born on 11.08.1962 in york, england."
+        ],
+        "table_id": "T1332",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Brittany Leanna Robertson is an American actress born on April 18, 1990, in Charlotte, North Carolina, U.S.",
+            "brittany leanna robertson is an american actress born on 18/04/1990, in charlotte, north carolina, u.s."
+        ],
+        "table_id": "T1335",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chester Floyd Carlson was born on February 8, 1906 in Seattle, Washington, United States and died on September 19, 1968 in New York City, United States.",
+            "chester floyd carlson was born on  08/02/1906 in seattle, washington, united states and died on 19/09/1968 in new york city, united states."
+        ],
+        "table_id": "T1341",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Brendon Urie was born on April 12, 1987, in St. George, Utah, U.S.",
+            "brendon urie was born on 12/04/1987, in st. george, utah, u.s."
+        ],
+        "table_id": "T1342",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Channing Tatum is an American actor and he was born on April 26, 1980 in Cullman, Alabama, U.S.",
+            "channing tatum is an american actor and he was born on 26/04/1980 in cullman, alabama, u.s."
+        ],
+        "table_id": "T1350",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Thomas DeCarlo Callaway was born on May 30, 1975 in Atlanta, Georgia, U.S.",
+            "thomas decarlo callaway was born on 30-05-1975 in atlanta, georgia, u.s."
+        ],
+        "table_id": "T1359",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sir Charles William Siemens was born on 4 April 1823 in Gehrden, Germany and died on 19 November 1883.",
+            "sir charles william siemens was born on  04.04.1823 in gehrden, germany and died on 1883/11/19."
+        ],
+        "table_id": "T1360",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bryson Djuan Tiller was born on January 2, 1993 in Louisville, Kentucky, U.S.R&B, hip hop and soul.",
+            "bryson djuan tiller was born on 02.01.1993 in louisville, kentucky, u.s.r&b, hip hop and soul."
+        ],
+        "table_id": "T1362",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charles Hardin Holley was an American musician and singer-songwriter born on September 7, 1936 in Lubbock, Texas, U.S.",
+            "charles hardin holley was an american musician and singer-songwriter born on 07/09/1936 in lubbock, texas, u.s."
+        ],
+        "table_id": "T1364",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charles Hardin Holley died at the age of 23 on February 3, 1960.",
+            "charles hardin holley died at the age of 23 on 03.02.1960."
+        ],
+        "table_id": "T1364",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bruno Mars was born on October 8, 1985.",
+            "bruno mars was born on 08.10.1985."
+        ],
+        "table_id": "T1370",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Northwestern University is a Private research university established on January 28, 1851 and located in Evanston, Illinois, U.S.",
+            "northwestern university is a private research university established on 28/01/1851 and located in evanston, illinois, u.s."
+        ],
+        "table_id": "T1371",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "University of California is a public research university and it was established on March 23, 1868.",
+            "university of california is a public research university and it was established on 23-03-1868."
+        ],
+        "table_id": "T1373",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl August von Steinheil was born on 12 October 1801 in Ribeauvill\u017d, Alsace and died on 14 September 1870 in Munich, Bavaria.",
+            "carl august von steinheil was born on 1801/10/12 in ribeauvill\u017e, alsace and died on 1870/09/14 in munich, bavaria."
+        ],
+        "table_id": "T1388",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Brad Pitt's full name is William Bradley Pitt and he was born on December 18, 1963 in Shawnee, Oklahoma, U.S.",
+            "brad pitt's full name is william bradley pitt and he was born on 18.12.1963 in shawnee, oklahoma, u.s."
+        ],
+        "table_id": "T1389",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "North Carolina State University was established on March 7, 1887 and is located in  Raleigh, North Carolina, United States.",
+            "north carolina state university was established on 07.03.1887 and is located in raleigh, north carolina, united states."
+        ],
+        "table_id": "T1397",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charlie Puth was born on December 2, 1991 in Rumson, New Jersey, U.S.",
+            "charlie puth was born on 1991/12/02 in rumson, new jersey, u.s."
+        ],
+        "table_id": "T1398",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Castletown died on 17 December 2018 (aged 32).",
+            "castletown died on 17/12/2018 (aged 32)."
+        ],
+        "table_id": "T1399",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Julio Iglesias was born on September 23, 1943 in Madrid, Spain.",
+            "julio iglesias was born on 23-09-1943 in madrid, spain."
+        ],
+        "table_id": "T1470",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John McCain died on August 25, 2018 of a glioblastoma.",
+            "john mccain died on 25-08-2018 of a glioblastoma."
+        ],
+        "table_id": "T1476",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jessica Simpson was born in Los Angeles, California on July 11 1978.",
+            "jessica simpson was born in los angeles, california on 11.07.1978."
+        ],
+        "table_id": "T1509",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Dopyera was born on July 6, 1893 in _a_t\u2019n-Str\u2021_e, Austro-Hungarian Empire.",
+            "john dopyera was born on 06.07.1893 in _a_t\u2019n-str\u2021_e, austro-hungarian empire."
+        ],
+        "table_id": "T1538",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Dopyera died on Jan 3, 1988 in Grants Pass, Oregon in the USA.",
+            "john dopyera died on 03/01/1988 in grants pass, oregon in the usa."
+        ],
+        "table_id": "T1538",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Katy Hudson was recorded in  Nashville before February 2001.",
+            "katy hudson was recorded in nashville before 18/02/2001."
+        ],
+        "table_id": "T1547",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Robert O. Work was appointed to Deputy for Jim Mattis in January 2017.",
+            "robert o. work was appointed to deputy for jim mattis in 18-01-2017."
+        ],
+        "table_id": "T1587",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Patrick M. Shanahan succeeded Jim Mattis in November 2018.",
+            "patrick m. shanahan succeeded jim mattis in 18-11-2018."
+        ],
+        "table_id": "T1587",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Joaqu\u2019n Guzm\u2021n was never captured after his July 2015 escape.",
+            "joaqu\u2019n guzm\u2021n was never captured after his 18-07-2015 escape."
+        ],
+        "table_id": "T1596",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jeremy Corbyn assumed office on September 12, 20005.",
+            "jeremy corbyn assumed office on 12/09/2000 5."
+        ],
+        "table_id": "T1658",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Harriet Harman left office prior to September 12 2015",
+            "harriet harman left office prior to 2015/09/12"
+        ],
+        "table_id": "T1658",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Justin Trudeau assumed office on April 14, 2013.",
+            "justin trudeau assumed office on 14.04.2013."
+        ],
+        "table_id": "T1724",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Kerry began serving in office after February 1, 2013.",
+            "john kerry began serving in office after 01/02/2013."
+        ],
+        "table_id": "T1767",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "John Negroponte was appointed deputy to Hillary Clinton in January 2009.",
+            "john negroponte was appointed deputy to hillary clinton in 18/01/2009."
+        ],
+        "table_id": "T1767",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Gay Daniels White was in role from January 19, 1981 to January 11, 1983.",
+            "gay daniels white was in role from 1981/01/19 to 11/01/1983."
+        ],
+        "table_id": "T1782",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "In the Court of the Crimson King was released on 10 October 1969.",
+            "in the court of the crimson king was released on 1969/10/10."
+        ],
+        "table_id": "T1803",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "I Decided' is a studio album released on February 3, 2017 by labels - Def Jam and GOOD.",
+            "i decided' is a studio album released on 03/02/2017 by labels - def jam and good."
+        ],
+        "table_id": "T1871",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The album In Your Honor was released March 2005.",
+            "the album in your honor was released 18/03/2005."
+        ],
+        "table_id": "T1879",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hybrid Theory was recorded in North Hollywood, California during the month of April 2000.",
+            "hybrid theory was recorded in north hollywood, california during the month of 18-04-2000."
+        ],
+        "table_id": "T1900",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The bulk of the recording took place in March 2017.",
+            "the bulk of the recording took place in 18/03/2017."
+        ],
+        "table_id": "T1913",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "I Kill Giants has been released once a month since July 2008",
+            "i kill giants has been released once a month since 2008/07/18"
+        ],
+        "table_id": "T1935",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "August 29, 2017 was when Home agian came out",
+            "2017/08/29 was when home agian came out"
+        ],
+        "table_id": "T1990",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It came out on June 25, 1996",
+            "it came out on 25/06/1996"
+        ],
+        "table_id": "T2004",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Happy Perez produced Hopeless Fountain Kingdom starting in August 2017.",
+            "happy perez produced hopeless fountain kingdom starting in 18/08/2017."
+        ],
+        "table_id": "T2017",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "David Bowie was the producer of Hot Space in June 1981",
+            "david bowie was the producer of hot space in 18-06-1981"
+        ],
+        "table_id": "T2031",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hot Space came out 21 May 1982",
+            "hot space came out 21.05.1982"
+        ],
+        "table_id": "T2031",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Men's super heavyweight boxing Date is  1-8 August  2016",
+            "men's super heavyweight boxing date is 1- 2016/08/08"
+        ],
+        "table_id": "T2272",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Men's super heavyweight boxing at the Games of the XXXI Olympiad was held in August 2016 at Riocentro.",
+            "men's super heavyweight boxing at the games of the xxxi olympiad was held in 18-08-2016 at riocentro."
+        ],
+        "table_id": "T2272",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It is introduced in the year 23 March 1926",
+            "it is introduced in the year 23-03-1926"
+        ],
+        "table_id": "T2291",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The whisky was created on 23 March 1923 as a product of Berry Bros.",
+            "the whisky was created on 23-03-1923 as a product of berry bros."
+        ],
+        "table_id": "T2291",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The men's trials were held on August 10, 2016.",
+            "the men's trials were held on 10-08-2016."
+        ],
+        "table_id": "T2293",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Elizabeth I reigned from November 1558 - March 1603.",
+            "elizabeth i reigned from 1558/11/18 - 18.03.1603."
+        ],
+        "table_id": "T2322",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Elizabeth Warren took office November 25, 2008.",
+            "elizabeth warren took office 25.11.2008."
+        ],
+        "table_id": "T2324",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Emmanuel Macron took office in August 2014.",
+            "emmanuel macron took office in 18.08.2014."
+        ],
+        "table_id": "T2327",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Emmanuel Macron took office in September 2014.",
+            "emmanuel macron took office in 18-09-2014."
+        ],
+        "table_id": "T2327",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Emmanuel Marcon worked for Prime Minister Manuel Valls from 26 August 2014 \u2013 30 August 2016.",
+            "emmanuel marcon worked for prime minister manuel valls from 26/08/2014 \u2013 2016/08/30."
+        ],
+        "table_id": "T2327",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "George III's coronation ceremony was on September 22, 1761.",
+            "george iii's coronation ceremony was on 22-09-1761."
+        ],
+        "table_id": "T2354",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "September 22, 1761 was when George III was crowned and when he had a coronation ceremony.",
+            "22.09.1761 was when george iii was crowned and when he had a coronation ceremony."
+        ],
+        "table_id": "T2354",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "George IV (born as George Augustus Frederick on 12 August 1762",
+            "george iv (born as george augustus frederick on 12/08/1762"
+        ],
+        "table_id": "T2355",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "died on 26 June 1830",
+            "died on 26/06/1830"
+        ],
+        "table_id": "T2355",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "he was king of the United Kingdom of Great Britain and Ireland and Hanover from 29 January 1820 until his death.",
+            "he was king of the united kingdom of great britain and ireland and hanover from 1820/01/29 until his death."
+        ],
+        "table_id": "T2355",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "George V reigned from 6 May 1910 \u2013 20 January 1936.",
+            "george v reigned from 1910/05/06 \u2013  20/01/1936."
+        ],
+        "table_id": "T2356",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jeunes filles au piano was drawned in August 14 1892",
+            "jeunes filles au piano was drawned in 14-08-1892"
+        ],
+        "table_id": "T2362",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It was released on 26 March 2001 in the United Kingdom by Parlophone and in the United States by Virgin Records.",
+            "it was released on 26/03/2001 in the united kingdom by parlophone and in the united states by virgin records."
+        ],
+        "table_id": "T2376",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The rhythmic portion of the gymnastic events were held on July 20, 1996.",
+            "the rhythmic portion of the gymnastic events were held on 20/07/1996."
+        ],
+        "table_id": "T2389",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Gymnastic games of the XXVI Olympiad were held in October, 1996.",
+            "the gymnastic games of the xxvi olympiad were held in 1996/10/18."
+        ],
+        "table_id": "T2389",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Gymnastics events at the Olympiad prior to the XXXI Olympiad occurred in August 2012.",
+            "gymnastics events at the olympiad prior to the xxxi olympiad occurred in 18-08-2012."
+        ],
+        "table_id": "T2396",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Women's handball at the XXXI Olympiad too place in August 2016.",
+            "women's handball at the xxxi olympiad too place in 18/08/2016."
+        ],
+        "table_id": "T2409",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Heinrich Himmler died in March 1945.",
+            "heinrich himmler died in 18.03.1945."
+        ],
+        "table_id": "T2424",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Himmler arrived in office on October 7, 1939.",
+            "himmler arrived in office on 07/10/1939."
+        ],
+        "table_id": "T2425",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The office of Reichsf\u00fchrer-SS was established on 7 October 1939.",
+            "the office of reichsf\u00fchrer-ss was established on 07-10-1939."
+        ],
+        "table_id": "T2425",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hern\u00e1n Cort\u00e9s, Marquis of the Valley of Oaxaca, was in office from August 13, 1521 to December 24, 1524.",
+            "hern\u00e1n cort\u00e9s, marquis of the valley of oaxaca, was in office from  1521/08/13 to 24/12/1524."
+        ],
+        "table_id": "T2432",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It was established in December 25 1521.",
+            "it was established in 1521/12/25."
+        ],
+        "table_id": "T2432",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "High Voltage was released  April 30 1976 in Sydney, Australia at Albert Studios.",
+            "high voltage was released 30-04-1976 in sydney, australia at albert studios."
+        ],
+        "table_id": "T2434",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "With over 60% of the votes Jeremy Corbyn took office on June 9, 1983.",
+            "with over 60% of the votes jeremy corbyn took office on 09/06/1983."
+        ],
+        "table_id": "T2458",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Judo at the Games of the XXXI Olympiad took place in August 2016.",
+            "judo at the games of the xxxi olympiad took place in 18/08/2016."
+        ],
+        "table_id": "T2465",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It was established in April 7 1815",
+            "it was established in 07/04/1815"
+        ],
+        "table_id": "T2471",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Vertigo is Released on May 9, 1958",
+            "vertigo is released on 1958/05/09"
+        ],
+        "table_id": "T2472",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Vertigo was released on May 19, 1958",
+            "vertigo was released on 19/05/1958"
+        ],
+        "table_id": "T2472",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Elisabetta Casellati was born on 12 August 1947",
+            "elisabetta casellati was born on 12/08/1947"
+        ],
+        "table_id": "T2473",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Fly Alway With Me Released on March 14, 2008.",
+            "fly alway with me released on 14/03/2008."
+        ],
+        "table_id": "T2475",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Curitiba was founded on 29 March 1693",
+            "curitiba was founded on 29-03-1693"
+        ],
+        "table_id": "T2485",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bicycle Thieves Release date on 25 November 1950 (Italy).",
+            "bicycle thieves release date on 25/11/1950 (italy)."
+        ],
+        "table_id": "T2486",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Movie is released in 14 August 2019",
+            "the movie is released in 14.08.2019"
+        ],
+        "table_id": "T2488",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Barings Bank Defunct on February 26, 1996",
+            "barings bank defunct on 26.02.1996"
+        ],
+        "table_id": "T2490",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Barings Bank was defunct on February 26, 1997",
+            "barings bank was defunct on 26.02.1997"
+        ],
+        "table_id": "T2490",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Abuja Municipality Incorporated on 2 October 1985.",
+            "the abuja municipality incorporated on 02.10.1985."
+        ],
+        "table_id": "T2493",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It is Incorporated in 3 August 1985",
+            "it is incorporated in 03-08-1985"
+        ],
+        "table_id": "T2493",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jaan Kiivit Jr. Born on 19 February 1940 (age 79) Rakvere, Estonia.",
+            "jaan kiivit jr. born on 1940/02/19 (age 79) rakvere, estonia."
+        ],
+        "table_id": "T2494",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jaan Kiivit Jr. Died on 30 August 2006 (aged 64) St Petersburg, Russia.",
+            "jaan kiivit jr. died on 30.08.2006 (aged 64) st petersburg, russia."
+        ],
+        "table_id": "T2494",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jaan Kiivit Jr. was born in 19 February 1940.",
+            "jaan kiivit jr. was born in 1940/02/19."
+        ],
+        "table_id": "T2494",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jaan Kiivit Jr. died in 31 August 2006.",
+            "jaan kiivit jr. died in 31/08/2006."
+        ],
+        "table_id": "T2494",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Jaan Kiivit Jr. Elected in 30 July 1995.",
+            "jaan kiivit jr. elected in 1995/07/30."
+        ],
+        "table_id": "T2494",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Folks!, English movie  was directed by Ted Kotcheff and released in the year May1, 1992.",
+            "folks!, english movie was directed by ted kotcheff and released in the year 01-05-1992."
+        ],
+        "table_id": "T2499",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Unknown Soldier released on  December 1956",
+            "the unknown soldier released on 18-12-1956"
+        ],
+        "table_id": "T2500",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Herbert Quandt Born Herbert Werner Quandt on 22 June 1910 Pritzwalk, Germany.",
+            "herbert quandt born herbert werner quandt on 22-06-1910 pritzwalk, germany."
+        ],
+        "table_id": "T2501",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Herbert Quandt Died on 5 June 1980 Kiel, Germany.",
+            "herbert quandt died on 05-06-1980 kiel, germany."
+        ],
+        "table_id": "T2501",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Herbert Quandt died on 2 June 1982 of natural causes.",
+            "herbert quandt died on 02.06.1982 of natural causes."
+        ],
+        "table_id": "T2501",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Herbert Quandt was Born in 22 June 1910.",
+            "herbert quandt was born in 1910/06/22."
+        ],
+        "table_id": "T2501",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Herbert Quandt was died in 2 June 1987",
+            "herbert quandt was died in 02/06/1987"
+        ],
+        "table_id": "T2501",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Release date of the movie is July 24, 1956",
+            "the release date of the movie is 24/07/1956"
+        ],
+        "table_id": "T2505",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Juan Trippe was died in April 3, 1985",
+            "juan trippe was died in 03/04/1985"
+        ],
+        "table_id": "T2508",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Actua Corporation Founded in March 4, 1994",
+            "actua corporation founded in 04.03.1994"
+        ],
+        "table_id": "T2509",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Actua Corporation is Founded on March 4, 1996; 23 years ago.",
+            "actua corporation is founded on 04-03-1996 ; 23 years ago."
+        ],
+        "table_id": "T2509",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It  Defunct in June 2, 2019.",
+            "it defunct in 02.06.2019."
+        ],
+        "table_id": "T2509",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Masashi Kishimoto, born November 8, 1974 in Japan",
+            "masashi kishimoto, born 08/11/1974 in japan"
+        ],
+        "table_id": "T2510",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Holy Water Big & Rich song was released on September 20, 2005",
+            "holy water big & rich song was released on 2005/09/20"
+        ],
+        "table_id": "T2516",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Holy Water Single by Big & Rich Released on September 20, 2005",
+            "holy water single by big & rich released on 20.09.2005"
+        ],
+        "table_id": "T2516",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Release date is may 2, 1970.",
+            "the release date is 1970/05/02."
+        ],
+        "table_id": "T2524",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Battleship Potemkin is the silent film which was produced by Mosfilm company and released in the year 21 December 1925 at Soviet Union.",
+            "battleship potemkin is the silent film which was produced by mosfilm company and released in the year 21/12/1925 at soviet union."
+        ],
+        "table_id": "T2533",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Battleship Potemkin was released in Soviet Union on December 21, 1925.",
+            "battleship potemkin was released in soviet union on 21.12.1925."
+        ],
+        "table_id": "T2533",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Gosho Aoyama was born in June 21, 1967",
+            "gosho aoyama was born in 21-06-1967"
+        ],
+        "table_id": "T2539",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Annunziata Concetta Costantini was born on 5 December 1897.",
+            "annunziata concetta costantini was born on 05.12.1897."
+        ],
+        "table_id": "T2540",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "A 96 minutes movie Ni Liv was distributed by Louis de Rochemont Associates and released in the year 11 November 1957.",
+            "a 96 minutes movie ni liv was distributed by louis de rochemont associates and released in the year 1957/11/11."
+        ],
+        "table_id": "T2541",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Siegfried Bettmann was born on 18 April 1863",
+            "siegfried bettmann was born on 18.04.1863"
+        ],
+        "table_id": "T2545",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Siegfried Bettmann was died on 23 September 1953",
+            "siegfried bettmann was died on 23-09-1953"
+        ],
+        "table_id": "T2545",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Maynila sa mga Kuko ng Liwanag Release date 16 July 1965",
+            "maynila sa mga kuko ng liwanag release date 16/07/1965"
+        ],
+        "table_id": "T2549",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Telef\u00f4nica Brasil Founded in 13 April 2004 (launched as Vivo brand)",
+            "telef\u00f4nica brasil founded in 13-04-2004 (launched as vivo brand)"
+        ],
+        "table_id": "T2550",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Defunct is  9 January 2017.",
+            "the defunct is  09/01/2017."
+        ],
+        "table_id": "T2555",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "General Romualdo Palacios Gonz\u00e1lez, former Governor-General of Puerto Rico was born in 23 March 1887 and he was Preceded by Luis Daban y Ram\u00edrez de Arellano and Succeeded by Juan Contreras Mart\u00ednez.",
+            "general romualdo palacios gonz\u00e1lez, former governor-general of puerto rico was born in 23.03.1887 and he was preceded by luis daban y ram\u00edrez de arellano and succeeded by juan contreras mart\u00ednez."
+        ],
+        "table_id": "T2557",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "General Romualdo Palacios Gonz\u00e1lez was born on 8 February 1837",
+            "general romualdo palacios gonz\u00e1lez was born on 08.02.1837"
+        ],
+        "table_id": "T2557",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "General Romualdo Palacios Gonz\u00e1lez was died on 10 November 1906",
+            "general romualdo palacios gonz\u00e1lez was died on 1906/11/10"
+        ],
+        "table_id": "T2557",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The release date of Snow Job is May 6 1972.",
+            "the release date of snow job is 06/05/1972."
+        ],
+        "table_id": "T2559",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Movie is released in 15 July 2016",
+            "the movie is released in 2016/07/15"
+        ],
+        "table_id": "T2563",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Redneck Woman Single by Gretchen Wilson Released on March 23, 2005",
+            "redneck woman single by gretchen wilson released on 23.03.2005"
+        ],
+        "table_id": "T2566",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "I'm So Sick was a single by Flyleaf and was recorded in May 2005.",
+            "i'm so sick was a single by flyleaf and was recorded in 2005/05/18."
+        ],
+        "table_id": "T2574",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "I'm So Sick Single by Flyleaf from the album Flyleaf  Released on August 29, 2006.",
+            "i'm so sick single by flyleaf from the album flyleaf released on 2006/08/29."
+        ],
+        "table_id": "T2574",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Shimon Sofer died in March 28, 1883",
+            "shimon sofer died in 1883/03/28"
+        ],
+        "table_id": "T2576",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Rafael Nadal Born 3 June 1988",
+            "rafael nadal born 03/06/1988"
+        ],
+        "table_id": "T2577",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Friday Release date was April 26, 1996",
+            "friday release date was 26.04.1996"
+        ],
+        "table_id": "T2581",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Madman Muntz was born in January 3, 1914.",
+            "madman muntz was born in 1914/01/03."
+        ],
+        "table_id": "T2585",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Madman Muntz was died June 21, 1985.",
+            "madman muntz was died 21/06/1985."
+        ],
+        "table_id": "T2585",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Black Turin's released date is 16 december 1995",
+            "black turin's released date is 1995/12/16"
+        ],
+        "table_id": "T2587",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dennis Ritchie Born on September 9, 1941 Bronxville, New York, U.S.",
+            "dennis ritchie born on 09-09-1941 bronxville, new york, u.s."
+        ],
+        "table_id": "T2588",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dennis Ritchie Died on October 12, 2010",
+            "dennis ritchie died on 12/10/2010"
+        ],
+        "table_id": "T2588",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dennis Ritchie Born on September 9, 1941",
+            "dennis ritchie born on 09/09/1941"
+        ],
+        "table_id": "T2588",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dennis Ritchie Died  October 12, 2012",
+            "dennis ritchie died 12.10.2012"
+        ],
+        "table_id": "T2588",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Time of the Gypsies Release date in Italy  21 December 1989",
+            "time of the gypsies release date in italy  21/12/1989"
+        ],
+        "table_id": "T2590",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Time of the Gypsies Released date 21 December 1989 in (Yugoslavia).",
+            "time of the gypsies released date 21/12/1989 in (yugoslavia)."
+        ],
+        "table_id": "T2590",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "J. J. Thomson was died in 28 August 1940",
+            "j. j. thomson was died in 28.08.1940"
+        ],
+        "table_id": "T2592",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "J. J. Thomson was born in 18 December 1856.",
+            "j. j. thomson was born in 18-12-1856."
+        ],
+        "table_id": "T2592",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "J. J. Thomson was died in 30 August 1950.",
+            "j. j. thomson was died in 30.08.1950."
+        ],
+        "table_id": "T2592",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Yellow Rolls-Royce Release date is 13 may 1945 (US)",
+            "the yellow rolls-royce release date is 13/05/1945 (us)"
+        ],
+        "table_id": "T2602",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hiromu Arakawa is of Japanese descent born in Makubetsu, Japan on May 8 1973.",
+            "hiromu arakawa is of japanese descent born in makubetsu, japan on 08-05-1973."
+        ],
+        "table_id": "T2604",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Maurice Wilkins was born in 15 December 1916.",
+            "maurice wilkins was born in 1916/12/15."
+        ],
+        "table_id": "T2606",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Maurice Wilkins born on 15 December 1916",
+            "maurice wilkins born on 1916/12/15"
+        ],
+        "table_id": "T2606",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Santiago Foundation on 12 February 1542",
+            "santiago foundation on 1542/02/12"
+        ],
+        "table_id": "T2612",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Commitments Released on 7 August 1991 (West Hollywood)",
+            "the commitments released on 07/08/1991 (west hollywood)"
+        ],
+        "table_id": "T2613",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Gregor Mendel is died on 5 january 1880",
+            "gregor mendel is died on 05/01/1880"
+        ],
+        "table_id": "T2614",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Gregor Mendel was Born in 20 July 1822.",
+            "gregor mendel was born in 20/07/1822."
+        ],
+        "table_id": "T2614",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Gregor Mendel was died in 6 January 1890.",
+            "gregor mendel was died in 1890/01/06."
+        ],
+        "table_id": "T2614",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Omar Daniel is an Indonesian based actor, presenter and model was born in Omar Daniel Assegaf 9 April 1995, Surakarta, Central Java, Indonesia",
+            "omar daniel is an indonesian based actor, presenter and model was born in omar daniel assegaf 09-04-1995, surakarta, central java, indonesia"
+        ],
+        "table_id": "T2615",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Omar Daniel Born on 9 April 1994",
+            "omar daniel born on 1994/04/09"
+        ],
+        "table_id": "T2615",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Omar Daniel Born on 9 April 1995",
+            "omar daniel born on 1995/04/09"
+        ],
+        "table_id": "T2615",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "J. Willard Marriott is a founder of Marriott Corporation born on September 17, 1900",
+            "j. willard marriott is a founder of marriott corporation born on 17/09/1900"
+        ],
+        "table_id": "T2616",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "J. Willard Marriott was died on August 13, 1986",
+            "j. willard marriott was died on 13.08.1986"
+        ],
+        "table_id": "T2616",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sunrise Inc. founded in September 1974",
+            "sunrise inc. founded in 18-09-1974"
+        ],
+        "table_id": "T2618",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Come Back to What You Know Single by Embrace Released on 25 May 1996",
+            "come back to what you know single by embrace released on 25/05/1996"
+        ],
+        "table_id": "T2624",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "C.K.Prahalad, a Indian-American professor was born in 8 August 1941 and completed his studies at Loyola College Chennai, IIM Ahmedabad & Harvard Business School",
+            "c.k.prahalad, a indian-american professor was born in 08/08/1941 and completed his studies at loyola college chennai, iim ahmedabad & harvard business school"
+        ],
+        "table_id": "T2626",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ateneh Faghih Nasiri Born on December 14, 1968",
+            "ateneh faghih nasiri born on 14/12/1968"
+        ],
+        "table_id": "T2627",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ateneh Faghih Nasiri died on January 10 1998",
+            "ateneh faghih nasiri died on 10.01.1998"
+        ],
+        "table_id": "T2627",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Machete Kills Released on October 11, 2014 (United States)",
+            "machete kills released on 11.10.2014 (united states)"
+        ],
+        "table_id": "T2634",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It is Released in July 28, 1996.",
+            "it is released in 28.07.1996."
+        ],
+        "table_id": "T2640",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "When I Think of You was released on  July 28, 1986",
+            "when i think of you was released on 1986/07/28"
+        ],
+        "table_id": "T2640",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Airbnb, Inc. Industry was founded on August 2010 in California",
+            "airbnb, inc. industry was founded on 18-08-2010 in california"
+        ],
+        "table_id": "T2642",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Airbnb, Inc. was founded on August 2001.",
+            "airbnb, inc. was founded on 2001/08/18."
+        ],
+        "table_id": "T2642",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chen Hao was Born on  December 9, 1979",
+            "chen hao was born on 09/12/1979"
+        ],
+        "table_id": "T2643",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Anna Maria Alberghetti Born on May 15, 1934",
+            "anna maria alberghetti born on 15-05-1934"
+        ],
+        "table_id": "T2646",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Suntory Beverage & Food Limited Founded on 23 May 1899",
+            "suntory beverage & food limited founded on 23/05/1899"
+        ],
+        "table_id": "T2652",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Danilo Astori was born in April 23, 1952.",
+            "danilo astori was born in 23/04/1952."
+        ],
+        "table_id": "T2653",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The working period is June 4, 2010 \u2013 August 5, 2016",
+            "the working period is 04.06.2010 \u2013  05-08-2016"
+        ],
+        "table_id": "T2653",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Leo Kahn was died in June 12 2016.",
+            "leo kahn was died in 2016/06/12."
+        ],
+        "table_id": "T2654",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Rowan Douglas Williams bishop was born on 14 June 1950",
+            "rowan douglas williams bishop was born on 14/06/1950"
+        ],
+        "table_id": "T2663",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Rowan Douglas Williams was elected in 2 December 2003",
+            "rowan douglas williams was elected in 2003/12/02"
+        ],
+        "table_id": "T2663",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Rowan Douglas Williams Consecration was occurred on 2 June 1995",
+            "rowan douglas williams consecration was occurred on 02.06.1995"
+        ],
+        "table_id": "T2663",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Moaning Lisa Smile is from the album Creature Songs and My Love Is Cool was released in the year 3 April 2014 that belongs to Indie rock, alternative rock and grunge genres.",
+            "moaning lisa smile is from the album creature songs and my love is cool was released in the year 03-04-2014 that belongs to indie rock, alternative rock and grunge genres."
+        ],
+        "table_id": "T2664",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "3 Strikes was first released in the United States on March 1, 2000.",
+            "3 strikes was first released in the united states on 01/03/2000."
+        ],
+        "table_id": "T2668",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Poseidon Adventure, a English film was distributed by 20th Century Fox and released in the year December 12, 1972.",
+            "the poseidon adventure, a english film was distributed by 20th century fox and released in the year 12.12.1972."
+        ],
+        "table_id": "T2669",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Poseidon Adventure was released in April, 1975.",
+            "poseidon adventure was released in 18/04/1975."
+        ],
+        "table_id": "T2669",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "More number of Islam religious people are living in Surabaya city in Indonesia which was established in the year 31 May 1293.",
+            "more number of islam religious people are living in surabaya city in indonesia which was established in the year 31.05.1293."
+        ],
+        "table_id": "T2671",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chris Rainbow was born in 18 November 1946.",
+            "chris rainbow was born in 18.11.1946."
+        ],
+        "table_id": "T2673",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Chris Rainbow was died in 22 February 2017",
+            "chris rainbow was died in 22/02/2017"
+        ],
+        "table_id": "T2673",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dell is Founded in February 1, 1989.",
+            "dell is founded in 1989/02/01."
+        ],
+        "table_id": "T2675",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Stagecoach Release date is February 2, 1929 (Los Angeles)",
+            "stagecoach release date is 02.02.1929 (los angeles)"
+        ],
+        "table_id": "T2677",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Aristide Blank was  died in August 3 1970.",
+            "aristide blank was died in 03/08/1970."
+        ],
+        "table_id": "T2678",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Viridiana was released on June 1961",
+            "viridiana was released on 18-06-1961"
+        ],
+        "table_id": "T2679",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Marquis of Polavieja Born on 13 July 1838",
+            "the marquis of polavieja born on 13.07.1838"
+        ],
+        "table_id": "T2681",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Marquis of Polavieja was born in 13 July 1838.",
+            "the marquis of polavieja was born in 1838/07/13."
+        ],
+        "table_id": "T2681",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Marquis of Polavieja was died 15 January 1916.",
+            "the marquis of polavieja was died 1916/01/15."
+        ],
+        "table_id": "T2681",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The working period is  November 12, 1876 \u2013 April 15, 1877.",
+            "the working period is 12/11/1876 \u2013 1877/04/15."
+        ],
+        "table_id": "T2681",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Firemen's Ball Released on 18 December 1967",
+            "the firemen's ball released on 18/12/1967"
+        ],
+        "table_id": "T2685",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Ho\u0159\u00ed, m\u00e1 panenko! (The Firemen's Ball) release date on 16 December 1968",
+            "the ho\u0159\u00ed, m\u00e1 panenko! (the firemen's ball) release date on 16-12-1968"
+        ],
+        "table_id": "T2685",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Masaya Nakamura Born on  24 December 1925",
+            "masaya nakamura born on  24-12-1925"
+        ],
+        "table_id": "T2689",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Masaya Nakamura Died on 22 January 2016",
+            "masaya nakamura died on 22.01.2016"
+        ],
+        "table_id": "T2689",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "R. K. Laxman was born on 24 October 1921",
+            "r. k. laxman was born on 1921/10/24"
+        ],
+        "table_id": "T2691",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "R. K. Laxman was died on 26 January 2019",
+            "r. k. laxman was died on 2019/01/26"
+        ],
+        "table_id": "T2691",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Rosalind Elsie Franklin was Born in 25 July 1920.",
+            "rosalind elsie franklin was born in 25.07.1920."
+        ],
+        "table_id": "T2695",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Rosalind Elsie Franklin was died in 16 April 1959.",
+            "rosalind elsie franklin was died in 16-04-1959."
+        ],
+        "table_id": "T2695",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dark Globe song was released on 3 January 1971",
+            "dark globe song was released on 03/01/1971"
+        ],
+        "table_id": "T2701",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Dark Globe Song by Syd Barrett released date on 4 January 1971.",
+            "dark globe song by syd barrett released date on 1971/01/04."
+        ],
+        "table_id": "T2701",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Dark Side of the Moon was released on 1 March 1973",
+            "the dark side of the moon was released on 01-03-1973"
+        ],
+        "table_id": "T2702",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Dark Side of the Moon was recorded on June 1971 \u2013 January 1973",
+            "the dark side of the moon was recorded on  18.06.1971 \u2013 18/01/1973"
+        ],
+        "table_id": "T2702",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Dark Side of the Moon took over a year to make when it was released in July 1973",
+            "the dark side of the moon took over a year to make when it was released in 18-07-1973"
+        ],
+        "table_id": "T2702",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Nomura Holdings, Inc. founded on December 25, 1930",
+            "nomura holdings, inc. founded on 25.12.1930"
+        ],
+        "table_id": "T2704",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Company is founded in the year August 4, 1954.",
+            "the company is founded in the year 04/08/1954."
+        ],
+        "table_id": "T2704",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Nomura Holdings, Inc Founded in December 25, 1926;",
+            "nomura holdings, inc founded in 25/12/1926 ;"
+        ],
+        "table_id": "T2704",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Adam Opel is Died on 8 September 1896",
+            "adam opel is died on 08/09/1896"
+        ],
+        "table_id": "T2711",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Adam Opel,  the founder of the German automobile company Adam Opel AG was born in 9 May 1837 at Prussia.",
+            "adam opel, the founder of the german automobile company adam opel ag was born in 1837/05/09 at prussia."
+        ],
+        "table_id": "T2711",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Adam Opel Died on 8 September 1895",
+            "adam opel died on 1895/09/08"
+        ],
+        "table_id": "T2711",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Yoshiyuki Sankai's net worth has gone up by several million since June 2018.",
+            "yoshiyuki sankai's net worth has gone up by several million since 2018/06/18."
+        ],
+        "table_id": "T2712",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "3M  industry founded on June 13, 1905",
+            "3m industry founded on 1905/06/13"
+        ],
+        "table_id": "T2713",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Obaltan Release date 13 April 1964",
+            "obaltan release date 1964/04/13"
+        ],
+        "table_id": "T2719",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    }
+]

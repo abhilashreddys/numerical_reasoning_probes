@@ -1,0 +1,362 @@
+[
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "over 6000 people were injured and a damage of over $300 billion occurred in the 07/02/1999 earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "over 6000 people were injured and a damage of over $300 billion occurred in the 26-03-1979 earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "over 6000 people were injured and a damage of over $300 billion occurred in the 28/10/2018 earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "over 6000 people were injured and a damage of over $300 billion occurred in the 06.01.2001 earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "over 6000 people were injured and a damage of over $300 billion occurred in the 1990/11/14 earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "over 6000 people were injured and a damage of over $300 billion occurred in the 04/12/1991 earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "over 6000 people were injured and a damage of over $300 billion occurred in the 07/08/1999 earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "over 6000 people were injured and a damage of over $300 billion occurred in the 2022/08/14 earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "over 6000 people were injured and a damage of over $300 billion occurred in the 2022/03/20 earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "over 6000 people were injured and a damage of over $300 billion occurred in the 2022/01/23 earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Holi will be held on 9 March, 2020.",
+            "holi will be held on 16/01/2023."
+        ],
+        "table_id": "T2132",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Holi will be held on 9 March, 2020.",
+            "holi will be held on 1990/11/26."
+        ],
+        "table_id": "T2132",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Holi will be held on 9 March, 2020.",
+            "holi will be held on 26/04/1977."
+        ],
+        "table_id": "T2132",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Holi will be held on 9 March, 2020.",
+            "holi will be held on 28-07-2007."
+        ],
+        "table_id": "T2132",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Holi will be held on 9 March, 2020.",
+            "holi will be held on 2000/08/04."
+        ],
+        "table_id": "T2132",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Holi will be held on 9 March, 2020.",
+            "holi will be held on 1995/06/10."
+        ],
+        "table_id": "T2132",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Holi will be held on 9 March, 2020.",
+            "holi will be held on 06/04/1984."
+        ],
+        "table_id": "T2132",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Holi will be held on 9 March, 2020.",
+            "holi will be held on 2004/02/18."
+        ],
+        "table_id": "T2132",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Holi will be held on 9 March, 2020.",
+            "holi will be held on 05-09-2009."
+        ],
+        "table_id": "T2132",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "February 19, 2019 had a full moon.",
+            "31-03-1971 had a full moon."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "February 19, 2019 had a full moon.",
+            "2020/08/21 had a full moon."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "February 19, 2019 had a full moon.",
+            "04.01.1973 had a full moon."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "February 19, 2019 had a full moon.",
+            "2010/07/01 had a full moon."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "February 19, 2019 had a full moon.",
+            "25-05-2017 had a full moon."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "February 19, 2019 had a full moon.",
+            "23.01.1981 had a full moon."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "February 19, 2019 had a full moon.",
+            "04.04.1996 had a full moon."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "February 19, 2019 had a full moon.",
+            "15-04-2011 had a full moon."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.",
+            "sudan airways flight 139 was flying to khartoum international airport on 19-09-1974."
+        ],
+        "table_id": "T2219",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.",
+            "sudan airways flight 139 was flying to khartoum international airport on 20-10-1995."
+        ],
+        "table_id": "T2219",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.",
+            "sudan airways flight 139 was flying to khartoum international airport on 31/07/1990."
+        ],
+        "table_id": "T2219",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.",
+            "sudan airways flight 139 was flying to khartoum international airport on 1980/07/08."
+        ],
+        "table_id": "T2219",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.",
+            "sudan airways flight 139 was flying to khartoum international airport on 06/11/2017."
+        ],
+        "table_id": "T2219",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.",
+            "sudan airways flight 139 was flying to khartoum international airport on 1975/11/20."
+        ],
+        "table_id": "T2219",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.",
+            "sudan airways flight 139 was flying to khartoum international airport on 11/03/2015."
+        ],
+        "table_id": "T2219",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.",
+            "sudan airways flight 139 was flying to khartoum international airport on 25.01.2015."
+        ],
+        "table_id": "T2219",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.",
+            "sudan airways flight 139 was flying to khartoum international airport on 02-04-2012."
+        ],
+        "table_id": "T2219",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

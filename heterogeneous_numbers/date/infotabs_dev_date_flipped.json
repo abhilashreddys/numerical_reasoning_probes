@@ -1,0 +1,702 @@
+[
+    {
+        "hypothesis": [
+            "Charlie Murphy is an comedian who is born in New York  in July 12, 1959 and His website is www.charliemurphycomedy.com",
+            "charlie murphy is an comedian who is born in new york in 2007/02/24 and his website is www.charliemurphycomedy.com"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is an comedian who is born in New York  in July 12, 1959 and His website is www.charliemurphycomedy.com",
+            "charlie murphy is an comedian who is born in new york in 11.02.2002 and his website is www.charliemurphycomedy.com"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is an comedian who is born in New York  in July 12, 1959 and His website is www.charliemurphycomedy.com",
+            "charlie murphy is an comedian who is born in new york in 2003/08/12 and his website is www.charliemurphycomedy.com"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is an comedian who is born in New York  in July 12, 1959 and His website is www.charliemurphycomedy.com",
+            "charlie murphy is an comedian who is born in new york in 11.10.1974 and his website is www.charliemurphycomedy.com"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is an comedian who is born in New York  in July 12, 1959 and His website is www.charliemurphycomedy.com",
+            "charlie murphy is an comedian who is born in new york in 2019/06/23 and his website is www.charliemurphycomedy.com"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is an comedian who is born in New York  in July 12, 1959 and His website is www.charliemurphycomedy.com",
+            "charlie murphy is an comedian who is born in new york in 27.07.1992 and his website is www.charliemurphycomedy.com"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is an comedian who is born in New York  in July 12, 1959 and His website is www.charliemurphycomedy.com",
+            "charlie murphy is an comedian who is born in new york in 1970/11/11 and his website is www.charliemurphycomedy.com"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour is movie released in September 2017 and stars Gary Oldman.",
+            "darkest hour is movie released in 1975/11/26 and stars gary oldman."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour is movie released in September 2017 and stars Gary Oldman.",
+            "darkest hour is movie released in 1976/03/02 and stars gary oldman."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour is movie released in September 2017 and stars Gary Oldman.",
+            "darkest hour is movie released in 09.03.1972 and stars gary oldman."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour is movie released in September 2017 and stars Gary Oldman.",
+            "darkest hour is movie released in 2007/02/03 and stars gary oldman."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour is movie released in September 2017 and stars Gary Oldman.",
+            "darkest hour is movie released in 07-04-2022 and stars gary oldman."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour is movie released in September 2017 and stars Gary Oldman.",
+            "darkest hour is movie released in 11/09/2011 and stars gary oldman."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour is movie released in September 2017 and stars Gary Oldman.",
+            "darkest hour is movie released in 09.07.1997 and stars gary oldman."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour is movie released in September 2017 and stars Gary Oldman.",
+            "darkest hour is movie released in 1993/11/19 and stars gary oldman."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour is movie released in September 2017 and stars Gary Oldman.",
+            "darkest hour is movie released in 08/05/1979 and stars gary oldman."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour is movie released in September 2017 and stars Gary Oldman.",
+            "darkest hour is movie released in 07-03-2012 and stars gary oldman."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Playboy Playmate of the month for December 2009 went on to marry Hugh Hefner.",
+            "the playboy playmate of the month for 2007/01/13 went on to marry hugh hefner."
+        ],
+        "table_id": "T780",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Playboy Playmate of the month for December 2009 went on to marry Hugh Hefner.",
+            "the playboy playmate of the month for 15/04/1993 went on to marry hugh hefner."
+        ],
+        "table_id": "T780",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Playboy Playmate of the month for December 2009 went on to marry Hugh Hefner.",
+            "the playboy playmate of the month for 18-06-1993 went on to marry hugh hefner."
+        ],
+        "table_id": "T780",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Playboy Playmate of the month for December 2009 went on to marry Hugh Hefner.",
+            "the playboy playmate of the month for 1999/08/08 went on to marry hugh hefner."
+        ],
+        "table_id": "T780",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Playboy Playmate of the month for December 2009 went on to marry Hugh Hefner.",
+            "the playboy playmate of the month for 01/05/1975 went on to marry hugh hefner."
+        ],
+        "table_id": "T780",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Playboy Playmate of the month for December 2009 went on to marry Hugh Hefner.",
+            "the playboy playmate of the month for 1970/06/02 went on to marry hugh hefner."
+        ],
+        "table_id": "T780",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Playboy Playmate of the month for December 2009 went on to marry Hugh Hefner.",
+            "the playboy playmate of the month for 1979/10/18 went on to marry hugh hefner."
+        ],
+        "table_id": "T780",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "The Playboy Playmate of the month for December 2009 went on to marry Hugh Hefner.",
+            "the playboy playmate of the month for 22-10-1984 went on to marry hugh hefner."
+        ],
+        "table_id": "T780",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "A hip hop album with 3 producers was released in late October 1991.",
+            "a hip hop album with 3 producers was released in late 1986/04/26 ."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "A hip hop album with 3 producers was released in late October 1991.",
+            "a hip hop album with 3 producers was released in late 2011/10/08 ."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "A hip hop album with 3 producers was released in late October 1991.",
+            "a hip hop album with 3 producers was released in late 1971/09/25 ."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "A hip hop album with 3 producers was released in late October 1991.",
+            "a hip hop album with 3 producers was released in late 19/05/1973 ."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "A hip hop album with 3 producers was released in late October 1991.",
+            "a hip hop album with 3 producers was released in late 1991/10/27 ."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "A hip hop album with 3 producers was released in late October 1991.",
+            "a hip hop album with 3 producers was released in late 1976/01/07 ."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "A hip hop album with 3 producers was released in late October 1991.",
+            "a hip hop album with 3 producers was released in late 03/06/2004 ."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "A hip hop album with 3 producers was released in late October 1991.",
+            "a hip hop album with 3 producers was released in late 1994/09/03 ."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "A hip hop album with 3 producers was released in late October 1991.",
+            "a hip hop album with 3 producers was released in late 1988/03/03 ."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.",
+            "rutgers, the state university of new jersey was established on 2008/08/21 and is located at new brunswick-piscataway, new jersey, u.s."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.",
+            "rutgers, the state university of new jersey was established on 12.11.1997 and is located at new brunswick-piscataway, new jersey, u.s."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.",
+            "rutgers, the state university of new jersey was established on 10.11.2020 and is located at new brunswick-piscataway, new jersey, u.s."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.",
+            "rutgers, the state university of new jersey was established on 31.01.2012 and is located at new brunswick-piscataway, new jersey, u.s."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.",
+            "rutgers, the state university of new jersey was established on 28/01/1981 and is located at new brunswick-piscataway, new jersey, u.s."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.",
+            "rutgers, the state university of new jersey was established on 21/03/1988 and is located at new brunswick-piscataway, new jersey, u.s."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.",
+            "rutgers, the state university of new jersey was established on 06.12.1989 and is located at new brunswick-piscataway, new jersey, u.s."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.",
+            "rutgers, the state university of new jersey was established on 2007/10/06 and is located at new brunswick-piscataway, new jersey, u.s."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.",
+            "rutgers, the state university of new jersey was established on 04-05-1987 and is located at new brunswick-piscataway, new jersey, u.s."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.",
+            "carl f. auer von welsbach is a chemist who was born on 11/12/2004 ."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.",
+            "carl f. auer von welsbach is a chemist who was born on 14-08-2022 ."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.",
+            "carl f. auer von welsbach is a chemist who was born on 21/06/1999 ."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.",
+            "carl f. auer von welsbach is a chemist who was born on 1987/07/26 ."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.",
+            "carl f. auer von welsbach is a chemist who was born on 18-07-2001 ."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.",
+            "carl f. auer von welsbach is a chemist who was born on 13-05-2005 ."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.",
+            "carl f. auer von welsbach is a chemist who was born on 1989/10/14 ."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.",
+            "carl f. auer von welsbach is a chemist who was born on 25/09/1995 ."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.",
+            "carl f. auer von welsbach is a chemist who was born on 1990/05/08 ."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on 1973/06/07 in vienna, austrian empire and died on  2007/07/21 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on 2022/06/26 in vienna, austrian empire and died on  07/03/1991 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on  16.08.1976  in vienna, austrian empire and died on 2016/09/08 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on  2000/12/08 in vienna, austrian empire and died on 13/09/1986 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on 09/01/1988 in vienna, austrian empire and died on  2004/06/29 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on 06.06.1995 in vienna, austrian empire and died on  03.10.1987 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on  04-12-1976 in vienna, austrian empire and died on 2013/03/13 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on 29.08.2009 in vienna, austrian empire and died on  29/02/1972 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on  26-08-2021 in vienna, austrian empire and died on 14-02-1983 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on 14-03-1988 in vienna, austrian empire and died on 1989/07/27 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Arromanches is also know as Colossus and was launched on 30 September 1943.",
+            "arromanches is also know as colossus and was launched on 1994/10/16 ."
+        ],
+        "table_id": "T1310",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Arromanches is also know as Colossus and was launched on 30 September 1943.",
+            "arromanches is also know as colossus and was launched on 11-11-1992 ."
+        ],
+        "table_id": "T1310",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Arromanches is also know as Colossus and was launched on 30 September 1943.",
+            "arromanches is also know as colossus and was launched on 2021/09/21 ."
+        ],
+        "table_id": "T1310",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Arromanches is also know as Colossus and was launched on 30 September 1943.",
+            "arromanches is also know as colossus and was launched on 13.05.2011 ."
+        ],
+        "table_id": "T1310",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Arromanches is also know as Colossus and was launched on 30 September 1943.",
+            "arromanches is also know as colossus and was launched on 18-11-1993 ."
+        ],
+        "table_id": "T1310",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Arromanches is also know as Colossus and was launched on 30 September 1943.",
+            "arromanches is also know as colossus and was launched on 1996/09/27 ."
+        ],
+        "table_id": "T1310",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Arromanches is also know as Colossus and was launched on 30 September 1943.",
+            "arromanches is also know as colossus and was launched on 18-12-1983 ."
+        ],
+        "table_id": "T1310",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Arromanches is also know as Colossus and was launched on 30 September 1943.",
+            "arromanches is also know as colossus and was launched on 13/02/1997 ."
+        ],
+        "table_id": "T1310",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

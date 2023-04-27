@@ -1,0 +1,292 @@
+[
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "over 6000 people were injured and a damage of over $300 billion occurred in the 2011/03/18 earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "over 6000 people were injured and a damage of over $300 billion occurred in the 18-03-2011 earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake",
+            "over 6000 people were injured and a damage of over $300 billion occurred in the 18/03/2011 earthquake"
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There were aftershocks even after 6 March 2018 from the Earthquake that happened in Japan in 2011.",
+            "there were aftershocks even after 06/03/2018 from the earthquake that happened in japan in 2011."
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There were aftershocks even after 6 March 2018 from the Earthquake that happened in Japan in 2011.",
+            "there were aftershocks even after 06-03-2018 from the earthquake that happened in japan in 2011."
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There were aftershocks even after 6 March 2018 from the Earthquake that happened in Japan in 2011.",
+            "there were aftershocks even after 06.03.2018 from the earthquake that happened in japan in 2011."
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There were aftershocks even after 6 March 2018 from the Earthquake that happened in Japan in 2011.",
+            "there were aftershocks even after 2018/03/06 from the earthquake that happened in japan in 2011."
+        ],
+        "table_id": "T2050",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There were 18 stations when the Cincinnati Bell Connector opened on  September 9, 2016",
+            "there were 18 stations when the cincinnati bell connector opened on 09-09-2016"
+        ],
+        "table_id": "T2087",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There were 18 stations when the Cincinnati Bell Connector opened on  September 9, 2016",
+            "there were 18 stations when the cincinnati bell connector opened on 09/09/2016"
+        ],
+        "table_id": "T2087",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There were 18 stations when the Cincinnati Bell Connector opened on  September 9, 2016",
+            "there were 18 stations when the cincinnati bell connector opened on 2016/09/09"
+        ],
+        "table_id": "T2087",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There were 18 stations when the Cincinnati Bell Connector opened on  September 9, 2016",
+            "there were 18 stations when the cincinnati bell connector opened on 09.09.2016"
+        ],
+        "table_id": "T2087",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The eleventh version of Deiban, released in September 2019, is the default operating system for iphone.",
+            "the eleventh version of deiban, released in 09/2019, is the default operating system for iphone."
+        ],
+        "table_id": "T2099",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The eleventh version of Deiban, released in September 2019, is the default operating system for iphone.",
+            "the eleventh version of deiban, released in 09-2019, is the default operating system for iphone."
+        ],
+        "table_id": "T2099",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The eleventh version of Deiban, released in September 2019, is the default operating system for iphone.",
+            "the eleventh version of deiban, released in 2019/09, is the default operating system for iphone."
+        ],
+        "table_id": "T2099",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The eleventh version of Deiban, released in September 2019, is the default operating system for iphone.",
+            "the eleventh version of deiban, released in 2019/09/18, is the default operating system for iphone."
+        ],
+        "table_id": "T2099",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Holi will be held on 9 March, 2020.",
+            "holi will be held on 09.03.2020."
+        ],
+        "table_id": "T2132",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Holi will be held on 9 March, 2020.",
+            "holi will be held on 09-03-2020."
+        ],
+        "table_id": "T2132",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Holi will be held on 9 March, 2020.",
+            "holi will be held on 09/03/2020."
+        ],
+        "table_id": "T2132",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Holi will be held on 9 March, 2020.",
+            "holi will be held on 2020/03/09."
+        ],
+        "table_id": "T2132",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There were 13 stations the Kelana Jaya line extension opened  30 June 2016",
+            "there were 13 stations the kelana jaya line extension opened  2016/06/30"
+        ],
+        "table_id": "T2144",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There were 13 stations the Kelana Jaya line extension opened  30 June 2016",
+            "there were 13 stations the kelana jaya line extension opened  30-06-2016"
+        ],
+        "table_id": "T2144",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "There were 13 stations the Kelana Jaya line extension opened  30 June 2016",
+            "there were 13 stations the kelana jaya line extension opened  30.06.2016"
+        ],
+        "table_id": "T2144",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "February 19, 2019 had a full moon.",
+            "19/02/2019 had a full moon."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "February 19, 2019 had a full moon.",
+            "19.02.2019 had a full moon."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "February 19, 2019 had a full moon.",
+            "2019/02/19 had a full moon."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "February 19, 2019 had a full moon.",
+            "19-02-2019 had a full moon."
+        ],
+        "table_id": "T2155",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.",
+            "sudan airways flight 139 was flying to khartoum international airport on 08/07/2003."
+        ],
+        "table_id": "T2219",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.",
+            "sudan airways flight 139 was flying to khartoum international airport on 2003/07/08."
+        ],
+        "table_id": "T2219",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.",
+            "sudan airways flight 139 was flying to khartoum international airport on 08-07-2003."
+        ],
+        "table_id": "T2219",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    }
+]

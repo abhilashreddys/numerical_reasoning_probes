@@ -1,0 +1,172 @@
+[
+    {
+        "hypothesis": [
+            "Cory Monteith is born on May 11, 1982",
+            "cory monteith is born on 1982/05/11"
+        ],
+        "table_id": "T491",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cory Monteith is born on May 11, 1982",
+            "cory monteith is born on 11-05-1982"
+        ],
+        "table_id": "T491",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cory Monteith is born on May 11, 1982",
+            "cory monteith is born on 11.05.1982"
+        ],
+        "table_id": "T491",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ciara Princess Harris born on  October 25, 1985 at  Austin, Texas, U.S.",
+            "ciara princess harris born on 25/10/1985 at austin, texas, u.s."
+        ],
+        "table_id": "T596",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ciara Princess Harris born on  October 25, 1985 at  Austin, Texas, U.S.",
+            "ciara princess harris born on 25.10.1985 at austin, texas, u.s."
+        ],
+        "table_id": "T596",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Ciara Princess Harris born on  October 25, 1985 at  Austin, Texas, U.S.",
+            "ciara princess harris born on 1985/10/25 at austin, texas, u.s."
+        ],
+        "table_id": "T596",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The next issue of the Crossed series will be released in June 2019.",
+            "the next issue of the crossed series will be released in 06/2019."
+        ],
+        "table_id": "T749",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The next issue of the Crossed series will be released in June 2019.",
+            "the next issue of the crossed series will be released in 2019/06."
+        ],
+        "table_id": "T749",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The next issue of the Crossed series will be released in June 2019.",
+            "the next issue of the crossed series will be released in 06-2019."
+        ],
+        "table_id": "T749",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It would take over an hour to listen to the entirety of any album released in January 2017.",
+            "it would take over an hour to listen to the entirety of any album released in 01/2017."
+        ],
+        "table_id": "T805",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It would take over an hour to listen to the entirety of any album released in January 2017.",
+            "it would take over an hour to listen to the entirety of any album released in 01-2017."
+        ],
+        "table_id": "T805",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "It would take over an hour to listen to the entirety of any album released in January 2017.",
+            "it would take over an hour to listen to the entirety of any album released in 2017/01."
+        ],
+        "table_id": "T805",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.",
+            "birth name of brandon flowers is brandon richard flowers and he was born on 21.06.1981."
+        ],
+        "table_id": "T1267",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.",
+            "birth name of brandon flowers is brandon richard flowers and he was born on 21-06-1981."
+        ],
+        "table_id": "T1267",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hugo was the largest box office grossing film in November 2011.",
+            "hugo was the largest box office grossing film in 2011/11."
+        ],
+        "table_id": "T1819",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hugo was the largest box office grossing film in November 2011.",
+            "hugo was the largest box office grossing film in 11/2011."
+        ],
+        "table_id": "T1819",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Hugo was the largest box office grossing film in November 2011.",
+            "hugo was the largest box office grossing film in 11-2011."
+        ],
+        "table_id": "T1819",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    }
+]

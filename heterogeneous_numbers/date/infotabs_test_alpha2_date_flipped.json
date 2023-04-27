@@ -1,0 +1,72 @@
+[
+    {
+        "hypothesis": [
+            "Jeff Buckley is died in May 29, 1997",
+            "jeff buckley is died in 13.12.1972"
+        ],
+        "table_id": "T355",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeff Buckley is died in May 29, 1997",
+            "jeff buckley is died in 07-02-1989"
+        ],
+        "table_id": "T355",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeff Buckley is died in May 29, 1997",
+            "jeff buckley is died in 17.11.1985"
+        ],
+        "table_id": "T355",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeff Buckley is died in May 29, 1997",
+            "jeff buckley is died in 14.07.1992"
+        ],
+        "table_id": "T355",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeff Buckley is died in May 29, 1997",
+            "jeff buckley is died in 10-10-2003"
+        ],
+        "table_id": "T355",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeff Buckley is died in May 29, 1997",
+            "jeff buckley is died in 18/06/1991"
+        ],
+        "table_id": "T355",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "Jeff Buckley is died in May 29, 1997",
+            "jeff buckley is died in 11.05.2014"
+        ],
+        "table_id": "T355",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

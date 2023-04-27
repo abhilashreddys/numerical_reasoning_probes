@@ -1,0 +1,522 @@
+[
+    {
+        "hypothesis": [
+            "The training wheels final held at the Fort Copacabana Velodrome was held on August 22, 2016.",
+            "the training wheels final held at the fort copacabana velodrome was held on 2016/08/22."
+        ],
+        "table_id": "T262",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The training wheels final held at the Fort Copacabana Velodrome was held on August 22, 2016.",
+            "the training wheels final held at the fort copacabana velodrome was held on 22-08-2016."
+        ],
+        "table_id": "T262",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The training wheels final held at the Fort Copacabana Velodrome was held on August 22, 2016.",
+            "the training wheels final held at the fort copacabana velodrome was held on 22.08.2016."
+        ],
+        "table_id": "T262",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The training wheels final held at the Fort Copacabana Velodrome was held on August 22, 2016.",
+            "the training wheels final held at the fort copacabana velodrome was held on 22/08/2016."
+        ],
+        "table_id": "T262",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is an comedian who is born in New York  in July 12, 1959 and His website is www.charliemurphycomedy.com",
+            "charlie murphy is an comedian who is born in new york in 12/07/1959 and his website is www.charliemurphycomedy.com"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is an comedian who is born in New York  in July 12, 1959 and His website is www.charliemurphycomedy.com",
+            "charlie murphy is an comedian who is born in new york in 1959/07/12 and his website is www.charliemurphycomedy.com"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is an comedian who is born in New York  in July 12, 1959 and His website is www.charliemurphycomedy.com",
+            "charlie murphy is an comedian who is born in new york in 12.07.1959 and his website is www.charliemurphycomedy.com"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is an comedian who is born in New York  in July 12, 1959 and His website is www.charliemurphycomedy.com",
+            "charlie murphy is an comedian who is born in new york in 12-07-1959 and his website is www.charliemurphycomedy.com"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is died on April 12, 2017 at his age of 57",
+            "charlie murphy is died on 12/04/2017 at his age of 57"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is died on April 12, 2017 at his age of 57",
+            "charlie murphy is died on 12.04.2017 at his age of 57"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is died on April 12, 2017 at his age of 57",
+            "charlie murphy is died on 12-04-2017 at his age of 57"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Charlie Murphy is died on April 12, 2017 at his age of 57",
+            "charlie murphy is died on 2017/04/12 at his age of 57"
+        ],
+        "table_id": "T333",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour is movie released in September 2017 and stars Gary Oldman.",
+            "darkest hour is movie released in 09/2017 and stars gary oldman."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour is movie released in September 2017 and stars Gary Oldman.",
+            "darkest hour is movie released in 09-2017 and stars gary oldman."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Darkest Hour is movie released in September 2017 and stars Gary Oldman.",
+            "darkest hour is movie released in 2017/09 and stars gary oldman."
+        ],
+        "table_id": "T582",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cigar is born on October 7th 2014",
+            "cigar is born on 07.10.2014"
+        ],
+        "table_id": "T604",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cigar is born on October 7th 2014",
+            "cigar is born on 07/10/2014"
+        ],
+        "table_id": "T604",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cigar is born on October 7th 2014",
+            "cigar is born on 2014/10/07"
+        ],
+        "table_id": "T604",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Cigar is born on October 7th 2014",
+            "cigar is born on 07-10-2014"
+        ],
+        "table_id": "T604",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Playboy Playmate of the month for December 2009 went on to marry Hugh Hefner.",
+            "the playboy playmate of the month for 2009/12 went on to marry hugh hefner."
+        ],
+        "table_id": "T780",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Playboy Playmate of the month for December 2009 went on to marry Hugh Hefner.",
+            "the playboy playmate of the month for 12/2009 went on to marry hugh hefner."
+        ],
+        "table_id": "T780",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "The Playboy Playmate of the month for December 2009 went on to marry Hugh Hefner.",
+            "the playboy playmate of the month for 12-2009 went on to marry hugh hefner."
+        ],
+        "table_id": "T780",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "A hip hop album with 3 producers was released in late October 1991.",
+            "a hip hop album with 3 producers was released in late 10/1991."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "A hip hop album with 3 producers was released in late October 1991.",
+            "a hip hop album with 3 producers was released in late 1991/10."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "A hip hop album with 3 producers was released in late October 1991.",
+            "a hip hop album with 3 producers was released in late 10/1991."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "A hip hop album with 3 producers was released in late October 1991.",
+            "a hip hop album with 3 producers was released in late 10-1991."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Death Certificate was recorded in October 1991.",
+            "death certificate was recorded in 10-1991."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Death Certificate was recorded in October 1991.",
+            "death certificate was recorded in 1991/10."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Death Certificate was recorded in October 1991.",
+            "death certificate was recorded in 10-1991."
+        ],
+        "table_id": "T852",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.",
+            "rutgers, the state university of new jersey was established on 10/11/1766 and is located at new brunswick-piscataway, new jersey, u.s."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.",
+            "rutgers, the state university of new jersey was established on 1766/11/10 and is located at new brunswick-piscataway, new jersey, u.s."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.",
+            "rutgers, the state university of new jersey was established on 10.11.1766 and is located at new brunswick-piscataway, new jersey, u.s."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.",
+            "rutgers, the state university of new jersey was established on 10-11-1766 and is located at new brunswick-piscataway, new jersey, u.s."
+        ],
+        "table_id": "T1258",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.",
+            "carl f. auer von welsbach is a chemist who was born on 01.09.1858."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.",
+            "carl f. auer von welsbach is a chemist who was born on 1858/09/01."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.",
+            "carl f. auer von welsbach is a chemist who was born on 01/09/1858."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.",
+            "carl f. auer von welsbach is a chemist who was born on 01-09-1858."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on 1858/09/01 in vienna, austrian empire and died on  04-08-1929 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on  01/09/1858 in vienna, austrian empire and died on 1929/08/04 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on 1858/09/01 in vienna, austrian empire and died on  04/08/1929 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on  01.09.1858 in vienna, austrian empire and died on 04/08/1929 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on  01/09/1858 in vienna, austrian empire and died on 04/08/1929 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on  1858/09/01 in vienna, austrian empire and died on 1929/08/04 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on  1858/09/01 in vienna, austrian empire and died on 04/08/1929 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on  01.09.1858 in vienna, austrian empire and died on 04.08.1929 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.",
+            "carl f. auer von welsbach was born on  04-08-1929  in vienna, austrian empire and died on 04-08-1929 at the age of 70."
+        ],
+        "table_id": "T1274",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Arromanches is also know as Colossus and was launched on 30 September 1943.",
+            "arromanches is also know as colossus and was launched on 30/09/1943."
+        ],
+        "table_id": "T1310",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Arromanches is also know as Colossus and was launched on 30 September 1943.",
+            "arromanches is also know as colossus and was launched on 1943/09/30."
+        ],
+        "table_id": "T1310",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Arromanches is also know as Colossus and was launched on 30 September 1943.",
+            "arromanches is also know as colossus and was launched on 30.09.1943."
+        ],
+        "table_id": "T1310",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "More people saw John Carter on March 9th than on February 22, 2012.",
+            "more people saw john carter on march 9th than on 22/02/2012."
+        ],
+        "table_id": "T1536",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "More people saw John Carter on March 9th than on February 22, 2012.",
+            "more people saw john carter on march 9th than on 2012/02/22."
+        ],
+        "table_id": "T1536",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "More people saw John Carter on March 9th than on February 22, 2012.",
+            "more people saw john carter on march 9th than on 22.02.2012."
+        ],
+        "table_id": "T1536",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    }
+]
