@@ -1,0 +1,482 @@
+[
+    {
+        "hypothesis": [
+            "team australia make up 2 / 17 or 11.76% of the total of the team",
+            "team australia make up 2 / 17 or 11 percentages of the total of the team"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-12032042-1.html.csv",
+        "label": "contradiction",
+        "caption": "champ car mont - tremblant 07",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "shaun murphy win 50% of the game in the table",
+            "shaun murphy win 54 percentages of the game in the table"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-1795208-5.html.csv",
+        "label": "contradiction",
+        "caption": "shaun murphy (snooker player)",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "of the tony award nomination , little me win 25% of them",
+            "of the tony award nomination , little me win 26 percentages of them"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-13076596-3.html.csv",
+        "label": "contradiction",
+        "caption": "little me (musical)",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the 3rd oregon ballot measure do not pass with 27.84% yes vote",
+            "the 3rd oregon ballot measure do not pass with 25 percentages yes vote"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-256286-5.html.csv",
+        "label": "contradiction",
+        "caption": "list of oregon ballot measures",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the 10th oregon ballot measure pass with 55.62% of vote be yes",
+            "the 10th oregon ballot measure pass with 59 percentages of vote be yes"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-256286-5.html.csv",
+        "label": "contradiction",
+        "caption": "list of oregon ballot measures",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the 26th oregon ballot measure do not pass because only 22.53% of the vote be yes",
+            "the 26th oregon ballot measure do not pass because only 22 percentages of the vote be yes"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-256286-5.html.csv",
+        "label": "contradiction",
+        "caption": "list of oregon ballot measures",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "50% of the championship match be play on a clay surface",
+            "52 percentages of the championship match be play on a clay surface"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-1498593-3.html.csv",
+        "label": "contradiction",
+        "caption": "alona bondarenko",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "joakim bonnier sometimes compete with the eponymous joakim bonnier racing team , but only in 25% of the year mention (4 out of 16)",
+            "joakim bonnier sometimes compete with the eponymous joakim bonnier racing team , but only in 26 percentages of the year mention (4 out of 16)"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-1152185-1.html.csv",
+        "label": "contradiction",
+        "caption": "joakim bonnier",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "25% of the route during the 2007 eneco tour be race on wednesday",
+            "24 percentages of the route during the 2007 eneco tour be race on wednesday"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-12608303-1.html.csv",
+        "label": "contradiction",
+        "caption": "2007 eneco tour",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "at the master and the us open , azinger make the cut 66.6% of the time",
+            "at the master and the us open , azinger make the cut 60 percentages of the time"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-1551597-4.html.csv",
+        "label": "contradiction",
+        "caption": "paul azinger",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "during the 1972 seasont he new york jet win 50% of their game",
+            "during the 1972 seasont he new york jet win 52 percentages of their game"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-13963364-1.html.csv",
+        "label": "contradiction",
+        "caption": "1972 new york jets season",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "mel watt win the largest percentage of vote of any candidate with 79.7%",
+            "mel watt win the largest percentage of vote of any candidate with 84 percentages"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-25030512-36.html.csv",
+        "label": "contradiction",
+        "caption": "united states house of representatives elections , 2012",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "42.86% of the player of cricket in world war ii be from sussex",
+            "43 percentages of the player of cricket in world war ii be from sussex"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-10791018-1.html.csv",
+        "label": "contradiction",
+        "caption": "cricket in world war ii",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the diffrence between the lowest female awareness in jharkhand and the highest femal awareness in manipur be 66%",
+            "the diffrence between the lowest female awareness in jharkhand and the highest femal awareness in manipur be 62 percentages"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-14768306-1.html.csv",
+        "label": "contradiction",
+        "caption": "indian states ranked by hiv awareness",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "10 state have male awareness hiv at 90% or above",
+            "10 state have male awareness hiv at 93 percentages or above"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-14768306-1.html.csv",
+        "label": "contradiction",
+        "caption": "indian states ranked by hiv awareness",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "in 8 state , the female hiv awareness be below 50%",
+            "in 8 state , the female hiv awareness be below 52 percentages"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-14768306-1.html.csv",
+        "label": "contradiction",
+        "caption": "indian states ranked by hiv awareness",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "while there be no state where the female awareness be greater than male awareness hiv , manipur be tie with both sex have 99% awareness",
+            "while there be no state where the female awareness be greater than male awareness hiv , manipur be tie with both sex have 93 percentages awareness"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-14768306-1.html.csv",
+        "label": "contradiction",
+        "caption": "indian states ranked by hiv awareness",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "greg mcelroy start in 76.5% of the game he play in",
+            "greg mcelroy start in 82 percentages of the game he play in"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-16337186-3.html.csv",
+        "label": "contradiction",
+        "caption": "greg mcelroy",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "na h - eileanan siar have by far the highest percentage of gaelic speaker at 59.7%",
+            "na h - eileanan siar have by far the highest percentage of gaelic speaker at 62 percentages"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-11934811-1.html.csv",
+        "label": "contradiction",
+        "caption": "list of scottish council areas by number of scottish gaelic speakers",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "a marginal ordinary income tax rate of 28% be use when married filing separately with an income of 68525 - 104425 or for head of household with an income 117451 - 190200",
+            "a marginal ordinary income tax rate of 27 percentages be use when married filing separately with an income of 68525 - 104425 or for head of household with an income 117451 - 190200"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-11647327-2.html.csv",
+        "label": "contradiction",
+        "caption": "none",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "when republican joe kenney be on 31% , his opponent have a lead marging of 31",
+            "when republican joe kenney be on 30 percentages , his opponent have a lead marging of 30"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-17538810-4.html.csv",
+        "label": "contradiction",
+        "caption": "none",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "democrat john lynch be at 60% and republican joe kenney be at 27% in the poll from american research group",
+            "democrat john lynch be at 56 percentages and republican joe kenney be at 26 percentages in the poll from american research group"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-17538810-4.html.csv",
+        "label": "contradiction",
+        "caption": "none",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the survey usa poll source have republican joe kenney at 28%",
+            "the survey usa poll source have republican joe kenney at 28 percentages"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-17538810-4.html.csv",
+        "label": "contradiction",
+        "caption": "none",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "republican joe kenney be at a 23% for the strategic vision september 22 - 24 , 2008 poll make democrat john lynch ahead by a 45 lead margin",
+            "republican joe kenney be at a 21 percentages for the strategic vision september 22 - 24 , 2008 poll make democrat john lynch ahead by a 45 lead margin"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-17538810-4.html.csv",
+        "label": "contradiction",
+        "caption": "none",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the incumbent be denver s church when the candidate be henry e barbour (r) 52.1% henry hawson (d) 47.9%",
+            "the incumbent be denver s church when the candidate be henry e barbour (r) 54 percentages henry hawson (d) 50 percentages"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-1346118-5.html.csv",
+        "label": "contradiction",
+        "caption": "united states house of representatives elections , 1918",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "re - elect as republican republican gain be the result in the race john a elston (r) 88.4% luella twin (s) 11.6%",
+            "re - elect as republican republican gain be the result in the race john a elston (r) 85 percentages luella twin (s) 10 percentages"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-1346118-5.html.csv",
+        "label": "contradiction",
+        "caption": "united states house of representatives elections , 1918",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "there be no examinee in the table that have a pas percentage of 78.35% with less than 297 student after 2005",
+            "there be no examinee in the table that have a pas percentage of 71 percentages with less than 297 student after 2005"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-17836592-1.html.csv",
+        "label": "contradiction",
+        "caption": "none",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "when the double (aids related) number be 41000 , and the paternal (total) be larger than 442000 then there be 24.6% orphan",
+            "when the double (aids related) number be 41000 , and the paternal (total) be larger than 442000 then there be 22 percentages orphan"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-18564154-2.html.csv",
+        "label": "contradiction",
+        "caption": "none",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the voter percentage when the number of voter be 312041 be 14.3%",
+            "the voter percentage when the number of voter be 312041 be 14 percentages"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-1202333-1.html.csv",
+        "label": "contradiction",
+        "caption": "alberta senate nominee election , 2004",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the win percentage for doncaster rover on 27 december 2001 be 47.3% , with 241 match and 62 drawn",
+            "the win percentage for doncaster rover on 27 december 2001 be 46 percentages , with 241 match and 62 drawn"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-1175663-1.html.csv",
+        "label": "contradiction",
+        "caption": "dave penney",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the largest win percentage for those with 13 drawn be 27.1%",
+            "the largest win percentage for those with 13 drawn be 28 percentages"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-1175663-1.html.csv",
+        "label": "contradiction",
+        "caption": "dave penney",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the field poll from september 18 - october 5 , 2009 see steve westly at -- , antonio villaraigosa at -- , and 47% for jerry brown",
+            "the field poll from september 18 - october 5 , 2009 see steve westly at -- , antonio villaraigosa at -- , and 45 percentages for jerry brown"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-12299351-1.html.csv",
+        "label": "contradiction",
+        "caption": "none",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "warren r davis (j) 76.1% cobb 23.9% be the candidate of south carolina 6",
+            "warren r davis (j) 75 percentages cobb 23 percentages be the candidate of south carolina 6"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-2668243-22.html.csv",
+        "label": "contradiction",
+        "caption": "united states house of representatives elections , 1828",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "only 1 district have t / vap value of 67.0%",
+            "only 1 district have t / vap value of 64 percentages"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-2683116-1.html.csv",
+        "label": "contradiction",
+        "caption": "electoral divisions of chile",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the turnout of exactly 85.7% have an e / vap value of 56.6%",
+            "the turnout of exactly 85 percentages have an e / vap value of 54 percentages"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-2683116-1.html.csv",
+        "label": "contradiction",
+        "caption": "electoral divisions of chile",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the region of antofagasta have a t / vap value of 45.3% and 124270 total vote",
+            "the region of antofagasta have a t / vap value of 43 percentages and 124270 total vote"
+        ],
+        "hypothesis_id": null,
+        "table_id": "1-2683116-1.html.csv",
+        "label": "contradiction",
+        "caption": "electoral divisions of chile",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "in 2000 , the population of ok be 68190 which be a a078 + 17.22% change from 1990 - 2000",
+            "in 2000 , the population of ok be 68190 which be a a078 + 16 percentages change from 1990 - 2000"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-12720275-1.html.csv",
+        "label": "contradiction",
+        "caption": "i - 35 corridor",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the 2000 population in ok with a 1990 - 2000 percent change of a078 + 17.22% be 68190",
+            "the 2000 population in ok with a 1990 - 2000 percent change of a078 + 16 percentages be 68190"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-12720275-1.html.csv",
+        "label": "contradiction",
+        "caption": "i - 35 corridor",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "the polling firm local election have a psoe of 37.1%",
+            "the polling firm local election have a psoe of 38 percentages"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-1286662-1.html.csv",
+        "label": "contradiction",
+        "caption": "none",
+        "gold_label": "entailment",
+        "gold_labels": []
+    },
+    {
+        "hypothesis": [
+            "on june 4 , the psoe be 36.1%",
+            "on june 4 , the psoe be 35 percentages"
+        ],
+        "hypothesis_id": null,
+        "table_id": "2-1286662-1.html.csv",
+        "label": "contradiction",
+        "caption": "none",
+        "gold_label": "entailment",
+        "gold_labels": []
+    }
+]

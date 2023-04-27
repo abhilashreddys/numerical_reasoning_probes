@@ -1,0 +1,1302 @@
+[
+    {
+        "hypothesis": [
+            "galina voskoboeva play 20% of her game on a clay top tennis court",
+            "galina voskoboeva play 20 percentage of her game on a clay top tennis court"
+        ],
+        "table_id": "2-15272585-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "galina voskoboeva play 20% of her game on a clay top tennis court and 1% on hard",
+            "galina voskoboeva play 20% of her game on a clay top tennis court and 1 percentage on hard"
+        ],
+        "table_id": "2-15272585-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "arienai kisu have 3.2% less rating than the title with the earliest broadcast date",
+            "arienai kisu have 3.2 percentage less rating than the title with the earliest broadcast date"
+        ],
+        "table_id": "1-27784580-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "fukusy\u016b no purop\u014dzu have 2.2% higher rating than the title with the most recent broadcast date",
+            "fukusy\u016b no purop\u014dzu have 2.2 percentage higher rating than the title with the most recent broadcast date"
+        ],
+        "table_id": "1-27784580-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "suki to ietara iinoni have 4% higher rating than the title with the lowest rating",
+            "suki to ietara iinoni have 4 percentage higher rating than the title with the lowest rating"
+        ],
+        "table_id": "1-27784580-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "arienai kisu have 5.8% more rating than the title with the earliest broadcast date",
+            "arienai kisu have 5.8 percentage more rating than the title with the earliest broadcast date"
+        ],
+        "table_id": "1-27784580-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "fukusy\u016b no purop\u014dzu have 3.2% higher rating than the title with the most recent broadcast date",
+            "fukusy\u016b no purop\u014dzu have 3.2 percentage higher rating than the title with the most recent broadcast date"
+        ],
+        "table_id": "1-27784580-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "suki to ietara iinoni have 5.8% higher rating than the title with the lowest rating",
+            "suki to ietara iinoni have 5.8 percentage higher rating than the title with the lowest rating"
+        ],
+        "table_id": "1-27784580-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the hurricane win 90% of their game in 2007 which get them promote to a higher division",
+            "the hurricane win 90 percentage of their game in 2007 which get them promote to a higher division"
+        ],
+        "table_id": "2-16002638-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the hurricane only win 50% of their game in 2007 and do not get promote to a higher division",
+            "the hurricane only win 50 percentage of their game in 2007 and do not get promote to a higher division"
+        ],
+        "table_id": "2-16002638-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "from 1998 to 2009 , manny pacquiao lack any defense 50% of the time",
+            "from 1998 to 2009 , manny pacquiao lack any defense 50 percentage of the time"
+        ],
+        "table_id": "1-24924576-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "papastathopoulos be the only player with a transfer fee of 3.8 m + 15% of the profit from next sale",
+            "papastathopoulos be the only player with a transfer fee of 3.8 m + 15 percentage of the profit from next sale"
+        ],
+        "table_id": "2-17426846-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "malaysia airline have 100% equity in 7 of their 9 different subsidiary",
+            "malaysia airline have 100 percentage equity in 7 of their 9 different subsidiary"
+        ],
+        "table_id": "2-153162-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "malaysia airline have 30% equity shareholding in both lsg sky chef and ge engine service malaysia , which both be not subsidiary",
+            "malaysia airline have 30 percentage equity shareholding in both lsg sky chef and ge engine service malaysia , which both be not subsidiary"
+        ],
+        "table_id": "2-153162-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "malaysia airline have 100% equity in each of their subsidy , like taj madras air catering limit",
+            "malaysia airline have 100 percentage equity in each of their subsidy , like taj madras air catering limit"
+        ],
+        "table_id": "2-153162-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "malaysia airline have 30% equity shareholding in none of the associate",
+            "malaysia airline have 30 percentage equity shareholding in none of the associate"
+        ],
+        "table_id": "2-153162-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "grass be the surface in 3 of the 14 championship or 21.43%",
+            "grass be the surface in 3 of the 14 championship or 21.43 percentage"
+        ],
+        "table_id": "2-1408278-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "ian poulter make the cut in tournament he participate in 79% of the time he compete",
+            "ian poulter make the cut in tournament he participate in 79 percentage of the time he compete"
+        ],
+        "table_id": "2-1615980-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the indian win only 50% of all their game in june of 2000",
+            "the indian win only 50 percentage of all their game in june of 2000"
+        ],
+        "table_id": "2-13955731-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the largest margin of victory be by andrew mccord john hathorn 84.4% 15.6%",
+            "the largest margin of victory be by andrew mccord john hathorn 84.4% 15.6 percentage"
+        ],
+        "table_id": "1-2668393-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "100% of the player draft 43 - 63 in 1989 be male",
+            "100 percentage of the player draft 43 - 63 in 1989 be male"
+        ],
+        "table_id": "1-2897457-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "50% of the player draft 43 - 63 in 1989 be male",
+            "50 percentage of the player draft 43 - 63 in 1989 be male"
+        ],
+        "table_id": "1-2897457-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the team playing at home end up win the game about 60% of the time",
+            "the team playing at home end up win the game about 60 percentage of the time"
+        ],
+        "table_id": "2-17455843-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 2004 sherdrick have a completion percentage that be 3.1% higher than his career total",
+            "in 2004 sherdrick have a completion percentage that be 3.1 percentage higher than his career total"
+        ],
+        "table_id": "2-1570558-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 2003 sherdrick have a completion percentage that be 3.1% higher than his career total",
+            "in 2003 sherdrick have a completion percentage that be 3.1 percentage higher than his career total"
+        ],
+        "table_id": "2-1570558-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "kamke have an 80% win rate from nov 2007 to april 2010",
+            "kamke have an 80 percentage win rate from nov 2007 to april 2010"
+        ],
+        "table_id": "2-18087075-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "during the 2000 presidential election gore win only 1 county in nevada , clark county with 51.3% of the vote",
+            "during the 2000 presidential election gore win only 1 county in nevada , clark county with 51.3 percentage of the vote"
+        ],
+        "table_id": "1-23014476-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "gore receive 17.9% of the vote in both elko and eureka county nevada , during the 2000 us residential election",
+            "gore receive 17.9 percentage of the vote in both elko and eureka county nevada , during the 2000 us residential election"
+        ],
+        "table_id": "1-23014476-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "during the 2000 presidential election gore win only 1 county in nevada , lincoln county with 51.3% of the vote",
+            "during the 2000 presidential election gore win only 1 county in nevada , lincoln county with 51.3 percentage of the vote"
+        ],
+        "table_id": "1-23014476-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "gore receive 17.9% of the vote in both esmeralda and eureka county nevada , during the 2000 us residential election",
+            "gore receive 17.9 percentage of the vote in both esmeralda and eureka county nevada , during the 2000 us residential election"
+        ],
+        "table_id": "1-23014476-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "david bielkheden fight a total of 4 game in turku , finland , 75% of which be win",
+            "david bielkheden fight a total of 4 game in turku , finland , 75 percentage of which be win"
+        ],
+        "table_id": "2-15985025-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "david bielkheden fight a total of 5 game in turku , finland , 75% of which be win",
+            "david bielkheden fight a total of 5 game in turku , finland , 75 percentage of which be win"
+        ],
+        "table_id": "2-15985025-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in aug 1972 the miami dolphins win 40% of their game",
+            "in aug 1972 the miami dolphins win 40 percentage of their game"
+        ],
+        "table_id": "2-14202514-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "ukip have the largest decrease in vote percentage with a change of - 6.3%",
+            "ukip have the largest decrease in vote percentage with a change of - 6.3 percentage"
+        ],
+        "table_id": "2-15163175-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the respect party earn 1.5% more of the share of the vote than left list",
+            "the respect party earn 1.5 percentage more of the share of the vote than left list"
+        ],
+        "table_id": "2-15163175-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "ukip have the smallest decrease in vote percentage with a change of - 4.2%",
+            "ukip have the smallest decrease in vote percentage with a change of - 4.2 percentage"
+        ],
+        "table_id": "2-15163175-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the respect party earn 4.5% more of the share of the vote than left list",
+            "the respect party earn 4.5 percentage more of the share of the vote than left list"
+        ],
+        "table_id": "2-15163175-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "5 of the artist score under 2%",
+            "5 of the artist score under 2 percentage"
+        ],
+        "table_id": "2-18593648-14.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the win team score over 100 point in 75% of the game list",
+            "the win team score over 100 point in 75 percentage of the game list"
+        ],
+        "table_id": "2-17325580-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "50% of the game list take place at wachovia center",
+            "50 percentage of the game list take place at wachovia center"
+        ],
+        "table_id": "2-17325580-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the win team score under 100 point in 50% of the game list",
+            "the win team score under 100 point in 50 percentage of the game list"
+        ],
+        "table_id": "2-17325580-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average win % with all of the match against the opposition chennai super king and delhi daredevil be 50%",
+            "the average win % with all of the match against the opposition chennai super king and delhi daredevil be 50 percentage"
+        ],
+        "table_id": "2-15860092-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average win % with all of the match against the opposition rajasthan royal and the sunrisers hyderabad be 50%",
+            "the average win % with all of the match against the opposition rajasthan royal and the sunrisers hyderabad be 50 percentage"
+        ],
+        "table_id": "2-15860092-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average win % with all of the match against the opposition sunrisers hyderabad and delhi daredevil be 50%",
+            "the average win % with all of the match against the opposition sunrisers hyderabad and delhi daredevil be 50 percentage"
+        ],
+        "table_id": "2-15860092-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average win % with all of the match against the opposition rajasthan royal and the kochi tusker kerala be 50%",
+            "the average win % with all of the match against the opposition rajasthan royal and the kochi tusker kerala be 50 percentage"
+        ],
+        "table_id": "2-15860092-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "94% of ablett 's game be play with geelong , with the rest on gold coast",
+            "94 percentage of ablett 's game be play with geelong , with the rest on gold coast"
+        ],
+        "table_id": "2-1756688-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "85% of ablett 's game be play with geelong , with the rest with gold coast",
+            "85 percentage of ablett 's game be play with geelong , with the rest with gold coast"
+        ],
+        "table_id": "2-1756688-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "25% of the swimmer have a overall rank lower than 100",
+            "25 percentage of the swimmer have a overall rank lower than 100"
+        ],
+        "table_id": "2-10289926-9.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "25% of the swimmer have an overall rank higher than 100 and 5% have a rank higher than 200",
+            "25% of the swimmer have an overall rank higher than 100 and 5 percentage have a rank higher than 200"
+        ],
+        "table_id": "2-10289926-9.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the vit\u00f3ria airport be the most crowded airport , run at 222.5% capacity",
+            "the vit\u00f3ria airport be the most crowded airport , run at 222.5 percentage capacity"
+        ],
+        "table_id": "2-15494883-26.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the recife airport be the most crowded airport , run at 81.2% capacity",
+            "the recife airport be the most crowded airport , run at 81.2 percentage capacity"
+        ],
+        "table_id": "2-15494883-26.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "about 44.45% of the player be from united state",
+            "about 44.45 percentage of the player be from united state"
+        ],
+        "table_id": "1-28498999-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the brazil population of 100% for age 15 - 17 be with unspecified 0.0034% of 321 be 10 357 874",
+            "the brazil population of 100% for age 15 - 17 be with unspecified 0.0034 percentage of 321 be 10 357 874"
+        ],
+        "table_id": "1-18950570-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in bristol county , kennedy win 1.2% of the vote",
+            "in bristol county , kennedy win 1.2 percentage of the vote"
+        ],
+        "table_id": "1-24115349-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "coakley have 62.7% of the vote in franklin county",
+            "coakley have 62.7 percentage of the vote in franklin county"
+        ],
+        "table_id": "1-24115349-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "kennedy win 1132 vote when coakley win 66.2% of vote",
+            "kennedy win 1132 vote when coakley win 66.2 percentage of vote"
+        ],
+        "table_id": "1-24115349-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest percentage of vote for brown be 8%",
+            "the lowest percentage of vote for brown be 8 percentage"
+        ],
+        "table_id": "1-24115349-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the candidate be john j phillips (r) 57.6% n e west (d) 42.4%",
+            "the candidate be john j phillips (r) 57.6% n e west (d) 42.4 percentage"
+        ],
+        "table_id": "1-1342256-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "john j phillips (r) 57.6% n e west (d) 42.4% be from the democratic party",
+            "john j phillips (r) 57.6% n e west (d) 42.4 percentage be from the democratic party"
+        ],
+        "table_id": "1-1342256-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be only 1 party with candidate be harry lane englebright (r) 57.6% n e west (d) 42.4%",
+            "there be only 1 party with candidate be harry lane englebright (r) 57.6% n e west (d) 42.4 percentage"
+        ],
+        "table_id": "1-1342256-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in the election with goodloe byron as the incumbent politician , goodloe byron (d) win with 73.7% of the vote vs elton rwampler (r)",
+            "in the election with goodloe byron as the incumbent politician , goodloe byron (d) win with 73.7 percentage of the vote vs elton rwampler (r)"
+        ],
+        "table_id": "1-1341690-20.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "verizon center 20173 for the location and attendance when the record be 49 - 36%",
+            "verizon center 20173 for the location and attendance when the record be 49 - 36 percentage"
+        ],
+        "table_id": "2-17311783-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "cologne bonn airport saw a 0.1% increase in cargo",
+            "cologne bonn airport saw a 0.1 percentage increase in cargo"
+        ],
+        "table_id": "2-1451581-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "skip jean - michel m\u00e9nard have a shot pct of 80% and 8 blank end",
+            "skip jean - michel m\u00e9nard have a shot pct of 80 percentage and 8 blank end"
+        ],
+        "table_id": "1-1505809-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "83% be the total of all shot pct occurrence when the value of blank end be 8",
+            "83 percentage be the total of all shot pct occurrence when the value of blank end be 8"
+        ],
+        "table_id": "1-1505809-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "for centru county , the percentage of total export be 13.8% and the percentage of total import be 11.2%",
+            "for centru county , the percentage of total export be 13.8% and the percentage of total import be 11.2 percentage"
+        ],
+        "table_id": "1-24239748-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in december 2011 , firefox be at 23.24% and chrome be at 25.08%",
+            "in december 2011 , firefox be at 23.24% and chrome be at 25.08 percentage"
+        ],
+        "table_id": "2-1876262-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "safari have a 1.53% while firefox be at 24.66%",
+            "safari have a 1.53% while firefox be at 24.66 percentage"
+        ],
+        "table_id": "2-1876262-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in september 2011 , internet explorer be 38.85% when firefox be 24.98%",
+            "in september 2011 , internet explorer be 38.85% when firefox be 24.98 percentage"
+        ],
+        "table_id": "2-1876262-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "july 2013 saw safari at 4.27% and internet explorer at 20.27%",
+            "july 2013 saw safari at 4.27% and internet explorer at 20.27 percentage"
+        ],
+        "table_id": "2-1876262-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in august 2011 internet explorer have 1.40%",
+            "in august 2011 internet explorer have 1.40 percentage"
+        ],
+        "table_id": "2-1876262-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the firefox be 37.85% when chrome be 25.90%",
+            "the firefox be 37.85% when chrome be 25.90 percentage"
+        ],
+        "table_id": "2-1876262-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "safari be 5.87% when internet explorer be 30.27%",
+            "safari be 5.87% when internet explorer be 30.27 percentage"
+        ],
+        "table_id": "2-1876262-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the firefox % be 23.24% when chrome be 21.51%",
+            "the firefox % be 23.24% when chrome be 21.51 percentage"
+        ],
+        "table_id": "2-1876262-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "4.74% be the percentage of safari when firefox be 24.66%",
+            "4.74% be the percentage of safari when firefox be 24.66 percentage"
+        ],
+        "table_id": "2-1876262-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the poverty rate be 11.4% have a status of transitional",
+            "the poverty rate be 11.4 percentage have a status of transitional"
+        ],
+        "table_id": "1-22815568-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "delaware county have a poverty rate of 12.9%",
+            "delaware county have a poverty rate of 12.9 percentage"
+        ],
+        "table_id": "1-22815568-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "at - risk be the status if the poverty rate be 11.4%",
+            "at - risk be the status if the poverty rate be 11.4 percentage"
+        ],
+        "table_id": "1-22815568-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "if the unemployment rate be 12.9% , chenago be the county",
+            "if the unemployment rate be 12.9 percentage , chenago be the county"
+        ],
+        "table_id": "1-22815568-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "steuben be the county have the unemployment rate lower that 4.8%",
+            "steuben be the county have the unemployment rate lower that 4.8 percentage"
+        ],
+        "table_id": "1-22815568-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the hunan , zhangjiajie , wulingyuan area 's tujia population be 41910 , which be 0.52% of china 's tujia population",
+            "the hunan , zhangjiajie , wulingyuan area 's tujia population be 41910 , which be 0.52 percentage of china 's tujia population"
+        ],
+        "table_id": "1-152834-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "lichuan have 4.83% of the country 's population total 388035",
+            "lichuan have 4.83 percentage of the country 's population total 388035"
+        ],
+        "table_id": "1-152834-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average rating for \u30b5\u30d7\u30ea 's 11 episode be 14.2%",
+            "the average rating for \u30b5\u30d7\u30ea 's 11 episode be 14.2 percentage"
+        ],
+        "table_id": "2-18540022-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the average rating be 10.3% , the average episode be more than 10.0",
+            "when the average rating be 10.3 percentage , the average episode be more than 10.0"
+        ],
+        "table_id": "2-18540022-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "9.3% of registered voter in san jacinto city have a party affiliation of other , and 19.1% have no party preference",
+            "9.3% of registered voter in san jacinto city have a party affiliation of other , and 19.1 percentage have no party preference"
+        ],
+        "table_id": "1-27003186-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "7.6% of the 50.7% of registered voter in palm desert be other",
+            "7.6% of the 50.7 percentage of registered voter in palm desert be other"
+        ],
+        "table_id": "1-27003186-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "7.6% be other when register voter be 50.1%",
+            "7.6% be other when register voter be 50.1 percentage"
+        ],
+        "table_id": "1-27003186-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "9.3% be other when no party preference be 20.1%",
+            "9.3% be other when no party preference be 20.1 percentage"
+        ],
+        "table_id": "1-27003186-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the candidate for new jersey 1 district be steve rothman (d) 65% steve lonegan (r) 34%",
+            "the candidate for new jersey 1 district be steve rothman (d) 65% steve lonegan (r) 34 percentage"
+        ],
+        "table_id": "1-1341453-32.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "99% be the protein identity with a length of 5304bp / 377aa",
+            "99 percentage be the protein identity with a length of 5304bp / 377aa"
+        ],
+        "table_id": "1-16849531-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "tacna have a 3% change in the country 's population since 1993",
+            "tacna have a 3 percentage change in the country 's population since 1993"
+        ],
+        "table_id": "1-2637317-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "of the respondent for george h w bush , 1% have no opinion",
+            "of the respondent for george h w bush , 1 percentage have no opinion"
+        ],
+        "table_id": "2-1855342-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "1% of the respondent for respondent for george hwbush have below average opinion",
+            "1 percentage of the respondent for respondent for george hwbush have below average opinion"
+        ],
+        "table_id": "2-1855342-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average total of the census in 2001 be 31 , 670 with 10412 (32.88%) serb",
+            "the average total of the census in 2001 be 31 , 670 with 10412 (32.88 percentage) serb"
+        ],
+        "table_id": "2-149283-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "terry butcher have a win % of 50% during the period october 2007 - march 2009",
+            "terry butcher have a win % of 50 percentage during the period october 2007 - march 2009"
+        ],
+        "table_id": "2-1113940-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "0 , 35723 be 1 value for yellow , which be at 1.09%",
+            "0 , 35723 be 1 value for yellow , which be at 1.09 percentage"
+        ],
+        "table_id": "2-18950570-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "57% of the population be urban when the rural percentage be 43%",
+            "57% of the population be urban when the rural percentage be 43 percentage"
+        ],
+        "table_id": "1-16645-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "46% be the rural population percentage in 1979",
+            "46 percentage be the rural population percentage in 1979"
+        ],
+        "table_id": "1-16645-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the total population number be 14685 , 1 percentage figure be give for the urban population and it be list as 54%",
+            "when the total population number be 14685 , 1 percentage figure be give for the urban population and it be list as 54 percentage"
+        ],
+        "table_id": "1-16645-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 4 year where the urban population of 57% be list",
+            "there be 4 year where the urban population of 57 percentage be list"
+        ],
+        "table_id": "1-16645-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the urban population be at 57% for 2 year",
+            "the urban population be at 57 percentage for 2 year"
+        ],
+        "table_id": "1-16645-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "bada have a value of 0.05% on july - 13",
+            "bada have a value of 0.05 percentage on july - 13"
+        ],
+        "table_id": "1-11381701-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "window have a percentage of 1.85% when other be 0.7%",
+            "window have a percentage of 1.85% when other be 0.7 percentage"
+        ],
+        "table_id": "1-11381701-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "international data corporation show that blackberry have a percentage of 2.9% on may - 13",
+            "international data corporation show that blackberry have a percentage of 2.9 percentage on may - 13"
+        ],
+        "table_id": "1-11381701-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "android be 25.28% use and window in 1.15%",
+            "android be 25.28% use and window in 1.15 percentage"
+        ],
+        "table_id": "1-11381701-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "bada have a value of 25.28% on may - 13",
+            "bada have a value of 25.28 percentage on may - 13"
+        ],
+        "table_id": "1-11381701-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "window have a percentage of 1.80% lower when other be 0.3%",
+            "window have a percentage of 1.80% lower when other be 0.3 percentage"
+        ],
+        "table_id": "1-11381701-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the cumann na ngaedheal government receive 27% share of vote and have 46 seat",
+            "the cumann na ngaedheal government receive 27 percentage share of vote and have 46 seat"
+        ],
+        "table_id": "2-147622-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "fianna f\u00e1il government have 57 seat in 1933 accounting for 30.1% of the vote",
+            "fianna f\u00e1il government have 57 seat in 1933 accounting for 30.1 percentage of the vote"
+        ],
+        "table_id": "2-147622-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 6th d\u00e1il have 27.0% of the vote with 61 seat",
+            "the 6th d\u00e1il have 27.0 percentage of the vote with 61 seat"
+        ],
+        "table_id": "2-147622-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 6th d\u00e1il have 28.9% of the vote with 61 seat",
+            "the 6th d\u00e1il have 28.9 percentage of the vote with 61 seat"
+        ],
+        "table_id": "2-147622-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the cumann na ngaedheal government gain 27.0% of the vote , hold 46 seat and be the 4th d\u00e1il",
+            "the cumann na ngaedheal government gain 27.0 percentage of the vote , hold 46 seat and be the 4th d\u00e1il"
+        ],
+        "table_id": "2-147622-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 6th d\u00e1il share of vote be 30.1%",
+            "the 6th d\u00e1il share of vote be 30.1 percentage"
+        ],
+        "table_id": "2-147622-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the model with 90% after 1 year have 80% after 3 year",
+            "the model with 90% after 1 year have 80 percentage after 3 year"
+        ],
+        "table_id": "2-14839379-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the amethyst 's composition be at 99.99% silver with a price of 94.95 in 2008",
+            "the amethyst 's composition be at 99.99 percentage silver with a price of 94.95 in 2008"
+        ],
+        "table_id": "2-11916083-49.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the issue price for the latest piece with a composition of 99.99% silver be less than 95",
+            "the issue price for the latest piece with a composition of 99.99 percentage silver be less than 95"
+        ],
+        "table_id": "2-11916083-49.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "100% of ticket be sell for the philadelphia , pennsylvania show , gross 348674",
+            "100 percentage of ticket be sell for the philadelphia , pennsylvania show , gross 348674"
+        ],
+        "table_id": "2-18277458-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in philadelphia , pennsylvania 100% of the ticket be sell",
+            "in philadelphia , pennsylvania 100 percentage of the ticket be sell"
+        ],
+        "table_id": "2-18277458-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the share of vote in the first 2008 election be 47.9%",
+            "the share of vote in the first 2008 election be 47.9 percentage"
+        ],
+        "table_id": "2-1725076-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the share of vote in the second 2000 election be 43.3%",
+            "the share of vote in the second 2000 election be 43.3 percentage"
+        ],
+        "table_id": "2-1725076-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "ndc opposition be the outcome of the election with 43.3% share of vote",
+            "ndc opposition be the outcome of the election with 43.3 percentage share of vote"
+        ],
+        "table_id": "2-1725076-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the share of vote in the 2008 (1) election be more than 47.9%",
+            "the share of vote in the 2008 (1) election be more than 47.9 percentage"
+        ],
+        "table_id": "2-1725076-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the share of vote in the 2000 (2nd) election be more than 43.3%",
+            "the share of vote in the 2000 (2nd) election be more than 43.3 percentage"
+        ],
+        "table_id": "2-1725076-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "company epcor have group equity shareholding of 100%",
+            "company epcor have group equity shareholding of 100 percentage"
+        ],
+        "table_id": "2-16882-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the incorporate in netherlands have a group 's equity shareholding of 100% and a principal activities of flight academy",
+            "the incorporate in netherlands have a group 's equity shareholding of 100 percentage and a principal activities of flight academy"
+        ],
+        "table_id": "2-16882-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the group equity shareholding of 99% have a company of epcor",
+            "the group equity shareholding of 99 percentage have a company of epcor"
+        ],
+        "table_id": "2-16882-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the incorporate in netherlands have a group 's equity shareholding of 99% and a principal activities of flight academy",
+            "the incorporate in netherlands have a group 's equity shareholding of 99 percentage and a principal activities of flight academy"
+        ],
+        "table_id": "2-16882-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "for each candidate with a 3.29% average , the number of vote per candidate be 1416.0",
+            "for each candidate with a 3.29 percentage average , the number of vote per candidate be 1416.0"
+        ],
+        "table_id": "1-28819393-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average % of vote per candidate be 3.29% when the average vote per candidate be 1416",
+            "the average % of vote per candidate be 3.29 percentage when the average vote per candidate be 1416"
+        ],
+        "table_id": "1-28819393-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 1987 , the average vote per candidate be less than 1.35%",
+            "in 1987 , the average vote per candidate be less than 1.35 percentage"
+        ],
+        "table_id": "1-28819393-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    }
+]

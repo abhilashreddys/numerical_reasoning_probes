@@ -1,0 +1,32 @@
+[
+    {
+        "hypothesis": [
+            "the top 5 winner in 1995 all make over 7 million dollar",
+            "the top 5 winner in 1995 all make over $7 million"
+        ],
+        "table_id": "2-14611590-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the top 5 winner in 1995 all make less than 7 million dollar as a combined total",
+            "the top 5 winner in 1995 all make less than $7 million as a combined total"
+        ],
+        "table_id": "2-14611590-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "champion jenny shin share 14000 dollar when she win",
+            "champion jenny shin share $14000  when she win"
+        ],
+        "table_id": "2-15315276-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    }
+]

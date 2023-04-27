@@ -1,0 +1,992 @@
+[
+    {
+        "hypothesis": [
+            "team australia make up 2 / 17 or 11.76% of the total of the team",
+            "team australia make up 2 / 17 or 11.76 percentage of the total of the team"
+        ],
+        "table_id": "2-12032042-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "pkv racing make up 2 / 17 or 11.76% of the total of the team",
+            "pkv racing make up 2 / 17 or 11.76 percentage of the total of the team"
+        ],
+        "table_id": "2-12032042-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "shaun murphy win 50% of the game in the table",
+            "shaun murphy win 50 percentage of the game in the table"
+        ],
+        "table_id": "2-1795208-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "of the tony award nomination , little me win 25% of them",
+            "of the tony award nomination , little me win 25 percentage of them"
+        ],
+        "table_id": "2-13076596-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "of the tony award nomination , little me win 40% of them",
+            "of the tony award nomination , little me win 40 percentage of them"
+        ],
+        "table_id": "2-13076596-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 3rd oregon ballot measure do not pass with 27.84% yes vote",
+            "the 3rd oregon ballot measure do not pass with 27.84 percentage yes vote"
+        ],
+        "table_id": "1-256286-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 10th oregon ballot measure pass with 55.62% of vote be yes",
+            "the 10th oregon ballot measure pass with 55.62 percentage of vote be yes"
+        ],
+        "table_id": "1-256286-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 26th oregon ballot measure do not pass because only 22.53% of the vote be yes",
+            "the 26th oregon ballot measure do not pass because only 22.53 percentage of the vote be yes"
+        ],
+        "table_id": "1-256286-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 3rd oregon ballot measure do not pass with 39.49% yes vote",
+            "the 3rd oregon ballot measure do not pass with 39.49 percentage yes vote"
+        ],
+        "table_id": "1-256286-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 10th oregon ballot measure fail with 45.62% of vote be yes",
+            "the 10th oregon ballot measure fail with 45.62 percentage of vote be yes"
+        ],
+        "table_id": "1-256286-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 26th oregon ballot measure do pas because over 60% of the vote be yes",
+            "the 26th oregon ballot measure do pas because over 60 percentage of the vote be yes"
+        ],
+        "table_id": "1-256286-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "3 candidate garner less than 1.0% of the vote each , in their bid for election between 1994 and 2000",
+            "3 candidate garner less than 1.0 percentage of the vote each , in their bid for election between 1994 and 2000"
+        ],
+        "table_id": "2-1238577-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "only 1 candidate win more than 5% of the vote when she run for federal office",
+            "only 1 candidate win more than 5 percentage of the vote when she run for federal office"
+        ],
+        "table_id": "2-1238577-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "5 candidate garner less than 0.5% of the vote each in their bid for election between 1994 and 2000",
+            "5 candidate garner less than 0.5 percentage of the vote each in their bid for election between 1994 and 2000"
+        ],
+        "table_id": "2-1238577-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "only 1 male candidate win more than 5% of the vote when he run for federal office",
+            "only 1 male candidate win more than 5 percentage of the vote when he run for federal office"
+        ],
+        "table_id": "2-1238577-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "50% of the championship match be play on a clay surface",
+            "50 percentage of the championship match be play on a clay surface"
+        ],
+        "table_id": "2-1498593-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "over 60% of the band be be",
+            "over 60 percentage of the band be be"
+        ],
+        "table_id": "2-14155567-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "joakim bonnier sometimes compete with the eponymous joakim bonnier racing team , but only in 25% of the year mention (4 out of 16)",
+            "joakim bonnier sometimes compete with the eponymous joakim bonnier racing team , but only in 25 percentage of the year mention (4 out of 16)"
+        ],
+        "table_id": "2-1152185-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "joakim bonnier compete with the eponymous joakim bonnier racing team , but only in 55% of the year mention",
+            "joakim bonnier compete with the eponymous joakim bonnier racing team , but only in 55 percentage of the year mention"
+        ],
+        "table_id": "2-1152185-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "25% of the route during the 2007 eneco tour be race on wednesday",
+            "25 percentage of the route during the 2007 eneco tour be race on wednesday"
+        ],
+        "table_id": "2-12608303-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "25% of the route during the 2007 eneco tour be race on monday",
+            "25 percentage of the route during the 2007 eneco tour be race on monday"
+        ],
+        "table_id": "2-12608303-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "at the master and the us open , azinger make the cut 66.6% of the time",
+            "at the master and the us open , azinger make the cut 66.6 percentage of the time"
+        ],
+        "table_id": "2-1551597-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "at all major tournament paul azinger make the cut 69.6% of the time",
+            "at all major tournament paul azinger make the cut 69.6 percentage of the time"
+        ],
+        "table_id": "2-1551597-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "during the 1972 seasont he new york jet win 50% of their game",
+            "during the 1972 seasont he new york jet win 50 percentage of their game"
+        ],
+        "table_id": "2-13963364-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "during the 1972 season the new york jet win more than 50% of their game",
+            "during the 1972 season the new york jet win more than 50 percentage of their game"
+        ],
+        "table_id": "2-13963364-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "broken arrow make only ~18% of the gross value that independence day",
+            "broken arrow make only ~18 percentage of the gross value that independence day"
+        ],
+        "table_id": "2-169568-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "broken arrow make ~35% of the gross value that independence day make",
+            "broken arrow make ~35 percentage of the gross value that independence day make"
+        ],
+        "table_id": "2-169568-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "mel watt win the largest percentage of vote of any candidate with 79.7%",
+            "mel watt win the largest percentage of vote of any candidate with 79.7 percentage"
+        ],
+        "table_id": "1-25030512-36.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "mel watt win the lowest percentage of vote of all candidate with greater than 79.7%",
+            "mel watt win the lowest percentage of vote of all candidate with greater than 79.7 percentage"
+        ],
+        "table_id": "1-25030512-36.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "42.86% of the player of cricket in world war ii be from sussex",
+            "42.86 percentage of the player of cricket in world war ii be from sussex"
+        ],
+        "table_id": "2-10791018-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "90% of the player of cricket in world war ii be from sussex",
+            "90 percentage of the player of cricket in world war ii be from sussex"
+        ],
+        "table_id": "2-10791018-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the diffrence between the lowest female awareness in jharkhand and the highest femal awareness in manipur be 66%",
+            "the diffrence between the lowest female awareness in jharkhand and the highest femal awareness in manipur be 66 percentage"
+        ],
+        "table_id": "2-14768306-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "10 state have male awareness hiv at 90% or above",
+            "10 state have male awareness hiv at 90 percentage or above"
+        ],
+        "table_id": "2-14768306-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 8 state , the female hiv awareness be below 50%",
+            "in 8 state , the female hiv awareness be below 50 percentage"
+        ],
+        "table_id": "2-14768306-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "while there be no state where the female awareness be greater than male awareness hiv , manipur be tie with both sex have 99% awareness",
+            "while there be no state where the female awareness be greater than male awareness hiv , manipur be tie with both sex have 99 percentage awareness"
+        ],
+        "table_id": "2-14768306-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the diffrence between the lowest female awareness in jharkhand and the highest femal awareness in manipur be 33%",
+            "the diffrence between the lowest female awareness in jharkhand and the highest femal awareness in manipur be 33 percentage"
+        ],
+        "table_id": "2-14768306-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "9 state have male awareness hiv at 90% or above",
+            "9 state have male awareness hiv at 90 percentage or above"
+        ],
+        "table_id": "2-14768306-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 10 state , the female hiv awareness be below 50%",
+            "in 10 state , the female hiv awareness be below 50 percentage"
+        ],
+        "table_id": "2-14768306-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "while there be no state where the female awareness be greater than male awareness hiv , manipur be tie with both sex have 95% awareness",
+            "while there be no state where the female awareness be greater than male awareness hiv , manipur be tie with both sex have 95 percentage awareness"
+        ],
+        "table_id": "2-14768306-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "greg mcelroy start in 76.5% of the game he play in",
+            "greg mcelroy start in 76.5 percentage of the game he play in"
+        ],
+        "table_id": "2-16337186-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "greg mcelroy start in 50% of the game he play in",
+            "greg mcelroy start in 50 percentage of the game he play in"
+        ],
+        "table_id": "2-16337186-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "na h - eileanan siar have by far the highest percentage of gaelic speaker at 59.7%",
+            "na h - eileanan siar have by far the highest percentage of gaelic speaker at 59.7 percentage"
+        ],
+        "table_id": "2-11934811-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "although the city of glasgow have the largest population , only 1% of them speak gaelic",
+            "although the city of glasgow have the largest population , only 1 percentage of them speak gaelic"
+        ],
+        "table_id": "2-11934811-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "5 council area have only 0.3% gaelic speaker : fife , north lanarkshire , dumfries and galloway , east ayrshire and midlothian",
+            "5 council area have only 0.3 percentage gaelic speaker : fife , north lanarkshire , dumfries and galloway , east ayrshire and midlothian"
+        ],
+        "table_id": "2-11934811-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the top 3 council area have a total population of 813285 and of these , 4.2% be gaelic speaker",
+            "the top 3 council area have a total population of 813285 and of these , 4.2 percentage be gaelic speaker"
+        ],
+        "table_id": "2-11934811-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "falkirk have by far the highest percentage of gaelic speaker at 59.7%",
+            "falkirk have by far the highest percentage of gaelic speaker at 59.7 percentage"
+        ],
+        "table_id": "2-11934811-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "although the city of na h - eileanan siar have the largest population , only 1% of them speak gaelic",
+            "although the city of na h - eileanan siar have the largest population , only 1 percentage of them speak gaelic"
+        ],
+        "table_id": "2-11934811-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "5 council area have only 0.3% gaelic speaker : fife , north lanarkshire , dumfries and galloway , east ayrshire and east lothian",
+            "5 council area have only 0.3 percentage gaelic speaker : fife , north lanarkshire , dumfries and galloway , east ayrshire and east lothian"
+        ],
+        "table_id": "2-11934811-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the top 3 council area have a total population of 90000 and of these , 4.2% be gaelic speaker",
+            "the top 3 council area have a total population of 90000 and of these , 4.2 percentage be gaelic speaker"
+        ],
+        "table_id": "2-11934811-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "combine , videocon , mtnl and loop mobile have less than 1.5% of india 's mobile network market share in october , 2013",
+            "combine , videocon , mtnl and loop mobile have less than 1.5 percentage of india 's mobile network market share in october , 2013"
+        ],
+        "table_id": "1-23801721-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "aircel , mtnl and loop mobile have less than 1.5% of india 's mobile network market share in october , 2013",
+            "aircel , mtnl and loop mobile have less than 1.5 percentage of india 's mobile network market share in october , 2013"
+        ],
+        "table_id": "1-23801721-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "a marginal ordinary income tax rate of 28% be use when married filing separately with an income of 68525 - 104425 or for head of household with an income 117451 - 190200",
+            "a marginal ordinary income tax rate of 28 percentage be use when married filing separately with an income of 68525 - 104425 or for head of household with an income 117451 - 190200"
+        ],
+        "table_id": "1-11647327-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest marginal ordinary income tax rate be 28%",
+            "the highest marginal ordinary income tax rate be 28 percentage"
+        ],
+        "table_id": "1-11647327-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when republican joe kenney be on 31% , his opponent have a lead marging of 31",
+            "when republican joe kenney be on 31 percentage , his opponent have a lead marging of 31"
+        ],
+        "table_id": "1-17538810-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "democrat john lynch be at 60% and republican joe kenney be at 27% in the poll from american research group",
+            "democrat john lynch be at 60% and republican joe kenney be at 27 percentage in the poll from american research group"
+        ],
+        "table_id": "1-17538810-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the survey usa poll source have republican joe kenney at 28%",
+            "the survey usa poll source have republican joe kenney at 28 percentage"
+        ],
+        "table_id": "1-17538810-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "republican joe kenney be at a 23% for the strategic vision september 22 - 24 , 2008 poll make democrat john lynch ahead by a 45 lead margin",
+            "republican joe kenney be at a 23 percentage for the strategic vision september 22 - 24 , 2008 poll make democrat john lynch ahead by a 45 lead margin"
+        ],
+        "table_id": "1-17538810-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "28% be the lead margin for republican joe kenney by strategic vision",
+            "28 percentage be the lead margin for republican joe kenney by strategic vision"
+        ],
+        "table_id": "1-17538810-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "democrat joe kenney for john lynch be 27% be 62%",
+            "democrat joe kenney for john lynch be 27% be 62 percentage"
+        ],
+        "table_id": "1-17538810-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the poll for republican joe kenney be 16% be survey usa",
+            "the poll for republican joe kenney be 16 percentage be survey usa"
+        ],
+        "table_id": "1-17538810-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lead margin for democrat john lynch be 66% be 31.0",
+            "the lead margin for democrat john lynch be 66 percentage be 31.0"
+        ],
+        "table_id": "1-17538810-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the most lead margin for democrat joe kenney be 23% be 45.0",
+            "the most lead margin for democrat joe kenney be 23 percentage be 45.0"
+        ],
+        "table_id": "1-17538810-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the incumbent be denver s church when the candidate be henry e barbour (r) 52.1% henry hawson (d) 47.9%",
+            "the incumbent be denver s church when the candidate be henry e barbour (r) 52.1% henry hawson (d) 47.9 percentage"
+        ],
+        "table_id": "1-1346118-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "re - elect as republican republican gain be the result in the race john a elston (r) 88.4% luella twin (s) 11.6%",
+            "re - elect as republican republican gain be the result in the race john a elston (r) 88.4% luella twin (s) 11.6 percentage"
+        ],
+        "table_id": "1-1346118-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "clarence f lea win 87% of the vote in his re - election run versus thomas f feeley",
+            "clarence f lea win 87 percentage of the vote in his re - election run versus thomas f feeley"
+        ],
+        "table_id": "1-1346118-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be no examinee in the table that have a pas percentage of 78.35% with less than 297 student after 2005",
+            "there be no examinee in the table that have a pas percentage of 78.35 percentage with less than 297 student after 2005"
+        ],
+        "table_id": "2-17836592-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "297 student pass with a pas percentage of 78.35% which be the highest list after 2005",
+            "297 student pass with a pas percentage of 78.35 percentage which be the highest list after 2005"
+        ],
+        "table_id": "2-17836592-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the double (aids related) number be 41000 , and the paternal (total) be larger than 442000 then there be 24.6% orphan",
+            "when the double (aids related) number be 41000 , and the paternal (total) be larger than 442000 then there be 24.6 percentage orphan"
+        ],
+        "table_id": "2-18564154-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the constitution be amend when the percentage of yes vote be above 69.82%",
+            "the constitution be amend when the percentage of yes vote be above 69.82 percentage"
+        ],
+        "table_id": "1-256286-60.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 31 march 2009 tier 1 ratio for anglo irish bank be 3.9%",
+            "the 31 march 2009 tier 1 ratio for anglo irish bank be 3.9 percentage"
+        ],
+        "table_id": "1-22368322-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the date of report , 30 june 2009 , show that the institution anglo irish bank have a tier 1 ratio of 3.9%",
+            "the date of report , 30 june 2009 , show that the institution anglo irish bank have a tier 1 ratio of 3.9 percentage"
+        ],
+        "table_id": "1-22368322-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the institution be the tier 1 ratio of 3.9% be irish life and permanent",
+            "the institution be the tier 1 ratio of 3.9 percentage be irish life and permanent"
+        ],
+        "table_id": "1-22368322-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lead margin for october 6 , 2008 be 1 and republican : ted stevens be 44%",
+            "the lead margin for october 6 , 2008 be 1 and republican : ted stevens be 44 percentage"
+        ],
+        "table_id": "2-16751596-13.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the poll source for october 6 , 2008 be ramussen report and republican : ted stevens be 44%",
+            "the poll source for october 6 , 2008 be ramussen report and republican : ted stevens be 44 percentage"
+        ],
+        "table_id": "2-16751596-13.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the voter percentage when the number of voter be 312041 be 14.3%",
+            "the voter percentage when the number of voter be 312041 be 14.3 percentage"
+        ],
+        "table_id": "2-1202333-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "cliff breitkreuz receive 12.1% of the vote",
+            "cliff breitkreuz receive 12.1 percentage of the vote"
+        ],
+        "table_id": "2-1202333-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the win percentage for doncaster rover on 27 december 2001 be 47.3% , with 241 match and 62 drawn",
+            "the win percentage for doncaster rover on 27 december 2001 be 47.3 percentage , with 241 match and 62 drawn"
+        ],
+        "table_id": "2-1175663-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the largest win percentage for those with 13 drawn be 27.1%",
+            "the largest win percentage for those with 13 drawn be 27.1 percentage"
+        ],
+        "table_id": "2-1175663-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the field poll from september 18 - october 5 , 2009 see steve westly at -- , antonio villaraigosa at -- , and 47% for jerry brown",
+            "the field poll from september 18 - october 5 , 2009 see steve westly at -- , antonio villaraigosa at -- , and 47 percentage for jerry brown"
+        ],
+        "table_id": "2-12299351-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the poll source capital weekly have antonio villaraigosa as -- , steve westly as -- , and jerry brown at 47%",
+            "the poll source capital weekly have antonio villaraigosa as -- , steve westly as -- , and jerry brown at 47 percentage"
+        ],
+        "table_id": "2-12299351-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "warren r davis (j) 76.1% cobb 23.9% be the candidate of south carolina 6",
+            "warren r davis (j) 76.1% cobb 23.9 percentage be the candidate of south carolina 6"
+        ],
+        "table_id": "1-2668243-22.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the driver with the highest percentage be sebastian vettel in 2011 with 11 win from 19 entries , a percentage of 57.89%",
+            "the driver with the highest percentage be sebastian vettel in 2011 with 11 win from 19 entries , a percentage of 57.89 percentage"
+        ],
+        "table_id": "2-13599687-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "only 1 district have t / vap value of 67.0%",
+            "only 1 district have t / vap value of 67.0 percentage"
+        ],
+        "table_id": "1-2683116-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the turnout of exactly 85.7% have an e / vap value of 56.6%",
+            "the turnout of exactly 85.7% have an e / vap value of 56.6 percentage"
+        ],
+        "table_id": "1-2683116-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the region of antofagasta have a t / vap value of 45.3% and 124270 total vote",
+            "the region of antofagasta have a t / vap value of 45.3 percentage and 124270 total vote"
+        ],
+        "table_id": "1-2683116-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "valpara\u00edso region have the highest t / vap value of 67.0%",
+            "valpara\u00edso region have the highest t / vap value of 67.0 percentage"
+        ],
+        "table_id": "1-2683116-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "2 total vote value be associate with the t / vap value of 56.6%",
+            "2 total vote value be associate with the t / vap value of 56.6 percentage"
+        ],
+        "table_id": "1-2683116-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 2000 , the population of ok be 68190 which be a a078 + 17.22% change from 1990 - 2000",
+            "in 2000 , the population of ok be 68190 which be a a078 + 17.22 percentage change from 1990 - 2000"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 2000 population in ok with a 1990 - 2000 percent change of a078 + 17.22% be 68190",
+            "the 2000 population in ok with a 1990 - 2000 percent change of a078 + 17.22 percentage be 68190"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 1990 - 2000 percent change of a result that be estimate to be 45393 in 2007 be a304 + 6.75%",
+            "the 1990 - 2000 percent change of a result that be estimate to be 45393 in 2007 be a304 + 6.75 percentage"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 2000 population in ok with a 1990 - 2000 percent change of a078 + 17.22% be less than 68190",
+            "the 2000 population in ok with a 1990 - 2000 percent change of a078 + 17.22 percentage be less than 68190"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 1990 - 2000 percent change of a result that be estimate to be greater than 45393 in 2007 be a304 + 6.75%",
+            "the 1990 - 2000 percent change of a result that be estimate to be greater than 45393 in 2007 be a304 + 6.75 percentage"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "canada spend 5.7% more on international tourism 2011 and 2012",
+            "canada spend 5.7 percentage more on international tourism 2011 and 2012"
+        ],
+        "table_id": "1-29789-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the polling firm local election have a psoe of 37.1%",
+            "the polling firm local election have a psoe of 37.1 percentage"
+        ],
+        "table_id": "2-1286662-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "on june 4 , the psoe be 36.1%",
+            "on june 4 , the psoe be 36.1 percentage"
+        ],
+        "table_id": "2-1286662-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lead of the election result be between 13.8% and 18.1%",
+            "the lead of the election result be between 13.8% and 18.1 percentage"
+        ],
+        "table_id": "2-1286662-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "june 4 have psoe of 37.9%",
+            "june 4 have psoe of 37.9 percentage"
+        ],
+        "table_id": "2-1286662-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in the city of agadir , the change (12 / 11) be 0 8.7%",
+            "in the city of agadir , the change (12 / 11) be 0 8.7 percentage"
+        ],
+        "table_id": "2-18600121-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "between 2011 / 12 , spain 's marrakesh menara airport saw a 5.8% increase",
+            "between 2011 / 12 , spain 's marrakesh menara airport saw a 5.8 percentage increase"
+        ],
+        "table_id": "2-18600121-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    }
+]

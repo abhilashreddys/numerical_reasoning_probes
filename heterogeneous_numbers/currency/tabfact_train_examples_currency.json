@@ -1,0 +1,312 @@
+[
+    {
+        "hypothesis": [
+            "harry cooper come second in the 1938 us open and win 850 dollar",
+            "harry cooper come second in the 1938 us open and win $850"
+        ],
+        "table_id": "2-18007213-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the person who finnished in last place win 130 dollar",
+            "the person who finnished in last place win $130"
+        ],
+        "table_id": "2-18007213-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "toney penna be the only player to receive more than 640 dollar",
+            "toney penna be the only player to receive more than $640"
+        ],
+        "table_id": "2-18007213-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "6 different team be represent on 1 dollar royal canadian mint ice hockey coin",
+            "6 different team be represent on $1  royal canadian mint ice hockey coin"
+        ],
+        "table_id": "2-12991375-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "all 1 dollar royal canadian mint ice hockey coin be issue in 2008",
+            "all $1  royal canadian mint ice hockey coin be issue in 2008"
+        ],
+        "table_id": "2-12991375-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "artist name be not record for 1 dollar royal canadian mint ice hockey coin",
+            "artist name be not record for $1  royal canadian mint ice hockey coin"
+        ],
+        "table_id": "2-12991375-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "6 issue price be represent on 1 dollar royal canadian mint ice hockey coin",
+            "6 issue price be represent on $1  royal canadian mint ice hockey coin"
+        ],
+        "table_id": "2-12991375-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "almost all 1 dollar royal canadian mint ice hockey coin be issue in 2008",
+            "almost all $1  royal canadian mint ice hockey coin be issue in 2008"
+        ],
+        "table_id": "2-12991375-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "issue price be not record for 1 dollar royal canadian mint ice hockey coin",
+            "issue price be not record for $1  royal canadian mint ice hockey coin"
+        ],
+        "table_id": "2-12991375-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 2004 , jimmy spencer win 54035 dollar more than the 12700 he win in 2005",
+            "in 2004 , jimmy spencer win $54035  more than the 12700 he win in 2005"
+        ],
+        "table_id": "2-1458412-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "2 us dollar would be equal to 6.50 surinamese dollar",
+            "$2  would be equal to 6.50 surinamese dollar"
+        ],
+        "table_id": "1-1222653-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "2 us dollar would be equal to 38.6 uruguayan peso",
+            "$2  would be equal to 38.6 uruguayan peso"
+        ],
+        "table_id": "1-1222653-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the difference in prize money for 1st and 2nd be 5400 dollar",
+            "the difference in prize money for 1st and 2nd be $5400"
+        ],
+        "table_id": "2-17290101-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the difference in prize money from 1st and last place be 6400 dollar",
+            "the difference in prize money from 1st and last place be $6400"
+        ],
+        "table_id": "2-17290101-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "of the top 10 finisher , nobody win less than 2500 dollar",
+            "of the top 10 finisher , nobody win less than $2500"
+        ],
+        "table_id": "2-17277149-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 2008 , india 's remittance be 27.29 billion dollar more than china 's",
+            "in 2008 , india 's remittance be $27.29 billion more than china 's"
+        ],
+        "table_id": "1-2941963-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "vietnam and south korea be the only country whose remittance stay below 10 billion dollar a year for the entire 4 year",
+            "vietnam and south korea be the only country whose remittance stay below $10 billion a year for the entire 4 year"
+        ],
+        "table_id": "1-2941963-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 2008 , china 's remittance be 27.29 billion dollar more than india 's",
+            "in 2008 , china 's remittance be $27.29 billion more than india 's"
+        ],
+        "table_id": "1-2941963-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "vietnam and south korea be the only country whose remittance stay above 10 billion dollar a year for the entire 4 year",
+            "vietnam and south korea be the only country whose remittance stay above $10 billion a year for the entire 4 year"
+        ],
+        "table_id": "1-2941963-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "murphy oil 's revenue be 22 billion dollar more than dillard 's",
+            "murphy oil 's revenue be $22 billion more than dillard 's"
+        ],
+        "table_id": "1-21926985-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "jack nicklaus be the sole winner of the 1972 master 's tournament and win 25000 dollar",
+            "jack nicklaus be the sole winner of the 1972 master 's tournament and win $25000"
+        ],
+        "table_id": "2-16456727-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "malta have an area of 316 kilometer square , with a gross domestic product (gdp) of 5.097 billion us dollar",
+            "malta have an area of 316 kilometer square , with a gross domestic product (gdp) of $5.097 billion"
+        ],
+        "table_id": "2-1307842-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the population of slovenia be 2011473 and her gdp per capita be 14732 us dollar",
+            "the population of slovenia be 2011473 and her gdp per capita be $14732 "
+        ],
+        "table_id": "2-1307842-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the number 1 ranked player be inbee park with 21 event and 2335460 dollar in prize money",
+            "the number 1 ranked player be inbee park with 21 event and $2335460  in prize money"
+        ],
+        "table_id": "2-173345-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "euro be the currency when the negotiable debt at mid - 2005 be 1300 us dollar bn equivalent",
+            "euro be the currency when the negotiable debt at mid - 2005 be $1300  bn equivalent"
+        ],
+        "table_id": "1-2764267-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "larry wadkins come in t10 place and make 42500 dollar",
+            "larry wadkins come in t10 place and make $42500"
+        ],
+        "table_id": "2-18153365-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "well fargo saw profit of 12.4 billion dollar",
+            "well fargo saw profit of $12.4 billion"
+        ],
+        "table_id": "1-1682026-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the allianz insurance experience 11.6 billion dollar in profit and asset total 400 billion",
+            "the allianz insurance experience $11.6 billion in profit and asset total 400 billion"
+        ],
+        "table_id": "2-1682026-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "eurozone have a nominal gdp world bank value in 2009 of 12460362 million dollar and do not provide the date it be adopt into the world bank",
+            "eurozone have a nominal gdp world bank value in 2009 of $12460362 million and do not provide the date it be adopt into the world bank"
+        ],
+        "table_id": "2-184391-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the company bnp paribas have 119 billion dollar in sale",
+            "the company bnp paribas have $119 billion in sale"
+        ],
+        "table_id": "2-1682026-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "stonesoft be number 6 on the list and be price at 389 million dollar",
+            "stonesoft be number 6 on the list and be price at $389 million"
+        ],
+        "table_id": "2-14617-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    }
+]

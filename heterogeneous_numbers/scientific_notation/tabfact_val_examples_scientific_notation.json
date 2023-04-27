@@ -1,0 +1,5412 @@
+[
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a game be 11624",
+            "the lowest attendance figure for a game be 1.1624E+04"
+        ],
+        "table_id": "2-15531181-17.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance figure for a game be 11624",
+            "the highest attendance figure for a game be 1.1624E+04"
+        ],
+        "table_id": "2-15531181-17.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a single game be 11271",
+            "the lowest attendance figure for a single game be 1.1271E+04"
+        ],
+        "table_id": "1-23248910-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance figure for a single game be 11271",
+            "the highest attendance figure for a single game be 1.1271E+04"
+        ],
+        "table_id": "1-23248910-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a game be 14780",
+            "the lowest attendance figure for a game be 1.4780E+04"
+        ],
+        "table_id": "2-17080868-9.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a game be 15569",
+            "the lowest attendance figure for a game be 1.5569E+04"
+        ],
+        "table_id": "2-17080868-9.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "a combined total of 132620 crowd where in the crowd on the 6 june 1970",
+            "a combined total of 1.32620E+05 crowd where in the crowd on the 6 june 1970"
+        ],
+        "table_id": "2-1164217-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "victora park have 16644 more crowd in the crowd than vfl park",
+            "victora park have 1.6644E+04 more crowd in the crowd than vfl park"
+        ],
+        "table_id": "2-1164217-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "junction oval and western oval have a combined total of 39233 crowd in the crowd",
+            "junction oval and western oval have a combined total of 3.9233E+04 crowd in the crowd"
+        ],
+        "table_id": "2-1164217-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "victoria park and windy hill have a combined total of 51508 crowd in attendance in the crowd",
+            "victoria park and windy hill have a combined total of 5.1508E+04 crowd in attendance in the crowd"
+        ],
+        "table_id": "2-1164217-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "suwasra have 61600 more electorate than jawad",
+            "suwasra have 6.1600E+04 more electorate than jawad"
+        ],
+        "table_id": "2-18518150-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest number of attendee be at los angeles memorial coliseum on december 15 , 1985 with 77425 crowd",
+            "the highest number of attendee be at los angeles memorial coliseum on december 15 , 1985 with 7.7425E+04 crowd"
+        ],
+        "table_id": "2-13258823-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the game on november 10 , 1985 have the lowest attendance of any game with only 47365 attendee",
+            "the game on november 10 , 1985 have the lowest attendance of any game with only 4.7365E+04 attendee"
+        ],
+        "table_id": "2-13258823-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest number of attendee be at los angeles memorial coliseum on december 15 , 1985 with 56283 crowd",
+            "the highest number of attendee be at los angeles memorial coliseum on december 15 , 1985 with 5.6283E+04 crowd"
+        ],
+        "table_id": "2-13258823-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the game on november 10 , 1985 have thehighest attendance of any game with only 47365 attendee",
+            "the game on november 10 , 1985 have thehighest attendance of any game with only 4.7365E+04 attendee"
+        ],
+        "table_id": "2-13258823-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "during the 1995 toronto blue jay season , the blue jay have an attendance of less than 40000 each time they play the yankee",
+            "during the 1995 toronto blue jay season , the blue jay have an attendance of less than 4.0000E+04 each time they play the yankee"
+        ],
+        "table_id": "2-12206344-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "during the 1995 toronto blue jay season , the blue jay have an attendance of less than 40000 each time they play the ranger",
+            "during the 1995 toronto blue jay season , the blue jay have an attendance of less than 4.0000E+04 each time they play the ranger"
+        ],
+        "table_id": "2-12206344-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "their most highly attended game that month be against the maverick on april 17th , with over 20000",
+            "their most highly attended game that month be against the maverick on april 17th , with over 2.0000E+04"
+        ],
+        "table_id": "2-14677944-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance for the month be against the maverick with less than 20000",
+            "the highest attendance for the month be against the maverick with less than 2.0000E+04"
+        ],
+        "table_id": "2-14677944-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the episode big time rescue have 100000 more viewer than the episode big time camp",
+            "the episode big time rescue have 1.00000E+05 more viewer than the episode big time camp"
+        ],
+        "table_id": "1-25246990-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "2 episode written by mark fellow and keith wagner have a viewer difference of 300000",
+            "2 episode written by mark fellow and keith wagner have a viewer difference of 3.00000E+05"
+        ],
+        "table_id": "1-25246990-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "paris , france have the largest density per km square 24672",
+            "paris , france have the largest density per km square 2.4672E+04"
+        ],
+        "table_id": "2-1653499-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "john daly , steve elkington , tom lehman , and lanny wadkins all win 81600",
+            "john daly , steve elkington , tom lehman , and lanny wadkins all win 8.1600E+04"
+        ],
+        "table_id": "2-16514381-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "john daly , steve elkington , tom lehman , and lanny wadkins each receive less than 80000",
+            "john daly , steve elkington , tom lehman , and lanny wadkins each receive less than 8.0000E+04"
+        ],
+        "table_id": "2-16514381-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "during the 1971 buffalo bills' season , the highest attended game bring in 61948 crowd",
+            "during the 1971 buffalo bills' season , the highest attended game bring in 6.1948E+04 crowd"
+        ],
+        "table_id": "2-17386060-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the white sox be the opponent 3 day in a row , with an attendance of over 37000 crowd during every match",
+            "the white sox be the opponent 3 day in a row , with an attendance of over 3.7000E+04 crowd during every match"
+        ],
+        "table_id": "2-10908880-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the white sox have the lowest attendance of 14501 and above at their match",
+            "the white sox have the lowest attendance of 1.4501E+04 and above at their match"
+        ],
+        "table_id": "2-10908880-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the largest attendance of any game be 63497 on october 8 , 1966",
+            "the largest attendance of any game be 6.3497E+04 on october 8 , 1966"
+        ],
+        "table_id": "2-15412835-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the largest attendence of any game be not only 63497 on october 8 , 1966",
+            "the largest attendence of any game be not only 6.3497E+04 on october 8 , 1966"
+        ],
+        "table_id": "2-15412835-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "169412 be the highest number of electorate (2009) , with 140001 be the lowest",
+            "169412 be the highest number of electorate (2009) , with 1.40001E+05 be the lowest"
+        ],
+        "table_id": "2-18517323-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "162340 be the highest number of electorate (2009) , with 161219 be the lowest",
+            "162340 be the highest number of electorate (2009) , with 1.61219E+05 be the lowest"
+        ],
+        "table_id": "2-18517323-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the administrating agencies , 0 national reconnaissance program have the highest total of 14787",
+            "the administrating agencies , 0 national reconnaissance program have the highest total of 1.4787E+04"
+        ],
+        "table_id": "2-17198719-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "52401 more crowd attend the final game on may 19 than the semi final game on april 14",
+            "5.2401E+04 more crowd attend the final game on may 19 than the semi final game on april 14"
+        ],
+        "table_id": "2-11115098-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average attendance at anaheim duck game during december 2007 be 19289",
+            "the average attendance at anaheim duck game during december 2007 be 1.9289E+04"
+        ],
+        "table_id": "2-11801795-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance at a game be 45968 on june 17",
+            "the highest attendance at a game be 4.5968E+04 on june 17"
+        ],
+        "table_id": "2-11514068-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "only 12853 crowd attend the game on june 17",
+            "only 1.2853E+04 crowd attend the game on june 17"
+        ],
+        "table_id": "2-11514068-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "monster hunter portable 2nd g , sell the highest amount of unit with 2452111",
+            "monster hunter portable 2nd g , sell the highest amount of unit with 2.452111E+06"
+        ],
+        "table_id": "2-10060114-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "wii sport sell the lowest amount of unit in 2008 with 841736",
+            "wii sport sell the lowest amount of unit in 2008 with 8.41736E+05"
+        ],
+        "table_id": "2-10060114-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "monster hunter portable 2nd g , sell the highest amount of unit with 2149131",
+            "monster hunter portable 2nd g , sell the highest amount of unit with 2.149131E+06"
+        ],
+        "table_id": "2-10060114-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "wii sport sell the lowest amount of unit in 2008 with 855427",
+            "wii sport sell the lowest amount of unit in 2008 with 8.55427E+05"
+        ],
+        "table_id": "2-10060114-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a single game be 14311",
+            "the lowest attendance figure for a single game be 1.4311E+04"
+        ],
+        "table_id": "2-15869204-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance figure for a single game be 14311",
+            "the highest attendance figure for a single game be 1.4311E+04"
+        ],
+        "table_id": "2-15869204-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the victoria park game and the arden street oval game have an average crowd size of 12500",
+            "the victoria park game and the arden street oval game have an average crowd size of 1.2500E+04"
+        ],
+        "table_id": "2-10790804-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the game at prince park have a crowd size 32000 larger than what the game at victoria park have",
+            "the game at prince park have a crowd size 3.2000E+04 larger than what the game at victoria park have"
+        ],
+        "table_id": "2-10790804-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the prince park game and the junction oval game have an average crowd size of 12500",
+            "the prince park game and the junction oval game have an average crowd size of 1.2500E+04"
+        ],
+        "table_id": "2-10790804-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the game at mcg have a crowd size 32000 larger than what the game at victoria park have",
+            "the game at mcg have a crowd size 3.2000E+04 larger than what the game at victoria park have"
+        ],
+        "table_id": "2-10790804-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 4 player in the 1982 pga tour with earnings less than 3000000",
+            "there be 4 player in the 1982 pga tour with earnings less than 3.000000E+06"
+        ],
+        "table_id": "2-14640525-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 4 player in the 1982 pga tour with earnings less than 2000000",
+            "there be 4 player in the 1982 pga tour with earnings less than 2.000000E+06"
+        ],
+        "table_id": "2-14640525-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "22110 fan witness the blue jays beat the ranger on may 7 , 1999",
+            "2.2110E+04 fan witness the blue jays beat the ranger on may 7 , 1999"
+        ],
+        "table_id": "2-12206211-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "22110 fan witness the blue jays beat the ranger on may 7 , 1999",
+            "2.2110E+04 fan witness the blue jays beat the ranger on may 7 , 1999"
+        ],
+        "table_id": "2-12206211-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "kansa city lose all 7 game with attendance of 47310 or greater during the 1978 season",
+            "kansa city lose all 7 game with attendance of 4.7310E+04 or greater during the 1978 season"
+        ],
+        "table_id": "2-12536374-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "kansa city lose all 6 game with attendance of 47310 or greater during the 1978 season",
+            "kansa city lose all 6 game with attendance of 4.7310E+04 or greater during the 1978 season"
+        ],
+        "table_id": "2-12536374-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a game be 14583",
+            "the lowest attendance figure for a game be 1.4583E+04"
+        ],
+        "table_id": "1-27700530-9.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance figure for a game be 14583",
+            "the highest attendance figure for a game be 1.4583E+04"
+        ],
+        "table_id": "1-27700530-9.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "both the opening and final game have over 50000 attendee",
+            "both the opening and final game have over 5.0000E+04 attendee"
+        ],
+        "table_id": "2-12205559-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "both the opening and final game have over 150000 attendee",
+            "both the opening and final game have over 1.50000E+05 attendee"
+        ],
+        "table_id": "2-12205559-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "raymond floyd earn 117901 more than hale irwin",
+            "raymond floyd earn 1.17901E+05 more than hale irwin"
+        ],
+        "table_id": "2-14640372-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "raymond floyed earn only a total of 110000 more than hale irwin",
+            "raymond floyed earn only a total of 1.10000E+05 more than hale irwin"
+        ],
+        "table_id": "2-14640372-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the omni coliseum 16457 be play at more than target center 18874 at 4 to 1 time",
+            "the omni coliseum 16457 be play at more than target center 1.8874E+04 at 4 to 1 time"
+        ],
+        "table_id": "2-18493040-9.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the omnie coliseum 16457 be play at more be play at more than target center 18874 at 4 to 2 time",
+            "the omnie coliseum 16457 be play at more be play at more than target center 1.8874E+04 at 4 to 2 time"
+        ],
+        "table_id": "2-18493040-9.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the first prize winner of these tournament never earn less than 108000",
+            "the first prize winner of these tournament never earn less than 1.08000E+05"
+        ],
+        "table_id": "2-14611720-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average prize money for the first place winner be more than 180000",
+            "the average prize money for the first place winner be more than 1.80000E+05"
+        ],
+        "table_id": "2-14611720-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the first prize winner of these tournament never earn less than 198000",
+            "the first prize winner of these tournament never earn less than 1.98000E+05"
+        ],
+        "table_id": "2-14611720-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average prize money for the first place winner be more than 126000",
+            "the average prize money for the first place winner be more than 1.26000E+05"
+        ],
+        "table_id": "2-14611720-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "derrike cope win as a driver with a dodge car and make 62473 in winning while kevin lepage win with a ford and earn 62260",
+            "derrike cope win as a driver with a dodge car and make 62473 in winning while kevin lepage win with a ford and earn 6.2260E+04"
+        ],
+        "table_id": "2-11384298-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "martin truex jr earn 70385 in winning and jeff gordon earn 110861 both use a chevrolet make car",
+            "martin truex jr earn 70385 in winning and jeff gordon earn 1.10861E+05 both use a chevrolet make car"
+        ],
+        "table_id": "2-11384298-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "derrike cope win as a driver with a ford car and make 63025 in winning while kevin lepage win with with a chevrolet and earn 70900",
+            "derrike cope win as a driver with a ford car and make 63025 in winning while kevin lepage win with with a chevrolet and earn 7.0900E+04"
+        ],
+        "table_id": "2-11384298-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "martin truex jr earn 63025 in winning and jeff gordon earn 110861 both use a dodge make car",
+            "martin truex jr earn 63025 in winning and jeff gordon earn 1.10861E+05 both use a dodge make car"
+        ],
+        "table_id": "2-11384298-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 2002 jason leffler earn his highest amount of earnings with 525519",
+            "in 2002 jason leffler earn his highest amount of earnings with 5.25519E+05"
+        ],
+        "table_id": "2-1637041-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 2007 , jason leffler earn his highest amount of earnings with 66850",
+            "in 2007 , jason leffler earn his highest amount of earnings with 6.6850E+04"
+        ],
+        "table_id": "2-1637041-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "on august 16 , 1985 , 30139598 people could vote and the number of candidate be 10",
+            "on august 16 , 1985 , 3.013960E+07 people could vote and the number of candidate be 10"
+        ],
+        "table_id": "1-23206812-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the most crowd attendance be 33991 and the least be 4000",
+            "the most crowd attendance be 3.3991E+04 and the least be 4000"
+        ],
+        "table_id": "2-11645756-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance be 29746 and the lowest be 4000",
+            "the highest attendance be 2.9746E+04 and the lowest be 4000"
+        ],
+        "table_id": "2-11645756-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the united state have the greatest amount of troop in afghanistan with 74000 out of 112579",
+            "the united state have the greatest amount of troop in afghanistan with 74000 out of 1.12579E+05"
+        ],
+        "table_id": "1-30108346-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the united state have the least amount of troop in afghanistan with 3 out of 112579",
+            "the united state have the least amount of troop in afghanistan with 3 out of 1.12579E+05"
+        ],
+        "table_id": "1-30108346-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "inbee park 's biggest prize be 585000 , for win the 2013 us women 's open",
+            "inbee park 's biggest prize be 5.85000E+05 , for win the 2013 us women 's open"
+        ],
+        "table_id": "2-18198579-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "inbee park 's biggest prize be 585000 , for win the us women 's open before 2013",
+            "inbee park 's biggest prize be 5.85000E+05 , for win the us women 's open before 2013"
+        ],
+        "table_id": "2-18198579-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "john vatcher and jackie may combine on the episode don't gamble with city hall and have 1021000 viewer",
+            "john vatcher and jackie may combine on the episode don't gamble with city hall and have 1.021000E+06 viewer"
+        ],
+        "table_id": "1-27547668-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "john vatcher and jackie may combine on the episode don't gamble with city hall and have 1026000 viewer",
+            "john vatcher and jackie may combine on the episode don't gamble with city hall and have 1.026000E+06 viewer"
+        ],
+        "table_id": "1-27547668-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average winning for 1987 and 1988 in 23500 with 4 place in the top 10",
+            "the average winning for 1987 and 1988 in 2.3500E+04 with 4 place in the top 10"
+        ],
+        "table_id": "2-1671401-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the best position earn be 29th in 1992 , with 10 start and 0 win and winning of 48352",
+            "the best position earn be 29th in 1992 , with 10 start and 0 win and winning of 4.8352E+04"
+        ],
+        "table_id": "2-1671401-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the worse position earn be 139th in 2001 with 1 start and 0 win and winning of 13320",
+            "the worse position earn be 139th in 2001 with 1 start and 0 win and winning of 1.3320E+04"
+        ],
+        "table_id": "2-1671401-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average winning for 1987 and 1988 in 23500 with 2 place in the top 10",
+            "the average winning for 1987 and 1988 in 2.3500E+04 with 2 place in the top 10"
+        ],
+        "table_id": "2-1671401-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the best position earn be 35th in 1992 , with 10 start and 0 win and winning of 65628",
+            "the best position earn be 35th in 1992 , with 10 start and 0 win and winning of 6.5628E+04"
+        ],
+        "table_id": "2-1671401-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the first position earn be 139th in 2001 with 1 start and 0 win and winning of 13320",
+            "the first position earn be 139th in 2001 with 1 start and 0 win and winning of 1.3320E+04"
+        ],
+        "table_id": "2-1671401-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the county of piscataquis have the lowest population of all at 17535",
+            "the county of piscataquis have the lowest population of all at 1.7535E+04"
+        ],
+        "table_id": "2-1421760-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest median family income be the county of cumberland with 71335",
+            "the highest median family income be the county of cumberland with 7.1335E+04"
+        ],
+        "table_id": "2-1421760-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the county of piscataquis have the highest population of all at 17535",
+            "the county of piscataquis have the highest population of all at 1.7535E+04"
+        ],
+        "table_id": "2-1421760-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest median family income be the county of cumberland with 71335",
+            "the lowest median family income be the county of cumberland with 7.1335E+04"
+        ],
+        "table_id": "2-1421760-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a game be 36816",
+            "the lowest attendance figure for a game be 3.6816E+04"
+        ],
+        "table_id": "2-11440693-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance figure for a game be 36816",
+            "the highest attendance figure for a game be 3.6816E+04"
+        ],
+        "table_id": "2-11440693-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 3 helicobacter pylori specie have strain 26695 , sb , and dsm1251",
+            "the 3 helicobacter pylori specie have strain 2.6695E+04 , sb , and dsm1251"
+        ],
+        "table_id": "2-11664498-15.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the semi - final against the ranger have the highest attendence with a head count of 32431",
+            "the semi - final against the ranger have the highest attendence with a head count of 3.2431E+04"
+        ],
+        "table_id": "2-17644259-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the semi - final against the ranger have the second highest attendance with a head count of 32431",
+            "the semi - final against the ranger have the second highest attendance with a head count of 3.2431E+04"
+        ],
+        "table_id": "2-17644259-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "game 5 have 10961 more attendee than game 1",
+            "game 5 have 1.0961E+04 more attendee than game 1"
+        ],
+        "table_id": "2-17572011-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "game 4 have 10961 more attendee than game 1",
+            "game 4 have 1.0961E+04 more attendee than game 1"
+        ],
+        "table_id": "2-17572011-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "their largest crowd at home be september 25 against the miami dolphins , with 64035 fan in attendance to watch them win",
+            "their largest crowd at home be september 25 against the miami dolphins , with 6.4035E+04 fan in attendance to watch them win"
+        ],
+        "table_id": "2-10362172-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the smallest crowd they play in front of be in tampa bay , with an attendance of 42110",
+            "the smallest crowd they play in front of be in tampa bay , with an attendance of 4.2110E+04"
+        ],
+        "table_id": "2-10362172-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the match of st kilda against carlton draw a crowd of 15000 crowd",
+            "the match of st kilda against carlton draw a crowd of 1.5000E+04 crowd"
+        ],
+        "table_id": "2-10746200-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance for the november 21 , 2007 game be 18797",
+            "the attendance for the november 21 , 2007 game be 1.8797E+04"
+        ],
+        "table_id": "2-11963601-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance for the november 21 , 2007 game be 18797 more than the previous game",
+            "the attendance for the november 21 , 2007 game be 1.8797E+04 more than the previous game"
+        ],
+        "table_id": "2-11963601-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "brunswick street oval have the highest crowd of 18000 , same as in punt road oval on 6 july 1940",
+            "brunswick street oval have the highest crowd of 1.8000E+04 , same as in punt road oval on 6 july 1940"
+        ],
+        "table_id": "2-10807253-11.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "corio oval have the second highest crowd of 18000 , same as in punt road oval on 6 july 1940",
+            "corio oval have the second highest crowd of 1.8000E+04 , same as in punt road oval on 6 july 1940"
+        ],
+        "table_id": "2-10807253-11.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance figure for 1 game be 76245",
+            "the highest attendance figure for 1 game be 7.6245E+04"
+        ],
+        "table_id": "2-16661199-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance figure for all game of the season do not go above 70000",
+            "the attendance figure for all game of the season do not go above 7.0000E+04"
+        ],
+        "table_id": "2-16661199-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "annika s\u00f6renstam win 22573192 over a 15 year period",
+            "annika s\u00f6renstam win 2.257319E+07 over a 15 year period"
+        ],
+        "table_id": "2-173345-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "meg mallon win 22573192 over a 15 year period",
+            "meg mallon win 2.257319E+07 over a 15 year period"
+        ],
+        "table_id": "2-173345-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance be largest at 21273 , during the april 6 game",
+            "the attendance be largest at 2.1273E+04 , during the april 6 game"
+        ],
+        "table_id": "2-17206737-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance be the shortest at 15255 , during the april 6 game",
+            "the attendance be the shortest at 1.5255E+04 , during the april 6 game"
+        ],
+        "table_id": "2-17206737-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 2nd largest crowd have 24000 in attendance",
+            "the 2nd largest crowd have 2.4000E+04 in attendance"
+        ],
+        "table_id": "2-10701045-16.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 2nd largest crowd have 17500 in attendance",
+            "the 2nd largest crowd have 1.7500E+04 in attendance"
+        ],
+        "table_id": "2-10701045-16.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the largest crowd be a 70372 attendance on august 7 against the dodger",
+            "the largest crowd be a 7.0372E+04 attendance on august 7 against the dodger"
+        ],
+        "table_id": "2-11512208-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest crowd be a 70372 attendance on august 7 against the dodger",
+            "the lowest crowd be a 7.0372E+04 attendance on august 7 against the dodger"
+        ],
+        "table_id": "2-11512208-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the last game in the 2010 - houston rocket season take place at prudential center 13866",
+            "the last game in the 2010 - houston rocket season take place at prudential center 1.3866E+04"
+        ],
+        "table_id": "1-27744976-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the last game in the 2010 - houston rocket season take place at toyota center 14822",
+            "the last game in the 2010 - houston rocket season take place at toyota center 1.4822E+04"
+        ],
+        "table_id": "1-27744976-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "mcg venue record 35201 more crowd participant than that of prince park venue r",
+            "mcg venue record 3.5201E+04 more crowd participant than that of prince park venue r"
+        ],
+        "table_id": "2-10826385-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a game be 37230",
+            "the lowest attendance figure for a game be 3.7230E+04"
+        ],
+        "table_id": "2-10651062-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "alberta have a slightly less population density even though it have 4257744 less people in 2011",
+            "alberta have a slightly less population density even though it have 4.257744E+06 less people in 2011"
+        ],
+        "table_id": "2-106104-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "alberta have a more population density even though it have 4257744 less people in 2011",
+            "alberta have a more population density even though it have 4.257744E+06 less people in 2011"
+        ],
+        "table_id": "2-106104-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance be 21273",
+            "the highest attendance be 2.1273E+04"
+        ],
+        "table_id": "2-17360840-9.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance be 13831",
+            "the lowest attendance be 1.3831E+04"
+        ],
+        "table_id": "2-17360840-9.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance be 16427",
+            "the highest attendance be 1.6427E+04"
+        ],
+        "table_id": "2-17360840-9.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance be 21273",
+            "the lowest attendance be 2.1273E+04"
+        ],
+        "table_id": "2-17360840-9.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "on june 17 1939 , the richmond game at punt road oval have a croud of 17000",
+            "on june 17 1939 , the richmond game at punt road oval have a croud of 1.7000E+04"
+        ],
+        "table_id": "2-10806852-9.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "footscray play against st kilda at the western oval , with a toatal attendance at 13500",
+            "footscray play against st kilda at the western oval , with a toatal attendance at 1.3500E+04"
+        ],
+        "table_id": "2-10806852-9.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the biggest crowd be 33254 in prince park on 9 june 1956",
+            "the biggest crowd be 3.3254E+04 in prince park on 9 june 1956"
+        ],
+        "table_id": "2-10640687-9.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the biggest crowd be fewer than 30000 in prince park on 9 june 1956",
+            "the biggest crowd be fewer than 3.0000E+04 in prince park on 9 june 1956"
+        ],
+        "table_id": "2-10640687-9.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "attendance in all game be consistent , between 51763 and 52268",
+            "attendance in all game be consistent , between 51763 and 5.2268E+04"
+        ],
+        "table_id": "2-12206491-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest - attend game be a home game for the blue jay , where they have 52268 in attendance , but lose",
+            "the highest - attend game be a home game for the blue jay , where they have 5.2268E+04 in attendance , but lose"
+        ],
+        "table_id": "2-12206491-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "attendance in all game be consistently lower than 52090",
+            "attendance in all game be consistently lower than 5.2090E+04"
+        ],
+        "table_id": "2-12206491-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the brave lose to morris in front of 51813 crowd",
+            "the brave lose to morris in front of 5.1813E+04 crowd"
+        ],
+        "table_id": "2-12206491-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the game with an attendance of 60999 occur after the game that be attend by 51423 crowd",
+            "the game with an attendance of 60999 occur after the game that be attend by 5.1423E+04 crowd"
+        ],
+        "table_id": "2-13963364-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "on september 13 , september 15 , and september 29 the attendance be exactly the same with 50315 crowd",
+            "on september 13 , september 15 , and september 29 the attendance be exactly the same with 5.0315E+04 crowd"
+        ],
+        "table_id": "2-12206617-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "50315 be the highest attendance record in september",
+            "5.0315E+04 be the highest attendance record in september"
+        ],
+        "table_id": "2-12206617-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "junction oval venue record 13700 more crowd participant than that of the windy hill venue",
+            "junction oval venue record 1.3700E+04 more crowd participant than that of the windy hill venue"
+        ],
+        "table_id": "2-10783853-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "junction oval venue record 22542 more crowd participant than that of the windy hill venue",
+            "junction oval venue record 2.2542E+04 more crowd participant than that of the windy hill venue"
+        ],
+        "table_id": "2-10783853-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 2004 season have the highest attendance of 15735 people",
+            "the 2004 season have the highest attendance of 1.5735E+04 people"
+        ],
+        "table_id": "2-1082589-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 2004 season have the highest attendance of 14913 people",
+            "the 2004 season have the highest attendance of 1.4913E+04 people"
+        ],
+        "table_id": "2-1082589-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a game be 13606",
+            "the lowest attendance figure for a game be 1.3606E+04"
+        ],
+        "table_id": "1-23248869-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the wattage range of the listed frequency be between 34 watt and 100000 watt",
+            "the wattage range of the listed frequency be between 34 watt and 1.00000E+05 watt"
+        ],
+        "table_id": "2-1585090-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the wattage range of the listed frequency be between 83 watt and 100000 watt",
+            "the wattage range of the listed frequency be between 83 watt and 1.00000E+05 watt"
+        ],
+        "table_id": "2-1585090-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in january of the 2010 - 11 atlanta hawk season the highest attendance be 19911",
+            "in january of the 2010 - 11 atlanta hawk season the highest attendance be 1.9911E+04"
+        ],
+        "table_id": "1-27734577-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in january of the 2010 - 11 atlanta hawk season the lowest attendance be 11472",
+            "in january of the 2010 - 11 atlanta hawk season the lowest attendance be 1.1472E+04"
+        ],
+        "table_id": "1-27734577-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in january of the 2010 - 11 season , atlantic hawk have a highest attendance of 21421",
+            "in january of the 2010 - 11 season , atlantic hawk have a highest attendance of 2.1421E+04"
+        ],
+        "table_id": "1-27734577-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "during the indianapolis colt 2000 season , there be 21588 more crowd who attend the first game than the second game of the season",
+            "during the indianapolis colt 2000 season , there be 2.1588E+04 more crowd who attend the first game than the second game of the season"
+        ],
+        "table_id": "2-14908721-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "during the indianapolis colt 2000 season , there be 56935 more crowd who attend the first game than the second game of the season",
+            "during the indianapolis colt 2000 season , there be 5.6935E+04 more crowd who attend the first game than the second game of the season"
+        ],
+        "table_id": "2-14908721-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 3 game buffalo play with an attendance greater than 19000",
+            "there be 3 game buffalo play with an attendance greater than 1.9000E+04"
+        ],
+        "table_id": "1-27537870-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 2 game the buffalo play with an attendance greater than 22000",
+            "there be 2 game the buffalo play with an attendance greater than 2.2000E+04"
+        ],
+        "table_id": "1-27537870-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 10100 more crowd at the first game of the season than the second game",
+            "there be 1.0100E+04 more crowd at the first game of the season than the second game"
+        ],
+        "table_id": "2-15124415-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "san juan have 18022 more population than azua",
+            "san juan have 1.8022E+04 more population than azua"
+        ],
+        "table_id": "2-15707829-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be only 1 province with less than 32000 population",
+            "there be only 1 province with less than 3.2000E+04 population"
+        ],
+        "table_id": "2-15707829-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "san juan have 18022 more population than la vega",
+            "san juan have 1.8022E+04 more population than la vega"
+        ],
+        "table_id": "2-15707829-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be only 1 province with less than 64000 population",
+            "there be only 1 province with less than 6.4000E+04 population"
+        ],
+        "table_id": "2-15707829-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "4 out of 6 match have an attendance higher than 20000",
+            "4 out of 6 match have an attendance higher than 2.0000E+04"
+        ],
+        "table_id": "2-10775038-18.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the total crowd attendance be 125404 for the 6 match",
+            "the total crowd attendance be 1.25404E+05 for the 6 match"
+        ],
+        "table_id": "2-10775038-18.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the total crowd attendance be 232442 for the 6 match",
+            "the total crowd attendance be 2.32442E+05 for the 6 match"
+        ],
+        "table_id": "2-10775038-18.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the essendon v richmond game have the highest attendance crowd of the 1951 vfl season with a total of 30000",
+            "the essendon v richmond game have the highest attendance crowd of the 1951 vfl season with a total of 3.0000E+04"
+        ],
+        "table_id": "2-10701914-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the fitzroy v hawthorn game have the lowest attendance crowd of the 1951 vfl season with a total of 22000",
+            "the fitzroy v hawthorn game have the lowest attendance crowd of the 1951 vfl season with a total of 2.2000E+04"
+        ],
+        "table_id": "2-10701914-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the essendon v richmond game have the highest attendance crowd of the 1951 vfl with a total of 25000",
+            "the essendon v richmond game have the highest attendance crowd of the 1951 vfl with a total of 2.5000E+04"
+        ],
+        "table_id": "2-10701914-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the game be hold more frequently at keyarena 01072 rather than at america west arena 19023",
+            "the game be hold more frequently at keyarena 01072 rather than at america west arena 1.9023E+04"
+        ],
+        "table_id": "2-13619240-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance for all of the home game be over 77000 at each game",
+            "the attendance for all of the home game be over 7.7000E+04 at each game"
+        ],
+        "table_id": "2-10996075-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance of any home game be 65000",
+            "the highest attendance of any home game be 6.5000E+04"
+        ],
+        "table_id": "2-10996075-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "3 vfl venue in the 1978 season garner a crowd over 20000",
+            "3 vfl venue in the 1978 season garner a crowd over 2.0000E+04"
+        ],
+        "table_id": "2-10887680-20.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "no venue during the 1978 season garner a crowd over 20000",
+            "no venue during the 1978 season garner a crowd over 2.0000E+04"
+        ],
+        "table_id": "2-10887680-20.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the prize money be 50000 each year from 1986 through 1989",
+            "the prize money be 5.0000E+04 each year from 1986 through 1989"
+        ],
+        "table_id": "2-12743706-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the prize money be under 20000 each year from 1981 through 1989",
+            "the prize money be under 2.0000E+04 each year from 1981 through 1989"
+        ],
+        "table_id": "2-12743706-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the province gauteng have the largest population with 12728400 people",
+            "the province gauteng have the largest population with 1.272840E+07 people"
+        ],
+        "table_id": "2-17416221-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the difference in area between the province west cape and gauteng be 6711500",
+            "the difference in area between the province west cape and gauteng be 6.711500E+06"
+        ],
+        "table_id": "2-17416221-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the province gauteng have the smallest population with 12728400 people",
+            "the province gauteng have the smallest population with 1.272840E+07 people"
+        ],
+        "table_id": "2-17416221-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "no company have a market value below 190000 million usd or above 400000 million usd",
+            "no company have a market value below 190000 million usd or above 4.00000E+05 million usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "bank of america have headquarter in the united state with a market value of 211706 million usd while microsoft also with headquarters in the united state have a market value of 281171 million usd",
+            "bank of america have headquarter in the united state with a market value of 211706 million usd while microsoft also with headquarters in the united state have a market value of 2.81171E+05 million usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "gazprom be rank 10 with a market value of 196339 million usd while toyota motor corporation be rank 9 with a market value of 196731 million usd",
+            "gazprom be rank 10 with a market value of 196339 million usd while toyota motor corporation be rank 9 with a market value of 1.96731E+05 million usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "no company have a market value below 200000 million usd or above 350000 million usd",
+            "no company have a market value below 200000 million usd or above 3.50000E+05 million usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "bank of america and microsoft both have headquarters in the united state and a market value of 211706 million usd",
+            "bank of america and microsoft both have headquarters in the united state and a market value of 2.11706E+05 million usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "gazprom be rank 10 with a market value of 196731 million usd , while toyota motor corporation be rank 9 with a market value of 196860 usd",
+            "gazprom be rank 10 with a market value of 196731 million usd , while toyota motor corporation be rank 9 with a market value of 1.96860E+05 usd"
+        ],
+        "table_id": "2-14094649-14.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a game be 12597",
+            "the lowest attendance figure for a game be 1.2597E+04"
+        ],
+        "table_id": "2-17288845-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest - attend game be august 31 , with 51777 attendee",
+            "the highest - attend game be august 31 , with 5.1777E+04 attendee"
+        ],
+        "table_id": "2-14546539-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the record be only a tie 1 time : in the game with 30822 crowd attend",
+            "the record be only a tie 1 time : in the game with 3.0822E+04 crowd attend"
+        ],
+        "table_id": "2-16912076-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the padre be the opponent 3 day in a row , with their highest attendance be at 29748 crowd",
+            "the padre be the opponent 3 day in a row , with their highest attendance be at 2.9748E+04 crowd"
+        ],
+        "table_id": "2-11514068-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the dodger be the opponent 4 day in a row , with the attendance vary from 44593 to 50210 crowd",
+            "the dodger be the opponent 4 day in a row , with the attendance vary from 44593 to 5.0210E+04 crowd"
+        ],
+        "table_id": "2-11514068-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the padre be the opponent 3 day in a row , with their highest attendance be at 24182 crowd",
+            "the padre be the opponent 3 day in a row , with their highest attendance be at 2.4182E+04 crowd"
+        ],
+        "table_id": "2-11514068-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the brewer be the opponent 4 day in a row , with the attendance vary from 44593 to 50210 crowd",
+            "the brewer be the opponent 4 day in a row , with the attendance vary from 44593 to 5.0210E+04 crowd"
+        ],
+        "table_id": "2-11514068-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the average be 6320 the team be northland with 5 game play and a highest of 14200",
+            "when the average be 6320 the team be northland with 5 game play and a highest of 1.4200E+04"
+        ],
+        "table_id": "2-18562984-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "no team average more than 12000 and no team average less than 3000 in the 2008 air new zealand cup",
+            "no team average more than 1.2000E+04 and no team average less than 3000 in the 2008 air new zealand cup"
+        ],
+        "table_id": "2-18562984-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "northland play 4 game with an average of 6200 and highest of 15242",
+            "northland play 4 game with an average of 6200 and highest of 1.5242E+04"
+        ],
+        "table_id": "2-18562984-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average attendance during the 1977 atlanta falcon season be 47109",
+            "the average attendance during the 1977 atlanta falcon season be 4.7109E+04"
+        ],
+        "table_id": "2-17183877-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance the atlanta falcon receive be 47109",
+            "the highest attendance the atlanta falcon receive be 4.7109E+04"
+        ],
+        "table_id": "2-17183877-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the difference in attendance at the game hold at candlestick park be 28712",
+            "the difference in attendance at the game hold at candlestick park be 2.8712E+04"
+        ],
+        "table_id": "2-13131902-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the least amount of money jason leffler make during his 12 year career , be 36400",
+            "the least amount of money jason leffler make during his 12 year career , be 3.6400E+04"
+        ],
+        "table_id": "2-1637041-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in his 12 year career the jason leffler never make more than 36400",
+            "in his 12 year career the jason leffler never make more than 3.6400E+04"
+        ],
+        "table_id": "2-1637041-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "charlotte coliseum have the highest attendance at 24042 attendee",
+            "charlotte coliseum have the highest attendance at 2.4042E+04 attendee"
+        ],
+        "table_id": "2-18493040-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "charlotte coliseum have the lowest attendance with 24042 attendee",
+            "charlotte coliseum have the lowest attendance with 2.4042E+04 attendee"
+        ],
+        "table_id": "2-18493040-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the team 's record go to 10 - 19 it be against toronto on december 22 at air canada center with attendance 15303",
+            "when the team 's record go to 10 - 19 it be against toronto on december 22 at air canada center with attendance 1.5303E+04"
+        ],
+        "table_id": "1-27755603-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there location and attendance for the game that richard hamilton have 24 be the palace of auburn hill 12526 people",
+            "there location and attendance for the game that richard hamilton have 24 be the palace of auburn hill 1.2526E+04 people"
+        ],
+        "table_id": "1-27755603-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the team 's record go to 7 - 16 , it be against boston on december 22 at air cananda center with attendance 15303",
+            "when the team 's record go to 7 - 16 , it be against boston on december 22 at air cananda center with attendance 1.5303E+04"
+        ],
+        "table_id": "1-27755603-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in game 22 , richard hamilton have 24 and the location be toyota center 14798",
+            "in game 22 , richard hamilton have 24 and the location be toyota center 1.4798E+04"
+        ],
+        "table_id": "1-27755603-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the biggest crowd be in mcg with 35539 crowd watch",
+            "the biggest crowd be in mcg with 3.5539E+04 crowd watch"
+        ],
+        "table_id": "2-10775890-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "september 3 saw the largest crowd with an attendance of 40702",
+            "september 3 saw the largest crowd with an attendance of 4.0702E+04"
+        ],
+        "table_id": "2-11785072-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the smallest attendance be 16278 on september 25 against the red",
+            "the smallest attendance be 1.6278E+04 on september 25 against the red"
+        ],
+        "table_id": "2-11785072-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "september 3 saw the largest crowd with an attendance of 40702 , play the brewer",
+            "september 3 saw the largest crowd with an attendance of 4.0702E+04 , play the brewer"
+        ],
+        "table_id": "2-11785072-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the smallest attendance be 16278 on september 25 against the red and the score be 4 - 0",
+            "the smallest attendance be 1.6278E+04 on september 25 against the red and the score be 4 - 0"
+        ],
+        "table_id": "2-11785072-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "79531 be the highest in attendance , which be in rich stadium",
+            "7.9531E+04 be the highest in attendance , which be in rich stadium"
+        ],
+        "table_id": "2-17386115-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "79485 be the highest in attendance , which be in trans world dome",
+            "7.9485E+04 be the highest in attendance , which be in trans world dome"
+        ],
+        "table_id": "2-17386115-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance be largest at the york park with 13958 attend",
+            "the attendance be largest at the york park with 1.3958E+04 attend"
+        ],
+        "table_id": "2-16388439-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance be largest at the colonial stadium with 13958 attend",
+            "the attendance be largest at the colonial stadium with 1.3958E+04 attend"
+        ],
+        "table_id": "2-16388439-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the prince park game and punt road oval game have an average crowd size of 21000",
+            "the prince park game and punt road oval game have an average crowd size of 2.1000E+04"
+        ],
+        "table_id": "2-10806592-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the prince park game and arden street oval game have an average crowd size of 15000",
+            "the prince park game and arden street oval game have an average crowd size of 1.5000E+04"
+        ],
+        "table_id": "2-10806592-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the may 25 game have an attendance of over 36000 , make it the highest attendance of the season",
+            "the may 25 game have an attendance of over 3.6000E+04 , make it the highest attendance of the season"
+        ],
+        "table_id": "2-12208112-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "may 25 game have an attendee of 20351 crowd , make it the highest attendance of the season",
+            "may 25 game have an attendee of 2.0351E+04 crowd , make it the highest attendance of the season"
+        ],
+        "table_id": "2-12208112-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the game between the brewer have an attendance of 20002 while the game between the royal have an attendance of 6810",
+            "the game between the brewer have an attendance of 2.0002E+04 while the game between the royal have an attendance of 6810"
+        ],
+        "table_id": "2-12208112-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure in any game be 42202",
+            "the lowest attendance figure in any game be 4.2202E+04"
+        ],
+        "table_id": "2-10651215-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure in any game be 65540",
+            "the lowest attendance figure in any game be 6.5540E+04"
+        ],
+        "table_id": "2-10651215-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest value of paraguayan guaran\u00ed issue be 100000",
+            "the lowest value of paraguayan guaran\u00ed issue be 1.00000E+05"
+        ],
+        "table_id": "2-1354940-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "andy north be the only player to receive more than 100000 in prize money",
+            "andy north be the only player to receive more than 1.00000E+05 in prize money"
+        ],
+        "table_id": "2-17231246-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the largest attendance show in the 2008 afl season be 45507",
+            "the largest attendance show in the 2008 afl season be 4.5507E+04"
+        ],
+        "table_id": "2-14312471-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance show in the 2008 afl season be 18875",
+            "the lowest attendance show in the 2008 afl season be 1.8875E+04"
+        ],
+        "table_id": "2-14312471-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the largest attendance show in the 2008 afl season be 37294",
+            "the largest attendance show in the 2008 afl season be 3.7294E+04"
+        ],
+        "table_id": "2-14312471-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "18875 be the largest attendance in the 2008 afl season",
+            "1.8875E+04 be the largest attendance in the 2008 afl season"
+        ],
+        "table_id": "2-14312471-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the smallest crowd they play for be 48954 , against the jaguar in october 2003",
+            "the smallest crowd they play for be 4.8954E+04 , against the jaguar in october 2003"
+        ],
+        "table_id": "2-15331481-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the biggest crowd they play for be 48954 , against the gren bay packer in december 2003",
+            "the biggest crowd they play for be 4.8954E+04 , against the gren bay packer in december 2003"
+        ],
+        "table_id": "2-15331481-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the difference between the highest and lowest first week sale be 1332360",
+            "the difference between the highest and lowest first week sale be 1.332360E+06"
+        ],
+        "table_id": "2-13619558-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the difference between the highest and lowest first week sale be 992360",
+            "the difference between the highest and lowest first week sale be 9.92360E+05"
+        ],
+        "table_id": "2-13619558-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance figure for 1 game be 19736",
+            "the highest attendance figure for 1 game be 1.9736E+04"
+        ],
+        "table_id": "2-17001658-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for 1 game be 21536",
+            "the lowest attendance figure for 1 game be 2.1536E+04"
+        ],
+        "table_id": "2-17001658-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "attendance in windy hill be 10084 more than when the game be hold in prince park",
+            "attendance in windy hill be 1.0084E+04 more than when the game be hold in prince park"
+        ],
+        "table_id": "2-10808681-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the game at punt road oval have a crowd size 12000 larger than what the game at glenferrie oval have",
+            "the game at punt road oval have a crowd size 1.2000E+04 larger than what the game at glenferrie oval have"
+        ],
+        "table_id": "2-10807253-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "western oval game have a crowd of 12000 crowd and the victoria park have a crowd of 11000 crowd",
+            "western oval game have a crowd of 12000 crowd and the victoria park have a crowd of 1.1000E+04 crowd"
+        ],
+        "table_id": "2-10807253-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "5 game for the 1978 vfl season have a crowd of over 20000",
+            "5 game for the 1978 vfl season have a crowd of over 2.0000E+04"
+        ],
+        "table_id": "2-10887680-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "5 game for the 1978 vfl season have a crowd of over 23000",
+            "5 game for the 1978 vfl season have a crowd of over 2.3000E+04"
+        ],
+        "table_id": "2-10887680-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "first place and tenth place have money difference of 703800",
+            "first place and tenth place have money difference of 7.03800E+05"
+        ],
+        "table_id": "2-16514630-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "first place and second place have a money difference of 703800",
+            "first place and second place have a money difference of 7.03800E+05"
+        ],
+        "table_id": "2-16514630-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "junction oval venue record 17300 more crowd participant than that of the glenferrie oval venue",
+            "junction oval venue record 1.7300E+04 more crowd participant than that of the glenferrie oval venue"
+        ],
+        "table_id": "2-10776868-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "arden street oval be 1 of the 6 venue that be put to use on 9 june 1962 and where st kilda play carlton in front of 17873 crowd",
+            "arden street oval be 1 of the 6 venue that be put to use on 9 june 1962 and where st kilda play carlton in front of 1.7873E+04 crowd"
+        ],
+        "table_id": "2-10776868-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "junction oval venue record 17300 more crowd participant than every other venue in the table except for glenferrie oval venue which have the lowest crowd figure",
+            "junction oval venue record 1.7300E+04 more crowd participant than every other venue in the table except for glenferrie oval venue which have the lowest crowd figure"
+        ],
+        "table_id": "2-10776868-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance of any game have 66902 crowd attendance",
+            "the highest attendance of any game have 6.6902E+04 crowd attendance"
+        ],
+        "table_id": "2-13167639-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance of any game have 66902 crowd attendance",
+            "the lowest attendance of any game have 6.6902E+04 crowd attendance"
+        ],
+        "table_id": "2-13167639-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 4 stadium locate in podogorica and their combined capacity be 17500",
+            "there be 4 stadium locate in podogorica and their combined capacity be 1.7500E+04"
+        ],
+        "table_id": "1-28668784-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "podgorica be home to the largest stadium with a capacity to hold 12000 people and be home to fk budu\u0107nost and montenegro",
+            "podgorica be home to the largest stadium with a capacity to hold 1.2000E+04 people and be home to fk budu\u0107nost and montenegro"
+        ],
+        "table_id": "1-28668784-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 4 stadium locate in podogorica and their combined capacity be 25500",
+            "there be 4 stadium locate in podogorica and their combined capacity be 2.5500E+04"
+        ],
+        "table_id": "1-28668784-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "podgorica be home to the smallest stadium with a capacity to hold 12000 people and be home to fk budu\u0107nost and montenegro",
+            "podgorica be home to the smallest stadium with a capacity to hold 1.2000E+04 people and be home to fk budu\u0107nost and montenegro"
+        ],
+        "table_id": "1-28668784-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "3 different season of ncis average more than 19000000 viewer",
+            "3 different season of ncis average more than 1.900000E+07 viewer"
+        ],
+        "table_id": "1-27553627-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "only 1 season of ncis average more than 19000000 viewer",
+            "only 1 season of ncis average more than 1.900000E+07 viewer"
+        ],
+        "table_id": "1-27553627-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the top 3 council area have a total population of 813285 and of these , 4.2% be gaelic speaker",
+            "the top 3 council area have a total population of 8.13285E+05 and of these , 4.2% be gaelic speaker"
+        ],
+        "table_id": "2-11934811-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be a total of 10267578 gaelic speaker in all council area",
+            "there be a total of 1.026758E+07 gaelic speaker in all council area"
+        ],
+        "table_id": "2-11934811-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the top 3 council area have a total population of 90000 and of these , 4.2% be gaelic speaker",
+            "the top 3 council area have a total population of 9.0000E+04 and of these , 4.2% be gaelic speaker"
+        ],
+        "table_id": "2-11934811-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be a total of 60267578 gaelic speaker in all council area",
+            "there be a total of 6.026758E+07 gaelic speaker in all council area"
+        ],
+        "table_id": "2-11934811-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the game against the dodger have the highest attendance record of 50667",
+            "the game against the dodger have the highest attendance record of 5.0667E+04"
+        ],
+        "table_id": "2-13913673-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the game against the white sox have the highest attendance record of 50667",
+            "the game against the white sox have the highest attendance record of 5.0667E+04"
+        ],
+        "table_id": "2-13913673-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the home game with the best attendance have 74922 in a loss to seattle",
+            "the home game with the best attendance have 7.4922E+04 in a loss to seattle"
+        ],
+        "table_id": "2-16729063-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a game be 12114",
+            "the lowest attendance figure for a game be 1.2114E+04"
+        ],
+        "table_id": "1-24278858-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a game be 14611",
+            "the lowest attendance figure for a game be 1.4611E+04"
+        ],
+        "table_id": "1-24278858-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "2 of the radio station have an erp of 100000",
+            "2 of the radio station have an erp of 1.00000E+05"
+        ],
+        "table_id": "2-17101015-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "2 of the radio station have an erp of 63000",
+            "2 of the radio station have an erp of 6.3000E+04"
+        ],
+        "table_id": "2-17101015-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance in august 1998 be 32129 crowd watch the game against tottenham hotspur",
+            "the highest attendance in august 1998 be 3.2129E+04 crowd watch the game against tottenham hotspur"
+        ],
+        "table_id": "2-18720148-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance in september 1998 be 13163 crowd watch the game against wimbledon",
+            "the lowest attendance in september 1998 be 1.3163E+04 crowd watch the game against wimbledon"
+        ],
+        "table_id": "2-18720148-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance in august 1998 be 25989 crowd watch the game against tottenham hotspur",
+            "the highest attendance in august 1998 be 2.5989E+04 crowd watch the game against tottenham hotspur"
+        ],
+        "table_id": "2-18720148-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance in september 1998 be 13163 crowd watch the game against arsenal",
+            "the lowest attendance in september 1998 be 1.3163E+04 crowd watch the game against arsenal"
+        ],
+        "table_id": "2-18720148-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "geelong home team have 22855 crowd",
+            "geelong home team have 2.2855E+04 crowd"
+        ],
+        "table_id": "2-10826385-22.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "hope college be not the school with an enrollment of 20394",
+            "hope college be not the school with an enrollment of 2.0394E+04"
+        ],
+        "table_id": "2-16432704-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "5 of the game have between 40000 and 50000 crowd attendance in 1992",
+            "5 of the game have between 40000 and 5.0000E+04 crowd attendance in 1992"
+        ],
+        "table_id": "2-15345530-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a game be 10307",
+            "the lowest attendance figure for a game be 1.0307E+04"
+        ],
+        "table_id": "2-13573373-9.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance figure for a game be 11143",
+            "the lowest attendance figure for a game be 1.1143E+04"
+        ],
+        "table_id": "2-13573373-9.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "400000 be the highest amount award for come in 1st place",
+            "4.00000E+05 be the highest amount award for come in 1st place"
+        ],
+        "table_id": "2-11603398-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "165000 be the least amount award for come in 1st place and be the 1st - place prize at 7 different tournament",
+            "1.65000E+05 be the least amount award for come in 1st place and be the 1st - place prize at 7 different tournament"
+        ],
+        "table_id": "2-11603398-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "400000 be the second highest amount award for come in 1st place",
+            "4.00000E+05 be the second highest amount award for come in 1st place"
+        ],
+        "table_id": "2-11603398-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "165000 be the second lowest amount award for come in 1st place",
+            "1.65000E+05 be the second lowest amount award for come in 1st place"
+        ],
+        "table_id": "2-11603398-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the largest crowd be find at victoria park with a turnout of 39927",
+            "the largest crowd be find at victoria park with a turnout of 3.9927E+04"
+        ],
+        "table_id": "2-10775890-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "windy hill only have 23000 spectator , which be 16927 less than victoria park on the same day",
+            "windy hill only have 23000 spectator , which be 1.6927E+04 less than victoria park on the same day"
+        ],
+        "table_id": "2-10775890-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance be the lowest on october 5 , at 34073 crowd",
+            "the attendance be the lowest on october 5 , at 3.4073E+04 crowd"
+        ],
+        "table_id": "2-1332143-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance be the highest on october 8 , at 44551 crowd",
+            "the attendance be the highest on october 8 , at 4.4551E+04 crowd"
+        ],
+        "table_id": "2-1332143-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance never go below 35000 crowd",
+            "the attendance never go below 3.5000E+04 crowd"
+        ],
+        "table_id": "2-1332143-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance be the highest on october 3 , at 42505 crowd",
+            "the attendance be the highest on october 3 , at 4.2505E+04 crowd"
+        ],
+        "table_id": "2-1332143-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "game 7 , which take place on oct 16 , have an attendance of 60091",
+            "game 7 , which take place on oct 16 , have an attendance of 6.0091E+04"
+        ],
+        "table_id": "2-16678052-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "marta domachowska win 25000 in her june 13 , 2011 match",
+            "marta domachowska win 2.5000E+04 in her june 13 , 2011 match"
+        ],
+        "table_id": "2-15746889-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "marta domachowska win 100000 in her june 13 , 2011",
+            "marta domachowska win 1.00000E+05 in her june 13 , 2011"
+        ],
+        "table_id": "2-15746889-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the total attendance for week 8 be 48667",
+            "the total attendance for week 8 be 4.8667E+04"
+        ],
+        "table_id": "2-18847467-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance in week 2 be 20114",
+            "the attendance in week 2 be 2.0114E+04"
+        ],
+        "table_id": "1-23685152-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "81000 crowd attend hawthorn 's home match",
+            "8.1000E+04 crowd attend hawthorn 's home match"
+        ],
+        "table_id": "2-10789881-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 18000 crowd in attendance at hawthorn 's home match",
+            "there be 1.8000E+04 crowd in attendance at hawthorn 's home match"
+        ],
+        "table_id": "2-10789881-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "after sep 15 , the first prize amount of the person who have a score of 207 ( - 9) and a purse amount of more than 800000 be 150000",
+            "after sep 15 , the first prize amount of the person who have a score of 207 ( - 9) and a purse amount of more than 800000 be 1.50000E+05"
+        ],
+        "table_id": "2-11621873-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the ballad of booth , which air on june 30 , 2010 on channel 4 , be rank at 841000 - 2 in e4s rating b",
+            "the ballad of booth , which air on june 30 , 2010 on channel 4 , be rank at 8.41000E+05 - 2 in e4s rating b"
+        ],
+        "table_id": "1-22170495-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "810000 - 2 be the position in e4s rating b when june 30 , 2010 be the original airing on channel 4",
+            "8.10000E+05 - 2 be the position in e4s rating b when june 30 , 2010 be the original airing on channel 4"
+        ],
+        "table_id": "1-22170495-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 67388 crowd attendance for the week 15 game",
+            "there be 6.7388E+04 crowd attendance for the week 15 game"
+        ],
+        "table_id": "2-15378789-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the week 1 game on september 7 , 1981 have more than 63866 crowd attendance",
+            "the week 1 game on september 7 , 1981 have more than 6.3866E+04 crowd attendance"
+        ],
+        "table_id": "2-15378789-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average attendance for the november 1 , 1981 game be less than 51000",
+            "the average attendance for the november 1 , 1981 game be less than 5.1000E+04"
+        ],
+        "table_id": "2-15378789-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "attendance at the great western forum 17505 with d mckey score highest (24) , final score be l 96 - 105",
+            "attendance at the great western forum 1.7505E+04 with d mckey score highest (24) , final score be l 96 - 105"
+        ],
+        "table_id": "2-17382360-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "game 42 be at great western forum , with an attendance of 15908",
+            "game 42 be at great western forum , with an attendance of 1.5908E+04"
+        ],
+        "table_id": "2-17382360-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "thomas levet of france have 159500",
+            "thomas levet of france have 1.59500E+05"
+        ],
+        "table_id": "2-14614110-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "code 99025 be classify as type v and have a population of 7747",
+            "code 9.9025E+04 be classify as type v and have a population of 7747"
+        ],
+        "table_id": "2-11218948-15.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "code 99025 have name chibougamau and have population of 1828",
+            "code 9.9025E+04 have name chibougamau and have population of 1828"
+        ],
+        "table_id": "2-11218948-15.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 34405 crowd attendance at the game with the record of 0 - 5",
+            "there be 3.4405E+04 crowd attendance at the game with the record of 0 - 5"
+        ],
+        "table_id": "2-17406982-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the final score for the game play on august 25 , with attendance of 28335 , be 7 - 24",
+            "the final score for the game play on august 25 , with attendance of 2.8335E+04 , be 7 - 24"
+        ],
+        "table_id": "2-17406982-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 34405 crowd attendance at the game whose record be 0 - 3",
+            "there be 3.4405E+04 crowd attendance at the game whose record be 0 - 3"
+        ],
+        "table_id": "2-17406982-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the crowd total 20257 for the game that richmond play in",
+            "the crowd total 2.0257E+04 for the game that richmond play in"
+        ],
+        "table_id": "2-10883333-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the crowd be 21257 for richmond",
+            "the crowd be 2.1257E+04 for richmond"
+        ],
+        "table_id": "2-10883333-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the total attendance for the game on may 22 be 19167",
+            "the total attendance for the game on may 22 be 1.9167E+04"
+        ],
+        "table_id": "2-12206178-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the total attendance for game be greater than 19167 when the record be 23 - 23",
+            "the total attendance for game be greater than 1.9167E+04 when the record be 23 - 23"
+        ],
+        "table_id": "2-12206178-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the away team be geelong , the crowd size be 20427",
+            "when the away team be geelong , the crowd size be 2.0427E+04"
+        ],
+        "table_id": "2-10775038-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the crowd 's be more than 20427 be the total amount of crowd watch the away team of geelong",
+            "the crowd 's be more than 2.0427E+04 be the total amount of crowd watch the away team of geelong"
+        ],
+        "table_id": "2-10775038-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in the match against at decatur staleys hold on december 12 , 1920 with an attendance of 12000 , result in a tie with a result of 0 - 0 t",
+            "in the match against at decatur staleys hold on december 12 , 1920 with an attendance of 1.2000E+04 , result in a tie with a result of 0 - 0 t"
+        ],
+        "table_id": "2-15272203-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "august 28 1954 be the date of the game with crowd of 25000",
+            "august 28 1954 be the date of the game with crowd of 2.5000E+04"
+        ],
+        "table_id": "2-10773616-18.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "25000 crowd be the largest crowd for the game where collingwood be the away team",
+            "2.5000E+04 crowd be the largest crowd for the game where collingwood be the away team"
+        ],
+        "table_id": "2-10773616-18.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "all of the game play on 28 august 1954 have attendance larger than 25000",
+            "all of the game play on 28 august 1954 have attendance larger than 2.5000E+04"
+        ],
+        "table_id": "2-10773616-18.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "24000 be the largest crowd of a game where collingwood be the away team",
+            "2.4000E+04 be the largest crowd of a game where collingwood be the away team"
+        ],
+        "table_id": "2-10773616-18.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 23000 fan when essendon take the win of 68 - 67 against south melbourne",
+            "there be 2.3000E+04 fan when essendon take the win of 68 - 67 against south melbourne"
+        ],
+        "table_id": "2-10809368-13.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the crowd size at the game that end with an away team score of 10.8 (68) be 26000",
+            "the crowd size at the game that end with an away team score of 10.8 (68) be 2.6000E+04"
+        ],
+        "table_id": "2-10809368-13.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "a marginal ordinary income tax rate of 28% be use when married filing separately with an income of 68525 - 104425 or for head of household with an income 117451 - 190200",
+            "a marginal ordinary income tax rate of 28% be use when married filing separately with an income of 68525 - 104425 or for head of household with an income 117451 - 1.90200E+05"
+        ],
+        "table_id": "1-11647327-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "over 31000 crowd watch darling lose",
+            "over 3.1000E+04 crowd watch darling lose"
+        ],
+        "table_id": "2-12206344-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 23740 crowd in the crowd at victoria park",
+            "there be 2.3740E+04 crowd in the crowd at victoria park"
+        ],
+        "table_id": "2-10775890-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 23740 crowd in the crowd at prince park",
+            "there be 2.3740E+04 crowd in the crowd at prince park"
+        ],
+        "table_id": "2-10775890-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the week 8 game vs the buffalo bill be attend by 26051",
+            "the week 8 game vs the buffalo bill be attend by 2.6051E+04"
+        ],
+        "table_id": "1-17778417-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "26051 crowd attend the week 8 game when denver play houston oillers",
+            "2.6051E+04 crowd attend the week 8 game when denver play houston oillers"
+        ],
+        "table_id": "1-17778417-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "17644 be the gdp per capita for the country with an overall gdp of 156.640",
+            "1.7644E+04 be the gdp per capita for the country with an overall gdp of 156.640"
+        ],
+        "table_id": "2-1307842-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "15859 be the gpd per capita of the country with an overall gdp of 80.955",
+            "1.5859E+04 be the gpd per capita of the country with an overall gdp of 80.955"
+        ],
+        "table_id": "2-1307842-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the area of accession countries be 871980 square km",
+            "the area of accession countries be 8.71980E+05 square km"
+        ],
+        "table_id": "2-1307842-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the per capita gdp that be 17644 have an overall gdp that be over 156.640",
+            "the per capita gdp that be 1.7644E+04 have an overall gdp that be over 156.640"
+        ],
+        "table_id": "2-1307842-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the per capita gdp that be 15859 have an overall gdp that be under 80.955",
+            "the per capita gdp that be 1.5859E+04 have an overall gdp that be under 80.955"
+        ],
+        "table_id": "2-1307842-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "accession countries have a population of less than 1000000 and an area of greater than 900000",
+            "accession countries have a population of less than 1000000 and an area of greater than 9.00000E+05"
+        ],
+        "table_id": "2-1307842-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the largest crowd on 2 august 1980 be 24738",
+            "the largest crowd on 2 august 1980 be 2.4738E+04"
+        ],
+        "table_id": "2-10809823-18.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the palace of auburn hill have an attendance of 17506 people for the game that andray blatche (9) score high rebound",
+            "the palace of auburn hill have an attendance of 1.7506E+04 people for the game that andray blatche (9) score high rebound"
+        ],
+        "table_id": "1-27721131-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the location attendance when andray blatche (9) get high rebound be the palace of auburn hill 17501",
+            "the location attendance when andray blatche (9) get high rebound be the palace of auburn hill 1.7501E+04"
+        ],
+        "table_id": "1-27721131-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance on december 16 at washington redskin be 49484",
+            "the attendance on december 16 at washington redskin be 4.9484E+04"
+        ],
+        "table_id": "2-18908161-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "attendance be larger than 62070 after week 14",
+            "attendance be larger than 6.2070E+04 after week 14"
+        ],
+        "table_id": "2-18908161-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the minimum population in region zealand where roskilde be the largest city be 819427",
+            "the minimum population in region zealand where roskilde be the largest city be 8.19427E+05"
+        ],
+        "table_id": "1-16278602-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the population (january 1 , 2008) of the capital region of denmark , largest city copenhagen , be 819427",
+            "the population (january 1 , 2008) of the capital region of denmark , largest city copenhagen , be 8.19427E+05"
+        ],
+        "table_id": "1-16278602-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the total for chuquisaca be 21168",
+            "the total for chuquisaca be 2.1168E+04"
+        ],
+        "table_id": "1-21249915-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "chuquisaca have a small (100ha) of 11370",
+            "chuquisaca have a small (100ha) of 1.1370E+04"
+        ],
+        "table_id": "1-21249915-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the total for la paz be 35994",
+            "the total for la paz be 3.5994E+04"
+        ],
+        "table_id": "1-21249915-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the tarija department have 12755 small (100ha) and 17101 medium (500ha)",
+            "the tarija department have 12755 small (100ha) and 1.7101E+04 medium (500ha)"
+        ],
+        "table_id": "1-21249915-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 12755 large category for the department that have a medium of 18000",
+            "there be 12755 large category for the department that have a medium of 1.8000E+04"
+        ],
+        "table_id": "1-21249915-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the total for la paz be 21368",
+            "the total for la paz be 2.1368E+04"
+        ],
+        "table_id": "1-21249915-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "chuquisaca have a big of 35968",
+            "chuquisaca have a big of 3.5968E+04"
+        ],
+        "table_id": "1-21249915-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 35968 for la paz",
+            "there be 3.5968E+04 for la paz"
+        ],
+        "table_id": "1-21249915-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance for the third week , september 18 , 1994 , be 62818",
+            "the attendance for the third week , september 18 , 1994 , be 6.2818E+04"
+        ],
+        "table_id": "2-10650101-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average attendance be 65233 crowd during the game against the philadelphia eagle on week 10",
+            "the average attendance be 6.5233E+04 crowd during the game against the philadelphia eagle on week 10"
+        ],
+        "table_id": "2-10650101-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance for the game on october 30 , 1994 on week 8 be 73190",
+            "the attendance for the game on october 30 , 1994 on week 8 be 7.3190E+04"
+        ],
+        "table_id": "2-10650101-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance for the game after october 30 , 1994 for a week week 8 be 73190",
+            "the attendance for the game after october 30 , 1994 for a week week 8 be 7.3190E+04"
+        ],
+        "table_id": "2-10650101-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance for the game hold on september 18 , 1994 , with opponent pittsburgh steelers with a week less than 5 be 62818",
+            "the attendance for the game hold on september 18 , 1994 , with opponent pittsburgh steelers with a week less than 5 be 6.2818E+04"
+        ],
+        "table_id": "2-10650101-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the episode with production code 176452 be direct by lawrence trilling",
+            "the episode with production code 1.76452E+05 be direct by lawrence trilling"
+        ],
+        "table_id": "1-26561498-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "lawrence trill direct and produce code 176453 on august 19 , 2003",
+            "lawrence trill direct and produce code 1.76453E+05 on august 19 , 2003"
+        ],
+        "table_id": "1-26561498-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "september 4 , 2003 be the original air date for julie warner code 175938",
+            "september 4 , 2003 be the original air date for julie warner code 1.75938E+05"
+        ],
+        "table_id": "1-26561498-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "stadio marcantonio bentegodi be the stadium in verona with a capacity 39211",
+            "stadio marcantonio bentegodi be the stadium in verona with a capacity 3.9211E+04"
+        ],
+        "table_id": "2-17605092-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the purse total for the royal caribbean golf classic be 1450000",
+            "the purse total for the royal caribbean golf classic be 1.450000E+06"
+        ],
+        "table_id": "2-11602885-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "on november 19 , the game with visitor san francisco 49ers have a result of l and a record of 2 - 8 - 0. the attendance be 35105",
+            "on november 19 , the game with visitor san francisco 49ers have a result of l and a record of 2 - 8 - 0. the attendance be 3.5105E+04"
+        ],
+        "table_id": "2-12149193-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the date be after november 19 when the attendance be more than 19204 , the result be l , and the visitor be the san francisco 49ers , and the record be 2 - 8 - 0",
+            "the date be after november 19 when the attendance be more than 1.9204E+04 , the result be l , and the visitor be the san francisco 49ers , and the record be 2 - 8 - 0"
+        ],
+        "table_id": "2-12149193-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest crowd at windy hill be 20000",
+            "the lowest crowd at windy hill be 2.0000E+04"
+        ],
+        "table_id": "2-10809444-13.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the home team have a score of 8.17 (65) the size of the crowd be 12000",
+            "when the home team have a score of 8.17 (65) the size of the crowd be 1.2000E+04"
+        ],
+        "table_id": "2-10809444-13.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "on july 12 1947 the crowd be more than 12000 when south melbourne away team have a score of 9.16 (70)",
+            "on july 12 1947 the crowd be more than 1.2000E+04 when south melbourne away team have a score of 9.16 (70)"
+        ],
+        "table_id": "2-10809444-13.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the crowd for the richmond home team be 28000",
+            "the crowd for the richmond home team be 2.8000E+04"
+        ],
+        "table_id": "2-10809444-13.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the match at windy hill with collingwood as home team have attendance of 20000 and score of 9.16 (70)",
+            "the match at windy hill with collingwood as home team have attendance of 2.0000E+04 and score of 9.16 (70)"
+        ],
+        "table_id": "2-10809444-13.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "essendon be the home team who score 8.17 (65) at kardinia park with attendance of 12000",
+            "essendon be the home team who score 8.17 (65) at kardinia park with attendance of 1.2000E+04"
+        ],
+        "table_id": "2-10809444-13.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the match at junction oval on 12 july 1947 have more than 12000 crowd with hawthorn be away team and score of 9.16 (70)",
+            "the match at junction oval on 12 july 1947 have more than 1.2000E+04 crowd with hawthorn be away team and score of 9.16 (70)"
+        ],
+        "table_id": "2-10809444-13.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance for wolverhampton wanderer be 28500 and a h / a of a",
+            "the attendance for wolverhampton wanderer be 2.8500E+04 and a h / a of a"
+        ],
+        "table_id": "2-18258697-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the total of 28500 be for h / a of a with the opponent of wolverhampton wanderer on 5 august 1994",
+            "the total of 2.8500E+04 be for h / a of a with the opponent of wolverhampton wanderer on 5 august 1994"
+        ],
+        "table_id": "2-18258697-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "27901 indian admit in 2001",
+            "2.7901E+04 indian admit in 2001"
+        ],
+        "table_id": "1-1717824-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "geelong 's highest crowd count be 28729",
+            "geelong 's highest crowd count be 2.8729E+04"
+        ],
+        "table_id": "2-10808089-15.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the crowd for home team of geelong be 28000",
+            "the crowd for home team of geelong be 2.8000E+04"
+        ],
+        "table_id": "2-10808089-15.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "crowd 73834 have a home team score of 16.9 (105)",
+            "crowd 7.3834E+04 have a home team score of 16.9 (105)"
+        ],
+        "table_id": "2-10808089-15.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "europe have a label of columbia , a catalog smaller than 88697411432 , and be date october 24 , 2008",
+            "europe have a label of columbia , a catalog smaller than 8.869741E+10 , and be date october 24 , 2008"
+        ],
+        "table_id": "2-18969843-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "europe , catalog 88697936772 , be date july 15 , 2011",
+            "europe , catalog 8.869794E+10 , be date july 15 , 2011"
+        ],
+        "table_id": "2-18969843-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the catalog number 88697400492 be for the legacy recording label release on october 24 , 2008 in europe",
+            "the catalog number 8.869740E+10 be for the legacy recording label release on october 24 , 2008 in europe"
+        ],
+        "table_id": "2-18969843-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "22210 attend the tie between sheffield united and middlesbrough",
+            "2.2210E+04 attend the tie between sheffield united and middlesbrough"
+        ],
+        "table_id": "2-11647944-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "11920 attend tie number 3",
+            "1.1920E+04 attend tie number 3"
+        ],
+        "table_id": "2-11647944-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the country north korea be in the 11891 area",
+            "the country north korea be in the 1.1891E+04 area"
+        ],
+        "table_id": "1-160510-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "south korea be the country for 11891 area",
+            "south korea be the country for 1.1891E+04 area"
+        ],
+        "table_id": "1-160510-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be only 5 week with attendance in the 40000 to 50000 range",
+            "there be only 5 week with attendance in the 40000 to 5.0000E+04 range"
+        ],
+        "table_id": "2-14876891-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "miller barber of the united state have the most win at 24 , earn him 2214603",
+            "miller barber of the united state have the most win at 24 , earn him 2.214603E+06"
+        ],
+        "table_id": "2-11622496-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "bob charles of new zealand have the most win at 13 , earn him 2910413",
+            "bob charles of new zealand have the most win at 13 , earn him 2.910413E+06"
+        ],
+        "table_id": "2-11622496-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the purse for 2011 be 1400000",
+            "the purse for 2011 be 1.400000E+06"
+        ],
+        "table_id": "1-15618241-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest purse for 2011 be 1300000",
+            "the highest purse for 2011 be 1.300000E+06"
+        ],
+        "table_id": "1-15618241-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance , on february 20 , play at the us airways center against oklahoma city , be 18422",
+            "the attendance , on february 20 , play at the us airways center against oklahoma city , be 1.8422E+04"
+        ],
+        "table_id": "2-17340355-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the game play in staples center when the opponent be boston and the attendance be 18997",
+            "the game play in staples center when the opponent be boston and the attendance be 1.8997E+04"
+        ],
+        "table_id": "2-17340355-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "episode number 1 of season 3 air on 28 january 2010 and have a total number of viewer of 924000",
+            "episode number 1 of season 3 air on 28 january 2010 and have a total number of viewer of 9.24000E+05"
+        ],
+        "table_id": "1-12995531-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the episode 3 of series 4 have a total number of viewer of 614000",
+            "the episode 3 of series 4 have a total number of viewer of 6.14000E+05"
+        ],
+        "table_id": "1-12995531-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 942000 viewer on the first broadcast in 28 january 2010 , episode number 1",
+            "there be 9.42000E+05 viewer on the first broadcast in 28 january 2010 , episode number 1"
+        ],
+        "table_id": "1-12995531-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the episode number where the total viewer be 614000 be 5.0",
+            "the episode number where the total viewer be 6.14000E+05 be 5.0"
+        ],
+        "table_id": "1-12995531-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the purse in 1994 be 83925",
+            "the purse in 1994 be 8.3925E+04"
+        ],
+        "table_id": "2-11812517-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the purse in 1998 be 170850",
+            "the purse in 1998 be 1.70850E+05"
+        ],
+        "table_id": "2-11812517-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "1973 have a purse of 83925",
+            "1973 have a purse of 8.3925E+04"
+        ],
+        "table_id": "2-11812517-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "15778 be the purse list for the year of 1998",
+            "1.5778E+04 be the purse list for the year of 1998"
+        ],
+        "table_id": "2-11812517-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the base pair be 358943 when strain be unspecified",
+            "the base pair be 3.58943E+05 when strain be unspecified"
+        ],
+        "table_id": "2-11664498-16.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the base pair be 904246 when gene be 832",
+            "the base pair be 9.04246E+05 when gene be 832"
+        ],
+        "table_id": "2-11664498-16.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the unspecified strain of the borrelia garinii specie have 358943 base pair",
+            "the unspecified strain of the borrelia garinii specie have 3.58943E+05 base pair"
+        ],
+        "table_id": "2-11664498-16.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the b31 strain of the borrelia garinii specie have 832 gene and 904246 base pair",
+            "the b31 strain of the borrelia garinii specie have 832 gene and 9.04246E+05 base pair"
+        ],
+        "table_id": "2-11664498-16.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the double (aids related) number be 41000 , and the paternal (total) be larger than 442000 then there be 24.6% orphan",
+            "when the double (aids related) number be 41000 , and the paternal (total) be larger than 4.42000E+05 then there be 24.6% orphan"
+        ],
+        "table_id": "2-18564154-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 30000 total aid related orphan in malawi in 1995",
+            "there be 3.0000E+04 total aid related orphan in malawi in 1995"
+        ],
+        "table_id": "2-18564154-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "measure 4 have 198563 yes vote and 328221 no vote",
+            "measure 4 have 198563 yes vote and 3.28221E+05 no vote"
+        ],
+        "table_id": "1-256286-60.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the constitution be amend when there be 381559 yes vote",
+            "the constitution be amend when there be 3.81559E+05 yes vote"
+        ],
+        "table_id": "1-256286-60.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 198563 vote for measure 3",
+            "there be 1.98563E+05 vote for measure 3"
+        ],
+        "table_id": "1-256286-60.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "bruce fleisher , with 2411543 worth of earnings , be rank 2",
+            "bruce fleisher , with 2.411543E+06 worth of earnings , be rank 2"
+        ],
+        "table_id": "2-11603267-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "bruce fleisher with 2411543 worth of earnings rank 4",
+            "bruce fleisher with 2.411543E+06 worth of earnings rank 4"
+        ],
+        "table_id": "2-11603267-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the value of whole fresh cow milk be 409566",
+            "the value of whole fresh cow milk be 4.09566E+05"
+        ],
+        "table_id": "1-21109892-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "value number 136521 , onion , dry , have a value ranking of 23",
+            "value number 1.36521E+05 , onion , dry , have a value ranking of 23"
+        ],
+        "table_id": "1-21109892-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the production (mt) be 446424 , the value world rank be na",
+            "when the production (mt) be 4.46424E+05 , the value world rank be na"
+        ],
+        "table_id": "1-21109892-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "whole fresh cow milk be the commodity when the value be 650000",
+            "whole fresh cow milk be the commodity when the value be 6.50000E+05"
+        ],
+        "table_id": "1-21109892-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "dry onion production (mt) do not reach 650000",
+            "dry onion production (mt) do not reach 6.50000E+05"
+        ],
+        "table_id": "1-21109892-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "on august 5 1972 , 33364 crowd attend the game at mcg to watch melbourne play against carlton",
+            "on august 5 1972 , 3.3364E+04 crowd attend the game at mcg to watch melbourne play against carlton"
+        ],
+        "table_id": "2-10826385-18.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "25007 crowd attend the game at victoria park when collingwood score 19.15 (129) against fitzroy",
+            "2.5007E+04 crowd attend the game at victoria park when collingwood score 19.15 (129) against fitzroy"
+        ],
+        "table_id": "2-10826385-18.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 33364 crowd in attendance at carlton 's away game",
+            "there be 3.3364E+04 crowd in attendance at carlton 's away game"
+        ],
+        "table_id": "2-10826385-18.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 25007 crowd in attendance at the game in which collingwood score 19.15",
+            "there be 2.5007E+04 crowd in attendance at the game in which collingwood score 19.15"
+        ],
+        "table_id": "2-10826385-18.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be more than 33364 crowd in attendance at all the away game for carlton",
+            "there be more than 3.3364E+04 crowd in attendance at all the away game for carlton"
+        ],
+        "table_id": "2-10826385-18.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be more than 25007 crowd in attendance when collingwood score 19.15",
+            "there be more than 2.5007E+04 crowd in attendance when collingwood score 19.15"
+        ],
+        "table_id": "2-10826385-18.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in total , 33364 crowd attend the game that collingwood played",
+            "in total , 3.3364E+04 crowd attend the game that collingwood played"
+        ],
+        "table_id": "2-10826385-18.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "25007 crowd attend the game when the home team play at lake oval",
+            "2.5007E+04 crowd attend the game when the home team play at lake oval"
+        ],
+        "table_id": "2-10826385-18.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "for season 1 with 100 day , the prize be 50000",
+            "for season 1 with 100 day , the prize be 5.0000E+04"
+        ],
+        "table_id": "2-15984770-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in season 1 , there be less than 98 day , and the prize be 100000",
+            "in season 1 , there be less than 98 day , and the prize be 1.00000E+05"
+        ],
+        "table_id": "2-15984770-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "attendance be higher on may 18 with 28125 than on may 30",
+            "attendance be higher on may 18 with 2.8125E+04 than on may 30"
+        ],
+        "table_id": "2-11652183-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance during week 9 be 50073",
+            "the attendance during week 9 be 5.0073E+04"
+        ],
+        "table_id": "1-14984050-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 1 week with an attendance of 50073",
+            "there be 1 week with an attendance of 5.0073E+04"
+        ],
+        "table_id": "1-14984050-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "wrigley field record a attendance of 50073 with 3 - 3 record in the 1st week",
+            "wrigley field record a attendance of 5.0073E+04 with 3 - 3 record in the 1st week"
+        ],
+        "table_id": "1-14984050-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the match on milwaukee county stadium on october 27 , 1957 have a result w 45 - 17 with attendance of 55764",
+            "the match on milwaukee county stadium on october 27 , 1957 have a result w 45 - 17 with attendance of 5.5764E+04"
+        ],
+        "table_id": "1-14984050-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be more than 5 number of week for 50073 attendance",
+            "there be more than 5 number of week for 5.0073E+04 attendance"
+        ],
+        "table_id": "1-14984050-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the team be new jersey when the location attendance be the us airways center 18422",
+            "the team be new jersey when the location attendance be the us airways center 1.8422E+04"
+        ],
+        "table_id": "2-17340355-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the location and attendance for the game against new jersey be us airways center 18422",
+            "the location and attendance for the game against new jersey be us airways center 1.8422E+04"
+        ],
+        "table_id": "2-17340355-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the location for the game against new jersey be us airways center and the attendance be less than 18422",
+            "the location for the game against new jersey be us airways center and the attendance be less than 1.8422E+04"
+        ],
+        "table_id": "2-17340355-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the location and attendance for the game against new jersey at the us airways center be lower than 18422",
+            "the location and attendance for the game against new jersey at the us airways center be lower than 1.8422E+04"
+        ],
+        "table_id": "2-17340355-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "victoria park witness a crowd of 28000",
+            "victoria park witness a crowd of 2.8000E+04"
+        ],
+        "table_id": "2-10809351-16.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when st kilda as the home team score 8.12 (60) the crowd be 12000",
+            "when st kilda as the home team score 8.12 (60) the crowd be 1.2000E+04"
+        ],
+        "table_id": "2-10809351-16.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "september 24 1988 , october 29 , 1988 march 14 , 1989 , and april 22 1989 all have attendance less than 39058 at their venue",
+            "september 24 1988 , october 29 , 1988 march 14 , 1989 , and april 22 1989 all have attendance less than 3.9058E+04 at their venue"
+        ],
+        "table_id": "2-15588239-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 4 date during which the total attendance be less than 39058 and the opponent be celtic :13 august 1988 25 march 1989 , 13 may 1989 , 8 april 1989",
+            "there be 4 date during which the total attendance be less than 3.9058E+04 and the opponent be celtic :13 august 1988 25 march 1989 , 13 may 1989 , 8 april 1989"
+        ],
+        "table_id": "2-15588239-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "tulane stadiums' highest attendance be 66837",
+            "tulane stadiums' highest attendance be 6.6837E+04"
+        ],
+        "table_id": "2-17794610-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in tulane stadium , the lowest attendance record be 66837",
+            "in tulane stadium , the lowest attendance record be 6.6837E+04"
+        ],
+        "table_id": "2-17794610-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the match on 22 august 1959 with a crowd of 21646 have richmond as away team at venue windy hill and carlton on home side",
+            "the match on 22 august 1959 with a crowd of 2.1646E+04 have richmond as away team at venue windy hill and carlton on home side"
+        ],
+        "table_id": "2-10775038-17.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the match at windy hill have carlton on the home team with crowd of 14500 and hawthorn as away side",
+            "the match at windy hill have carlton on the home team with crowd of 1.4500E+04 and hawthorn as away side"
+        ],
+        "table_id": "2-10775038-17.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the celtic have an attendance of 36333",
+            "the celtic have an attendance of 3.6333E+04"
+        ],
+        "table_id": "2-16649424-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "january 27 1996 the attendance be 15461",
+            "january 27 1996 the attendance be 1.5461E+04"
+        ],
+        "table_id": "2-16649424-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the november 25 , 1945 game have an attendance of more than 35000",
+            "the november 25 , 1945 game have an attendance of more than 3.5000E+04"
+        ],
+        "table_id": "2-15124848-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "hawthorn play against fitzroy in front of a crowd of 35260 crowd",
+            "hawthorn play against fitzroy in front of a crowd of 3.5260E+04 crowd"
+        ],
+        "table_id": "2-10775038-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the tier 1 capital for allied irish bank be 10249",
+            "the tier 1 capital for allied irish bank be 1.0249E+04"
+        ],
+        "table_id": "1-22368322-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "1 of the transfer athletes require a 120000 transfer fee",
+            "1 of the transfer athletes require a 1.20000E+05 transfer fee"
+        ],
+        "table_id": "2-17596418-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "gyepes of hun be transfer in the summer transfer window for 200000",
+            "gyepes of hun be transfer in the summer transfer window for 2.00000E+05"
+        ],
+        "table_id": "2-17596418-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the transfer fee be 200000 when winter be the transfer window , the type be transfer and the country be hun",
+            "the transfer fee be 2.00000E+05 when winter be the transfer window , the type be transfer and the country be hun"
+        ],
+        "table_id": "2-17596418-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "burke be transfer for a 120000 transfer fee",
+            "burke be transfer for a 1.20000E+05 transfer fee"
+        ],
+        "table_id": "2-17596418-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the winner of the atlanta classic win 25000",
+            "the winner of the atlanta classic win 2.5000E+04"
+        ],
+        "table_id": "2-14685408-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "lee trevino (8) win the us open and 30000",
+            "lee trevino (8) win the us open and 3.0000E+04"
+        ],
+        "table_id": "2-14685408-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the winner share of the us open be 30000",
+            "the winner share of the us open be 3.0000E+04"
+        ],
+        "table_id": "2-14685408-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the winner 's share for the bahamas national open be 25000",
+            "the winner 's share for the bahamas national open be 2.5000E+04"
+        ],
+        "table_id": "2-14685408-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "during game 6 , at the toyota center , there be an attendance of 18501 people",
+            "during game 6 , at the toyota center , there be an attendance of 1.8501E+04 people"
+        ],
+        "table_id": "2-17190012-12.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "game 6 be at staple center and have an attendance of 18501",
+            "game 6 be at staple center and have an attendance of 1.8501E+04"
+        ],
+        "table_id": "2-17190012-12.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "13000 be the crowd when the home team have a score of 16.21 (117)",
+            "1.3000E+04 be the crowd when the home team have a score of 16.21 (117)"
+        ],
+        "table_id": "2-10701045-15.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "for the newport cup tournament hold on jul 30 , the purse be 275000 and the prize money for 1st place be 41500",
+            "for the newport cup tournament hold on jul 30 , the purse be 275000 and the prize money for 1st place be 4.1500E+04"
+        ],
+        "table_id": "1-11622496-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the prize money for the 1st place of the crestar classic tournament geld in virginia be 52500",
+            "the prize money for the 1st place of the crestar classic tournament geld in virginia be 5.2500E+04"
+        ],
+        "table_id": "1-11622496-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "more than 41500 be the prize money for the 275000 purse",
+            "more than 41500 be the prize money for the 2.75000E+05 purse"
+        ],
+        "table_id": "1-11622496-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "52500 be the prize money for texas",
+            "5.2500E+04 be the prize money for texas"
+        ],
+        "table_id": "1-11622496-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the high point for the toyota center 18269 be boozer (19)",
+            "the high point for the toyota center 1.8269E+04 be boozer (19)"
+        ],
+        "table_id": "1-11964263-13.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the high point for the toyota center 18269 be boozer (20)",
+            "the high point for the toyota center 1.8269E+04 be boozer (20)"
+        ],
+        "table_id": "1-11964263-13.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "on the date of june 11 the attendance be 34925",
+            "on the date of june 11 the attendance be 3.4925E+04"
+        ],
+        "table_id": "2-12205689-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be 20267 in attendance on june 11",
+            "there be 2.0267E+04 in attendance on june 11"
+        ],
+        "table_id": "2-12205689-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "beverly hill , 90210 be the 8:30 feature with a 7:00 feature loft story",
+            "beverly hill , 9.0210E+04 be the 8:30 feature with a 7:00 feature loft story"
+        ],
+        "table_id": "2-15184672-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the player with 5 win have earn 1627890",
+            "the player with 5 win have earn 1.627890E+06"
+        ],
+        "table_id": "2-11621873-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the voter percentage when the number of voter be 312041 be 14.3%",
+            "the voter percentage when the number of voter be 3.12041E+05 be 14.3%"
+        ],
+        "table_id": "2-1202333-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the maverick home game have an attendance below 20000",
+            "the maverick home game have an attendance below 2.0000E+04"
+        ],
+        "table_id": "2-11965631-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "venue brunswick street oval have a crowd of 12000 on 6 may 1944",
+            "venue brunswick street oval have a crowd of 1.2000E+04 on 6 may 1944"
+        ],
+        "table_id": "2-10809142-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "21273 crowd come to montreal 's home game on march 24",
+            "2.1273E+04 crowd come to montreal 's home game on march 24"
+        ],
+        "table_id": "2-11801035-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "attendance for the final round be 67310",
+            "attendance for the final round be 6.7310E+04"
+        ],
+        "table_id": "2-12386228-9.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the smallest number of crowd to attend a game with an h / a of h and the opponent be rom be 74423",
+            "the smallest number of crowd to attend a game with an h / a of h and the opponent be rom be 7.4423E+04"
+        ],
+        "table_id": "2-12386228-9.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attenance be 60931 against lyon on 23 april 2008",
+            "the attenance be 6.0931E+04 against lyon on 23 april 2008"
+        ],
+        "table_id": "2-12386228-9.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when charlotte visit miami , 19600 crowd be in attendance to watch ricky davis score 23 point",
+            "when charlotte visit miami , 1.9600E+04 crowd be in attendance to watch ricky davis score 23 point"
+        ],
+        "table_id": "2-11961701-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the average attendance on october 26 , 1947 be 36364",
+            "the average attendance on october 26 , 1947 be 3.6364E+04"
+        ],
+        "table_id": "2-11172791-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "game number 45 be play on january 28 at american airline arena with an attendance of 16424",
+            "game number 45 be play on january 28 at american airline arena with an attendance of 1.6424E+04"
+        ],
+        "table_id": "1-17311812-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "home team st kilda have a crowd of 12000",
+            "home team st kilda have a crowd of 1.2000E+04"
+        ],
+        "table_id": "2-10809529-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the game against the denver bronco , in bear stadium , have an attendance of 12508",
+            "the game against the denver bronco , in bear stadium , have an attendance of 1.2508E+04"
+        ],
+        "table_id": "2-10735579-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in week 3 , the attendance be 14381",
+            "in week 3 , the attendance be 1.4381E+04"
+        ],
+        "table_id": "2-10735579-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "at denver bronco be the opponent who have an attendance less than 12508 during week 1 through 8",
+            "at denver bronco be the opponent who have an attendance less than 1.2508E+04 during week 1 through 8"
+        ],
+        "table_id": "2-10735579-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "16859 attend when dallas be the visitor",
+            "1.6859E+04 attend when dallas be the visitor"
+        ],
+        "table_id": "2-13242342-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance record at the week 15 game be 33816",
+            "the attendance record at the week 15 game be 3.3816E+04"
+        ],
+        "table_id": "2-15378594-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance record at a week 15 game be 26329",
+            "the lowest attendance record at a week 15 game be 2.6329E+04"
+        ],
+        "table_id": "2-15378594-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance be 33620 on week 1 when the we tie the pittsburgh steelers at 14 - 14",
+            "the attendance be 3.3620E+04 on week 1 when the we tie the pittsburgh steelers at 14 - 14"
+        ],
+        "table_id": "2-15124803-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "on october 20.1946 , there be 24357 in attendance on week 4",
+            "on october 20.1946 , there be 2.4357E+04 in attendance on week 4"
+        ],
+        "table_id": "2-15124803-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance for week 1 - 4 be all above 30000",
+            "the attendance for week 1 - 4 be all above 3.0000E+04"
+        ],
+        "table_id": "2-15124803-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance be 36620 on week 1 when the result be a tie of 14 - 14",
+            "the attendance be 3.6620E+04 on week 1 when the result be a tie of 14 - 14"
+        ],
+        "table_id": "2-15124803-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be a low attendance of 14007 against the devil ray on may 13",
+            "there be a low attendance of 1.4007E+04 against the devil ray on may 13"
+        ],
+        "table_id": "2-12206000-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "there be a high attendace of 36806 on may 28 , bring the record to 29 - 25",
+            "there be a high attendace of 3.6806E+04 on may 28 , bring the record to 29 - 25"
+        ],
+        "table_id": "2-12206000-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the ranger have high attendance with a figure of 36806",
+            "the ranger have high attendance with a figure of 3.6806E+04"
+        ],
+        "table_id": "2-12206000-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest recorded attendance be 37806",
+            "the highest recorded attendance be 3.7806E+04"
+        ],
+        "table_id": "2-12206000-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "jesse sylvia have 2 wsop cash worth 36372 in earnings",
+            "jesse sylvia have 2 wsop cash worth 3.6372E+04 in earnings"
+        ],
+        "table_id": "1-23696862-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the person who have 126796 wsop earnings have 3 wsop cash",
+            "the person who have 1.26796E+05 wsop earnings have 3 wsop cash"
+        ],
+        "table_id": "1-23696862-6.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the person who have 39371 wsop earnings have 3 wsop cash",
+            "the person who have 3.9371E+04 wsop earnings have 3 wsop cash"
+        ],
+        "table_id": "1-23696862-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when carlton be the away team , the home team score be 7.10 (52) and the crowd be larger than 12240",
+            "when carlton be the away team , the home team score be 7.10 (52) and the crowd be larger than 1.2240E+04"
+        ],
+        "table_id": "2-10809157-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the away team score be greater than 7.10 (52) when the crowd be less than 12240 and carlton be the home team",
+            "the away team score be greater than 7.10 (52) when the crowd be less than 1.2240E+04 and carlton be the home team"
+        ],
+        "table_id": "2-10809157-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the crowd at the western oval venue on 27 june 1964 be 13119",
+            "the crowd at the western oval venue on 27 june 1964 be 1.3119E+04"
+        ],
+        "table_id": "2-10784349-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when richmond be the away team , the crowd size be 27614",
+            "when richmond be the away team , the crowd size be 2.7614E+04"
+        ],
+        "table_id": "2-10784349-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the abc championship from oct 25 - 28 have a 120000000 prize fund and be worth 18 owgr point",
+            "the abc championship from oct 25 - 28 have a 1.200000E+08 prize fund and be worth 18 owgr point"
+        ],
+        "table_id": "2-17032444-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the tsuruya open have a prize fund of 100000000 and be worth 16 owgr point",
+            "the tsuruya open have a prize fund of 1.000000E+08 and be worth 16 owgr point"
+        ],
+        "table_id": "2-17032444-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the owgr point 18.0 have a prize fund larger than 100000000 and date of oct 25 - 28 be ian poulter",
+            "the owgr point 18.0 have a prize fund larger than 1.000000E+08 and date of oct 25 - 28 be ian poulter"
+        ],
+        "table_id": "2-17032444-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in the tsuruya open , brendan jones win 100000",
+            "in the tsuruya open , brendan jones win 1.00000E+05"
+        ],
+        "table_id": "2-17032444-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the winner of the fiji event win 6601094",
+            "the winner of the fiji event win 6.601094E+06"
+        ],
+        "table_id": "2-14473512-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in the city with a population of 53542 , the area (km square) be 161.06",
+            "in the city with a population of 5.3542E+04 , the area (km square) be 161.06"
+        ],
+        "table_id": "1-269888-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "161.06 be the area for population of 56542",
+            "161.06 be the area for population of 5.6542E+04"
+        ],
+        "table_id": "1-269888-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest production in 2010 (1000 ton) be china with 92599",
+            "the highest production in 2010 (1000 ton) be china with 9.2599E+04"
+        ],
+        "table_id": "1-293465-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 2011 , the production in the united state be 75083 , while in 2010 , it be 75849",
+            "in 2011 , the production in the united state be 75083 , while in 2010 , it be 7.5849E+04"
+        ],
+        "table_id": "1-293465-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the production in 2010 be 75082 for the country that have 75849 in 2010",
+            "the production in 2010 be 75082 for the country that have 7.5849E+04 in 2010"
+        ],
+        "table_id": "1-293465-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the commune of conchal\u00ed , renca , huechuraba have an enrol value of 174946",
+            "the commune of conchal\u00ed , renca , huechuraba have an enrol value of 1.74946E+05"
+        ],
+        "table_id": "1-2683116-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the region of antofagasta have a t / vap value of 45.3% and 124270 total vote",
+            "the region of antofagasta have a t / vap value of 45.3% and 1.24270E+05 total vote"
+        ],
+        "table_id": "1-2683116-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the commune with 140469 valid vote have a vap value of 237603",
+            "the commune with 140469 valid vote have a vap value of 2.37603E+05"
+        ],
+        "table_id": "1-2683116-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the population of maule in 2002 be 250348 and the number of enrolled people be 101083",
+            "the population of maule in 2002 be 250348 and the number of enrolled people be 1.01083E+05"
+        ],
+        "table_id": "1-2683116-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "conchal\u00ed , renca , huechuraba have an enrol value of 111699",
+            "conchal\u00ed , renca , huechuraba have an enrol value of 1.11699E+05"
+        ],
+        "table_id": "1-2683116-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "1 vap value be associate with 145469",
+            "1 vap value be associate with 1.45469E+05"
+        ],
+        "table_id": "1-2683116-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the location attendance be 20562 , raja bell (27) have high assist",
+            "when the location attendance be 2.0562E+04 , raja bell (27) have high assist"
+        ],
+        "table_id": "2-11965574-5.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "raja bell (22) have the high assist when location attendance be 21562",
+            "raja bell (22) have the high assist when location attendance be 2.1562E+04"
+        ],
+        "table_id": "2-11965574-5.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "mainland have a population of 18765 , a height of 450 , and an area of 96879",
+            "mainland have a population of 18765 , a height of 450 , and an area of 9.6879E+04"
+        ],
+        "table_id": "2-12725824-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "mainland have a population over 76 , a height over 210 , and an area less than 12068",
+            "mainland have a population over 76 , a height over 210 , and an area less than 1.2068E+04"
+        ],
+        "table_id": "2-12725824-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "49151 crowd attend the royal game that have a score of 17 - 6",
+            "4.9151E+04 crowd attend the royal game that have a score of 17 - 6"
+        ],
+        "table_id": "2-12207149-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the home team score 22.12 (144) at glenferrie oval where the crowd size be less than 13000",
+            "the home team score 22.12 (144) at glenferrie oval where the crowd size be less than 1.3000E+04"
+        ],
+        "table_id": "2-10809157-17.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 2000 , the population of ok be 68190 which be a a078 + 17.22% change from 1990 - 2000",
+            "in 2000 , the population of ok be 6.8190E+04 which be a a078 + 17.22% change from 1990 - 2000"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the rank of a result of (msa 348) have a population of 99962 in 2000",
+            "the rank of a result of (msa 348) have a population of 9.9962E+04 in 2000"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 2000 population in ok with a 1990 - 2000 percent change of a078 + 17.22% be 68190",
+            "the 2000 population in ok with a 1990 - 2000 percent change of a078 + 17.22% be 6.8190E+04"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 1990 - 2000 percent change of a result that be estimate to be 45393 in 2007 be a304 + 6.75%",
+            "the 1990 - 2000 percent change of a result that be estimate to be 4.5393E+04 in 2007 be a304 + 6.75%"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the rank of (msa 348) be the result with a population of 99962 in 2000",
+            "the rank of (msa 348) be the result with a population of 9.9962E+04 in 2000"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 2000 population in ok with a 1990 - 2000 percent change of a078 + 17.22% be less than 68190",
+            "the 2000 population in ok with a 1990 - 2000 percent change of a078 + 17.22% be less than 6.8190E+04"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 1990 - 2000 percent change of a result that be estimate to be greater than 45393 in 2007 be a304 + 6.75%",
+            "the 1990 - 2000 percent change of a result that be estimate to be greater than 4.5393E+04 in 2007 be a304 + 6.75%"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "(msa 348) be the rank of a result with a population of 99962 in 2002",
+            "(msa 348) be the rank of a result with a population of 9.9962E+04 in 2002"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 2000 , 99962 be the average of all result",
+            "in 2000 , 9.9962E+04 be the average of all result"
+        ],
+        "table_id": "2-12720275-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the result be w 22 - 14 and the attendance be 50000 , the opponent be at north carolina",
+            "when the result be w 22 - 14 and the attendance be 5.0000E+04 , the opponent be at north carolina"
+        ],
+        "table_id": "2-15531181-15.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the game at grove stadium , in winston - , nc , have an attendance of 25175 on october 17th , 1987",
+            "the game at grove stadium , in winston - , nc , have an attendance of 2.5175E+04 on october 17th , 1987"
+        ],
+        "table_id": "2-15531181-15.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance for the game at grove stadium winston - salem , nc with a result of w 14 - 0 be 57152",
+            "the attendance for the game at grove stadium winston - salem , nc with a result of w 14 - 0 be 5.7152E+04"
+        ],
+        "table_id": "2-15531181-15.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the attendance for the game at grove stadium in winston - salem , nc , with a result of l 0 - 14 , be less than 23600",
+            "the attendance for the game at grove stadium in winston - salem , nc , with a result of l 0 - 14 , be less than 2.3600E+04"
+        ],
+        "table_id": "2-15531181-15.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the time / retire with 22 lap and a grid of 29 be + 55947",
+            "the time / retire with 22 lap and a grid of 29 be + 5.5947E+04"
+        ],
+        "table_id": "2-12020197-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the 20th game play on december 11 have memphis as the team with attendance of 17453",
+            "the 20th game play on december 11 have memphis as the team with attendance of 1.7453E+04"
+        ],
+        "table_id": "1-11960944-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "at the game where the home team score 9.13 (67) , the crowd size be 12054 crowd",
+            "at the game where the home team score 9.13 (67) , the crowd size be 1.2054E+04 crowd"
+        ],
+        "table_id": "2-10869646-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "on october 3 , the attendance be 45658",
+            "on october 3 , the attendance be 4.5658E+04"
+        ],
+        "table_id": "2-12206689-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "on october 3 , the attendance be less than 45817",
+            "on october 3 , the attendance be less than 4.5817E+04"
+        ],
+        "table_id": "2-12206689-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "an album that come out march 2 , 2006 in france have a catalog number of 82876 - 70291 - 2",
+            "an album that come out march 2 , 2006 in france have a catalog number of 82876 - 7.0291E+04 - 2"
+        ],
+        "table_id": "2-1254205-10.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "march 2 , 2006 be not list for the region of france and catalog of 82876 - 70291 - 2",
+            "march 2 , 2006 be not list for the region of france and catalog of 82876 - 7.0291E+04 - 2"
+        ],
+        "table_id": "2-1254205-10.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "small (100ha) be the lowest on that have a big (>500ha) larger than 9021 be 86638",
+            "small (100ha) be the lowest on that have a big (>500ha) larger than 9021 be 8.6638E+04"
+        ],
+        "table_id": "2-17118006-1.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "series 11092 have jukeboxes as segment c",
+            "series 1.1092E+04 have jukeboxes as segment c"
+        ],
+        "table_id": "2-15187735-11.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the lowest attendance at a game when pittsburgh be the home team be 17132",
+            "the lowest attendance at a game when pittsburgh be the home team be 1.7132E+04"
+        ],
+        "table_id": "2-11902580-7.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the highest attendance at a game when pittsburgh be the home team be 17132",
+            "the highest attendance at a game when pittsburgh be the home team be 1.7132E+04"
+        ],
+        "table_id": "2-11902580-7.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "when the home team south melbourne score 9.10 (64) , the away team richmond record a score of 16.12 (108) and the crowd size be 31000",
+            "when the home team south melbourne score 9.10 (64) , the away team richmond record a score of 16.12 (108) and the crowd size be 3.1000E+04"
+        ],
+        "table_id": "2-10790510-6.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "an indians game have an attendance of 40560",
+            "an indians game have an attendance of 4.0560E+04"
+        ],
+        "table_id": "2-12206491-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "a game with an attendance of 23798 have a score of 43 - 28",
+            "a game with an attendance of 2.3798E+04 have a score of 43 - 28"
+        ],
+        "table_id": "2-12206491-4.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the loss for stottlemyre (5 - 6) occur on june 19 in front of 42343 crowd attendance",
+            "the loss for stottlemyre (5 - 6) occur on june 19 in front of 4.2343E+04 crowd attendance"
+        ],
+        "table_id": "2-12206491-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the june 24 game be the date when the attendance be 50396",
+            "the june 24 game be the date when the attendance be 5.0396E+04"
+        ],
+        "table_id": "2-12206491-4.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "catalog alr - 28007 have a alfa record label and a date of november 21 , 1980",
+            "catalog alr - 2.8007E+04 have a alfa record label and a date of november 21 , 1980"
+        ],
+        "table_id": "2-12702977-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "alr - 28007 have a label of village record and the date after november 21 , 1980",
+            "alr - 2.8007E+04 have a label of village record and the date after november 21 , 1980"
+        ],
+        "table_id": "2-12702977-3.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "kansa city chiefs match schedule on november 3 , 1991 record attendance of 48440 on week 12",
+            "kansa city chiefs match schedule on november 3 , 1991 record attendance of 4.8440E+04 on week 12"
+        ],
+        "table_id": "2-10650028-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "winning in 1989 total 43505",
+            "winning in 1989 total 4.3505E+04"
+        ],
+        "table_id": "1-2182562-2.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the amount of winning in 1989 be less than 40000",
+            "the amount of winning in 1989 be less than 4.0000E+04"
+        ],
+        "table_id": "1-2182562-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "in 1997 , team (s) 74 bace motorsports come in 1st position and have winning of 917791",
+            "in 1997 , team (s) 74 bace motorsports come in 1st position and have winning of 9.17791E+05"
+        ],
+        "table_id": "1-2182562-2.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "time warner cable arena have an attendance of 19244 for the 55th game of the year",
+            "time warner cable arena have an attendance of 1.9244E+04 for the 55th game of the year"
+        ],
+        "table_id": "1-17001658-8.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "game 55 be play at time warner cable arena and be attend by 19242",
+            "game 55 be play at time warner cable arena and be attend by 1.9242E+04"
+        ],
+        "table_id": "1-17001658-8.html.csv",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    }
+]

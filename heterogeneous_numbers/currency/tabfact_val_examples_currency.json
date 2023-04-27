@@ -1,0 +1,22 @@
+[
+    {
+        "hypothesis": [
+            "4 different country spend over 51.0 billion dollar on tourism in 2012",
+            "4 different country spend over $51.0 billion on tourism in 2012"
+        ],
+        "table_id": "1-29789-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "the united state spend 83.7 billion dollar on international tourism in 2012",
+            "the united state spend $83.7 billion on international tourism in 2012"
+        ],
+        "table_id": "1-29789-3.html.csv",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    }
+]
