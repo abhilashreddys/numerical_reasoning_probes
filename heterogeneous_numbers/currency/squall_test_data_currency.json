@@ -1,0 +1,512 @@
+[
+   {
+      "hypothesis": [
+         "the assists per game of the match between 2007 eurobasket and 7 was 0.6 .",
+         "the assists per game of the match between \u20ac2007 basket and 7 was 0.6 ."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2003 eurobasket did the tournament of the first assists per game 0.7 .",
+         "\u20ac2003 basket did the tournament of the first assists per game 0.7 ."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2005 eurobasket had 0.6 total assists per game.",
+         "\u20ac2005 basket had 0.6 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2007 eurobasket had 0.6 total assists per game.",
+         "\u20ac2007 basket had 0.6 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2011 eurobasket had 0.8 total assists per game.",
+         "\u20ac2011 basket had 0.8 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2003 eurobasket had 0.7 total assists per game.",
+         "\u20ac2003 basket had 0.7 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2009 eurobasket had 1.1 total assists per game.",
+         "\u20ac2009 basket had 1.1 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the assists per game of the match between 2008 eurobasket and 8 was 0.6 .",
+         "the assists per game of the match between \u20ac2008 basket and 8 was 0.6 ."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2003 eurobasket did the tournament of the first assists per game 0.8 .",
+         "\u20ac2003 basket did the tournament of the first assists per game 0.8 ."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2011 eurobasket had 0.6 total assists per game.",
+         "\u20ac2011 basket had 0.6 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2013 eurobasket had 0.6 total assists per game.",
+         "\u20ac2013 basket had 0.6 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2003 eurobasket had 0.6 total assists per game.",
+         "\u20ac2003 basket had 0.6 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2009 eurobasket had 0.8 total assists per game.",
+         "\u20ac2009 basket had 0.8 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2005 eurobasket had 0.8 total assists per game.",
+         "\u20ac2005 basket had 0.8 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2011 eurobasket had 0.2 total assists per game.",
+         "\u20ac2011 basket had 0.2 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2005 eurobasket had 0.2 total assists per game.",
+         "\u20ac2005 basket had 0.2 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2005 eurobasket had 0.7 total assists per game.",
+         "\u20ac2005 basket had 0.7 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2011 eurobasket had 0.7 total assists per game.",
+         "\u20ac2011 basket had 0.7 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2013 eurobasket had 1.5 total assists per game.",
+         "\u20ac2013 basket had 1.5 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2009 eurobasket had 1.5 total assists per game.",
+         "\u20ac2009 basket had 1.5 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2007 eurobasket had 1.5 total assists per game.",
+         "\u20ac2007 basket had 1.5 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2005 eurobasket had 0.5 total assists per game.",
+         "\u20ac2005 basket had 0.5 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2009 eurobasket had 0.5 total assists per game.",
+         "\u20ac2009 basket had 0.5 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2007 eurobasket had 1.1 total assists per game.",
+         "\u20ac2007 basket had 1.1 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2013 eurobasket had 1.1 total assists per game.",
+         "\u20ac2013 basket had 1.1 total assists per game."
+      ],
+      "table_id": "290.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the european indoor championships and the 2000 european indoor championships both involved this competitor in heptathlon.",
+         "the european indoor championships and the \u20ac2000 pean indoor championships both involved this competitor in heptathlon."
+      ],
+      "table_id": "1960.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "italy needs -10 european baseball championship gold medals in order to have the same total amount of any type of medal as great britain.",
+         "italy needs -\u20ac10 pean baseball championship gold medals in order to have the same total amount of any type of medal as great britain."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "italy needs -10 european baseball championship gold medals in order to have the same total amount of any type of medal as germany.",
+         "italy needs -\u20ac10 pean baseball championship gold medals in order to have the same total amount of any type of medal as germany."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "italy needs -10 european baseball championship gold medals in order to have the same total amount of any type of medal as russia.",
+         "italy needs -\u20ac10 pean baseball championship gold medals in order to have the same total amount of any type of medal as russia."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "italy needs -10 european baseball championship gold medals in order to have the same total amount of any type of medal as france.",
+         "italy needs -\u20ac10 pean baseball championship gold medals in order to have the same total amount of any type of medal as france."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "great britain needs 20 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "great britain needs \u20ac20 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "germany needs 20 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "germany needs \u20ac20 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "spain needs 19 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "spain needs \u20ac19 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "france needs 20 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "france needs \u20ac20 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "russia needs 20 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "russia needs \u20ac20 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "sweden needs 20 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "sweden needs \u20ac20 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "belgium needs 19 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "belgium needs \u20ac19 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "italy needs -10 european baseball championship gold medals in order to have the same total amount of any type of medal as spain.",
+         "italy needs -\u20ac10 pean baseball championship gold medals in order to have the same total amount of any type of medal as spain."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "italy needs -10 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "italy needs -\u20ac10 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "italy needs -10 european baseball championship gold medals in order to have the same total amount of any type of medal as belgium.",
+         "italy needs -\u20ac10 pean baseball championship gold medals in order to have the same total amount of any type of medal as belgium."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "italy needs 10 european baseball championship gold medals in order to have the same total amount of any type of medal as russia.",
+         "italy needs \u20ac10 pean baseball championship gold medals in order to have the same total amount of any type of medal as russia."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "italy needs 10 european baseball championship gold medals in order to have the same total amount of any type of medal as great britain.",
+         "italy needs \u20ac10 pean baseball championship gold medals in order to have the same total amount of any type of medal as great britain."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "italy needs 10 european baseball championship gold medals in order to have the same total amount of any type of medal as belgium.",
+         "italy needs \u20ac10 pean baseball championship gold medals in order to have the same total amount of any type of medal as belgium."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "netherlands needs 20 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "netherlands needs \u20ac20 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "spain needs 20 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "spain needs \u20ac20 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "great britain needs 19 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "great britain needs \u20ac19 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "germany needs 19 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "germany needs \u20ac19 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "russia needs 19 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "russia needs \u20ac19 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "belgium needs 20 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "belgium needs \u20ac20 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "netherlands needs 19 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "netherlands needs \u20ac19 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "sweden needs 19 european baseball championship gold medals in order to have the same total amount of any type of medal as netherlands.",
+         "sweden needs \u20ac19 pean baseball championship gold medals in order to have the same total amount of any type of medal as netherlands."
+      ],
+      "table_id": "6830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   }
+]

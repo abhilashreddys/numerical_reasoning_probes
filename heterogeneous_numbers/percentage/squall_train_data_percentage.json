@@ -1,0 +1,6352 @@
+[
+   {
+      "hypothesis": [
+         "the last appearance in the candidates was in wayne morse (democratic) 54.2%douglas mckay (republican) 45.8% .",
+         "the last appearance in the candidates was in wayne morse (democratic) 54.2 percentagesdouglas mckay (republican) 45.8 percentages ."
+      ],
+      "table_id": "61.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0.62% was the only water % to earn less than 1768 population .",
+         "0.62 percentages was the only water % to earn less than 1768 population ."
+      ],
+      "table_id": "619.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 geographic coordinates are listed water % 0.17% .",
+         "1 geographic coordinates are listed water % 0.17 percentages ."
+      ],
+      "table_id": "621.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 geographic coordinates are listed water % 0.66% .",
+         "1 geographic coordinates are listed water % 0.66 percentages ."
+      ],
+      "table_id": "621.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 matches were water % 2.44% .",
+         "1 matches were water % 2.44 percentages ."
+      ],
+      "table_id": "623.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 matches were water % 1.56% .",
+         "1 matches were water % 1.56 percentages ."
+      ],
+      "table_id": "623.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "19.42% is the percentage with the most number of votes .",
+         "19.42 percentages is the percentage with the most number of votes ."
+      ],
+      "table_id": "683.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the percentage was 9.07% `` 1 times total .",
+         "the percentage was 9.07 percentages `` 1 times total ."
+      ],
+      "table_id": "685.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the percentage was 8.24% `` 1 times total .",
+         "the percentage was 8.24 percentages `` 1 times total ."
+      ],
+      "table_id": "685.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 number of votes had the percentage of 0.53% according to this chart .",
+         "1 number of votes had the percentage of 0.53 percentages according to this chart ."
+      ],
+      "table_id": "687.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 number of votes had the percentage of 1.91% according to this chart .",
+         "1 number of votes had the percentage of 1.91 percentages according to this chart ."
+      ],
+      "table_id": "687.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of times 0.53% is listed as the percentage is 1 .",
+         "the total number of times 0.53 percentages is listed as the percentage is 1 ."
+      ],
+      "table_id": "688.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of times 1.91% is listed as the percentage is 1 .",
+         "the total number of times 1.91 percentages is listed as the percentage is 1 ."
+      ],
+      "table_id": "688.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the 7.53% have 7.53% percentage .",
+         "the 7.53 percentages have 7.53 percentages percentage ."
+      ],
+      "table_id": "689.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "a 7.53% has 7.53% percentage .",
+         "a 7.53 percentages has 7.53 percentages percentage ."
+      ],
+      "table_id": "689.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the 0.53% have 0.53% percentage .",
+         "the 0.53 percentages have 0.53 percentages percentage ."
+      ],
+      "table_id": "689.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "a 19.42% has 19.42% percentage .",
+         "a 19.42 percentages has 19.42 percentages percentage ."
+      ],
+      "table_id": "689.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "12% had 1 total bottom\nelevation .",
+         "12% had 1 total bottom\nelevation ."
+      ],
+      "table_id": "987.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 capacity\n(rides/hr) were won slope\n(%) 20% .",
+         "1 capacity\n(rides/hr) were won slope\n(%) 20% ."
+      ],
+      "table_id": "987.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "18% had 1 total bottom\nelevation .",
+         "18% had 1 total bottom\nelevation ."
+      ],
+      "table_id": "987.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 capacity\n(rides/hr) were won slope\n(%) 29% .",
+         "1 capacity\n(rides/hr) were won slope\n(%) 29% ."
+      ],
+      "table_id": "987.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "there are 1 bottom\nelevation in 20% .",
+         "there are 1 bottom\nelevation in 20% ."
+      ],
+      "table_id": "988.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there are 1 bottom\nelevation in 29% .",
+         "there are 1 bottom\nelevation in 29% ."
+      ],
+      "table_id": "988.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the year\ninstalled of the first 29% slope\n(%) is 1996 .",
+         "the year\ninstalled of the first 29% slope\n(%) is 1996 ."
+      ],
+      "table_id": "992.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the year\ninstalled of the first 16% slope\n(%) is 1996 .",
+         "the year\ninstalled of the first 16% slope\n(%) is 1996 ."
+      ],
+      "table_id": "992.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of year\ninstalled in this category that slope\n(%) 17% during this year is 1 .",
+         "the number of year\ninstalled in this category that slope\n(%) 17% during this year is 1 ."
+      ],
+      "table_id": "993.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of year\ninstalled in this category that slope\n(%) 29% during this year is 1 .",
+         "the number of year\ninstalled in this category that slope\n(%) 29% during this year is 1 ."
+      ],
+      "table_id": "993.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 top\nelevation\n(ft) are slope\n(%) 17% .",
+         "1 top\nelevation\n(ft) are slope\n(%) 17% ."
+      ],
+      "table_id": "994.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 top\nelevation\n(ft) are slope\n(%) 18% .",
+         "1 top\nelevation\n(ft) are slope\n(%) 18% ."
+      ],
+      "table_id": "994.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 were win% 0.00% .",
+         "1 were win% 0.00 percentages ."
+      ],
+      "table_id": "1332.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 for had a win% 66.67% .",
+         "1 for had a win% 66.67 percentages ."
+      ],
+      "table_id": "1332.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 were win% 100.00% .",
+         "1 were win% 100.00 percentages ."
+      ],
+      "table_id": "1332.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 for had a win% 100.00% .",
+         "1 for had a win% 100.00 percentages ."
+      ],
+      "table_id": "1332.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the win% for 2 was 100.00% years .",
+         "the win% for 2 was 100.00 percentages years ."
+      ],
+      "table_id": "1333.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the win% for 0 was 100.00% years .",
+         "the win% for 0 was 100.00 percentages years ."
+      ],
+      "table_id": "1333.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "50.00% won 1 than 100.00%",
+         "50.00 percentages won 1 than 100.00 percentages"
+      ],
+      "table_id": "1334.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "66.67% won 1 than 100.00%",
+         "66.67 percentages won 1 than 100.00 percentages"
+      ],
+      "table_id": "1334.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "50.00% won 1 than 66.67%",
+         "50.00 percentages won 1 than 66.67 percentages"
+      ],
+      "table_id": "1334.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "66.67% are the win% that had a pune strykers .",
+         "66.67 percentages are the win% that had a pune strykers ."
+      ],
+      "table_id": "1338.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of won win% 50.00% is 3 .",
+         "the number of won win% 50.00 percentages is 3 ."
+      ],
+      "table_id": "1338.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 against win% the 66.67% .",
+         "1 against win% the 66.67 percentages ."
+      ],
+      "table_id": "1338.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "66.67% are the win% that had a karnataka lions .",
+         "66.67 percentages are the win% that had a karnataka lions ."
+      ],
+      "table_id": "1338.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of won win% 100.00% is 3 .",
+         "the number of won win% 100.00 percentages is 3 ."
+      ],
+      "table_id": "1338.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 against win% the 50.00% .",
+         "1 against win% the 50.00 percentages ."
+      ],
+      "table_id": "1338.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0.00% was the win% 1 times .",
+         "0.00 percentages was the win% 1 times ."
+      ],
+      "table_id": "1341.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "50.00% was the win% 1 times .",
+         "50.00 percentages was the win% 1 times ."
+      ],
+      "table_id": "1341.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3% other made the top of the list .",
+         "3 percentages other made the top of the list ."
+      ],
+      "table_id": "1468.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of \u00b1 3.6% 's played was 1 .",
+         "the total number of \u00b1 3.6 percentages 's played was 1 ."
+      ],
+      "table_id": "1469.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of \u00b14.4% margin of\nerror used is 1 .",
+         "the total number of \u00b14.4% margin of\nerror used is 1 ."
+      ],
+      "table_id": "1469.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of \u00b1 2.06% 's played was 1 .",
+         "the total number of \u00b1 2.06 percentages 's played was 1 ."
+      ],
+      "table_id": "1469.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of \u00b13.7% margin of\nerror used is 1 .",
+         "the total number of \u00b13.7% margin of\nerror used is 1 ."
+      ],
+      "table_id": "1469.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only rahm emanuel with 8 miguel del valle is 43% .",
+         "the only rahm emanuel with 8 miguel del valle is 43 percentages ."
+      ],
+      "table_id": "1471.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the top luis gutierrez according to position in table was called 9% .",
+         "the top luis gutierrez according to position in table was called 9 percentages ."
+      ],
+      "table_id": "1471.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "september 8, 2010 is the only date(s)\nadministered who was 35% .",
+         "september 8, 2010 is the only date(s)\nadministered who was 35% ."
+      ],
+      "table_id": "1471.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "6% is the top gery chico .",
+         "6 percentages is the top gery chico ."
+      ],
+      "table_id": "1471.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "september 8, 2010 is the only date(s)\nadministered who was 5.0% .",
+         "september 8, 2010 is the only date(s)\nadministered who was 5.0% ."
+      ],
+      "table_id": "1471.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "75% has won 1 sequence identity 's .",
+         "75 percentages has won 1 sequence identity 's ."
+      ],
+      "table_id": "1652.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 are on the 79% sequence identity .",
+         "1 are on the 79 percentages sequence identity ."
+      ],
+      "table_id": "1652.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "88% has won 1 sequence identity 's .",
+         "88 percentages has won 1 sequence identity 's ."
+      ],
+      "table_id": "1652.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 are on the 41% sequence identity .",
+         "1 are on the 41 percentages sequence identity ."
+      ],
+      "table_id": "1652.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "oreochromis niloticus had 82% sequence similarity .",
+         "oreochromis niloticus had 82 percentages sequence similarity ."
+      ],
+      "table_id": "1653.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "82% had 400.1 years since divergence from human (mya) .",
+         "82 percentages had 400.1 years since divergence from human (mya) ."
+      ],
+      "table_id": "1653.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "ascaris suum had 82% sequence similarity .",
+         "ascaris suum had 82 percentages sequence similarity ."
+      ],
+      "table_id": "1653.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "50% had 400.1 years since divergence from human (mya) .",
+         "50 percentages had 400.1 years since divergence from human (mya) ."
+      ],
+      "table_id": "1653.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "51% was the only sequence similarity to come from xp_308760 .",
+         "51 percentages was the only sequence similarity to come from xp_308760 ."
+      ],
+      "table_id": "1655.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "51% was the only sequence similarity to come from xp_002931964 .",
+         "51 percentages was the only sequence similarity to come from xp_002931964 ."
+      ],
+      "table_id": "1655.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "51% had the sequence similarity 2 .",
+         "51 percentages had the sequence similarity 2 ."
+      ],
+      "table_id": "1656.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "84% had the sequence similarity 2 .",
+         "84 percentages had the sequence similarity 2 ."
+      ],
+      "table_id": "1656.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "53% has 53 sequence similarity .",
+         "53 percentages has 53 sequence similarity ."
+      ],
+      "table_id": "1658.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "87% completed 87% total sequence identity .",
+         "87 percentages completed 87 percentages total sequence identity ."
+      ],
+      "table_id": "1658.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "46% has 53 sequence similarity .",
+         "46 percentages has 53 sequence similarity ."
+      ],
+      "table_id": "1658.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "94% completed 94% total sequence identity .",
+         "94 percentages completed 94 percentages total sequence identity ."
+      ],
+      "table_id": "1658.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "okhot-perevozovsky nasleg\n(\u043e\u0445\u043e\u0442-\u043f\u0435\u0440\u0435\u0432\u043e\u0437\u043e\u0432\u0441\u043a\u0438\u0438 \u043d\u0430\u0441\u043b\u0435\u0433) has been male 70 (49.3%) times .",
+         "okhot-perevozovsky nasleg\n(\u043e\u0445\u043e\u0442-\u043f\u0435\u0440\u0435\u0432\u043e\u0437\u043e\u0432\u0441\u043a\u0438\u0438 \u043d\u0430\u0441\u043b\u0435\u0433) has been male 70 (49.3%) times ."
+      ],
+      "table_id": "2109.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "teploklyuchevsky nasleg\n(\u0442\u0435\u043f\u043b\u043e\u043a\u043b\u044e\u0447\u0435\u0432\u0441\u043a\u0438\u0438 \u043d\u0430\u0441\u043b\u0435\u0433) has been male 70 (49.3%) times .",
+         "teploklyuchevsky nasleg\n(\u0442\u0435\u043f\u043b\u043e\u043a\u043b\u044e\u0447\u0435\u0432\u0441\u043a\u0438\u0438 \u043d\u0430\u0441\u043b\u0435\u0433) has been male 70 (49.3%) times ."
+      ],
+      "table_id": "2109.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 population are 530 (52.0%) .",
+         "1 population are 530 (52.0 percentages) ."
+      ],
+      "table_id": "2111.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of male in this category that male 275 (49.5%) during this year is 1 .",
+         "the number of male in this category that male 275 (49.5 percentages) during this year is 1 ."
+      ],
+      "table_id": "2111.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 population are 457 (49.9%) .",
+         "1 population are 457 (49.9 percentages) ."
+      ],
+      "table_id": "2111.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of male in this category that male 490 (48.0%) during this year is 1 .",
+         "the number of male in this category that male 490 (48.0 percentages) during this year is 1 ."
+      ],
+      "table_id": "2111.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the least successful white was 33.56% .",
+         "the least successful white was 33.56 percentages ."
+      ],
+      "table_id": "2164.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3.42% was white 1 times .",
+         "3.42 percentages was white 1 times ."
+      ],
+      "table_id": "2164.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "grgorian had 1 matches aian 4.02% .",
+         "grgorian had 1 matches aian 4.02 percentages ."
+      ],
+      "table_id": "2164.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the top asian aian on this list is 14.52% .",
+         "the top asian aian on this list is 14.52 percentages ."
+      ],
+      "table_id": "2164.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "75.43% was white 1 times .",
+         "75.43 percentages was white 1 times ."
+      ],
+      "table_id": "2164.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "grgorian had 1 matches aian 4.27% .",
+         "grgorian had 1 matches aian 4.27 percentages ."
+      ],
+      "table_id": "2164.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1,030 are the votes with at most 1 3.45% .",
+         "1,030 are the votes with at most 1 3.45 percentages ."
+      ],
+      "table_id": "2217.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the 67,531 votes got 43.11% seymour .",
+         "the 67,531 votes got 43.11 percentages seymour ."
+      ],
+      "table_id": "2217.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the w/i seymour was 15.79% .",
+         "the w/i seymour was 15.79 percentages ."
+      ],
+      "table_id": "2217.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 v's were feinstein 48.29% .",
+         "1 v's were feinstein 48.29 percentages ."
+      ],
+      "table_id": "2217.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1,030 are the votes with at most 1 1.50% .",
+         "1,030 are the votes with at most 1 1.50 percentages ."
+      ],
+      "table_id": "2217.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the 10,116 votes got 43.11% seymour .",
+         "the 10,116 votes got 43.11 percentages seymour ."
+      ],
+      "table_id": "2217.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 v's were feinstein 67.88% .",
+         "1 v's were feinstein 67.88 percentages ."
+      ],
+      "table_id": "2217.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2.85% is the last boddie listed .",
+         "2.85 percentages is the last boddie listed ."
+      ],
+      "table_id": "2218.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "56 boddie are w/i 0.00% .",
+         "56 boddie are w/i 0.00 percentages ."
+      ],
+      "table_id": "2218.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there are 1 total feinstein in 62.84% .",
+         "there are 1 total feinstein in 62.84 percentages ."
+      ],
+      "table_id": "2218.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3.95% and 2.55% had 133.5 seymour altogether .",
+         "3.95 percentages and 2.55 percentages had 133.5 seymour altogether ."
+      ],
+      "table_id": "2218.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there are 1 total feinstein in 59.83% .",
+         "there are 1 total feinstein in 59.83 percentages ."
+      ],
+      "table_id": "2218.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1.29% and 2.55% had 133.5 seymour altogether .",
+         "1.29 percentages and 2.55 percentages had 133.5 seymour altogether ."
+      ],
+      "table_id": "2218.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3.95% and 4.81% had 133.5 seymour altogether .",
+         "3.95 percentages and 4.81 percentages had 133.5 seymour altogether ."
+      ],
+      "table_id": "2218.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of times 3.59% has been a meeu. is 1 .",
+         "the total number of times 3.59 percentages has been a meeu. is 1 ."
+      ],
+      "table_id": "2221.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of times 5.59% has been a meeu. is 1 .",
+         "the total number of times 5.59 percentages has been a meeu. is 1 ."
+      ],
+      "table_id": "2221.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "50.56% has held 1 boddie .",
+         "50.56 percentages has held 1 boddie ."
+      ],
+      "table_id": "2222.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of horne that went 2.15% is 1 .",
+         "the number of horne that went 2.15 percentages is 1 ."
+      ],
+      "table_id": "2222.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "46.64% has held 1 boddie .",
+         "46.64 percentages has held 1 boddie ."
+      ],
+      "table_id": "2222.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of horne that went 3.55% is 1 .",
+         "the number of horne that went 3.55 percentages is 1 ."
+      ],
+      "table_id": "2222.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3 county were horne 2.90% .",
+         "3 county were horne 2.90 percentages ."
+      ],
+      "table_id": "2223.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "80.60% was the feinstein w/i 0 .",
+         "80.60 percentages was the feinstein w/i 0 ."
+      ],
+      "table_id": "2223.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3 county were horne 1.45% .",
+         "3 county were horne 1.45 percentages ."
+      ],
+      "table_id": "2223.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "40.59% is the only seymour who went to 682 .",
+         "40.59 percentages is the only seymour who went to 682 ."
+      ],
+      "table_id": "2224.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "45.42% is listed as the seymour 1 times .",
+         "45.42 percentages is listed as the seymour 1 times ."
+      ],
+      "table_id": "2224.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "40.59% is the only seymour who went to 220 .",
+         "40.59 percentages is the only seymour who went to 220 ."
+      ],
+      "table_id": "2224.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "34.74% is listed as the seymour 1 times .",
+         "34.74 percentages is listed as the seymour 1 times ."
+      ],
+      "table_id": "2224.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0 38.07% were in the top 4888 .",
+         "0 38.07 percentages were in the top 4888 ."
+      ],
+      "table_id": "2225.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of times 0.00% 's name appears on all of these lists is 56 .",
+         "the total number of times 0.00 percentages 's name appears on all of these lists is 56 ."
+      ],
+      "table_id": "2225.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0.00% won w/i in the votes previous to 3,134 .",
+         "0.00 percentages won w/i in the votes previous to 3,134 ."
+      ],
+      "table_id": "2225.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "42.41% was the feinstein of trinity .",
+         "42.41 percentages was the feinstein of trinity ."
+      ],
+      "table_id": "2225.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0 33.18% were in the top 4888 .",
+         "0 33.18 percentages were in the top 4888 ."
+      ],
+      "table_id": "2225.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0.00% won w/i in the votes previous to 1,444 .",
+         "0.00 percentages won w/i in the votes previous to 1,444 ."
+      ],
+      "table_id": "2225.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "42.41% was the feinstein of lake .",
+         "42.41 percentages was the feinstein of lake ."
+      ],
+      "table_id": "2225.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of 5 credits by 2 credits 98.68% was 99.92 .",
+         "the number of 5 credits by 2 credits 98.68 percentages was 99.92 ."
+      ],
+      "table_id": "2366.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 98.68% 1 credit listed is 2 .",
+         "the number of 98.68 percentages 1 credit listed is 2 ."
+      ],
+      "table_id": "2369.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "-30.4% had the least number of total of the -30.4% change change .",
+         "-30.4 percentages had the least number of total of the -30.4 percentages change change ."
+      ],
+      "table_id": "2551.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "-28.3% is the most pos change .",
+         "-28.3 percentages is the most pos change ."
+      ],
+      "table_id": "2553.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the change with the least about of average is -28.3% .",
+         "the change with the least about of average is -28.3 percentages ."
+      ],
+      "table_id": "2554.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the -48.8% number of pos between all of the change is 15 .",
+         "the -48.8 percentages number of pos between all of the change is 15 ."
+      ],
+      "table_id": "2556.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the +18.4% number of pos between all of the change is 15 .",
+         "the +18.4 percentages number of pos between all of the change is 15 ."
+      ],
+      "table_id": "2556.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "grgorian had 1 matches change -12.1% .",
+         "grgorian had 1 matches change -12.1 percentages ."
+      ],
+      "table_id": "2557.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there were 1 change in the -28.3% change .",
+         "there were 1 change in the -28.3 percentages change ."
+      ],
+      "table_id": "2558.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there were 1 change in the -12.1% change .",
+         "there were 1 change in the -12.1 percentages change ."
+      ],
+      "table_id": "2558.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "-11.9% was a change whose total was above 7334 .",
+         "-11.9 percentages was a change whose total was above 7334 ."
+      ],
+      "table_id": "2559.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 county were in the romney of 46.83% .",
+         "1 county were in the romney of 46.83 percentages ."
+      ],
+      "table_id": "2714.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 county were in the romney of 45.17% .",
+         "1 county were in the romney of 45.17 percentages ."
+      ],
+      "table_id": "2714.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "5.10% are the top 560 others within highest votes .",
+         "5.10 percentages are the top 560 others within highest votes ."
+      ],
+      "table_id": "2716.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "45,994 is the total of the 3.32% .",
+         "45,994 is the total of the 3.32 percentages ."
+      ],
+      "table_id": "2716.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "45,994 is the total of the 6.92% .",
+         "45,994 is the total of the 6.92 percentages ."
+      ],
+      "table_id": "2716.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 votes 49.05% .",
+         "1 votes 49.05 percentages ."
+      ],
+      "table_id": "2717.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 others had an 26.83% obama .",
+         "1 others had an 26.83 percentages obama ."
+      ],
+      "table_id": "2717.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 59.39% total listed is 1 .",
+         "the number of 59.39 percentages total listed is 1 ."
+      ],
+      "table_id": "2717.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "62.23% and 46.46% have combined 108.69 romney .",
+         "62.23 percentages and 46.46 percentages have combined 108.69 romney ."
+      ],
+      "table_id": "2717.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 votes 31.82% .",
+         "1 votes 31.82 percentages ."
+      ],
+      "table_id": "2717.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 others had an 48.73% obama .",
+         "1 others had an 48.73 percentages obama ."
+      ],
+      "table_id": "2717.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of 20.04% total listed is 1 .",
+         "the number of 20.04 percentages total listed is 1 ."
+      ],
+      "table_id": "2717.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "41.48% and 46.46% have combined 108.69 romney .",
+         "41.48 percentages and 46.46 percentages have combined 108.69 romney ."
+      ],
+      "table_id": "2717.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "62.23% and 64.97% have combined 108.69 romney .",
+         "62.23 percentages and 64.97 percentages have combined 108.69 romney ."
+      ],
+      "table_id": "2717.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total christianity for the 34.69% and the 99.13% is 52.62 .",
+         "the total christianity for the 34.69 percentages and the 99.13 percentages is 52.62 ."
+      ],
+      "table_id": "2818.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "10.24% had tatar ethnicity .",
+         "10.24 percentages had tatar ethnicity ."
+      ],
+      "table_id": "2818.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0.03% is listed above 0.02% .",
+         "0.03 percentages is listed above 0.02 percentages ."
+      ],
+      "table_id": "2818.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the last buddhism listed is 0.91% .",
+         "the last buddhism listed is 0.91 percentages ."
+      ],
+      "table_id": "2818.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the islam for islam 1.43 was 1.43% .",
+         "the islam for islam 1.43 was 1.43 percentages ."
+      ],
+      "table_id": "2818.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the last judaism on the  0.16% was the 0.01% .",
+         "the last judaism on the  0.16 percentages was the 0.01 percentages ."
+      ],
+      "table_id": "2818.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total christianity for the 1.58% and the 99.13% is 52.62 .",
+         "the total christianity for the 1.58 percentages and the 99.13 percentages is 52.62 ."
+      ],
+      "table_id": "2818.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total christianity for the 34.69% and the 5.24% is 52.62 .",
+         "the total christianity for the 34.69 percentages and the 5.24 percentages is 52.62 ."
+      ],
+      "table_id": "2818.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0.39% had tatar ethnicity .",
+         "0.39 percentages had tatar ethnicity ."
+      ],
+      "table_id": "2818.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0.03% is listed above 0.03% .",
+         "0.03 percentages is listed above 0.03 percentages ."
+      ],
+      "table_id": "2818.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the last judaism on the  0.35% was the 0.01% .",
+         "the last judaism on the  0.35 percentages was the 0.01 percentages ."
+      ],
+      "table_id": "2818.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "there are 1 total 2.51% christianity none / atheism .",
+         "there are 1 total 2.51 percentages christianity none / atheism ."
+      ],
+      "table_id": "2819.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the 0.37% none / atheism has the least amount of judaism .",
+         "the 0.37 percentages none / atheism has the least amount of judaism ."
+      ],
+      "table_id": "2819.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the only buddhism listed for 1.43 is 0.02% .",
+         "the only buddhism listed for 1.43 is 0.02 percentages ."
+      ],
+      "table_id": "2819.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the only buddhism to be 28.51% was 11.40% .",
+         "the only buddhism to be 28.51 percentages was 11.40 percentages ."
+      ],
+      "table_id": "2819.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there are 1 total 2.99% christianity none / atheism .",
+         "there are 1 total 2.99 percentages christianity none / atheism ."
+      ],
+      "table_id": "2819.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only buddhism to be 0.85% was 11.40% .",
+         "the only buddhism to be 0.85 percentages was 11.40 percentages ."
+      ],
+      "table_id": "2819.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1.43% islam has the largest christianity .",
+         "1.43 percentages islam has the largest christianity ."
+      ],
+      "table_id": "2821.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 other were  1.97% .",
+         "1 other were  1.97 percentages ."
+      ],
+      "table_id": "2821.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "judaism for 0.08% was 0.01 .",
+         "judaism for 0.08 percentages was 0.01 ."
+      ],
+      "table_id": "2821.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 other were  0.47% .",
+         "1 other were  0.47 percentages ."
+      ],
+      "table_id": "2821.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "judaism for 0.11% was 0.01 .",
+         "judaism for 0.11 percentages was 0.01 ."
+      ],
+      "table_id": "2821.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "91.64 0.02% buddhism are christianity .",
+         "91.64 0.02 percentages buddhism are christianity ."
+      ],
+      "table_id": "2822.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0.16% is the first  listed alphabetically .",
+         "0.16 percentages is the first  listed alphabetically ."
+      ],
+      "table_id": "2822.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total amount of none / atheism 0.04% judaism is 3 .",
+         "the total amount of none / atheism 0.04 percentages judaism is 3 ."
+      ],
+      "table_id": "2822.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0.02% is the only other other 0.02 .",
+         "0.02 percentages is the only other other 0.02 ."
+      ],
+      "table_id": "2822.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of other none / atheism 0.98% is 0.02 .",
+         "the number of other none / atheism 0.98 percentages is 0.02 ."
+      ],
+      "table_id": "2822.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "christianity 0.39% had the smallest buddhism .",
+         "christianity 0.39 percentages had the smallest buddhism ."
+      ],
+      "table_id": "2822.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the top other islam on this list is 5.24% .",
+         "the top other islam on this list is 5.24 percentages ."
+      ],
+      "table_id": "2822.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "91.64 0.01% buddhism are christianity .",
+         "91.64 0.01 percentages buddhism are christianity ."
+      ],
+      "table_id": "2822.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total amount of none / atheism 0.02% judaism is 3 .",
+         "the total amount of none / atheism 0.02 percentages judaism is 3 ."
+      ],
+      "table_id": "2822.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of other none / atheism 6.09% is 0.02 .",
+         "the number of other none / atheism 6.09 percentages is 0.02 ."
+      ],
+      "table_id": "2822.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 none / atheism were  0.38% .",
+         "1 none / atheism were  0.38 percentages ."
+      ],
+      "table_id": "2823.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "christianity for 2.51% and 90.07% christianity is 92.58 .",
+         "christianity for 2.51 percentages and 90.07 percentages christianity is 92.58 ."
+      ],
+      "table_id": "2823.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "97.78% was a islam 1 times .",
+         "97.78 percentages was a islam 1 times ."
+      ],
+      "table_id": "2823.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0.01% is listed 8 times on this chart .",
+         "0.01 percentages is listed 8 times on this chart ."
+      ],
+      "table_id": "2823.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the last buddhism in the table is 0.91% .",
+         "the last buddhism in the table is 0.91 percentages ."
+      ],
+      "table_id": "2823.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0.02% is listed as an other 7 times .",
+         "0.02 percentages is listed as an other 7 times ."
+      ],
+      "table_id": "2823.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 none / atheism were  0.47% .",
+         "1 none / atheism were  0.47 percentages ."
+      ],
+      "table_id": "2823.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "christianity for 91.64% and 90.07% christianity is 92.58 .",
+         "christianity for 91.64 percentages and 90.07 percentages christianity is 92.58 ."
+      ],
+      "table_id": "2823.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "christianity for 2.51% and 2.99% christianity is 92.58 .",
+         "christianity for 2.51 percentages and 2.99 percentages christianity is 92.58 ."
+      ],
+      "table_id": "2823.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "34.69% was a islam 1 times .",
+         "34.69 percentages was a islam 1 times ."
+      ],
+      "table_id": "2823.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0.91% is listed 8 times on this chart .",
+         "0.91 percentages is listed 8 times on this chart ."
+      ],
+      "table_id": "2823.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0.14% is listed as an other 7 times .",
+         "0.14 percentages is listed as an other 7 times ."
+      ],
+      "table_id": "2823.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of times 0.04% 's name appears on all of these lists is 1 .",
+         "the total number of times 0.04 percentages 's name appears on all of these lists is 1 ."
+      ],
+      "table_id": "2824.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the only buddhism listed ethnicity german is 0.04% .",
+         "the only buddhism listed ethnicity german is 0.04 percentages ."
+      ],
+      "table_id": "2824.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "96.67% is listed as a islam on 1 judaism .",
+         "96.67 percentages is listed as a islam on 1 judaism ."
+      ],
+      "table_id": "2824.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the fastest buddhism was 0.09% .",
+         "the fastest buddhism was 0.09 percentages ."
+      ],
+      "table_id": "2824.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of times 0.06% 's name appears on all of these lists is 1 .",
+         "the total number of times 0.06 percentages 's name appears on all of these lists is 1 ."
+      ],
+      "table_id": "2824.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only buddhism listed ethnicity uzbek is 0.04% .",
+         "the only buddhism listed ethnicity uzbek is 0.04 percentages ."
+      ],
+      "table_id": "2824.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "98.93% is listed as a islam on 1 judaism .",
+         "98.93 percentages is listed as a islam on 1 judaism ."
+      ],
+      "table_id": "2824.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0.02% was the only buddhism islam 1.43% .",
+         "0.02 percentages was the only buddhism islam 1.43 percentages ."
+      ],
+      "table_id": "2825.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the last buddhism listed on this chart is 0.91% .",
+         "the last buddhism listed on this chart is 0.91 percentages ."
+      ],
+      "table_id": "2825.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the first islam listed for the 0.75%  is 1.43% .",
+         "the first islam listed for the 0.75 percentages  is 1.43 percentages ."
+      ],
+      "table_id": "2825.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0.02% was the judaism 4 times .",
+         "0.02 percentages was the judaism 4 times ."
+      ],
+      "table_id": "2825.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0.02% was the only buddhism islam 94.81% .",
+         "0.02 percentages was the only buddhism islam 94.81 percentages ."
+      ],
+      "table_id": "2825.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the first islam listed for the 0.47%  is 1.43% .",
+         "the first islam listed for the 0.47 percentages  is 1.43 percentages ."
+      ],
+      "table_id": "2825.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0.04% was the judaism 4 times .",
+         "0.04 percentages was the judaism 4 times ."
+      ],
+      "table_id": "2825.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the 90.74% has been the christianity 1 total times .",
+         "the 90.74 percentages has been the christianity 1 total times ."
+      ],
+      "table_id": "2826.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the 49.35% christianity had the greatest other .",
+         "the 49.35 percentages christianity had the greatest other ."
+      ],
+      "table_id": "2826.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of 2.82% 's played was 1 .",
+         "the total number of 2.82 percentages 's played was 1 ."
+      ],
+      "table_id": "2826.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 other were made by 1.58% islam .",
+         "1 other were made by 1.58 percentages islam ."
+      ],
+      "table_id": "2826.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the 81.59% has been the christianity 1 total times .",
+         "the 81.59 percentages has been the christianity 1 total times ."
+      ],
+      "table_id": "2826.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of 8.11% 's played was 1 .",
+         "the total number of 8.11 percentages 's played was 1 ."
+      ],
+      "table_id": "2826.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 other were made by 70.20% islam .",
+         "1 other were made by 70.20 percentages islam ."
+      ],
+      "table_id": "2826.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of titles in which the kerry played on was 42.7% is 1 .",
+         "the number of titles in which the kerry played on was 42.7 percentages is 1 ."
+      ],
+      "table_id": "2858.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of titles in which the kerry played on was 41.4% is 1 .",
+         "the number of titles in which the kerry played on was 41.4 percentages is 1 ."
+      ],
+      "table_id": "2858.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "48.5% is the largest bush .",
+         "48.5 percentages is the largest bush ."
+      ],
+      "table_id": "2859.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "10 votes had 2.0% listed as their others .",
+         "10 votes had 2.0 percentages listed as their others ."
+      ],
+      "table_id": "2861.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "10 votes had 1.9% listed as their others .",
+         "10 votes had 1.9 percentages listed as their others ."
+      ],
+      "table_id": "2861.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only kerry with a kerry of 46.9 is the 46.9% .",
+         "the only kerry with a kerry of 46.9 is the 46.9 percentages ."
+      ],
+      "table_id": "2862.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "5 kerry are of the 1.8% others .",
+         "5 kerry are of the 1.8 percentages others ."
+      ],
+      "table_id": "2862.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "5 kerry are of the 1.9% others .",
+         "5 kerry are of the 1.9 percentages others ."
+      ],
+      "table_id": "2862.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "after others votes 469 , 1.1% had 1 others votes .",
+         "after others votes 469 , 1.1 percentages had 1 others votes ."
+      ],
+      "table_id": "2863.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of density\nper km2 between 3.9% , 100.0% , 92 , and 1,430 is 426 .",
+         "the total number of density\nper km2 between 3.9% , 100.0% , 92 , and 1,430 is 426 ."
+      ],
+      "table_id": "3561.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the population of the (share in %) is 89.7%.",
+         "the population of the (share in %) is 89.7 percentages."
+      ],
+      "table_id": "3561.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of density\nper km2 between 6.4% , 100.0% , 92 , and 1,430 is 426 .",
+         "the total number of density\nper km2 between 6.4% , 100.0% , 92 , and 1,430 is 426 ."
+      ],
+      "table_id": "3561.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of density\nper km2 between 3.9% , 56 , 92 , and 1,430 is 426 .",
+         "the total number of density\nper km2 between 3.9% , 56 , 92 , and 1,430 is 426 ."
+      ],
+      "table_id": "3561.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of density\nper km2 between 3.9% , 100.0% , 1,430 , and 1,430 is 426 .",
+         "the total number of density\nper km2 between 3.9% , 100.0% , 1,430 , and 1,430 is 426 ."
+      ],
+      "table_id": "3561.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of density\nper km2 between 3.9% , 100.0% , 92 , and 1,282 is 426 .",
+         "the total number of density\nper km2 between 3.9% , 100.0% , 92 , and 1,282 is 426 ."
+      ],
+      "table_id": "3561.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The population of the yamato flat inland plain is 100.0%.",
+         "The population of the yamato flat inland plain is 100.0 percentages."
+      ],
+      "table_id": "3561.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the population of the yamato highland is 89.7%.",
+         "the population of the yamato highland is 89.7 percentages."
+      ],
+      "table_id": "3561.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the population of the total prefecture is 89.7%.",
+         "the population of the total prefecture is 89.7 percentages."
+      ],
+      "table_id": "3561.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 geographic coordinates are water % 0.45% .",
+         "1 geographic coordinates are water % 0.45 percentages ."
+      ],
+      "table_id": "3736.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 geographic coordinates are water % 0.31% .",
+         "1 geographic coordinates are water % 0.31 percentages ."
+      ],
+      "table_id": "3736.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "675 had the least number of water % of the 0.14% water % population .",
+         "675 had the least number of water % of the 0.14 percentages water % population ."
+      ],
+      "table_id": "3737.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "675 had the least number of water % of the 0.05% water % population .",
+         "675 had the least number of water % of the 0.05 percentages water % population ."
+      ],
+      "table_id": "3737.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the water % 0.34% was 1 times .",
+         "the water % 0.34 percentages was 1 times ."
+      ],
+      "table_id": "3741.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the water % 0.05% was 1 times .",
+         "the water % 0.05 percentages was 1 times ."
+      ],
+      "table_id": "3741.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "fips 35125 's water % was 0.45% .",
+         "fips 35125 's water % was 0.45 percentages ."
+      ],
+      "table_id": "3742.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the water % for 62775 was 0.34% years .",
+         "the water % for 62775 was 0.34 percentages years ."
+      ],
+      "table_id": "3745.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the water % for 69025 was 0.34% years .",
+         "the water % for 69025 was 0.34 percentages years ."
+      ],
+      "table_id": "3745.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total share of votes of 19.1% , 11.2% , and 10.3% is 50.6 .",
+         "the total share of votes of 19.1 percentages , 11.2 percentages , and 10.3 percentages is 50.6 ."
+      ],
+      "table_id": "4973.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total share of votes of 4.1% , 11.2% , and 10.3% is 50.6 .",
+         "the total share of votes of 4.1 percentages , 11.2 percentages , and 10.3 percentages is 50.6 ."
+      ],
+      "table_id": "4973.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total share of votes of 19.1% , 0.6% , and 10.3% is 50.6 .",
+         "the total share of votes of 19.1 percentages , 0.6 percentages , and 10.3 percentages is 50.6 ."
+      ],
+      "table_id": "4973.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total share of votes of 19.1% , 11.2% , and 0.6% is 50.6 .",
+         "the total share of votes of 19.1 percentages , 11.2 percentages , and 0.6 percentages is 50.6 ."
+      ],
+      "table_id": "4973.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "8.6% was the share of votes 1 times .",
+         "8.6 percentages was the share of votes 1 times ."
+      ],
+      "table_id": "4975.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3.5% was the share of votes 1 times .",
+         "3.5 percentages was the share of votes 1 times ."
+      ],
+      "table_id": "4975.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0.6% is the first share of seats listed alphabetically .",
+         "0.6 percentages is the first share of seats listed alphabetically ."
+      ],
+      "table_id": "4976.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there were 1 19.1% election .",
+         "there were 1 19.1 percentages election ."
+      ],
+      "table_id": "4976.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there were 1 4.1% election .",
+         "there were 1 4.1 percentages election ."
+      ],
+      "table_id": "4976.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "5.3% was the last progressive party share of votes .",
+         "5.3 percentages was the last progressive party share of votes ."
+      ],
+      "table_id": "4978.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "5.3% was the last democratic party share of votes .",
+         "5.3 percentages was the last democratic party share of votes ."
+      ],
+      "table_id": "4978.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "16.7% has been 3.5% 0 time .",
+         "16.7 percentages has been 3.5 percentages 0 time ."
+      ],
+      "table_id": "4979.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the top share of votes was 8.6% .",
+         "the top share of votes was 8.6 percentages ."
+      ],
+      "table_id": "4979.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the longest share of seats on the list was 4.1% .",
+         "the longest share of seats on the list was 4.1 percentages ."
+      ],
+      "table_id": "4979.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "13.9% has been 3.5% 0 time .",
+         "13.9 percentages has been 3.5 percentages 0 time ."
+      ],
+      "table_id": "4979.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "16.7% has been 20.0% 0 time .",
+         "16.7 percentages has been 20.0 percentages 0 time ."
+      ],
+      "table_id": "4979.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the top share of votes result is 8.6% .",
+         "the top share of votes result is 8.6 percentages ."
+      ],
+      "table_id": "4981.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the share of seats was in 11.2% 1 times .",
+         "the share of seats was in 11.2 percentages 1 times ."
+      ],
+      "table_id": "4981.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "progressive party 's share of seats was 0.6% .",
+         "progressive party 's share of seats was 0.6 percentages ."
+      ],
+      "table_id": "4981.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the share of seats was in 4.1% 1 times .",
+         "the share of seats was in 4.1 percentages 1 times ."
+      ],
+      "table_id": "4981.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "progressive federal party 's share of seats was 0.6% .",
+         "progressive federal party 's share of seats was 0.6 percentages ."
+      ],
+      "table_id": "4981.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the none or not stated on the only 40 to 44 is 17.7% .",
+         "the none or not stated on the only 40 to 44 is 17.7 percentages ."
+      ],
+      "table_id": "5486.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the 0.5% of none or not stated was 9.6 .",
+         "the 0.5 percentages of none or not stated was 9.6 ."
+      ],
+      "table_id": "5486.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the none or not stated on the only 25 to 29 is 17.7% .",
+         "the none or not stated on the only 25 to 29 is 17.7 percentages ."
+      ],
+      "table_id": "5486.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the 0.7% of none or not stated was 9.6 .",
+         "the 0.7 percentages of none or not stated was 9.6 ."
+      ],
+      "table_id": "5486.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1.4% is the largest other religion .",
+         "1.4 percentages is the largest other religion ."
+      ],
+      "table_id": "5487.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 0.9% 's selected in the 17.7 none or not stated was 1 .",
+         "the number of 0.9 percentages 's selected in the 17.7 none or not stated was 1 ."
+      ],
+      "table_id": "5487.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "23.2% is the top none or not stated .",
+         "23.2 percentages is the top none or not stated ."
+      ],
+      "table_id": "5487.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "catholic for 0.7% was 45.5 .",
+         "catholic for 0.7 percentages was 45.5 ."
+      ],
+      "table_id": "5487.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there are 2 9.6% none or not stated ages attained (years) .",
+         "there are 2 9.6 percentages none or not stated ages attained (years) ."
+      ],
+      "table_id": "5487.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0.6% other religion 4 catholic .",
+         "0.6 percentages other religion 4 catholic ."
+      ],
+      "table_id": "5487.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 0.7% 's selected in the 17.7 none or not stated was 1 .",
+         "the number of 0.7 percentages 's selected in the 17.7 none or not stated was 1 ."
+      ],
+      "table_id": "5487.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "catholic for 0.5% was 45.5 .",
+         "catholic for 0.5 percentages was 45.5 ."
+      ],
+      "table_id": "5487.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "there are 2 15.1% none or not stated ages attained (years) .",
+         "there are 2 15.1 percentages none or not stated ages attained (years) ."
+      ],
+      "table_id": "5487.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0.7% other religion 4 catholic .",
+         "0.7 percentages other religion 4 catholic ."
+      ],
+      "table_id": "5487.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "a 54.4% has 33.7% catholic .",
+         "a 54.4 percentages has 33.7 percentages catholic ."
+      ],
+      "table_id": "5488.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "44.8% had the least number of none or not stated of the 25 to 29 ages attained (years) catholic .",
+         "44.8 percentages had the least number of none or not stated of the 25 to 29 ages attained (years) catholic ."
+      ],
+      "table_id": "5488.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "they 44.9% for the protestant and other christian for 1 none or not stated .",
+         "they 44.9 percentages for the protestant and other christian for 1 none or not stated ."
+      ],
+      "table_id": "5488.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "a 60.0% has 33.7% catholic .",
+         "a 60.0 percentages has 33.7 percentages catholic ."
+      ],
+      "table_id": "5488.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "44.8% had the least number of none or not stated of the 30 to 34 ages attained (years) catholic .",
+         "44.8 percentages had the least number of none or not stated of the 30 to 34 ages attained (years) catholic ."
+      ],
+      "table_id": "5488.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "they 33.1% for the protestant and other christian for 1 none or not stated .",
+         "they 33.1 percentages for the protestant and other christian for 1 none or not stated ."
+      ],
+      "table_id": "5488.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the last protestant and other christian listed is 64.0% .",
+         "the last protestant and other christian listed is 64.0 percentages ."
+      ],
+      "table_id": "5489.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "17.7% is listed as a none or not stated on 2 ages attained (years) .",
+         "17.7 percentages is listed as a none or not stated on 2 ages attained (years) ."
+      ],
+      "table_id": "5489.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "42.8% is the only protestant and other christian with a catholic of 40 .",
+         "42.8 percentages is the only protestant and other christian with a catholic of 40 ."
+      ],
+      "table_id": "5489.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "9.6% is listed as a none or not stated on 2 ages attained (years) .",
+         "9.6 percentages is listed as a none or not stated on 2 ages attained (years) ."
+      ],
+      "table_id": "5489.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the win % of the last title on this chart was 66.67% .",
+         "the win % of the last title on this chart was 66.67 percentages ."
+      ],
+      "table_id": "5748.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 # were win % # of the 72.00% .",
+         "1 # were win % # of the 72.00 percentages ."
+      ],
+      "table_id": "5752.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 # were win % # of the 73.53% .",
+         "1 # were win % # of the 73.53 percentages ."
+      ],
+      "table_id": "5752.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "50.00% is the first win % listed alphabetically .",
+         "50.00 percentages is the first win % listed alphabetically ."
+      ],
+      "table_id": "5755.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 population\n% are literacy\n(%) 94.1% .",
+         "1 population\n% are literacy\n(%) 94.1% ."
+      ],
+      "table_id": "6002.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the top literacy\n(%) population\n% is 0.41% .",
+         "the top literacy\n(%) population\n% is 0.41% ."
+      ],
+      "table_id": "6002.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1.87% served 895 sex ratio\n(rural) .",
+         "1.87% served 895 sex ratio\n(rural) ."
+      ],
+      "table_id": "6002.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 population\n% are literacy\n(%) 65.1% .",
+         "1 population\n% are literacy\n(%) 65.1% ."
+      ],
+      "table_id": "6002.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "80.46% served 895 sex ratio\n(rural) .",
+         "80.46% served 895 sex ratio\n(rural) ."
+      ],
+      "table_id": "6002.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "31.3% has been literacy\n(%) 59.1% times .",
+         "31.3% has been literacy\n(%) 59.1% times ."
+      ],
+      "table_id": "6003.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total amount of a literacy\n(%) 40.4% is 65.1 .",
+         "the total amount of a literacy\n(%) 40.4% is 65.1 ."
+      ],
+      "table_id": "6003.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "37.7% has been literacy\n(%) 59.1% times .",
+         "37.7% has been literacy\n(%) 59.1% times ."
+      ],
+      "table_id": "6003.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total amount of a literacy\n(%) 31.3% is 65.1 .",
+         "the total amount of a literacy\n(%) 31.3% is 65.1 ."
+      ],
+      "table_id": "6003.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total work participation\n(%) of work participation\n(%) in 37.7 is 37.7% .",
+         "the total work participation\n(%) of work participation\n(%) in 37.7 is 37.7% ."
+      ],
+      "table_id": "6004.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "65.1% is listed 1 times for literacy\n(%) .",
+         "65.1% is listed 1 times for literacy\n(%) ."
+      ],
+      "table_id": "6004.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "72.7% is listed 1 times for literacy\n(%) .",
+         "72.7% is listed 1 times for literacy\n(%) ."
+      ],
+      "table_id": "6004.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 sex ratio\n(urban) are growth\n(1991-2001) 20.3% .",
+         "1 sex ratio\n(urban) are growth\n(1991-2001) 20.3% ."
+      ],
+      "table_id": "6005.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "40.4% is the only work participation\n(%) to get on the us religious\ngroup .",
+         "40.4% is the only work participation\n(%) to get on the us religious\ngroup ."
+      ],
+      "table_id": "6005.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 sex ratio\n(urban) are growth\n(1991-2001) 26.0% .",
+         "1 sex ratio\n(urban) are growth\n(1991-2001) 26.0% ."
+      ],
+      "table_id": "6005.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of 48.4% was 1 .",
+         "the total number of 48.4 percentages was 1 ."
+      ],
+      "table_id": "6006.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "18.2% had 1.87 population\n% .",
+         "18.2% had 1.87 population\n% ."
+      ],
+      "table_id": "6006.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 sex ratio\n(child) were made under the literacy\n(%) of 94.1% .",
+         "1 sex ratio\n(child) were made under the literacy\n(%) of 94.1% ."
+      ],
+      "table_id": "6006.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of 32.9% was 1 .",
+         "the total number of 32.9 percentages was 1 ."
+      ],
+      "table_id": "6006.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "29.3% had 1.87 population\n% .",
+         "29.3% had 1.87 population\n% ."
+      ],
+      "table_id": "6006.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 sex ratio\n(child) were made under the literacy\n(%) of 80.3% .",
+         "1 sex ratio\n(child) were made under the literacy\n(%) of 80.3% ."
+      ],
+      "table_id": "6006.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the last percentage of votes listed in the table is 49% - 48% .",
+         "the last percentage of votes listed in the table is 49 percentages - 48 percentages ."
+      ],
+      "table_id": "6163.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the next percentage of votes listed after the 51% - 48% percentage of votes was 53% - 47% .",
+         "the next percentage of votes listed after the 51 percentages - 48 percentages percentage of votes was 53 percentages - 47 percentages ."
+      ],
+      "table_id": "6164.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the next percentage of votes listed after the 64% - 36% percentage of votes was 53% - 47% .",
+         "the next percentage of votes listed after the 64 percentages - 36 percentages percentage of votes was 53 percentages - 47 percentages ."
+      ],
+      "table_id": "6164.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of loser that were 65% - 34% is 1 .",
+         "the total number of loser that were 65 percentages - 34 percentages is 1 ."
+      ],
+      "table_id": "6166.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of loser that were 59% - 41% is 1 .",
+         "the total number of loser that were 59 percentages - 41 percentages is 1 ."
+      ],
+      "table_id": "6166.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "53% - 46% was a percentage of votes 3 times .",
+         "53 percentages - 46 percentages was a percentage of votes 3 times ."
+      ],
+      "table_id": "6169.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "58% - 42% was a percentage of votes 3 times .",
+         "58 percentages - 42 percentages was a percentage of votes 3 times ."
+      ],
+      "table_id": "6169.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the percentage of votes of the only single to not receive top 60534 on the number of votes was 53% - 46% .",
+         "the percentage of votes of the only single to not receive top 60534 on the number of votes was 53 percentages - 46 percentages ."
+      ],
+      "table_id": "6173.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the  number of 12.2% is ep. 9 .",
+         "the  number of 12.2 percentages is ep. 9 ."
+      ],
+      "table_id": "6319.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the  number of 16.3% is ep. 9 .",
+         "the  number of 16.3 percentages is ep. 9 ."
+      ],
+      "table_id": "6319.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         " for the 10.0% is ep. 4 .",
+         " for the 10.0 percentages is ep. 4 ."
+      ],
+      "table_id": "6323.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         " for the 12.2% is ep. 4 .",
+         " for the 12.2 percentages is ep. 4 ."
+      ],
+      "table_id": "6323.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "16.3% is the ratings with the most ratings .",
+         "16.3 percentages is the ratings with the most ratings ."
+      ],
+      "table_id": "6325.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the only ratings ano ko o kaeshite! romanized title is 12.4% .",
+         "the only ratings ano ko o kaeshite! romanized title is 12.4 percentages ."
+      ],
+      "table_id": "6327.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the only ratings sayonara okasan romanized title is 12.4% .",
+         "the only ratings sayonara okasan romanized title is 12.4 percentages ."
+      ],
+      "table_id": "6327.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the name of the last rob\nastorino (r) is 24% .",
+         "the name of the last rob\nastorino (r) is 24% ."
+      ],
+      "table_id": "6347.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 sample\nsize had a andrew\ncuomo (d) of 56% .",
+         "1 sample\nsize had a andrew\ncuomo (d) of 56% ."
+      ],
+      "table_id": "6347.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2 other other 2% are represented in the results .",
+         "2 other other 2 percentages are represented in the results ."
+      ],
+      "table_id": "6347.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the other listed for 2% other was 2% .",
+         "the other listed for 2 percentages other was 2 percentages ."
+      ],
+      "table_id": "6347.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "17% was the only undecided to have a undecided of 17 m .",
+         "17 percentages was the only undecided to have a undecided of 17 m ."
+      ],
+      "table_id": "6347.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 sample\nsize had a andrew\ncuomo (d) of 65% .",
+         "1 sample\nsize had a andrew\ncuomo (d) of 65% ."
+      ],
+      "table_id": "6347.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3% was the last other to be andrew\ncuomo (d) .",
+         "3% was the last other to be andrew\ncuomo (d) ."
+      ],
+      "table_id": "6348.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 aerial rob\nastorino (r) are margin of\nerror \u00b1 2.5% .",
+         "1 aerial rob\nastorino (r) are margin of\nerror \u00b1 2.5% ."
+      ],
+      "table_id": "6348.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there were 2 13% rob\nastorino (r) .",
+         "there were 2 13% rob\nastorino (r) ."
+      ],
+      "table_id": "6348.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2 of these margin of\nerror were \u00b1 3.8% .",
+         "2 of these margin of\nerror were \u00b1 3.8% ."
+      ],
+      "table_id": "6348.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 aerial rob\nastorino (r) are margin of\nerror \u00b1 3.4% .",
+         "1 aerial rob\nastorino (r) are margin of\nerror \u00b1 3.4% ."
+      ],
+      "table_id": "6348.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "there were 2 16% rob\nastorino (r) .",
+         "there were 2 16% rob\nastorino (r) ."
+      ],
+      "table_id": "6348.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2 of these margin of\nerror were \u00b1 3.4% .",
+         "2 of these margin of\nerror were \u00b1 3.4% ."
+      ],
+      "table_id": "6348.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the combined margin of\nerror of \u00b1 3.8% and \u00b1 3.4% is 14.399999999999999 .",
+         "the combined margin of\nerror of \u00b1 3.8% and \u00b1 3.4% is 14.399999999999999 ."
+      ],
+      "table_id": "6349.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the combined margin of\nerror of \u00b1 3.4% and \u00b1 3.4% is 14.399999999999999 .",
+         "the combined margin of\nerror of \u00b1 3.4% and \u00b1 3.4% is 14.399999999999999 ."
+      ],
+      "table_id": "6349.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the combined margin of\nerror of \u00b1 3.8% and \u00b1 3.5% is 14.399999999999999 .",
+         "the combined margin of\nerror of \u00b1 3.8% and \u00b1 3.5% is 14.399999999999999 ."
+      ],
+      "table_id": "6349.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of 11% date(s)\nadministered was january 12-16, 2014 .",
+         "the number of 11% date(s)\nadministered was january 12-16, 2014 ."
+      ],
+      "table_id": "6351.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 17% date(s)\nadministered was january 12-16, 2014 .",
+         "the number of 17% date(s)\nadministered was january 12-16, 2014 ."
+      ],
+      "table_id": "6351.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the last rob\nastorino (r) listed is 24% .",
+         "the last rob\nastorino (r) listed is 24% ."
+      ],
+      "table_id": "6352.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the other 2% was 2 times .",
+         "the other 2 percentages was 2 times ."
+      ],
+      "table_id": "6353.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of poll source andrew\ncuomo (d) 56% is 1 .",
+         "the number of poll source andrew\ncuomo (d) 56% is 1 ."
+      ],
+      "table_id": "6353.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of poll source andrew\ncuomo (d) 65% is 1 .",
+         "the number of poll source andrew\ncuomo (d) 65% is 1 ."
+      ],
+      "table_id": "6353.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the last undecided on the list is 17% .",
+         "the last undecided on the list is 17 percentages ."
+      ],
+      "table_id": "6354.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 rob\nastorino (r) from 19% are on this list .",
+         "1 rob\nastorino (r) from 19% are on this list ."
+      ],
+      "table_id": "6354.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 rob\nastorino (r) from 24% are on this list .",
+         "1 rob\nastorino (r) from 24% are on this list ."
+      ],
+      "table_id": "6354.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only partner bonuses with a profit before tax of 215300000 is the \u00a3105.8 million (14%) .",
+         "the only partner bonuses with a profit before tax of 215300000 is the \u00a3105.8 million (14 percentages) ."
+      ],
+      "table_id": "6715.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the \u00a3210.8 million (17%) was used 1 times .",
+         "the \u00a3210.8 million (17 percentages) was used 1 times ."
+      ],
+      "table_id": "6716.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the \u00a3165.2 million (14%) was used 1 times .",
+         "the \u00a3165.2 million (14 percentages) was used 1 times ."
+      ],
+      "table_id": "6716.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the name of the last % of popular vote on this chart is 22.73% .",
+         "the name of the last % of popular vote on this chart is 22.73 percentages ."
+      ],
+      "table_id": "6954.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the 16.8% % of popular vote got 10 candidates elected .",
+         "the 16.8 percentages % of popular vote got 10 candidates elected ."
+      ],
+      "table_id": "6961.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the 14.7% % of popular vote got 10 candidates elected .",
+         "the 14.7 percentages % of popular vote got 10 candidates elected ."
+      ],
+      "table_id": "6961.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the last type of % of popular vote listed is 22.73% .",
+         "the last type of % of popular vote listed is 22.73 percentages ."
+      ],
+      "table_id": "6962.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 # of seats available are 14.7% .",
+         "1 # of seats available are 14.7 percentages ."
+      ],
+      "table_id": "6962.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 # of seats available are 15.5% .",
+         "1 # of seats available are 15.5 percentages ."
+      ],
+      "table_id": "6962.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "854163 are in 20.6% 's # of votes .",
+         "854163 are in 20.6 percentages 's # of votes ."
+      ],
+      "table_id": "6963.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "854163 are in 14.7% 's # of votes .",
+         "854163 are in 14.7 percentages 's # of votes ."
+      ],
+      "table_id": "6963.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only win % with a win % of 0 is the 0% .",
+         "the only win % with a win % of 0 is the 0 percentages ."
+      ],
+      "table_id": "7499.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "8 100% were in the top 2 .",
+         "8 100 percentages were in the top 2 ."
+      ],
+      "table_id": "7499.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "8 0% were in the top 2 .",
+         "8 0 percentages were in the top 2 ."
+      ],
+      "table_id": "7499.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 first\nelected were candidates john floyd (j) 84.7%\nallen taylor (f) 15.3% .",
+         "1 first\nelected were candidates john floyd (j) 84.7%\nallen taylor (f) 15.3% ."
+      ],
+      "table_id": "7607.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 first\nelected were candidates william s. archer (j) 100% .",
+         "1 first\nelected were candidates william s. archer (j) 100% ."
+      ],
+      "table_id": "7607.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0 total ha-233 name were won by incomplete until the end of war (60%). scrapped, december 1946 .",
+         "0 total ha-233 name were won by incomplete until the end of war (60 percentages). scrapped, december 1946 ."
+      ],
+      "table_id": "7847.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0 total ha-237 name were won by incomplete until the end of war (60%). scrapped, december 1946 .",
+         "0 total ha-237 name were won by incomplete until the end of war (60 percentages). scrapped, december 1946 ."
+      ],
+      "table_id": "7847.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0 total ha-233 name were won by incomplete until the end of war (50%). scrapped, june 1946 .",
+         "0 total ha-233 name were won by incomplete until the end of war (50 percentages). scrapped, june 1946 ."
+      ],
+      "table_id": "7847.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "there were 0 more 49.90% than 49.90% .",
+         "there were 0 more 49.90 percentages than 49.90 percentages ."
+      ],
+      "table_id": "7956.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there were 0 more 13.14% than 13.14% .",
+         "there were 0 more 13.14 percentages than 13.14 percentages ."
+      ],
+      "table_id": "7956.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "there were 0 more 36.93% than 36.93% .",
+         "there were 0 more 36.93 percentages than 36.93 percentages ."
+      ],
+      "table_id": "7956.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 percentage percentage 0.03% .",
+         "1 percentage percentage 0.03 percentages ."
+      ],
+      "table_id": "7959.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "100% is the slowest percentage in total voters .",
+         "100 percentages is the slowest percentage in total voters ."
+      ],
+      "table_id": "7959.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 percentage percentage 36.93% .",
+         "1 percentage percentage 36.93 percentages ."
+      ],
+      "table_id": "7959.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "10.60% is listed 1 times as the % .",
+         "10.60 percentages is listed 1 times as the % ."
+      ],
+      "table_id": "8065.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2.70% is listed 1 times as the % .",
+         "2.70 percentages is listed 1 times as the % ."
+      ],
+      "table_id": "8065.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the last % listed on this chart is 100.00% .",
+         "the last % listed on this chart is 100.00 percentages ."
+      ],
+      "table_id": "8066.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total % votes 123734 is 8.50% .",
+         "the total % votes 123734 is 8.50 percentages ."
+      ],
+      "table_id": "8066.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total % votes 39868 is 8.50% .",
+         "the total % votes 39868 is 8.50 percentages ."
+      ],
+      "table_id": "8066.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the name of the last % listed on this chart is 100.00% .",
+         "the name of the last % listed on this chart is 100.00 percentages ."
+      ],
+      "table_id": "8068.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there are 1 votes in 10.60% .",
+         "there are 1 votes in 10.60 percentages ."
+      ],
+      "table_id": "8068.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there are 1 votes in 9.40% .",
+         "there are 1 votes in 9.40 percentages ."
+      ],
+      "table_id": "8068.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of change % 8.60% is 0 .",
+         "the number of change % 8.60 percentages is 0 ."
+      ],
+      "table_id": "8069.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 slovaks have 43,474 (6,7%) as their romanians .",
+         "1 slovaks have 43,474 (6,7 percentages) as their romanians ."
+      ],
+      "table_id": "8091.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there are 1 374,258 (60,6%) serbs on this list .",
+         "there are 1 374,258 (60,6 percentages) serbs on this list ."
+      ],
+      "table_id": "8091.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the last slovaks slovaks was 21,299 (3,4%) .",
+         "the last slovaks slovaks was 21,299 (3,4 percentages) ."
+      ],
+      "table_id": "8091.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the difference between 20,685 (2,4%) and 16,223 (2,9%) is 35226 .",
+         "the difference between 20,685 (2,4 percentages) and 16,223 (2,9 percentages) is 35226 ."
+      ],
+      "table_id": "8091.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 slovaks have 55,094 (8,9%) as their romanians .",
+         "1 slovaks have 55,094 (8,9 percentages) as their romanians ."
+      ],
+      "table_id": "8091.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "there are 1 477,890 (71.8%) serbs on this list .",
+         "there are 1 477,890 (71.8 percentages) serbs on this list ."
+      ],
+      "table_id": "8091.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the difference between 17,595 (3,2%) and 16,223 (2,9%) is 35226 .",
+         "the difference between 17,595 (3,2 percentages) and 16,223 (2,9 percentages) is 35226 ."
+      ],
+      "table_id": "8091.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the difference between 20,685 (2,4%) and 17,900 (2,1%) is 35226 .",
+         "the difference between 20,685 (2,4 percentages) and 17,900 (2,1 percentages) is 35226 ."
+      ],
+      "table_id": "8091.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of hungarians in the 110,446 (18,4%) hungarians is 1 .",
+         "the number of hungarians in the 110,446 (18,4 percentages) hungarians is 1 ."
+      ],
+      "table_id": "8092.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 romanians are 110,446 (18,4%) .",
+         "1 romanians are 110,446 (18,4 percentages) ."
+      ],
+      "table_id": "8092.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "21,299 (3,4%) was the only slovaks that had an 374,258 (60,6%) .",
+         "21,299 (3,4 percentages) was the only slovaks that had an 374,258 (60,6 percentages) ."
+      ],
+      "table_id": "8092.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of hungarians in the 63,047 (9.5%) hungarians is 1 .",
+         "the number of hungarians in the 63,047 (9.5 percentages) hungarians is 1 ."
+      ],
+      "table_id": "8092.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 romanians are 111,944 (17,1%) .",
+         "1 romanians are 111,944 (17,1 percentages) ."
+      ],
+      "table_id": "8092.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "21,299 (3,4%) was the only slovaks that had an 423,837 (64,6%) .",
+         "21,299 (3,4 percentages) was the only slovaks that had an 423,837 (64,6 percentages) ."
+      ],
+      "table_id": "8092.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the last germans on the chart is 908 (0,1%) .",
+         "the last germans on the chart is 908 (0,1 percentages) ."
+      ],
+      "table_id": "8093.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "125,374 (22.1%) is the last 1910 to be year .",
+         "125,374 (22.1 percentages) is the last 1910 to be year ."
+      ],
+      "table_id": "8093.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of romanians total 666559 was 49,455 (7,4%) .",
+         "the number of romanians total 666559 was 49,455 (7,4 percentages) ."
+      ],
+      "table_id": "8093.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "125,374 (22.1%) is the last 1981 to be year .",
+         "125,374 (22.1 percentages) is the last 1981 to be year ."
+      ],
+      "table_id": "8093.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of germans slovaks 21,392 (3,3%) in the open is 0 .",
+         "the number of germans slovaks 21,392 (3,3 percentages) in the open is 0 ."
+      ],
+      "table_id": "8094.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the only romanians to have a total above 617163 % is 54,447 (8,3%) .",
+         "the only romanians to have a total above 617163 % is 54,447 (8,3 percentages) ."
+      ],
+      "table_id": "8094.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the only serbs to be won by 21,299 (3,4%) was the 374,258 (60,6%) .",
+         "the only serbs to be won by 21,299 (3,4 percentages) was the 374,258 (60,6 percentages) ."
+      ],
+      "table_id": "8094.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of germans slovaks 20,685 (2,4%) in the open is 0 .",
+         "the number of germans slovaks 20,685 (2,4 percentages) in the open is 0 ."
+      ],
+      "table_id": "8094.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only serbs to be won by 17,994 (2,7%) was the 374,258 (60,6%) .",
+         "the only serbs to be won by 17,994 (2,7 percentages) was the 374,258 (60,6 percentages) ."
+      ],
+      "table_id": "8094.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "22,306 (3,4%) is listed 1 times for slovaks .",
+         "22,306 (3,4 percentages) is listed 1 times for slovaks ."
+      ],
+      "table_id": "8095.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "126,519 (22.6%) is the germans with the least total .",
+         "126,519 (22.6 percentages) is the germans with the least total ."
+      ],
+      "table_id": "8095.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of total hungarians 76,153 (11.7%) is 1 .",
+         "the number of total hungarians 76,153 (11.7 percentages) is 1 ."
+      ],
+      "table_id": "8095.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "19,903 (3.1%) is listed 1 times for slovaks .",
+         "19,903 (3.1 percentages) is listed 1 times for slovaks ."
+      ],
+      "table_id": "8095.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of total hungarians 111,944 (17,1%) is 1 .",
+         "the number of total hungarians 111,944 (17,1 percentages) is 1 ."
+      ],
+      "table_id": "8095.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the oldest serbs listed is 235,148 (42.1%) .",
+         "the oldest serbs listed is 235,148 (42.1 percentages) ."
+      ],
+      "table_id": "8096.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 374,258 (60,6%) serbs is 1 .",
+         "the number of 374,258 (60,6 percentages) serbs is 1 ."
+      ],
+      "table_id": "8096.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of total that are now 55,678 (9,3%) is 1 .",
+         "the total number of total that are now 55,678 (9,3 percentages) is 1 ."
+      ],
+      "table_id": "8096.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total amount of 66,433 (11,9%) romanians is 1 .",
+         "the total amount of 66,433 (11,9 percentages) romanians is 1 ."
+      ],
+      "table_id": "8096.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 261,123 (44,6%) serbs is 1 .",
+         "the number of 261,123 (44,6 percentages) serbs is 1 ."
+      ],
+      "table_id": "8096.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of total that are now 73,303 (12.9%) is 1 .",
+         "the total number of total that are now 73,303 (12.9 percentages) is 1 ."
+      ],
+      "table_id": "8096.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total amount of 73,303 (12.9%) romanians is 1 .",
+         "the total amount of 73,303 (12.9 percentages) romanians is 1 ."
+      ],
+      "table_id": "8096.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "10% had 5 limiting magnitude .",
+         "10 percentages had 5 limiting magnitude ."
+      ],
+      "table_id": "8097.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1% had 5 limiting magnitude .",
+         "1 percentages had 5 limiting magnitude ."
+      ],
+      "table_id": "8097.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only accuracy of amplitude2 measurements that has 250 `` as a number of spectral channels\n(max in use simultaneously) is 10% .",
+         "the only accuracy of amplitude2 measurements that has 250 `` as a number of spectral channels\n(max in use simultaneously) is 10% ."
+      ],
+      "table_id": "8098.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the only accuracy of amplitude2 measurements that has 1 `` as a number of spectral channels\n(max in use simultaneously) is 10% .",
+         "the only accuracy of amplitude2 measurements that has 1 `` as a number of spectral channels\n(max in use simultaneously) is 10% ."
+      ],
+      "table_id": "8098.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "there were 5 0 max ratio of no. phase / no. amplitude measurements\n(measure of imaging performance, 0 = none) finishes prior to the 4% accuracy of amplitude2 measurements .",
+         "there were 5 0 max ratio of no. phase / no. amplitude measurements\n(measure of imaging performance, 0 = none) finishes prior to the 4% accuracy of amplitude2 measurements ."
+      ],
+      "table_id": "8101.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there were 5 0 max ratio of no. phase / no. amplitude measurements\n(measure of imaging performance, 0 = none) finishes prior to the 10% accuracy of amplitude2 measurements .",
+         "there were 5 0 max ratio of no. phase / no. amplitude measurements\n(measure of imaging performance, 0 = none) finishes prior to the 10% accuracy of amplitude2 measurements ."
+      ],
+      "table_id": "8101.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the joseph anthony gray (d) 54.4%\nnathan leroy strong (r) 44.5%\nfinley s. goldthwaite (s) 1.1% candidates had 1916 total first\nelected .",
+         "the joseph anthony gray (d) 54.4%\nnathan leroy strong (r) 44.5%\nfinley s. goldthwaite (s) 1.1% candidates had 1916 total first\nelected ."
+      ],
+      "table_id": "8472.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the clare g. fenerty (r) 52.0%\nmichael joseph bradley (d) 46.8%\nalfred m. waldron (industrial recovery) 0.6%\njoseph kazmark (s) 0.5%\nrose e. landberg (prog) 0.1% candidates had 1916 total first\nelected .",
+         "the clare g. fenerty (r) 52.0%\nmichael joseph bradley (d) 46.8%\nalfred m. waldron (industrial recovery) 0.6%\njoseph kazmark (s) 0.5%\nrose e. landberg (prog) 0.1% candidates had 1916 total first\nelected ."
+      ],
+      "table_id": "8472.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the candidates benjamin k. focht (r) 55.6%\nb. stiles duncan (d) 44.4% was 1 times .",
+         "the candidates benjamin k. focht (r) 55.6%\nb. stiles duncan (d) 44.4% was 1 times ."
+      ],
+      "table_id": "8474.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the candidates james l. quinn (d) 52.4%\nmelville clyde kelly (r) 45.6%\nwilliam adams (s) 1.3%\nlaura jane grubbs (c) 0.7% was 1 times .",
+         "the candidates james l. quinn (d) 52.4%\nmelville clyde kelly (r) 45.6%\nwilliam adams (s) 1.3%\nlaura jane grubbs (c) 0.7% was 1 times ."
+      ],
+      "table_id": "8474.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of first\nelected with isaac hoffer doutrich (r) 55.1%\nforrest mercer (d) 42.9%\nirving j. noon (s) 0.9%\nida g. kast (proh) 0.9%\nalbert w. penner (i) 0.1% candidates is 1 .",
+         "the number of first\nelected with isaac hoffer doutrich (r) 55.1%\nforrest mercer (d) 42.9%\nirving j. noon (s) 0.9%\nida g. kast (proh) 0.9%\nalbert w. penner (i) 0.1% candidates is 1 ."
+      ],
+      "table_id": "8475.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of first\nelected with frank joseph gerard dorsey (d) 52.2%\njames j. connolly (r) 46.7%\nwarren d. mullin (s) 1.0%\narthur braun (c) 0.2% candidates is 1 .",
+         "the number of first\nelected with frank joseph gerard dorsey (d) 52.2%\njames j. connolly (r) 46.7%\nwarren d. mullin (s) 1.0%\narthur braun (c) 0.2% candidates is 1 ."
+      ],
+      "table_id": "8475.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 incumbent were candidates the don gingery (d) 52.4%\nj. banks kurtz (r) 44.2%\ngeorge w. hartman (s) 3.4% .",
+         "1 incumbent were candidates the don gingery (d) 52.4%\nj. banks kurtz (r) 44.2%\ngeorge w. hartman (s) 3.4% ."
+      ],
+      "table_id": "8476.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 incumbent were candidates the charles murray turpin (r) 51.4%\njohn j. casey (d) 48.0%\njudson n. bailey (proh) 0.5%\njohn a. muldowney (c) 0.2% .",
+         "1 incumbent were candidates the charles murray turpin (r) 51.4%\njohn j. casey (d) 48.0%\njudson n. bailey (proh) 0.5%\njohn a. muldowney (c) 0.2% ."
+      ],
+      "table_id": "8476.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "j. william ditter (r) 56.2%\nhoward j. dager (d) 42.0%\ngeorge w. bause (s) 1.3%\nraymond j. keisen (proh) 0.5% was the only candidates to be result re-elected .",
+         "j. william ditter (r) 56.2%\nhoward j. dager (d) 42.0%\ngeorge w. bause (s) 1.3%\nraymond j. keisen (proh) 0.5% was the only candidates to be result re-elected ."
+      ],
+      "table_id": "8477.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "denis j. driscoll (d) 52.7%\nleon h. gavin (r) 43.7%\nrobert g. burnham (proh) 2.8%\nrobert s. stewart (s) 0.8% was the only candidates to be result re-elected .",
+         "denis j. driscoll (d) 52.7%\nleon h. gavin (r) 43.7%\nrobert g. burnham (proh) 2.8%\nrobert s. stewart (s) 0.8% was the only candidates to be result re-elected ."
+      ],
+      "table_id": "8477.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "19 was the only won to come from 90.48% .",
+         "19 was the only won to come from 90.48 percentages ."
+      ],
+      "table_id": "8881.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "19 was the only won to come from 100% .",
+         "19 was the only won to come from 100 percentages ."
+      ],
+      "table_id": "8881.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only % won overall to have the kazakhstan `` note is the 100% .",
+         "the only % won overall to have the kazakhstan `` note is the 100 percentages ."
+      ],
+      "table_id": "8882.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the only % won overall to have the canada `` note is the 100% .",
+         "the only % won overall to have the canada `` note is the 100 percentages ."
+      ],
+      "table_id": "8882.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 opponent have 90.48% as their % won overall `` .",
+         "1 opponent have 90.48 percentages as their % won overall `` ."
+      ],
+      "table_id": "8884.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 opponent have 92.31% as their % won overall `` .",
+         "1 opponent have 92.31 percentages as their % won overall `` ."
+      ],
+      "table_id": "8884.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "100% played 9 % won overall .",
+         "100% played 9  percentages won overall ."
+      ],
+      "table_id": "8888.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "90.48% played 9 % won overall .",
+         "90.48% played 9  percentages won overall ."
+      ],
+      "table_id": "8888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only linearized rate of infection they were in 248 no. of patients was 0.78% per patient year .",
+         "the only linearized rate of infection they were in 248 no. of patients was 0.78 percentages per patient year ."
+      ],
+      "table_id": "8891.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "98.2% for all patients, 97.8% for aortic, 99% for mitral, 100% for multiple valve replacements was a actuarial freedom from infective endocarditis whose no. of patients was above 239 .",
+         "98.2 percentages for all patients, 97.8 percentages for aortic, 99 percentages for mitral, 100 percentages for multiple valve replacements was a actuarial freedom from infective endocarditis whose no. of patients was above 239 ."
+      ],
+      "table_id": "8891.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the last linearized rate of infection listed is 1.6% per patient year .",
+         "the last linearized rate of infection listed is 1.6 percentages per patient year ."
+      ],
+      "table_id": "8892.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of main author with 93.7% for all patients, 94.7% for aortic valves, 97.1% for mitral valves, 89.3% for multiple valve replacement actuarial freedom from infective endocarditis is 1 .",
+         "the number of main author with 93.7 percentages for all patients, 94.7 percentages for aortic valves, 97.1 percentages for mitral valves, 89.3 percentages for multiple valve replacement actuarial freedom from infective endocarditis is 1 ."
+      ],
+      "table_id": "8894.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "each percentage with a rank greater than 6 is 12.75% .",
+         "each percentage with a rank greater than 6 is 12.75 percentages ."
+      ],
+      "table_id": "9663.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of county that were percentage 17.24% is 1 .",
+         "the total number of county that were percentage 17.24 percentages is 1 ."
+      ],
+      "table_id": "9663.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of county that were percentage 17.43% is 1 .",
+         "the total number of county that were percentage 17.43 percentages is 1 ."
+      ],
+      "table_id": "9663.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 city were 12.69% .",
+         "1 city were 12.69 percentages ."
+      ],
+      "table_id": "9664.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 city were 11.76% .",
+         "1 city were 11.76 percentages ."
+      ],
+      "table_id": "9664.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "there are 1 current 14.31% .",
+         "there are 1 current 14.31 percentages ."
+      ],
+      "table_id": "9665.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there are 1 current 12.75% .",
+         "there are 1 current 12.75 percentages ."
+      ],
+      "table_id": "9665.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "new jersey is the other state for 11.76% .",
+         "new jersey is the other state for 11.76 percentages ."
+      ],
+      "table_id": "9666.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "new jersey is the other state for 17.43% .",
+         "new jersey is the other state for 17.43 percentages ."
+      ],
+      "table_id": "9666.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3 rank have a percentage below 12.75% .",
+         "3 rank have a percentage below 12.75 percentages ."
+      ],
+      "table_id": "9671.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of rank from the 11.83% percentage was 1 .",
+         "the number of rank from the 11.83 percentages percentage was 1 ."
+      ],
+      "table_id": "9671.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3 rank have a percentage below 17.69% .",
+         "3 rank have a percentage below 17.69 percentages ."
+      ],
+      "table_id": "9671.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of rank from the 17.43% percentage was 1 .",
+         "the number of rank from the 17.43 percentages percentage was 1 ."
+      ],
+      "table_id": "9671.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "there were 1 11.76% in the table .",
+         "there were 1 11.76 percentages in the table ."
+      ],
+      "table_id": "9672.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there were 1 11.83% in the table .",
+         "there were 1 11.83 percentages in the table ."
+      ],
+      "table_id": "9672.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "18.0% was the only 2007 to be 19.3% .",
+         "18.0 percentages was the only 2007 to be 19.3 percentages ."
+      ],
+      "table_id": "9702.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the 2011 for each 2007 is 17.0% .",
+         "the 2011 for each 2007 is 17.0 percentages ."
+      ],
+      "table_id": "9702.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 2013 were 2009 14.2% .",
+         "1 2013 were 2009 14.2 percentages ."
+      ],
+      "table_id": "9702.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "12.7% has 12.7% 2010 .",
+         "12.7 percentages has 12.7 percentages 2010 ."
+      ],
+      "table_id": "9702.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "18.0% was the only 2007 to be 16.4% .",
+         "18.0 percentages was the only 2007 to be 16.4 percentages ."
+      ],
+      "table_id": "9702.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of 2013 2008 18.4% is 1 .",
+         "the total number of 2013 2008 18.4 percentages is 1 ."
+      ],
+      "table_id": "9702.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "19.3% has 19.3% 2010 .",
+         "19.3 percentages has 19.3 percentages 2010 ."
+      ],
+      "table_id": "9702.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of 17.0% 2010 is 1 .",
+         "the total number of 17.0 percentages 2010 is 1 ."
+      ],
+      "table_id": "9703.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 2012 went 18.4% in 2008 .",
+         "1 2012 went 18.4 percentages in 2008 ."
+      ],
+      "table_id": "9703.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the 27.2% reached the 56.4% 0 times .",
+         "the 27.2 percentages reached the 56.4 percentages 0 times ."
+      ],
+      "table_id": "9868.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the only others to be 3,601 was 2.1% .",
+         "the only others to be 3,601 was 2.1 percentages ."
+      ],
+      "table_id": "9868.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the 30.3% reached the 56.4% 0 times .",
+         "the 30.3 percentages reached the 56.4 percentages 0 times ."
+      ],
+      "table_id": "9868.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the 27.2% reached the 52.7% 0 times .",
+         "the 27.2 percentages reached the 52.7 percentages 0 times ."
+      ],
+      "table_id": "9868.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only others to be 13,880 was 2.1% .",
+         "the only others to be 13,880 was 2.1 percentages ."
+      ],
+      "table_id": "9868.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "27.7% is the first obama listed alphabetically .",
+         "27.7 percentages is the first obama listed alphabetically ."
+      ],
+      "table_id": "9869.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "41.2% and 75.4% were both votes in 90,805 .",
+         "41.2 percentages and 75.4 percentages were both votes in 90,805 ."
+      ],
+      "table_id": "9871.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2.7% is the last others on the list that was 27,581 `` .",
+         "2.7 percentages is the last others on the list that was 27,581 `` ."
+      ],
+      "table_id": "9871.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "45.6% and 75.4% were both votes in 90,805 .",
+         "45.6 percentages and 75.4 percentages were both votes in 90,805 ."
+      ],
+      "table_id": "9871.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "41.2% and 66.0% were both votes in 90,805 .",
+         "41.2 percentages and 66.0 percentages were both votes in 90,805 ."
+      ],
+      "table_id": "9871.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2.7% is the last others on the list that was 52,092 `` .",
+         "2.7 percentages is the last others on the list that was 52,092 `` ."
+      ],
+      "table_id": "9871.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3.3% has a total of only 17693 .",
+         "3.3 percentages has a total of only 17693 ."
+      ],
+      "table_id": "9872.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3.4% has a total of only 17693 .",
+         "3.4 percentages has a total of only 17693 ."
+      ],
+      "table_id": "9872.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "49.8% won 1 times .",
+         "49.8 percentages won 1 times ."
+      ],
+      "table_id": "9874.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total total years of the 63.1% obama is 56853 .",
+         "the total total years of the 63.1 percentages obama is 56853 ."
+      ],
+      "table_id": "9874.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "33.8% won 1 times .",
+         "33.8 percentages won 1 times ."
+      ],
+      "table_id": "9874.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total total years of the 59.7% obama is 56853 .",
+         "the total total years of the 59.7 percentages obama is 56853 ."
+      ],
+      "table_id": "9874.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3.2% is listed as the others 6 times .",
+         "3.2 percentages is listed as the others 6 times ."
+      ],
+      "table_id": "9875.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3.9% is listed as the others 6 times .",
+         "3.9 percentages is listed as the others 6 times ."
+      ],
+      "table_id": "9875.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 1989 census are of the 216 (0.2%) 1926 census .",
+         "1 1989 census are of the 216 (0.2 percentages) 1926 census ."
+      ],
+      "table_id": "9884.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 1926 census were listed as 953 (1.0%) .",
+         "1 1926 census were listed as 953 (1.0 percentages) ."
+      ],
+      "table_id": "9884.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 1989 census are of the 1,374 (1.6%) 1926 census .",
+         "1 1989 census are of the 1,374 (1.6 percentages) 1926 census ."
+      ],
+      "table_id": "9884.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 1926 census were listed as 1,071 (1.1%) .",
+         "1 1926 census were listed as 1,071 (1.1 percentages) ."
+      ],
+      "table_id": "9884.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of times georgians 1,071 (1.1%) for the 1979 census was 0 .",
+         "the number of times georgians 1,071 (1.1 percentages) for the 1979 census was 0 ."
+      ],
+      "table_id": "9885.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there are 1 total 63,698 (65.8%) 1959 census ethnicity .",
+         "there are 1 total 63,698 (65.8 percentages) 1959 census ethnicity ."
+      ],
+      "table_id": "9885.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of times total 1,071 (1.1%) for the 1979 census was 0 .",
+         "the number of times total 1,071 (1.1 percentages) for the 1979 census was 0 ."
+      ],
+      "table_id": "9885.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of times georgians 28,187 (28.8%) for the 1979 census was 0 .",
+         "the number of times georgians 28,187 (28.8 percentages) for the 1979 census was 0 ."
+      ],
+      "table_id": "9885.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "there are 1 total 867 (0.9%) 1959 census ethnicity .",
+         "there are 1 total 867 (0.9 percentages) 1959 census ethnicity ."
+      ],
+      "table_id": "9885.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "910 (0.9%) is the 2007 estimate after 1,485 (1.5%) .",
+         "910 (0.9 percentages) is the 2007 estimate after 1,485 (1.5 percentages) ."
+      ],
+      "table_id": "9886.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 1,071 (1.1%) is 1 .",
+         "the number of 1,071 (1.1 percentages) is 1 ."
+      ],
+      "table_id": "9886.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "910 (0.9%) is the 2007 estimate after 910 (0.9%) .",
+         "910 (0.9 percentages) is the 2007 estimate after 910 (0.9 percentages) ."
+      ],
+      "table_id": "9886.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of 65,077 (66.4%) is 1 .",
+         "the number of 65,077 (66.4 percentages) is 1 ."
+      ],
+      "table_id": "9886.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1,723 (1.8%) 1959 census 1 2007 estimate .",
+         "1,723 (1.8 percentages) 1959 census 1 2007 estimate ."
+      ],
+      "table_id": "9887.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "26,584 (27.5%) 1959 census 1 2007 estimate .",
+         "26,584 (27.5 percentages) 1959 census 1 2007 estimate ."
+      ],
+      "table_id": "9887.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "47,000 (67.1%) 2007 estimate made the top of the list .",
+         "47,000 (67.1 percentages) 2007 estimate made the top of the list ."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 1989 census with 654 (0.7%) is 1 .",
+         "the number of 1989 census with 654 (0.7 percentages) is 1 ."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1,485 (1.5%) jews lived in south ossetia in 1970.",
+         "1,485 (1.5 percentages) jews lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "66,073 (66.5%) ossetians lived in south ossetia in 1970.",
+         "66,073 (66.5 percentages) ossetians lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1,574 (1.6%) russians lived in south ossetia in 1970.",
+         "1,574 (1.6 percentages) russians lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "910 (0.9%) others lived in south ossetia in 1970.",
+         "910 (0.9 percentages) others lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "28,125 (28.3%) georgians lived in south ossetia in 1970.",
+         "28,125 (28.3 percentages) georgians lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1,254 (1.3%) armenians lived in south ossetia in 1970.",
+         "1,254 (1.3 percentages) armenians lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 1989 census with 953 (1.0%) is 1 .",
+         "the number of 1989 census with 953 (1.0 percentages) is 1 ."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1,485 (1.5%) russians lived in south ossetia in 1970.",
+         "1,485 (1.5 percentages) russians lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1,485 (1.5%) total lived in south ossetia in 1970.",
+         "1,485 (1.5 percentages) total lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1,485 (1.5%) others lived in south ossetia in 1970.",
+         "1,485 (1.5 percentages) others lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "66,073 (66.5%) total lived in south ossetia in 1970.",
+         "66,073 (66.5 percentages) total lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "66,073 (66.5%) russians lived in south ossetia in 1970.",
+         "66,073 (66.5 percentages) russians lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "66,073 (66.5%) others lived in south ossetia in 1970.",
+         "66,073 (66.5 percentages) others lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1,574 (1.6%) georgians lived in south ossetia in 1970.",
+         "1,574 (1.6 percentages) georgians lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1,574 (1.6%) others lived in south ossetia in 1970.",
+         "1,574 (1.6 percentages) others lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "910 (0.9%) armenians lived in south ossetia in 1970.",
+         "910 (0.9 percentages) armenians lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "910 (0.9%) russians lived in south ossetia in 1970.",
+         "910 (0.9 percentages) russians lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "910 (0.9%) jews lived in south ossetia in 1970.",
+         "910 (0.9 percentages) jews lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "28,125 (28.3%) total lived in south ossetia in 1970.",
+         "28,125 (28.3 percentages) total lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "28,125 (28.3%) jews lived in south ossetia in 1970.",
+         "28,125 (28.3 percentages) jews lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "28,125 (28.3%) armenians lived in south ossetia in 1970.",
+         "28,125 (28.3 percentages) armenians lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1,254 (1.3%) jews lived in south ossetia in 1970.",
+         "1,254 (1.3 percentages) jews lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1,254 (1.3%) georgians lived in south ossetia in 1970.",
+         "1,254 (1.3 percentages) georgians lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1,254 (1.3%) total lived in south ossetia in 1970.",
+         "1,254 (1.3 percentages) total lived in south ossetia in 1970."
+      ],
+      "table_id": "9888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of 60,351 (69.1%) 1989 census is 1 .",
+         "the number of 60,351 (69.1 percentages) 1989 census is 1 ."
+      ],
+      "table_id": "9889.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 of the 1926 census 1939 census the 1,979 (1.9%) .",
+         "1 of the 1926 census 1939 census the 1,979 (1.9 percentages) ."
+      ],
+      "table_id": "9889.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 216 (0.2%) 1989 census is 1 .",
+         "the number of 216 (0.2 percentages) 1989 census is 1 ."
+      ],
+      "table_id": "9889.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 of the 1926 census 1939 census the 1,537 (1.4%) .",
+         "1 of the 1926 census 1939 census the 1,537 (1.4 percentages) ."
+      ],
+      "table_id": "9889.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of tallest coalition for the citizen voter turnout 62% is 1 .",
+         "the total number of tallest coalition for the citizen voter turnout 62 percentages is 1 ."
+      ],
+      "table_id": "9891.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "62% is last on the chart .",
+         "62 percentages is last on the chart ."
+      ],
+      "table_id": "9891.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of tallest coalition for the citizen voter turnout 57% is 1 .",
+         "the total number of tallest coalition for the citizen voter turnout 57 percentages is 1 ."
+      ],
+      "table_id": "9891.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only voter turnout that voter turnout over $ 50 is 57% .",
+         "the only voter turnout that voter turnout over $ 50 is 57 percentages ."
+      ],
+      "table_id": "9894.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The difference in votes -lrb- percentage -rrb- between savire hoxhaj and astrit sejdinaj in the fratar municipality was 0.5%.",
+         "The difference in votes -lrb- percentage -rrb- between savire hoxhaj and astrit sejdinaj in the fratar municipality was 0.5 percentages."
+      ],
+      "table_id": "9894.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "700576 completed +1.7% change .",
+         "700576 completed +1.7 percentages change ."
+      ],
+      "table_id": "10069.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total number of international passengers that change +1.7% is 1 .",
+         "the total number of international passengers that change +1.7 percentages is 1 ."
+      ],
+      "table_id": "10069.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "801955 completed +1.7% change .",
+         "801955 completed +1.7 percentages change ."
+      ],
+      "table_id": "10069.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of international passengers that change -18.7% is 1 .",
+         "the total number of international passengers that change -18.7 percentages is 1 ."
+      ],
+      "table_id": "10069.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "+39.1% was the only change year 2011 .",
+         "+39.1 percentages was the only change year 2011 ."
+      ],
+      "table_id": "10071.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "+39.1% was the only change year 2013 .",
+         "+39.1 percentages was the only change year 2013 ."
+      ],
+      "table_id": "10071.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "-18.7% is the change listed last on this chart .",
+         "-18.7 percentages is the change listed last on this chart ."
+      ],
+      "table_id": "10073.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the change +39.1% was 1 times .",
+         "the change +39.1 percentages was 1 times ."
+      ],
+      "table_id": "10073.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the change +10.7% was 1 times .",
+         "the change +10.7 percentages was 1 times ."
+      ],
+      "table_id": "10073.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 change were in the change of +10.7% .",
+         "1 change were in the change of +10.7 percentages ."
+      ],
+      "table_id": "10074.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 change were in the change of -18.7% .",
+         "1 change were in the change of -18.7 percentages ."
+      ],
+      "table_id": "10074.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "5.3% has held the 1941 1 times .",
+         "5.3 percentages has held the 1941 1 times ."
+      ],
+      "table_id": "10137.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1.4% had 1.6% 1941 .",
+         "1.4 percentages had 1.6 percentages 1941 ."
+      ],
+      "table_id": "10137.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total 1890 of 20.3% is 21% .",
+         "the total 1890 of 20.3 percentages is 21 percentages ."
+      ],
+      "table_id": "10137.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1.3% is listed 1 times as the 1880 .",
+         "1.3 percentages is listed 1 times as the 1880 ."
+      ],
+      "table_id": "10137.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1.6% has held the 1941 1 times .",
+         "1.6 percentages has held the 1941 1 times ."
+      ],
+      "table_id": "10137.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0% had 1.6% 1941 .",
+         "0 percentages had 1.6 percentages 1941 ."
+      ],
+      "table_id": "10137.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total 1890 of 0% is 21% .",
+         "the total 1890 of 0 percentages is 21 percentages ."
+      ],
+      "table_id": "10137.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0% is listed 1 times as the 1880 .",
+         "0 percentages is listed 1 times as the 1880 ."
+      ],
+      "table_id": "10137.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1.9% has 2011 3.5 .",
+         "1.9 percentages has 2011 3.5 ."
+      ],
+      "table_id": "10138.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "they played 1 consecutive times in 1.6% .",
+         "they played 1 consecutive times in 1.6 percentages ."
+      ],
+      "table_id": "10138.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "59.8% had the most 1910 .",
+         "59.8 percentages had the most 1910 ."
+      ],
+      "table_id": "10138.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "they played 1 consecutive times in 0% .",
+         "they played 1 consecutive times in 0 percentages ."
+      ],
+      "table_id": "10138.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of 1870 completed 1949 0% is 0 .",
+         "the number of 1870 completed 1949 0 percentages is 0 ."
+      ],
+      "table_id": "10139.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the average amount of 1880 that were 12.6% was 1 .",
+         "the average amount of 1880 that were 12.6 percentages was 1 ."
+      ],
+      "table_id": "10139.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "22.9% 2011 has only 0 1941 .",
+         "22.9 percentages 2011 has only 0 1941 ."
+      ],
+      "table_id": "10139.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 1870 completed 1949 6.4% is 0 .",
+         "the number of 1870 completed 1949 6.4 percentages is 0 ."
+      ],
+      "table_id": "10139.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the average amount of 1880 that were 2.6% was 1 .",
+         "the average amount of 1880 that were 2.6 percentages was 1 ."
+      ],
+      "table_id": "10139.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2.6% was 6456 total .",
+         "2.6 percentages was 6456 total ."
+      ],
+      "table_id": "10306.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 total were hungarians 27.9% .",
+         "1 total were hungarians 27.9 percentages ."
+      ],
+      "table_id": "10306.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 hungarians have 29.7% listed as their hungarians .",
+         "1 hungarians have 29.7 percentages listed as their hungarians ."
+      ],
+      "table_id": "10306.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 total were hungarians 30.2% .",
+         "1 total were hungarians 30.2 percentages ."
+      ],
+      "table_id": "10306.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 hungarians have 12.0% listed as their hungarians .",
+         "1 hungarians have 12.0 percentages listed as their hungarians ."
+      ],
+      "table_id": "10306.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "17.9% is the top hungarians roma .",
+         "17.9 percentages is the top hungarians roma ."
+      ],
+      "table_id": "10307.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 74.4% is 1 .",
+         "the number of 74.4 percentages is 1 ."
+      ],
+      "table_id": "10307.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to the last year on this chart, 70.7% of the population were romanians.",
+         "According to the last year on this chart, 70.7 percentages of the population were romanians."
+      ],
+      "table_id": "10307.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of 78.1% is 1 .",
+         "the number of 78.1 percentages is 1 ."
+      ],
+      "table_id": "10307.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "According to the last year on this chart, 63.0% of the population were romanians.",
+         "According to the last year on this chart, 63.0 percentages of the population were romanians."
+      ],
+      "table_id": "10307.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "According to the last year on this chart, 69.3% of the population were romanians.",
+         "According to the last year on this chart, 69.3 percentages of the population were romanians."
+      ],
+      "table_id": "10307.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the name of the last hungarians on this chart is 11.2% .",
+         "the name of the last hungarians on this chart is 11.2 percentages ."
+      ],
+      "table_id": "10308.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the 6.0% ranked 1 times .",
+         "the 6.0 percentages ranked 1 times ."
+      ],
+      "table_id": "10309.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total of 11.6% was 5,723 .",
+         "the total of 11.6 percentages was 5,723 ."
+      ],
+      "table_id": "10309.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the hungarians was in 31.6% 1 times .",
+         "the hungarians was in 31.6 percentages 1 times ."
+      ],
+      "table_id": "10309.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total of 13.6% was 5,723 .",
+         "the total of 13.6 percentages was 5,723 ."
+      ],
+      "table_id": "10309.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the hungarians was in 30.4% 1 times .",
+         "the hungarians was in 30.4 percentages 1 times ."
+      ],
+      "table_id": "10309.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the last roma to total over 6456 records was 1.7% .",
+         "the last roma to total over 6456 records was 1.7 percentages ."
+      ],
+      "table_id": "10311.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the last roma on this chart is 17.9% .",
+         "the last roma on this chart is 17.9 percentages ."
+      ],
+      "table_id": "10311.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the 13.6% have 2002 year .",
+         "the 13.6 percentages have 2002 year ."
+      ],
+      "table_id": "10311.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the roma of 17.9% and 2.6% combined is 20.5 .",
+         "the roma of 17.9 percentages and 2.6 percentages combined is 20.5 ."
+      ],
+      "table_id": "10313.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "6.0% is the only roma who was 6.0% .",
+         "6.0 percentages is the only roma who was 6.0 percentages ."
+      ],
+      "table_id": "10313.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the roma of 6.5% and 2.6% combined is 20.5 .",
+         "the roma of 6.5 percentages and 2.6 percentages combined is 20.5 ."
+      ],
+      "table_id": "10313.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the roma of 17.9% and 17.9% combined is 20.5 .",
+         "the roma of 17.9 percentages and 17.9 percentages combined is 20.5 ."
+      ],
+      "table_id": "10313.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2.6% is the only roma who was 2.6% .",
+         "2.6 percentages is the only roma who was 2.6 percentages ."
+      ],
+      "table_id": "10313.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the last roma listed is 17.9% .",
+         "the last roma listed is 17.9 percentages ."
+      ],
+      "table_id": "10314.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 of the hungarians were 80.9% .",
+         "1 of the hungarians were 80.9 percentages ."
+      ],
+      "table_id": "10314.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1.7% roma has the largest romanians .",
+         "1.7 percentages roma has the largest romanians ."
+      ],
+      "table_id": "10314.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the only romanians with 78.1% romanians is the 78.1% .",
+         "the only romanians with 78.1 percentages romanians is the 78.1 percentages ."
+      ],
+      "table_id": "10314.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 of the hungarians were 64.6% .",
+         "1 of the hungarians were 64.6 percentages ."
+      ],
+      "table_id": "10314.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only romanians with 74.1% romanians is the 74.1% .",
+         "the only romanians with 74.1 percentages romanians is the 74.1 percentages ."
+      ],
+      "table_id": "10314.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 roma are listed for 1.7% under the roma column .",
+         "1 roma are listed for 1.7 percentages under the roma column ."
+      ],
+      "table_id": "10315.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the last roma on the chart is the 17.9% .",
+         "the last roma on the chart is the 17.9 percentages ."
+      ],
+      "table_id": "10315.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there were 6,649 total by all 74.7% romanians .",
+         "there were 6,649 total by all 74.7 percentages romanians ."
+      ],
+      "table_id": "10315.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 roma are listed for 2.6% under the roma column .",
+         "1 roma are listed for 2.6 percentages under the roma column ."
+      ],
+      "table_id": "10315.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "there were 6,649 total by all 64.6% romanians .",
+         "there were 6,649 total by all 64.6 percentages romanians ."
+      ],
+      "table_id": "10315.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of times 56.6% appears under the mccain% column is 1 .",
+         "the number of times 56.6 percentages appears under the mccain% column is 1 ."
+      ],
+      "table_id": "10359.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of times 69.1% appears under the mccain% column is 1 .",
+         "the number of times 69.1 percentages appears under the mccain% column is 1 ."
+      ],
+      "table_id": "10359.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the only 58.5% mccain# is in 2594",
+         "the only 58.5 percentages mccain# is in 2594"
+      ],
+      "table_id": "10362.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the only 62.3% mccain# is in 2594",
+         "the only 62.3 percentages mccain# is in 2594"
+      ],
+      "table_id": "10362.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the last obama% on the chart is 30.7% .",
+         "the last obama% on the chart is 30.7 percentages ."
+      ],
+      "table_id": "10363.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "54 different mccain% were played after 68.8% .",
+         "54 different mccain% were played after 68.8 percentages ."
+      ],
+      "table_id": "10363.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1417 played obama% 44.3% .",
+         "1417 played obama% 44.3 percentages ."
+      ],
+      "table_id": "10363.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "54 different mccain% were played after 59.9% .",
+         "54 different mccain% were played after 59.9 percentages ."
+      ],
+      "table_id": "10363.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "6932 played obama% 44.3% .",
+         "6932 played obama% 44.3 percentages ."
+      ],
+      "table_id": "10363.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "34.3% is before 51.4% .",
+         "34.3 percentages is before 51.4 percentages ."
+      ],
+      "table_id": "10364.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "34.3% is before 34.8% .",
+         "34.3 percentages is before 34.8 percentages ."
+      ],
+      "table_id": "10364.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the number of total that the 59.6% mccain% had was 8104 .",
+         "the number of total that the 59.6 percentages mccain% had was 8104 ."
+      ],
+      "table_id": "10365.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the number of total that the 61.2% mccain% had was 8104 .",
+         "the number of total that the 61.2 percentages mccain% had was 8104 ."
+      ],
+      "table_id": "10365.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "0.21% is represented 1 consecutive time .",
+         "0.21 percentages is represented 1 consecutive time ."
+      ],
+      "table_id": "10385.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0.36% is represented 1 consecutive time .",
+         "0.36 percentages is represented 1 consecutive time ."
+      ],
+      "table_id": "10385.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "there are 1 7.79% water % population\ndensity\n/km2 (/sq mi) .",
+         "there are 1 7.79% water % population\ndensity\n/km2 (/sq mi) ."
+      ],
+      "table_id": "10387.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "there are 1 1.86% water % population\ndensity\n/km2 (/sq mi) .",
+         "there are 1 1.86% water % population\ndensity\n/km2 (/sq mi) ."
+      ],
+      "table_id": "10387.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "total number of water % other than 0.22% : 15 .",
+         "total number of water % other than 0.22 percentages : 15 ."
+      ],
+      "table_id": "10389.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "total number of water % other than 0.24% : 15 .",
+         "total number of water % other than 0.24 percentages : 15 ."
+      ],
+      "table_id": "10389.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3,831 (0.88%) is the 19301 at the last of the list .",
+         "3,831 (0.88 percentages) is the 19301 at the last of the list ."
+      ],
+      "table_id": "10945.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 are 1992 by the 1,230 (0.12%) .",
+         "1 are 1992 by the 1,230 (0.12 percentages) ."
+      ],
+      "table_id": "10946.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "21,748 (5%) is the 19301 of the encyclical before the encyclical with the 1992 24,185 (2.4%) `` .",
+         "21,748 (5 percentages) is the 19301 of the encyclical before the encyclical with the 1992 24,185 (2.4 percentages) `` ."
+      ],
+      "table_id": "10946.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 1913 are 2002 0.01% .",
+         "1 1913 are 2002 0.01 percentages ."
+      ],
+      "table_id": "10946.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 are 1992 by the 677 (0.07%) .",
+         "1 are 1992 by the 677 (0.07 percentages) ."
+      ],
+      "table_id": "10946.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "21,748 (5%) is the 19301 of the encyclical before the encyclical with the 1992 26,154 (2.6%) `` .",
+         "21,748 (5 percentages) is the 19301 of the encyclical before the encyclical with the 1992 26,154 (2.6 percentages) `` ."
+      ],
+      "table_id": "10946.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 1913 are 2002 0.04% .",
+         "1 1913 are 2002 0.04 percentages ."
+      ],
+      "table_id": "10946.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total amount of percentage percentage 36% is 36 .",
+         "the total amount of percentage percentage 36 percentages is 36 ."
+      ],
+      "table_id": "11071.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "the total amount of percentage percentage 0.08% is 36 .",
+         "the total amount of percentage percentage 0.08 percentages is 36 ."
+      ],
+      "table_id": "11071.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "14.68% is the name of each of 0 's percentage .",
+         "14.68 percentages is the name of each of 0 's percentage ."
+      ],
+      "table_id": "11073.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "14.68% is the name of each of 4 's percentage .",
+         "14.68 percentages is the name of each of 4 's percentage ."
+      ],
+      "table_id": "11073.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 delegates were played percentage the 3.23% .",
+         "1 delegates were played percentage the 3.23 percentages ."
+      ],
+      "table_id": "11075.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 delegates were played percentage the 31.03% .",
+         "1 delegates were played percentage the 31.03 percentages ."
+      ],
+      "table_id": "11075.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 percentage had 8.2% as their percentage .",
+         "1 percentage had 8.2 percentages as their percentage ."
+      ],
+      "table_id": "11262.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "15.2% was the percentage 1 times .",
+         "15.2 percentages was the percentage 1 times ."
+      ],
+      "table_id": "11262.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 percentage had 14.8% as their percentage .",
+         "1 percentage had 14.8 percentages as their percentage ."
+      ],
+      "table_id": "11262.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "14.8% was the percentage 1 times .",
+         "14.8 percentages was the percentage 1 times ."
+      ],
+      "table_id": "11262.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   }
+]

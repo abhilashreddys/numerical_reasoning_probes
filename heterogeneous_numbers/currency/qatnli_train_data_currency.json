@@ -1,0 +1,462 @@
+[
+   {
+      "hypothesis": [
+         "The Dark Knight remarried at least $150,000,000 dollars.",
+         "The Dark Knight remarried at least $$150,000,000 ."
+      ],
+      "table_id": "2045.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "5 players weigh at least 215 pounds.",
+         "5 players weigh at least \u00a3215 ."
+      ],
+      "table_id": "3735.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2 players weigh at least 212 pounds.",
+         "2 players weigh at least \u00a3212 ."
+      ],
+      "table_id": "3735.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The eight players weigh at least 218 pounds.",
+         "The eight players weigh at least \u00a3218 ."
+      ],
+      "table_id": "3735.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "6 players weigh at least 216 pounds.",
+         "6 players weigh at least \u00a3216 ."
+      ],
+      "table_id": "3735.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In 2013, 2 Asian countries received more than 1.5 billion dollars in box office revenue.",
+         "In 2013, 2 Asian countries received more than $1.5 billion in box office revenue."
+      ],
+      "table_id": "3915.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "11 Asian countries received more than 1.5 billion dollars in box office income in 11013.",
+         "11 Asian countries received more than $1.5 billion in box office income in 11013."
+      ],
+      "table_id": "3915.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3 Asian countries in 3013 received over 1.5 billion dollars in box office revenue.",
+         "3 Asian countries in 3013 received over $1.5 billion in box office revenue."
+      ],
+      "table_id": "3915.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "9 Asian countries received over 1.5 billion dollars in box office revenue in 9013.",
+         "9 Asian countries received over $1.5 billion in box office revenue in 9013."
+      ],
+      "table_id": "3915.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Alex Song made 19 million dollars in the same year, but Javier Mascherano was a close second.",
+         "Alex Song made $19 million in the same year, but Javier Mascherano was a close second."
+      ],
+      "table_id": "4591.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "5 Winners won over 150,000 dollars each.",
+         "5 Winners won over $150,000  each."
+      ],
+      "table_id": "5769.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3 winners won more than 130,000 euros.",
+         "3 winners won more than \u20ac130,000 ."
+      ],
+      "table_id": "5769.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "8 countries had at least 1.8 billion dollars in box office.",
+         "8 countries had at least $1.8 billion in box office."
+      ],
+      "table_id": "7103.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Belgian football teams played 14 european club games in the 2007-08 season.",
+         "Belgian football teams played \u20ac14 pean club games in the 2007-08 season."
+      ],
+      "table_id": "7831.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Brandon Pettigrew is over 250 pounds.",
+         "Brandon Pettigrew is over \u00a3250 ."
+      ],
+      "table_id": "9017.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Van Hatchell|D.J. Johnston were names of players who were 6 feet, 4 inches tall, but did not weigh over 200 pounds.",
+         "Van Hatchell|D.J. Johnston were names of players who were 6 feet, 4 inches tall, but did not weigh over \u00a3200 ."
+      ],
+      "table_id": "12224.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Reggie Bullock were names of players who were exactly 6 feet, 4 inches tall but did not weigh over 200 pounds.",
+         "Reggie Bullock were names of players who were exactly 6 feet, 4 inches tall but did not weigh over \u00a3200 ."
+      ],
+      "table_id": "12224.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The names of Larry Drew II* are players whose height was exactly 6 feet, 4 inches, but who did not weigh over 200 pounds.",
+         "The names of Larry Drew II* are players whose height was exactly 6 feet, 4 inches, but who did not weigh over \u00a3200 ."
+      ],
+      "table_id": "12224.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Kendall Marshall were names of players who were exactly 6 feet, 4 inches tall, but did not weight over 200 pounds.",
+         "Kendall Marshall were names of players who were exactly 6 feet, 4 inches tall, but did not weight over \u00a3200 ."
+      ],
+      "table_id": "12224.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "For this competitor, the 1990 european championships and the 1988 olympic games both placed 2nd.",
+         "For this competitor, the \u20ac1990 pean championships and the 1988 olympic games both placed 2nd."
+      ],
+      "table_id": "13918.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 1990 european championships and the 1988 olympic games both resulted in 1st for this competitor.",
+         "The \u20ac1990 pean championships and the 1988 olympic games both resulted in 1st for this competitor."
+      ],
+      "table_id": "13918.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "7 runners in the 2002 european athletics indoor championships completed the men's 3000 metres event in under 8 minutes.",
+         "7 runners in the \u20ac2002 pean athletics indoor championships completed the men's 3000 metres event in under 8 minutes."
+      ],
+      "table_id": "14109.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3 companies have at least 200 billion dollars in gross revenues for oil and gas.",
+         "3 companies have at least $200 billion in gross revenues for oil and gas."
+      ],
+      "table_id": "14844.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The only movie with 48 million dollar budget was Robin Hood: Prince of Thieves.",
+         "The only movie with $48 million budget was Robin Hood: Prince of Thieves."
+      ],
+      "table_id": "14862.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Dead Ringers was the only movie with a budget of 48 million dollars.",
+         "Dead Ringers was the only movie with a budget of $48 million."
+      ],
+      "table_id": "14862.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The only film with a 48 million dollar budget was Juwanna Mann.",
+         "The only film with a $48 million budget was Juwanna Mann."
+      ],
+      "table_id": "14862.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The only movie with a 48 million dollar budget was Man of the Year.",
+         "The only movie with a $48 million budget was Man of the Year."
+      ],
+      "table_id": "14862.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "This team has been part of 10 european cups.",
+         "This team has been part of \u20ac10 pean cups."
+      ],
+      "table_id": "16182.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Maicon was the only player to be transferred for a fee of 24,000,000 dollars.",
+         "Maicon was the only player to be transferred for a fee of $24,000,000 ."
+      ],
+      "table_id": "16434.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Captain America was the first superhero movie to generate more than 300,000,000 dollars.",
+         "Captain America was the first superhero movie to generate more than $300,000,000 ."
+      ],
+      "table_id": "16749.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3) He weighed more than 200 pounds.",
+         "3) He weighed more than \u00a3200 ."
+      ],
+      "table_id": "17982.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ten players weighed more than 200 pounds.",
+         "Ten players weighed more than \u00a3200 ."
+      ],
+      "table_id": "17982.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "8 players weighed over 200 pounds.",
+         "8 players weighed over \u00a3200 ."
+      ],
+      "table_id": "17982.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh over 200 pounds is 7.",
+         "The number of players who weigh over \u00a3200  is 7."
+      ],
+      "table_id": "18249.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of players that weigh over 200 pounds is 4.",
+         "The number of players that weigh over \u00a3200  is 4."
+      ],
+      "table_id": "18249.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh more than 200 pounds is 11.",
+         "The number of players who weigh more than \u00a3200  is 11."
+      ],
+      "table_id": "18249.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh over 200 pounds is 5.",
+         "The number of players who weigh over \u00a3200  is 5."
+      ],
+      "table_id": "18249.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Portugal scored 1 points in the 1994 europeans men's handball championship preliminary round.",
+         "Portugal scored 1 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "18432.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2 countries have a total gdp of 2.2 billion dollars.",
+         "2 countries have a total gdp of $2.2 billion."
+      ],
+      "table_id": "19805.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "10 countries have their gross domestic product as 10.10 billion dollars.",
+         "10 countries have their gross domestic product as $10.10 billion."
+      ],
+      "table_id": "19805.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "6 countries have their total Gdp to be estimated as 6.6 billion dollars.",
+         "6 countries have their total Gdp to be estimated as $6.6 billion."
+      ],
+      "table_id": "19805.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "9 countries have their total gdp as 9.9 billion dollars.",
+         "9 countries have their total gdp as $9.9 billion."
+      ],
+      "table_id": "19805.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The sum of all winnings for the United States is 11 dollars, in gold, silver and bronze.",
+         "The sum of all winnings for the United States is $11 , in gold, silver and bronze."
+      ],
+      "table_id": "19808.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The weekly collections of the king - Cathedral are 66,000 dollars more than most blessed catholic sacraments.",
+         "The weekly collections of the king - Cathedral are $66,000  more than most blessed catholic sacraments."
+      ],
+      "table_id": "20323.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "7 players weigh under 700 pounds.",
+         "7 players weigh under \u00a3700 ."
+      ],
+      "table_id": "21577.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 2009 dollar, half dollar and dollar coins of the United States were issued in the copper composition 91.67% nickel 8.33% for circulation.",
+         "The $2009 , half dollar and dollar coins of the United States were issued in the copper composition 91.67% nickel 8.33% for circulation."
+      ],
+      "table_id": "26034.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   }
+]

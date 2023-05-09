@@ -1,0 +1,1622 @@
+[
+   {
+      "hypothesis": [
+         "The 2011 eurobasket had the most points per game.",
+         "The \u20ac2011 basket had the most points per game."
+      ],
+      "table_id": "284.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "6 went to tournament at 2003 eurobasket .",
+         "6 went to tournament at \u20ac2003 basket ."
+      ],
+      "table_id": "285.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "11 went to tournament at 2003 eurobasket .",
+         "11 went to tournament at \u20ac2003 basket ."
+      ],
+      "table_id": "285.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Trent averaged the least points per game during the 2007 eurobasket.",
+         "Trent averaged the least points per game during the \u20ac2007 basket."
+      ],
+      "table_id": "285.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Trent averaged the least points per game during the 2003 eurobasket.",
+         "Trent averaged the least points per game during the \u20ac2003 basket."
+      ],
+      "table_id": "285.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3.7 was the only rebounds per game to be tournament 2007 eurobasket .",
+         "3.7 was the only rebounds per game to be tournament \u20ac2007 basket ."
+      ],
+      "table_id": "286.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "5.3 was the only rebounds per game to be tournament 2007 eurobasket .",
+         "5.3 was the only rebounds per game to be tournament \u20ac2007 basket ."
+      ],
+      "table_id": "286.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The team scored the most points per game in the 2007 eurobasket.",
+         "The team scored the most points per game in the \u20ac2007 basket."
+      ],
+      "table_id": "286.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The team scored the most points per game in the 2009 eurobasket.",
+         "The team scored the most points per game in the \u20ac2009 basket."
+      ],
+      "table_id": "286.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the combined points per game 2006 fiba world championship and 2003 eurobasket is 14.2 .",
+         "the combined points per game 2006 fiba world championship and \u20ac2003 basket is 14.2 ."
+      ],
+      "table_id": "287.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "5.3 is the only rebounds per game who is not a 2007 eurobasket .",
+         "5.3 is the only rebounds per game who is not a \u20ac2007 basket ."
+      ],
+      "table_id": "288.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2007 eurobasket was 0.6.",
+         "trent's average number of assists per game during the \u20ac2007 basket was 0.6."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2009 eurobasket was 1.1.",
+         "trent's average number of assists per game during the \u20ac2009 basket was 1.1."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2005 eurobasket was 0.6.",
+         "trent's average number of assists per game during the \u20ac2005 basket was 0.6."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2011 eurobasket was 0.8.",
+         "trent's average number of assists per game during the \u20ac2011 basket was 0.8."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2013 eurobasket was 0.2.",
+         "trent's average number of assists per game during the \u20ac2013 basket was 0.2."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2011 eurobasket was 0.5.",
+         "trent's average number of assists per game during the \u20ac2011 basket was 0.5."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2007 eurobasket was 0.5.",
+         "trent's average number of assists per game during the \u20ac2007 basket was 0.5."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2005 eurobasket was 0.5.",
+         "trent's average number of assists per game during the \u20ac2005 basket was 0.5."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2013 eurobasket was 0.6.",
+         "trent's average number of assists per game during the \u20ac2013 basket was 0.6."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2009 eurobasket was 0.6.",
+         "trent's average number of assists per game during the \u20ac2009 basket was 0.6."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2009 eurobasket was 0.8.",
+         "trent's average number of assists per game during the \u20ac2009 basket was 0.8."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2005 eurobasket was 0.8.",
+         "trent's average number of assists per game during the \u20ac2005 basket was 0.8."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2011 eurobasket was 0.2.",
+         "trent's average number of assists per game during the \u20ac2011 basket was 0.2."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2009 eurobasket was 0.2.",
+         "trent's average number of assists per game during the \u20ac2009 basket was 0.2."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2005 eurobasket was 1.5.",
+         "trent's average number of assists per game during the \u20ac2005 basket was 1.5."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2011 eurobasket was 1.5.",
+         "trent's average number of assists per game during the \u20ac2011 basket was 1.5."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "trent's average number of assists per game during the 2009 eurobasket was 1.5.",
+         "trent's average number of assists per game during the \u20ac2009 basket was 1.5."
+      ],
+      "table_id": "289.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "4 players had a transfer fee of at least 8.4 million euros.",
+         "4 players had a transfer fee of at least \u20ac8.4 million."
+      ],
+      "table_id": "467.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "4 players had a transfer fee of at least 8.6 million euros.",
+         "4 players had a transfer fee of at least \u20ac8.6 million."
+      ],
+      "table_id": "467.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "4 players had a transfer fee of at least 6.5 million euros.",
+         "4 players had a transfer fee of at least \u20ac6.5 million."
+      ],
+      "table_id": "467.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "4 players had a transfer fee of at least 16.25 million euros.",
+         "4 players had a transfer fee of at least \u20ac16.25 million."
+      ],
+      "table_id": "467.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "4 players had a transfer fee of at least 11.3 million euros.",
+         "4 players had a transfer fee of at least \u20ac11.3 million."
+      ],
+      "table_id": "467.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "4 players had a transfer fee of at least 8.2 million euros.",
+         "4 players had a transfer fee of at least \u20ac8.2 million."
+      ],
+      "table_id": "467.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "4 players had a transfer fee of at least 13 million euros.",
+         "4 players had a transfer fee of at least \u20ac13 million."
+      ],
+      "table_id": "467.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2004, johnny murtagh did not make more than 50,000 dollars in prize money in 3 races.",
+         "In 2004, johnny murtagh did not make more than $50,000  in prize money in 3 races."
+      ],
+      "table_id": "1285.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2004, johnny murtagh did not make more than 50,000 dollars in prize money in 7 races.",
+         "In 2004, johnny murtagh did not make more than $50,000  in prize money in 7 races."
+      ],
+      "table_id": "1285.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In 2004, johnny murtagh did not make more than 50,000 dollars in prize money in 1 races.",
+         "In 2004, johnny murtagh did not make more than $50,000  in prize money in 1 races."
+      ],
+      "table_id": "1285.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh over 200 pounds is 7.",
+         "The number of players who weigh over \u00a3200  is 7."
+      ],
+      "table_id": "1312.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh over 275 pounds is 7.",
+         "The number of players who weigh over \u00a3275  is 7."
+      ],
+      "table_id": "1312.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh over 245 pounds is 7.",
+         "The number of players who weigh over \u00a3245  is 7."
+      ],
+      "table_id": "1312.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh over 195 pounds is 7.",
+         "The number of players who weigh over \u00a3195  is 7."
+      ],
+      "table_id": "1312.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh over 220 pounds is 7.",
+         "The number of players who weigh over \u00a3220  is 7."
+      ],
+      "table_id": "1312.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh over 250 pounds is 7.",
+         "The number of players who weigh over \u00a3250  is 7."
+      ],
+      "table_id": "1312.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh over 205 pounds is 7.",
+         "The number of players who weigh over \u00a3205  is 7."
+      ],
+      "table_id": "1312.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh over 210 pounds is 7.",
+         "The number of players who weigh over \u00a3210  is 7."
+      ],
+      "table_id": "1312.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh over 190 pounds is 7.",
+         "The number of players who weigh over \u00a3190  is 7."
+      ],
+      "table_id": "1312.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh over 200 pounds is 12.",
+         "The number of players who weigh over \u00a3200  is 12."
+      ],
+      "table_id": "1312.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The number of players who weigh over 200 pounds is 3.",
+         "The number of players who weigh over \u00a3200  is 3."
+      ],
+      "table_id": "1312.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 1990 european championships and the 1988 olympic games both resulted in 6th for this competitor.",
+         "The \u20ac1990 pean championships and the 1988 olympic games both resulted in 6th for this competitor."
+      ],
+      "table_id": "1575.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1986 european championships and the 1988 olympic games both resulted in 4th for this competitor.",
+         "The \u20ac1986 pean championships and the 1988 olympic games both resulted in 4th for this competitor."
+      ],
+      "table_id": "1575.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1982 european championships and the 1988 olympic games both resulted in 1st for this competitor.",
+         "The \u20ac1982 pean championships and the 1988 olympic games both resulted in 1st for this competitor."
+      ],
+      "table_id": "1575.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1987 european championships and the 1988 olympic games both resulted in 4th for this competitor.",
+         "The \u20ac1987 pean championships and the 1988 olympic games both resulted in 4th for this competitor."
+      ],
+      "table_id": "1575.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 1983 european championships and the 1988 olympic games both resulted in 4th for this competitor.",
+         "The \u20ac1983 pean championships and the 1988 olympic games both resulted in 4th for this competitor."
+      ],
+      "table_id": "1575.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 1984 european championships and the 1988 olympic games both resulted in 4th for this competitor.",
+         "The \u20ac1984 pean championships and the 1988 olympic games both resulted in 4th for this competitor."
+      ],
+      "table_id": "1575.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 1986 european championships and the 1988 olympic games both resulted in 1st for this competitor.",
+         "The \u20ac1986 pean championships and the 1988 olympic games both resulted in 1st for this competitor."
+      ],
+      "table_id": "1575.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 1989 european championships and the 1988 olympic games both resulted in 1st for this competitor.",
+         "The \u20ac1989 pean championships and the 1988 olympic games both resulted in 1st for this competitor."
+      ],
+      "table_id": "1575.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 1983 european championships and the 1988 olympic games both resulted in 1st for this competitor.",
+         "The \u20ac1983 pean championships and the 1988 olympic games both resulted in 1st for this competitor."
+      ],
+      "table_id": "1575.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "she finished 0 time above her result from the 0995 european indoor championships.",
+         "she finished 0 time above her result from the \u20ac0995 pean indoor championships."
+      ],
+      "table_id": "1966.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "she finished 0 time above her result from the 0995 european championships.",
+         "she finished 0 time above her result from the \u20ac0995 pean championships."
+      ],
+      "table_id": "1966.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "she finished 1 time above her result from the 1995 european indoor championships.",
+         "she finished 1 time above her result from the \u20ac1995 pean indoor championships."
+      ],
+      "table_id": "1966.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "14 europa league are listed .",
+         "\u20ac14 pa league are listed ."
+      ],
+      "table_id": "4522.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "13 europa league player outside the yordan miliev .",
+         "\u20ac13 pa league player outside the yordan miliev ."
+      ],
+      "table_id": "4523.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "13 europa league player outside the total .",
+         "\u20ac13 pa league player outside the total ."
+      ],
+      "table_id": "4523.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the total number of 2 and 22 europa league is 4 .",
+         "the total number of 2 and \u20ac22 pa league is 4 ."
+      ],
+      "table_id": "4523.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3 players weighed more than 200 pounds.",
+         "3 players weighed more than \u00a3200 ."
+      ],
+      "table_id": "4617.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3 players weighed more than 188 pounds.",
+         "3 players weighed more than \u00a3188 ."
+      ],
+      "table_id": "4617.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3 players weighed more than 190 pounds.",
+         "3 players weighed more than \u00a3190 ."
+      ],
+      "table_id": "4617.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3 players weighed more than 174 pounds.",
+         "3 players weighed more than \u00a3174 ."
+      ],
+      "table_id": "4617.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3 players weighed more than 165 pounds.",
+         "3 players weighed more than \u00a3165 ."
+      ],
+      "table_id": "4617.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3 players weighed more than 212 pounds.",
+         "3 players weighed more than \u00a3212 ."
+      ],
+      "table_id": "4617.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3 players weighed more than 164 pounds.",
+         "3 players weighed more than \u00a3164 ."
+      ],
+      "table_id": "4617.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3 players weighed more than 235 pounds.",
+         "3 players weighed more than \u00a3235 ."
+      ],
+      "table_id": "4617.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "3 players weighed more than 168 pounds.",
+         "3 players weighed more than \u00a3168 ."
+      ],
+      "table_id": "4617.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 players weighed more than 200 pounds.",
+         "1 players weighed more than \u00a3200 ."
+      ],
+      "table_id": "4617.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "2 countries have their total gdp as 2.2 billion dollars.",
+         "2 countries have their total gdp as $2.2 billion."
+      ],
+      "table_id": "4903.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2 countries have their total gdp as 23.7 billion dollars.",
+         "2 countries have their total gdp as $23.7 billion."
+      ],
+      "table_id": "4903.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2 countries have their total gdp as 14.7 billion dollars.",
+         "2 countries have their total gdp as $14.7 billion."
+      ],
+      "table_id": "4903.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2 countries have their total gdp as 7.3 billion dollars.",
+         "2 countries have their total gdp as $7.3 billion."
+      ],
+      "table_id": "4903.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2 countries have their total gdp as 408.2 billion dollars.",
+         "2 countries have their total gdp as $408.2 billion."
+      ],
+      "table_id": "4903.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2 countries have their total gdp as 17.6 billion dollars.",
+         "2 countries have their total gdp as $17.6 billion."
+      ],
+      "table_id": "4903.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2 countries have their total gdp as 188.7 billion dollars.",
+         "2 countries have their total gdp as $188.7 billion."
+      ],
+      "table_id": "4903.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2 countries have their total gdp as 55.1 billion dollars.",
+         "2 countries have their total gdp as $55.1 billion."
+      ],
+      "table_id": "4903.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "0 countries have their total gdp as 0.0 billion dollars.",
+         "0 countries have their total gdp as $0.0 billion."
+      ],
+      "table_id": "4903.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "1 countries have their total gdp as 1.1 billion dollars.",
+         "1 countries have their total gdp as $1.1 billion."
+      ],
+      "table_id": "4903.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the 1990 euro/african zone group i, semifinals was a win.",
+         "the \u20ac1990 /african zone group i, semifinals was a win."
+      ],
+      "table_id": "5133.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the 1990 euro/african zone group i, 1st round was a win.",
+         "the \u20ac1990 /african zone group i, 1st round was a win."
+      ],
+      "table_id": "5133.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "the 1993 euro/african zone group i, relegation play-offs was a win.",
+         "the \u20ac1993 /african zone group i, relegation play-offs was a win."
+      ],
+      "table_id": "5133.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3 spanish runners total placed in the top 10 in the men's 3000 metres event at the 2002 european athletics indoor championships.",
+         "3 spanish runners total placed in the top 10 in the men's 3000 metres event at the \u20ac2002 pean athletics indoor championships."
+      ],
+      "table_id": "6452.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "6 spanish runners total placed in the top 10 in the men's 6000 metres event at the 2002 european athletics indoor championships.",
+         "6 spanish runners total placed in the top 10 in the men's 6000 metres event at the \u20ac2002 pean athletics indoor championships."
+      ],
+      "table_id": "6452.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "5 spanish runners total placed in the top 10 in the men's 5000 metres event at the 2002 european athletics indoor championships.",
+         "5 spanish runners total placed in the top 10 in the men's 5000 metres event at the \u20ac2002 pean athletics indoor championships."
+      ],
+      "table_id": "6452.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Brandon Pettigrew is above 250 pounds.",
+         "Brandon Pettigrew is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "louis delmas is above 250 pounds.",
+         "louis delmas is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "deandre levy is above 250 pounds.",
+         "deandre levy is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "zack follett is above 250 pounds.",
+         "zack follett is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "dan gronkowski is above 250 pounds.",
+         "dan gronkowski is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "aaron brown is above 250 pounds.",
+         "aaron brown is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "lydon murtha is above 250 pounds.",
+         "lydon murtha is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "matthew stafford is above 250 pounds.",
+         "matthew stafford is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "matthew stafford is above 250 pounds.",
+         "matthew stafford is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "lydon murtha is above 250 pounds.",
+         "lydon murtha is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "brandon pettigrew is above 250 pounds.",
+         "brandon pettigrew is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "louis delmas is above 250 pounds.",
+         "louis delmas is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "deandre levy is above 250 pounds.",
+         "deandre levy is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "zack follett is above 250 pounds.",
+         "zack follett is above \u00a3250 ."
+      ],
+      "table_id": "9268.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Portugal scored 0 points in the 1994 europeans men's handball championship preliminary round.",
+         "Portugal scored 0 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "sweden scored 10 points in the 1994 europeans men's handball championship preliminary round.",
+         "sweden scored 10 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "denmark scored 7 points in the 1994 europeans men's handball championship preliminary round.",
+         "denmark scored 7 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "hungary scored 4 points in the 1994 europeans men's handball championship preliminary round.",
+         "hungary scored 4 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "spain scored 6 points in the 1994 europeans men's handball championship preliminary round.",
+         "spain scored 6 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "slovenia scored 3 points in the 1994 europeans men's handball championship preliminary round.",
+         "slovenia scored 3 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Portugal scored 3 points in the 1994 europeans men's handball championship preliminary round.",
+         "Portugal scored 3 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Portugal scored 2 points in the 1994 europeans men's handball championship preliminary round.",
+         "Portugal scored 2 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "hungary scored 0 points in the 1994 europeans men's handball championship preliminary round.",
+         "hungary scored 0 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "spain scored 0 points in the 1994 europeans men's handball championship preliminary round.",
+         "spain scored 0 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "slovenia scored 10 points in the 1994 europeans men's handball championship preliminary round.",
+         "slovenia scored 10 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "hungary scored 10 points in the 1994 europeans men's handball championship preliminary round.",
+         "hungary scored 10 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "portugal scored 10 points in the 1994 europeans men's handball championship preliminary round.",
+         "portugal scored 10 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "slovenia scored 7 points in the 1994 europeans men's handball championship preliminary round.",
+         "slovenia scored 7 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "sweden scored 7 points in the 1994 europeans men's handball championship preliminary round.",
+         "sweden scored 7 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "hungary scored 7 points in the 1994 europeans men's handball championship preliminary round.",
+         "hungary scored 7 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "slovenia scored 4 points in the 1994 europeans men's handball championship preliminary round.",
+         "slovenia scored 4 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "denmark scored 4 points in the 1994 europeans men's handball championship preliminary round.",
+         "denmark scored 4 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "sweden scored 6 points in the 1994 europeans men's handball championship preliminary round.",
+         "sweden scored 6 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "hungary scored 6 points in the 1994 europeans men's handball championship preliminary round.",
+         "hungary scored 6 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "sweden scored 3 points in the 1994 europeans men's handball championship preliminary round.",
+         "sweden scored 3 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "portugal scored 3 points in the 1994 europeans men's handball championship preliminary round.",
+         "portugal scored 3 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "denmark scored 3 points in the 1994 europeans men's handball championship preliminary round.",
+         "denmark scored 3 points in the \u20ac1994 peans men's handball championship preliminary round."
+      ],
+      "table_id": "10114.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Sweden won the 1994 europeans men's handball championship's preliminary round.",
+         "Sweden won the \u20ac1994 peans men's handball championship's preliminary round."
+      ],
+      "table_id": "10116.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "slovenia won the 1994 europeans men's handball championship's preliminary round.",
+         "slovenia won the \u20ac1994 peans men's handball championship's preliminary round."
+      ],
+      "table_id": "10116.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "slovenia won the 1994 europeans men's handball championship's preliminary round.",
+         "slovenia won the \u20ac1994 peans men's handball championship's preliminary round."
+      ],
+      "table_id": "10116.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Brazil received 1,147 dollars per tourist in 2009.",
+         "Brazil received $1,147  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "argentina received 932 dollars per tourist in 2009.",
+         "argentina received $932  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "costa rica received 1005 dollars per tourist in 2009.",
+         "costa rica received $1005  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "mexico received 530 dollars per tourist in 2009.",
+         "mexico received $530  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "panama received 1273 dollars per tourist in 2009.",
+         "panama received $1273  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "peru received 989 dollars per tourist in 2009.",
+         "peru received $989  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "chile received 591 dollars per tourist in 2009.",
+         "chile received $591  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "brazil received 1147 dollars per tourist in 2009.",
+         "brazil received $1147  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "uruguay received 636 dollars per tourist in 2009.",
+         "uruguay received $636  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "costa rica received 932 dollars per tourist in 2009.",
+         "costa rica received $932  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "brazil received 932 dollars per tourist in 2009.",
+         "brazil received $932  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "mexico received 1005 dollars per tourist in 2009.",
+         "mexico received $1005  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "panama received 1005 dollars per tourist in 2009.",
+         "panama received $1005  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "uruguay received 1005 dollars per tourist in 2009.",
+         "uruguay received $1005  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "uruguay received 530 dollars per tourist in 2009.",
+         "uruguay received $530  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "chile received 530 dollars per tourist in 2009.",
+         "chile received $530  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "peru received 530 dollars per tourist in 2009.",
+         "peru received $530  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "peru received 1273 dollars per tourist in 2009.",
+         "peru received $1273  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "uruguay received 1273 dollars per tourist in 2009.",
+         "uruguay received $1273  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "argentina received 1273 dollars per tourist in 2009.",
+         "argentina received $1273  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "argentina received 989 dollars per tourist in 2009.",
+         "argentina received $989  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "uruguay received 989 dollars per tourist in 2009.",
+         "uruguay received $989  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "brazil received 591 dollars per tourist in 2009.",
+         "brazil received $591  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "panama received 591 dollars per tourist in 2009.",
+         "panama received $591  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "uruguay received 591 dollars per tourist in 2009.",
+         "uruguay received $591  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "costa rica received 1147 dollars per tourist in 2009.",
+         "costa rica received $1147  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "peru received 1147 dollars per tourist in 2009.",
+         "peru received $1147  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "panama received 1147 dollars per tourist in 2009.",
+         "panama received $1147  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "chile received 636 dollars per tourist in 2009.",
+         "chile received $636  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "brazil received 636 dollars per tourist in 2009.",
+         "brazil received $636  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "argentina received 636 dollars per tourist in 2009.",
+         "argentina received $636  per tourist in 2009."
+      ],
+      "table_id": "10917.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   }
+]

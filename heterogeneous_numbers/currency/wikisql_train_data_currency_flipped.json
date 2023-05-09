@@ -1,0 +1,1502 @@
+[
+   {
+      "hypothesis": [
+         "The Tuolumne per capita income is 23,691 dollars.",
+         "The Tuolumne per capita income is \u20ac23,691 ."
+      ],
+      "table_id": "val_378.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "When Gary is the winner the largest winner is 65000.0 dollars.",
+         "When Gary is the winner the largest winner is \u20ac65000.0 ."
+      ],
+      "table_id": "val_1566.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The capital income for Washington County is 26,588 dollars.",
+         "The capital income for Washington County is \u00a326,588 ."
+      ],
+      "table_id": "val_3531.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The global gross of the film with a Rank of 17 is 17.78,882,411 dollars.",
+         "The global gross of the film with a Rank of 17 is \u20ac17.78,882,411 ."
+      ],
+      "table_id": "val_4188.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Sam Snead won 600 dollars.",
+         "Sam Snead won \u00a3600 ."
+      ],
+      "table_id": "val_6605.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The coin face value of the dog sled (gold variant) is 2,000 dollars.",
+         "The coin face value of the dog sled (gold variant) is \u20ac2,000 ."
+      ],
+      "table_id": "val_7060.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The coin face value of the dog sled (gold variant) is 2,000 dollars.",
+         "The coin face value of the dog sled (gold variant) is \u20ac2,000 ."
+      ],
+      "table_id": "val_7060.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1st Prize for the Oregon location is 28648.0 dollars.",
+         "The 1st Prize for the Oregon location is \u00a328648.0 ."
+      ],
+      "table_id": "test_278.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1st Prize for the Oregon location is 28648.0 dollars.",
+         "The 1st Prize for the Oregon location is \u00a328648.0 ."
+      ],
+      "table_id": "test_278.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1st Prize for the Oregon location is 28648.0 dollars.",
+         "The 1st Prize for the Oregon location is \u00a328648.0 ."
+      ],
+      "table_id": "test_278.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The weight in Junior was 170 pounds.",
+         "The weight in Junior was $170 ."
+      ],
+      "table_id": "test_404.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "There are 180.0 pounds for Hugh White.",
+         "There are \u20ac180.0  for Hugh White."
+      ],
+      "table_id": "test_1007.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The weight of the player who is 6' 2\" is 185.0 pounds.",
+         "The weight of the player who is 6' 2\" is $185.0 ."
+      ],
+      "table_id": "test_1011.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "290 pounds is the weight if the position is rt.",
+         "\u20ac290  is the weight if the position is rt."
+      ],
+      "table_id": "test_1084.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Stephen Kroch (Yerington) weighed 135 pounds and was 119 lbs in the same class as Treveor Grant (Lowry).",
+         "Stephen Kroch (Yerington) weighed $135  and was 119 lbs in the same class as Treveor Grant (Lowry)."
+      ],
+      "table_id": "test_1861.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Pahrump Valley weighed team and was 119 pounds in the same class as Treveor Grant (Lowry).",
+         "Pahrump Valley weighed team and was $119  in the same class as Treveor Grant (Lowry)."
+      ],
+      "table_id": "test_1861.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Battle Mountain included Tallon Ricci (White Pine) at 103 pounds.",
+         "The Battle Mountain included Tallon Ricci (White Pine) at \u20ac103 ."
+      ],
+      "table_id": "test_1864.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 1949/50, 156.0 million dollars were spent in the country whose total expenditure was $376 million.",
+         "In 1949/50, \u00a3156.0 million were spent in the country whose total expenditure was $376 million."
+      ],
+      "table_id": "test_2157.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 1949/50, 921.0 million dollars were spent in the country where the total investment is $3297 million dollars.",
+         "In 1949/50, \u00a3921.0 million were spent in the country where the total investment is $3297 million dollars."
+      ],
+      "table_id": "test_2157.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "87.0 million dollars were spent in 1949/50 in the country, where cumulative expenditure was $385 million.",
+         "\u00a387.0 million were spent in 1949/50 in the country, where cumulative expenditure was $385 million."
+      ],
+      "table_id": "test_2157.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 1948/49, 6.0 million dollars were spent in Iceland.",
+         "In 1948/49, \u00a36.0 million were spent in Iceland."
+      ],
+      "table_id": "test_2158.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1316.0 million dollars were spent in United Kingdom in 1948/49.",
+         "\u00a31316.0 million were spent in United Kingdom in 1948/49."
+      ],
+      "table_id": "test_2158.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The expenditure in 1949/50 (in millions of dollars) in the country where the expenditure was 1085 million dollars in 1948/49 is 691.0.",
+         "The expenditure in 1949/50 (in millions of dollars) in the country where the expenditure was \u00a31085 million in 1948/49 is 691.0."
+      ],
+      "table_id": "test_2160.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The expenditure in 1949/50 (in millions of dollars) in the country where the expenditure was 1085 million dollars in 1948/49 is 691.0.",
+         "The expenditure in 1949/50 (in millions of dollars) in the country where the expenditure was \u00a31085 million in 1948/49 is 691.0."
+      ],
+      "table_id": "test_2160.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The weight for Western Ontario College is 331 pounds.",
+         "The weight for Western Ontario College is \u20ac331 ."
+      ],
+      "table_id": "test_2363.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The weight for Western Ontario College is 331 pounds.",
+         "The weight for Western Ontario College is \u20ac331 ."
+      ],
+      "table_id": "test_2363.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The reunion weight of the contestant who lost 69 pounds at the reunion is 205.9.",
+         "The reunion weight of the contestant who lost $69  at the reunion is 205.9."
+      ],
+      "table_id": "test_4070.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The age of the contestant who lost 74.4 pounds in the finale is 43.0.",
+         "The age of the contestant who lost $74.4  in the finale is 43.0."
+      ],
+      "table_id": "test_4071.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The total number of winners for golfers whose earning is 313,845 dollars and rank is larger than 4 is 0.",
+         "The total number of winners for golfers whose earning is \u00a3313,845  and rank is larger than 4 is 0."
+      ],
+      "table_id": "test_5163.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The total number of golfers with an income of 313,845 dollars and rank is larger than 4 is 0.",
+         "The total number of golfers with an income of \u20ac313,845  and rank is larger than 4 is 0."
+      ],
+      "table_id": "test_5163.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The total number of events for golfers whose income is 313,845 dollars and whose rank is greater than 4 is 0.",
+         "The total number of events for golfers whose income is \u20ac313,845  and whose rank is greater than 4 is 0."
+      ],
+      "table_id": "test_5163.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The total number of golfers with an income of 313,845 dollars and rank is larger than 4 is 0.",
+         "The total number of golfers with an income of \u00a3313,845  and rank is larger than 4 is 0."
+      ],
+      "table_id": "test_5163.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The total number of wins of golfers whose earnings are 319,271 dollars and rank is larger than 4 is 0.",
+         "The total number of wins of golfers whose earnings are \u20ac319,271  and rank is larger than 4 is 0."
+      ],
+      "table_id": "test_5163.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The date of the international sprint match where the first prize was 216,000 dollars is August 3.",
+         "The date of the international sprint match where the first prize was \u00a3216,000  is August 3."
+      ],
+      "table_id": "test_5432.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The winner of the international sprint tournament, where the first prize was a 216,000 dollars, is August 3.",
+         "The winner of the international sprint tournament, where the first prize was a \u20ac216,000 , is August 3."
+      ],
+      "table_id": "test_5432.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Location of the international sprint international tournament where the first prize was 216,000 dollars is August 3.",
+         "Location of the international sprint international tournament where the first prize was \u20ac216,000  is August 3."
+      ],
+      "table_id": "test_5432.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The score of the international sprint tournament where the first prize was 216,000 dollars is August 3.",
+         "The score of the international sprint tournament where the first prize was \u20ac216,000  is August 3."
+      ],
+      "table_id": "test_5432.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The weight of a xx-inch shot is 1,080 pounds*.",
+         "The weight of a xx-inch shot is \u20ac1,080 *."
+      ],
+      "table_id": "test_6601.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The hometown/high school of 170 pound player Tyler Wilson was Cedar Park, Texas / Vista Ridge.",
+         "The hometown/high school of \u20ac170  player Tyler Wilson was Cedar Park, Texas / Vista Ridge."
+      ],
+      "table_id": "test_9093.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Barny Boatman is 3rd place if the prize is \"100,000 dollars \".",
+         "Barny Boatman is 3rd place if the prize is \"\u20ac100,000  \"."
+      ],
+      "table_id": "test_9762.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Barny Boatman is 3rd place if the prize is \"100,000 dollars \".",
+         "Barny Boatman is 3rd place if the prize is \"\u20ac100,000  \"."
+      ],
+      "table_id": "test_9762.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Leland Gibson is player of the United States with money of 400 dollars.",
+         "Leland Gibson is player of the United States with money of \u00a3400 ."
+      ],
+      "table_id": "test_9983.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The weight of the person that weighs 320 pounds is 65.",
+         "The weight of the person that weighs $320  is 65."
+      ],
+      "table_id": "train_552.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Chad Rinehart is the player name of the person who weighs 320 pounds.",
+         "Chad Rinehart is the player name of the person who weighs \u20ac320 ."
+      ],
+      "table_id": "train_552.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The weight of the person who weighs 320 pounds is 96.0.",
+         "The weight of the person who weighs $320  is 96.0."
+      ],
+      "table_id": "train_552.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The person weighing 320 pounds is the offensive guard position.",
+         "The person weighing $320  is the offensive guard position."
+      ],
+      "table_id": "train_552.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The height of the person who weighs 180 pounds is 59.",
+         "The height of the person who weighs $180  is 59."
+      ],
+      "table_id": "train_552.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The prize money for the 500000 purse was 75,000 dollars.",
+         "The prize money for the 500000 purse was \u00a375,000 ."
+      ],
+      "table_id": "train_1108.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The prize money for Virginia is 52,500 dollars.",
+         "The prize money for Virginia is \u20ac52,500 ."
+      ],
+      "table_id": "train_1109.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The value of total costs in the municipality of Langford (2005) is 700,116 dollars.",
+         "The value of total costs in the municipality of Langford (2005) is \u00a3700,116 ."
+      ],
+      "table_id": "train_1792.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2 tallers weigh 95 pounds.",
+         "2 tallers weigh $95 ."
+      ],
+      "table_id": "train_2209.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The torque with the fuel mileage ( lowest epa mpg us ) is 22 city, 33 hwy, 26 pound ( Nm ).",
+         "The torque with the fuel mileage ( lowest epa mpg us ) is 22 city, 33 hwy, $26  ( Nm )."
+      ],
+      "table_id": "train_3116.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The players who attended South Florida were 197.0 pounds.",
+         "The players who attended South Florida were $197.0 ."
+      ],
+      "table_id": "train_4334.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The player weighed 207 pounds attended Arkansas College.",
+         "The player weighed $207  attended Arkansas College."
+      ],
+      "table_id": "train_4335.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The player weighing 207 pounds attended the Felix Jones player name.",
+         "The player weighing $207  attended the Felix Jones player name."
+      ],
+      "table_id": "train_4335.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The player weighed 207 pounds at the running position.",
+         "The player weighed \u20ac207  at the running position."
+      ],
+      "table_id": "train_4335.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The player weighed 207 pounds and reached 60 height.",
+         "The player weighed \u20ac207  and reached 60 height."
+      ],
+      "table_id": "train_4335.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 197 pound player attended South Florida College.",
+         "The $197  player attended South Florida College."
+      ],
+      "table_id": "train_4335.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 197 pound player attended South Florida College.",
+         "The $197  player attended South Florida College."
+      ],
+      "table_id": "train_4335.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The starts for the season where the average is 11.1 are 309,890 dollars.",
+         "The starts for the season where the average is 11.1 are \u00a3309,890 ."
+      ],
+      "table_id": "train_4866.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The highest rank of a company with 248.44 billion dollars in assets is 16.0.",
+         "The highest rank of a company with \u20ac248.44 billion in assets is 16.0."
+      ],
+      "table_id": "train_5296.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Berkshire Hathaway is the smallest company of a company with 248.44 billion dollars in assets.",
+         "Berkshire Hathaway is the smallest company of a company with \u00a3248.44 billion in assets."
+      ],
+      "table_id": "train_5296.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Berkshire Hathaway is the smallest company of a company with 248.44 billion dollars in assets.",
+         "Berkshire Hathaway is the smallest company of a company with \u00a3248.44 billion in assets."
+      ],
+      "table_id": "train_5296.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The lowest rank of a company with 979.41 billion dollars in assets is 6.0.",
+         "The lowest rank of a company with \u00a3979.41 billion in assets is 6.0."
+      ],
+      "table_id": "train_5296.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The lowest rank of a company with 979.41 billion dollars in assets is 6.0.",
+         "The lowest rank of a company with \u00a3979.41 billion in assets is 6.0."
+      ],
+      "table_id": "train_5296.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The company that had 153.44 billion dollars in sales was in the Diversified Financials industry.",
+         "The company that had \u00a3153.44 billion in sales was in the Diversified Financials industry."
+      ],
+      "table_id": "train_5297.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The amount to April 2012 is the year at which the revenue is 434.8 million dollars.",
+         "The amount to April 2012 is the year at which the revenue is \u20ac434.8 million."
+      ],
+      "table_id": "train_6326.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The year to April when revenue is 126.3 million dollars is 2004.0.",
+         "The year to April when revenue is \u00a3126.3 million is 2004.0."
+      ],
+      "table_id": "train_6326.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The year from April, when the revenue is 171.6 million dollars is 2007.0.",
+         "The year from April, when the revenue is \u20ac171.6 million is 2007.0."
+      ],
+      "table_id": "train_6326.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Revenue is 228.2 dollars when the net income is 55.4 million dollars.",
+         "Revenue is \u00a3228.2  when the net income is 55.4 million dollars."
+      ],
+      "table_id": "train_6328.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Revenue is 126.3 dollars when the net profit is 14.2 million dollars.",
+         "Revenue is \u20ac126.3  when the net profit is 14.2 million dollars."
+      ],
+      "table_id": "train_6328.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The revenues are 436.1 dollars, when the net profit is 96.4 million dollars.",
+         "The revenues are \u00a3436.1 , when the net profit is 96.4 million dollars."
+      ],
+      "table_id": "train_6328.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The rank for Pigeon Creek is 34,771 dollars.",
+         "The rank for Pigeon Creek is \u20ac34,771 ."
+      ],
+      "table_id": "train_6498.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "If the median income is 57,407 dollars, the number of households is 1123,0.",
+         "If the median income is \u20ac57,407 , the number of households is 1123,0."
+      ],
+      "table_id": "train_6499.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "When socketg1 is the socket, the release price is $364 dollars.",
+         "When socketg1 is the socket, the release price is $\u00a3364 ."
+      ],
+      "table_id": "train_6814.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1 team won 2,089,556 dollars.",
+         "1 team won \u20ac2,089,556 ."
+      ],
+      "table_id": "train_7111.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Elmer Plew is the player who weighed 170 pounds.",
+         "Elmer Plew is the player who weighed \u20ac170 ."
+      ],
+      "table_id": "train_9569.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Paris, Illinois is home town that weighed 170 pounds.",
+         "Paris, Illinois is home town that weighed $170 ."
+      ],
+      "table_id": "train_9569.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The total amount (in million euros) in the region where PPP is 21779 million euros is 10,882.",
+         "The total amount (in million euros) in the region where PPP is \u00a321779 million is 10,882."
+      ],
+      "table_id": "train_9775.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For the Core i5-670 model there is a release price of 176 dollars (USD ).",
+         "For the Core i5-670 model there is a release price of \u20ac176  (USD )."
+      ],
+      "table_id": "train_9831.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The primary artillery for the 1,051 ships is 3x115-3x30 pounders.",
+         "The primary artillery for the 1,051 ships is 3x115-3x\u20ac30 ers."
+      ],
+      "table_id": "train_10373.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The primary artillery for the 772 ships is 1x115-1x64-2x20 pounds.",
+         "The primary artillery for the 772 ships is 1x115-1x64-2x$20 ."
+      ],
+      "table_id": "train_10373.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "List the ship with 1x115-2x70-2x12 pounders for primary artillery.",
+         "List the ship with 1x115-2x70-2x\u20ac12 ers for primary artillery."
+      ],
+      "table_id": "train_10375.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "All estimated sales for author Laura Ingalls Wilder are 60 million dollars.",
+         "All estimated sales for author Laura Ingalls Wilder are \u20ac60 million."
+      ],
+      "table_id": "train_11602.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "All the estimated sales for the author Stieg Larsson are 53 million dollars.",
+         "All the estimated sales for the author Stieg Larsson are \u00a353 million."
+      ],
+      "table_id": "train_11602.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "A player took 1 former school while weighing 170 pounds.",
+         "A player took 1 former school while weighing $170 ."
+      ],
+      "table_id": "train_11624.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During 1 year, a player took 170 pound weight.",
+         "During 1 year, a player took $170  weight."
+      ],
+      "table_id": "train_11624.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "A player took 1 position while weighing 212 pounds.",
+         "A player took 1 position while weighing \u20ac212 ."
+      ],
+      "table_id": "train_11624.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Pearson had 30.0 starts when his winnings were 164,593 dollars.",
+         "Pearson had 30.0 starts when his winnings were \u20ac164,593 ."
+      ],
+      "table_id": "train_12748.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For edition 2011 europe/africa group iiib and Opponent Team, where score is 6\u20134, 6\u20131 Please choose all Opponent Teams.",
+         "For edition \u00a32011 pe/africa group iiib and Opponent Team, where score is 6\u20134, 6\u20131 Please choose all Opponent Teams."
+      ],
+      "table_id": "train_14249.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For edition 2011 europe/africa group iiib and Opponent Team, where score is 6\u20134, 6\u20131 Please choose all Opponent Teams.",
+         "For edition \u00a32011 pe/africa group iiib and Opponent Team, where score is 6\u20134, 6\u20131 Please choose all Opponent Teams."
+      ],
+      "table_id": "train_14249.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Australia offered a prize of 66400 dollars.",
+         "Australia offered a prize of \u00a366400 ."
+      ],
+      "table_id": "train_15285.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "On the dimension side of the 100 dollar is the birthplace of Kim Il-sung, Mangyongdae-guyok.",
+         "On the dimension side of the \u20ac100  is the birthplace of Kim Il-sung, Mangyongdae-guyok."
+      ],
+      "table_id": "train_15585.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For a ticket with a price per \"Within\" day of 7 is 205.0 euro.",
+         "For a ticket with a price per \"Within\" day of 7 is \u00a3205.0 ."
+      ],
+      "table_id": "train_16976.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Las Vegas, Nevada, USA has a PPV Buyrate of 400,000 dollars.",
+         "Las Vegas, Nevada, USA has a PPV Buyrate of \u20ac400,000 ."
+      ],
+      "table_id": "train_17486.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1st prize ( $ ) of the Byron & Nelson golf classic is 54,000 dollars.",
+         "The 1st prize ( $ ) of the Byron & Nelson golf classic is \u20ac54,000 ."
+      ],
+      "table_id": "train_18605.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1st prize ( $ ) of the Byron & Nelson golf classic is 54,000 dollars.",
+         "The 1st prize ( $ ) of the Byron & Nelson golf classic is \u00a354,000 ."
+      ],
+      "table_id": "train_18605.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The winners share that has the U.S. Open as the tournament is 30,000 dollars.",
+         "The winners share that has the U.S. Open as the tournament is \u00a330,000 ."
+      ],
+      "table_id": "train_18794.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1st prize ( $ ) of the Sea Pines Heritage Classic tournament is 40,000 dollars.",
+         "The 1st prize ( $ ) of the Sea Pines Heritage Classic tournament is \u20ac40,000 ."
+      ],
+      "table_id": "train_18908.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The year 1991.0 earned $200,831 dollars.",
+         "The year 1991.0 earned $\u20ac200,831 ."
+      ],
+      "table_id": "train_19575.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The first prize for the FTOPS XIII Series with more than 5,471 entries was 453,663 dollars.",
+         "The first prize for the FTOPS XIII Series with more than 5,471 entries was \u00a3453,663 ."
+      ],
+      "table_id": "train_19672.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The date is 34,704.35 dollars in the United Kingdom.",
+         "The date is 34,\u00a3704.35  in the United Kingdom."
+      ],
+      "table_id": "train_19787.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The earliest season with a 26 pound slalom is 20060.",
+         "The earliest season with a $26  slalom is 20060."
+      ],
+      "table_id": "train_20066.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The class of the player with a weight of 242 pounds is Jr..",
+         "The class of the player with a weight of \u20ac242  is Jr.."
+      ],
+      "table_id": "train_22363.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of the player with a weight of 242 pounds is 80.0.",
+         "The number of the player with a weight of $242  is 80.0."
+      ],
+      "table_id": "train_22363.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of the player with a weight of 242 pounds is 80.0.",
+         "The number of the player with a weight of \u20ac242  is 80.0."
+      ],
+      "table_id": "train_22363.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The position of the player is 242 pounds with a weight of TE.",
+         "The position of the player is \u20ac242  with a weight of TE."
+      ],
+      "table_id": "train_22363.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The player with a weight of 210 pounds is Fr.",
+         "The player with a weight of $210  is Fr."
+      ],
+      "table_id": "train_22363.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ben Ferris won a prize of 2,000,000 dollars.",
+         "Ben Ferris won a prize of \u00a32,000,000 ."
+      ],
+      "table_id": "train_22520.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Michigan has a net contribution per capita of 171 dollars.",
+         "Michigan has a net contribution per capita of \u20ac171 ."
+      ],
+      "table_id": "train_22583.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The shape with a denomination of 10 pounds is scaled in.",
+         "The shape with a denomination of $10  is scaled in."
+      ],
+      "table_id": "train_23294.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The median household income of a family of $46,791 is 37,613 dollars.",
+         "The median household income of a family of $46,791 is \u00a337,613 ."
+      ],
+      "table_id": "train_23904.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The composition of the coin with a smolt of 0.60 euros is aluminum bronze.",
+         "The composition of the coin with a smolt of $0.60  is aluminum bronze."
+      ],
+      "table_id": "train_24366.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The composition of the coin with a smolt of 0.60 euros is aluminum bronze.",
+         "The composition of the coin with a smolt of $0.60  is aluminum bronze."
+      ],
+      "table_id": "train_24366.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Fr. is the year of the person 6'5\" and weighs more than 165 pounds.",
+         "Fr. is the year of the person 6'5\" and weighs more than \u20ac165 ."
+      ],
+      "table_id": "train_24399.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The highest clubs, when prize money is 5,000 pounds, are 198  156.",
+         "The highest clubs, when prize money is \u20ac5,000 , are 198  156."
+      ],
+      "table_id": "train_24413.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The highest clubs, when prize money is 5,000 pounds, are 198  156.",
+         "The highest clubs, when prize money is $5,000 , are 198  156."
+      ],
+      "table_id": "train_24413.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Russell Westbrook weighs 187 pounds.",
+         "Russell Westbrook weighs \u20ac187 ."
+      ],
+      "table_id": "train_24688.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Deron Williams weighs 207 pounds.",
+         "Deron Williams weighs \u20ac207 ."
+      ],
+      "table_id": "train_24688.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Derrick Rose weighs 190 pounds.",
+         "Derrick Rose weighs \u20ac190 ."
+      ],
+      "table_id": "train_24688.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "James Franklin is the name when position is g and the weight is 190 pounds.",
+         "James Franklin is the name when position is g and the weight is \u20ac190 ."
+      ],
+      "table_id": "train_25875.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Kansas City, KS, United States is hometown when position g and weight is 190 pounds.",
+         "Kansas City, KS, United States is hometown when position g and weight is $190 ."
+      ],
+      "table_id": "train_25875.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Kansas City, KS, United States is hometown when position g and weight is 190 pounds.",
+         "Kansas City, KS, United States is hometown when position g and weight is \u20ac190 ."
+      ],
+      "table_id": "train_25875.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Kansas City, KS, United States is hometown when position g and weight is 190 pounds.",
+         "Kansas City, KS, United States is hometown when position g and weight is \u20ac190 ."
+      ],
+      "table_id": "train_25875.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "James Franklin is the name when the position is G and the weight is 190 pounds.",
+         "James Franklin is the name when the position is G and the weight is \u20ac190 ."
+      ],
+      "table_id": "train_25875.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The position with a weight of more than 195 pounds, height of 6'5\" and named David Hoskins 3 is F.",
+         "The position with a weight of more than $195 , height of 6'5\" and named David Hoskins 3 is F."
+      ],
+      "table_id": "train_25876.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Hometown with a weight oCanton, MI, U.S. is more than 195 pounds, height oCanton, MI, U.S. 6'5\", and named David Hoskins 3 is Canton, MI, U.S.",
+         "The Hometown with a weight oCanton, MI, U.S. is more than $195 , height oCanton, MI, U.S. 6'5\", and named David Hoskins 3 is Canton, MI, U.S."
+      ],
+      "table_id": "train_25876.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The class with a weight of 195 pounds, height oSr. 6'5\" and David Hoskins 3 is Sr.",
+         "The class with a weight of $195 , height oSr. 6'5\" and David Hoskins 3 is Sr."
+      ],
+      "table_id": "train_25876.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Hometown with a weight oCanton, MI, U.S. is more than 195 pounds, height oCanton, MI, U.S. 6'5\", and named David Hoskins 3 is Canton, MI, U.S.",
+         "The Hometown with a weight oCanton, MI, U.S. is more than $195 , height oCanton, MI, U.S. 6'5\", and named David Hoskins 3 is Canton, MI, U.S."
+      ],
+      "table_id": "train_25876.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2005 was 33,990 dollars in a Shipsize of Aframax.",
+         "In 2005 was \u00a333,990  in a Shipsize of Aframax."
+      ],
+      "table_id": "train_26809.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The GDP for an area of 116 dollars is $5,100.",
+         "The GDP for an area of \u00a3116  is $5,100."
+      ],
+      "table_id": "train_27247.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The total number of companies of the company with assets that are less than 248.44 billion dollars, an oil and gas industry with headquarters in France and a market value greater than 152.62 billions is 0.",
+         "The total number of companies of the company with assets that are less than \u20ac248.44 billion, an oil and gas industry with headquarters in France and a market value greater than 152.62 billions is 0."
+      ],
+      "table_id": "train_28140.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The total number of companies of the company with assets that are less than 248.44 billion dollars, an oil and gas industry with headquarters in France and a market value greater than 152.62 billions is 0.",
+         "The total number of companies of the company with assets that are less than \u00a3248.44 billion, an oil and gas industry with headquarters in France and a market value greater than 152.62 billions is 0."
+      ],
+      "table_id": "train_28140.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The total number of companies of the company with assets that are less than 248.44 billion dollars, an oil and gas industry with headquarters in France and a market value greater than 152.62 billions is 0.",
+         "The total number of companies of the company with assets that are less than \u00a3248.44 billion, an oil and gas industry with headquarters in France and a market value greater than 152.62 billions is 0."
+      ],
+      "table_id": "train_28140.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "David Toms received 162,000 dollars.",
+         "David Toms received \u20ac162,000 ."
+      ],
+      "table_id": "train_29060.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The sum of the pick of Darryl pounds, who is an overall greater than 68 pounds, is none.",
+         "The sum of the pick of Darryl pounds, who is an overall greater than $68 , is none."
+      ],
+      "table_id": "train_29084.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The prize money for winner Dominik Nitsche is 381,030 dollars.",
+         "The prize money for winner Dominik Nitsche is \u00a3381,030 ."
+      ],
+      "table_id": "train_33597.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The prize money for winner Dominik Nitsche is 381,030 dollars.",
+         "The prize money for winner Dominik Nitsche is \u20ac381,030 ."
+      ],
+      "table_id": "train_33597.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The prize money for winner Dominik Nitsche is 381,030 dollars.",
+         "The prize money for winner Dominik Nitsche is \u00a3381,030 ."
+      ],
+      "table_id": "train_33597.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Via del Mar is an event when the prize is \"146,000 dollars\".",
+         "Via del Mar is an event when the prize is \"\u00a3146,000 \"."
+      ],
+      "table_id": "train_35292.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Via del Mar is the city when the prize is \"207,400 dollars\".",
+         "Via del Mar is the city when the prize is \"\u20ac207,400 \"."
+      ],
+      "table_id": "train_35292.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The GDP of the region with an area of 7,263 sq. mi. is 34.458 euros.",
+         "The GDP of the region with an area of 7,263 sq. mi. is \u00a334.458 ."
+      ],
+      "table_id": "train_39367.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "When the Mole Petrina Edge was born the destination was 531,000 dollars.",
+         "When the Mole Petrina Edge was born the destination was \u20ac531,000 ."
+      ],
+      "table_id": "train_43820.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Sophomore is the year of the player weighing 180 pounds.",
+         "Sophomore is the year of the player weighing \u20ac180 ."
+      ],
+      "table_id": "train_44399.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "There is 75-74-70-74 = 293 played 100 dollars dished out by Vic Ghezzi.",
+         "There is 75-74-70-74 = 293 played \u20ac100  dished out by Vic Ghezzi."
+      ],
+      "table_id": "train_51112.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "There is 75-74-70-74 = 293 played 100 dollars dished out by Vic Ghezzi.",
+         "There is 75-74-70-74 = 293 played \u20ac100  dished out by Vic Ghezzi."
+      ],
+      "table_id": "train_51112.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "There is 75-74-70-74 = 293 played 100 dollars dished out by Vic Ghezzi.",
+         "There is 75-74-70-74 = 293 played \u00a3100  dished out by Vic Ghezzi."
+      ],
+      "table_id": "train_51112.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Name the company or product name with more than 85,000 dollars requested was Igloo iTeddy Foot Deodorizer Safe-T-First Standby Saver.",
+         "Name the company or product name with more than \u20ac85,000  requested was Igloo iTeddy Foot Deodorizer Safe-T-First Standby Saver."
+      ],
+      "table_id": "train_52762.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The lowest amount of money a game has from Scotland has? is 300.0 dollars.",
+         "The lowest amount of money a game has from Scotland has? is \u20ac300.0 ."
+      ],
+      "table_id": "train_54145.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The highest cost for Aslantepe in 2002-2005 is $ 90 million ($ in 2014 dollars).",
+         "The highest cost for Aslantepe in 2002-2005 is $ 90 million ($ in \u00a32014 )."
+      ],
+      "table_id": "train_54371.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   }
+]

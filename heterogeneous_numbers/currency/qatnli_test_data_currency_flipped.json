@@ -1,0 +1,32 @@
+[
+   {
+      "hypothesis": [
+         "3 films have been around 2.5 million dollars, but are less than 3.5 million dollars.",
+         "3 films have been around \u20ac2.5 million, but are less than 3.5 million dollars."
+      ],
+      "table_id": "19230.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Johnny Murtagh did not win a more than 50,000 dollars in prize money in 2003 in 3 races.",
+         "Johnny Murtagh did not win a more than \u20ac50,000  in prize money in 2003 in 3 races."
+      ],
+      "table_id": "20940.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "President had a broadside of 816 pounds and Endymion had a crew of 346 and a broadside of 641 pounds.",
+         "President had a broadside of \u20ac816  and Endymion had a crew of 346 and a broadside of 641 pounds."
+      ],
+      "table_id": "22271.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   }
+]

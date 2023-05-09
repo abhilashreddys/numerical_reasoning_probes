@@ -1,0 +1,3782 @@
+[
+   {
+      "hypothesis": [
+         "The other, Animist, experienced growth of over 100% from 1991-2001.",
+         "The other, Animist, experienced growth of over 105 percentages from 1991-2001."
+      ],
+      "table_id": "1495.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "List the year in which there was a 23 seat reduction and 33.6% vote reduction.",
+         "List the year in which there was a 23 seat reduction and 31 percentages vote reduction."
+      ],
+      "table_id": "2942.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The only film to achieve 88% from rotten tomatoes was The Five Obstructions.",
+         "The only film to achieve 94 percentages from rotten tomatoes was The Five Obstructions."
+      ],
+      "table_id": "4819.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "This was the first year to see a 20% increase in passengers.",
+         "This was the first year to see a 19 percentages increase in passengers."
+      ],
+      "table_id": "6986.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The only species with 99% sequence identity are Pan troglodytes|Nomascus leucogenies.",
+         "The only species with 100 percentages sequence identity are Pan troglodytes|Nomascus leucogenies."
+      ],
+      "table_id": "8014.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "At least 50% of the population is protestant, starting from 60 to 64 years old.",
+         "At least 54 percentages of the population is protestant, starting from 60 to 64 years old."
+      ],
+      "table_id": "8186.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "8 had voter turnouts in excess of 50%.",
+         "8 had voter turnouts in excess of 50 percentages."
+      ],
+      "table_id": "9282.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of hungarians in 1850 is 23.9%.",
+         "The number of hungarians in 1850 is 23.9 percentages."
+      ],
+      "table_id": "11592.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The difference in percentage between korean buddists and german buddists is 11.36%.",
+         "The difference in percentage between korean buddists and german buddists is 11.36 percentages."
+      ],
+      "table_id": "12897.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to the year that was recorded on the chart, 70.7% of the population were romanians.",
+         "According to the year that was recorded on the chart, 75 percentages of the population were romanians."
+      ],
+      "table_id": "13003.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "William F. Kopp is the only winner who had 100% of the votes.",
+         "William F. Kopp is the only winner who had 99 percentages of the votes."
+      ],
+      "table_id": "14282.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Other than the 10th episode, Ep. 8 has a rating of 14%.",
+         "Other than the 10th episode, Ep. 8 has a rating of 14 percentages."
+      ],
+      "table_id": "15284.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The number of oppositions against which the Chandigarh comets are 100% winning rate is 2.",
+         "The number of oppositions against which the Chandigarh comets are 101 percentages winning rate is 2."
+      ],
+      "table_id": "15691.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Name a city that does not have korean-american at least 12% of its population.",
+         "Name a city that does not have korean-american at least 12 percentages of its population."
+      ],
+      "table_id": "16373.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1977 is the year that is preceding the year that 74.1% had in the romanian population.",
+         "1977 is the year that is preceding the year that 67 percentages had in the romanian population."
+      ],
+      "table_id": "17193.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 4 years, the listed party had at least 10.0% of the vote share.",
+         "In 4 years, the listed party had at least 9 percentages of the vote share."
+      ],
+      "table_id": "17774.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "7 episodes had a continuous score of over 11%.",
+         "7 episodes had a continuous score of over 11 percentages."
+      ],
+      "table_id": "19462.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For Seymour, San Francisco had 15.79%.",
+         "For Seymour, San Francisco had 15.79 percentages."
+      ],
+      "table_id": "20246.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Pan troglodytes|Nomascus leucogenys|Mus musculus|Bos Taurus|Sorex araneus|Gallus gallus|Meleagris gallopavo|Taeniopygia guttata have at least 87% of sequence identity.",
+         "Pan troglodytes|Nomascus leucogenys|Mus musculus|Bos Taurus|Sorex araneus|Gallus gallus|Meleagris gallopavo|Taeniopygia guttata have at least 84 percentages of sequence identity."
+      ],
+      "table_id": "20961.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Macedonian independence referendum was approved by 96.4% of votes, with a turnout of 75.7%.",
+         "Macedonian independence referendum was approved by 104 percentages of votes, with a turnout of 75.7 percentages."
+      ],
+      "table_id": "24031.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For students entering University of Oregon 2014, 15,997 freshmen were accepted out of 21,359 applicants, a 74.9% acceptance rate, and 3,961 enrolled.",
+         "For students entering University of Oregon 2014, 15,997 freshmen were accepted out of 21,359 applicants, a 77 percentages acceptance rate, and 3,961 enrolled."
+      ],
+      "table_id": "24032.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In Aosta Valley the Democratic Party was endorsed with 47.1% of the vote, followed by the Five Star Movement, second at 19.6%.",
+         "In Aosta Valley the Democratic Party was endorsed with 48 percentages of the vote, followed by the Five Star Movement, second at 19.6 percentages."
+      ],
+      "table_id": "24035.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Crist-Taddeo lost the election to Republican Rick Scott and Carlos L\u00f3pez-Cantera, 48.1 to 47.1%.",
+         "The Crist-Taddeo lost the election to Republican Rick Scott and Carlos L\u00f3pez-Cantera, 48.1 to 47.1 percentages."
+      ],
+      "table_id": "24040.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1932 United States presidential election in North Dakota, Franklin D. Roosevelt of the Democratic party won with 69.59% of the popular vote and Herbert Hoover of the Republican party achieved 28.00%.",
+         "In the 1932 United States presidential election in North Dakota, Franklin D. Roosevelt of the Democratic party won with 70 percentages of the popular vote and Herbert Hoover of the Republican party achieved 28.00 percentages."
+      ],
+      "table_id": "24044.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In Livingston Parish, the Republicans improved in the 2008 election, in which they received 43,269 votes and 85% of the total to 6,681 votes for Democrat.",
+         "In Livingston Parish, the Republicans improved in the 2008 election, in which they received 43,269 votes and 83 percentages of the total to 6,681 votes for Democrat."
+      ],
+      "table_id": "24066.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The PCI achieved 13.6% in Veneto and 28.5% in Rovigo.",
+         "The PCI achieved 12 percentages in Veneto and 27 percentages in Rovigo."
+      ],
+      "table_id": "24078.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1874 New Jersey gubernatorial election, Joseph D. Bedle of the Democratic party defeated George A. Halsey of the Republican party with 53.65% of the vote.",
+         "In the 1874 New Jersey gubernatorial election, Joseph D. Bedle of the Democratic party defeated George A. Halsey of the Republican party with 56 percentages of the vote."
+      ],
+      "table_id": "24081.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1972 Washington gubernatorial election, Evans and Rosellini received 24.66% and 30.27% of the votes, respectively.",
+         "In the 1972 Washington gubernatorial election, Evans and Rosellini received 22 percentages and 30 percentages of the votes, respectively."
+      ],
+      "table_id": "24091.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The result of the 1985 Bangladeshi military rule referendum saw 94.5% vote in favour, with a turnout of 72.2%.",
+         "The result of the 1985 Bangladeshi military rule referendum saw 96 percentages vote in favour, with a turnout of 72.2 percentages."
+      ],
+      "table_id": "24155.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Accords were approved by 80% of voters, although turnout was just 36.9%.",
+         "The Accords were approved by 83 percentages of voters, although turnout was just 36.9 percentages."
+      ],
+      "table_id": "24179.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Florida's 13th congressional district election was won by Republican David Jolly with 48.52% of the vote over Democratic candidate Alex Sink's 46.64% and Libertarian candidate Lucas Overby's 4.84%.",
+         "Florida's 13th congressional district election was won by Republican David Jolly with 44 percentages of the vote over Democratic candidate Alex Sink's 49 percentages and Libertarian candidate Lucas Overby's 4.84 percentages."
+      ],
+      "table_id": "24199.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "McKay won the election with 53.23% to Wallace's 44.53%.",
+         "McKay won the election with 51 percentages to Wallace's 44.53 percentages."
+      ],
+      "table_id": "24214.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Democrat Daniel Haines defeated Whig's William Wright with 51.88% of the vote.",
+         "The Democrat Daniel Haines defeated Whig's William Wright with 50 percentages of the vote."
+      ],
+      "table_id": "24236.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to the 2002 census, there were 315 people residing in Przecz\u00f3w village, of whom 50.8% were male and 49.2% were female.",
+         "According to the 2002 census, there were 315 people residing in Przecz\u00f3w village, of whom 46 percentages were male and 49 percentages were female."
+      ],
+      "table_id": "24250.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "60.24% of votes cast were for the Gibraltar Constitution Order 2006, while 37.75% of votes were against.",
+         "61 percentages of votes cast were for the Gibraltar Constitution Order 2006, while 38 percentages of votes were against."
+      ],
+      "table_id": "24254.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2011, literacy rate of Jamira was 55.09%.",
+         "In 2011, literacy rate of Jamira was 55.09 percentages."
+      ],
+      "table_id": "24268.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the parliamentary election held in 2002, the Congress for Democracy and Progress party won 49.5% of the vote and 57 out of 111 seats.",
+         "In the parliamentary election held in 2002, the Congress for Democracy and Progress party won 50 percentages of the vote and 57 out of 111 seats."
+      ],
+      "table_id": "24277.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Franklin D. Roosevelt with 52.27% of votes won against Wendell Willkie with 47.50% of votes.",
+         "Franklin D. Roosevelt with 50 percentages of votes won against Wendell Willkie with 43 percentages of votes."
+      ],
+      "table_id": "24296.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2006 Arizona Proposition 107 failed with 48.2% voting in favor and 51.8% opposed.",
+         "The 2006 Arizona Proposition 107 failed with 45 percentages voting in favor and 48 percentages opposed."
+      ],
+      "table_id": "24366.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Hispanics made up 37.4% of Houston's population in 2000, while non-Hispanic whites made up 30.8%.",
+         "Hispanics made up 35 percentages of Houston's population in 2000, while non-Hispanic whites made up 30.8 percentages."
+      ],
+      "table_id": "24395.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For the 2015\u201316 season, the Old Dominion Monarchs men's basketball team had a record of 177\u201354 with a winning percentage of 76.6%.",
+         "For the 2015\u201316 season, the Old Dominion Monarchs men's basketball team had a record of 177\u201354 with a winning percentage of 76.6 percentages."
+      ],
+      "table_id": "24465.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The National Front received the approval of 99.46% of voters, with turnout reported to be 98.5%.",
+         "The National Front received the approval of 92 percentages of voters, with turnout reported to be 98.5 percentages."
+      ],
+      "table_id": "24488.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the general election contest, the United Conservative Party (UCP) won 54.9% of the popular vote and 63 seats, reduced New Democratic Party (NDP) to Opposition with 24 seats.",
+         "In the general election contest, the United Conservative Party (UCP) won 51 percentages of the popular vote and 63 seats, reduced New Democratic Party (NDP) to Opposition with 24 seats."
+      ],
+      "table_id": "24489.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 1978, Seth Hammett ran against Mike Purnell and received 67.7% of the vote.",
+         "In 1978, Seth Hammett ran against Mike Purnell and received 63 percentages of the vote."
+      ],
+      "table_id": "24495.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democratic Bruce Sundlun defeated Republican Edward D. DiPrete with 74.15% of the vote.",
+         "Democratic Bruce Sundlun defeated Republican Edward D. DiPrete with 80 percentages of the vote."
+      ],
+      "table_id": "24580.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Georgia was won by incumbent President Richard Nixon with 75.04% of the votes against George McGovern's 24.65%.",
+         "Georgia was won by incumbent President Richard Nixon with 77 percentages of the votes against George McGovern's 24.65 percentages."
+      ],
+      "table_id": "24581.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Davis had a majority of 10.7% or 5,116 votes.",
+         "Davis had a majority of 10 percentages or 5,116 votes."
+      ],
+      "table_id": "24582.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Nationalist and Country candidates Hedges achieved 29.6% and Murray gathered 31.4% of the total; however, both were beaten by the Labor candidate Corboy, who received 34.4% of the total vote.",
+         "The Nationalist and Country candidates Hedges achieved 28 percentages and Murray gathered 30 percentages of the total; however, both were beaten by the Labor candidate Corboy, who received 31 percentages of the total vote."
+      ],
+      "table_id": "24604.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to the 2002 census, there were 265 people residing in Szczeglice, of whom 48.7% were male and 51.3% were female.",
+         "According to the 2002 census, there were 265 people residing in Szczeglice, of whom 44 percentages were male and 48 percentages were female."
+      ],
+      "table_id": "24630.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The result was 88.9% in favour, with a turnout of 90.3%.",
+         "The result was 89 percentages in favour, with a turnout of 90.3 percentages."
+      ],
+      "table_id": "24662.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Yingling defeated Cole with 55.3% of the vote.",
+         "Yingling defeated Cole with 51 percentages of the vote."
+      ],
+      "table_id": "24683.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Pierre Trudeau\u00b4s vote count in the 1965 election was 55.6%, out of a field of four candidates.",
+         "Pierre Trudeau\u00b4s vote count in the 1965 election was 55.6 percentages, out of a field of four candidates."
+      ],
+      "table_id": "24693.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Fischer won 61.3% of the vote compared to Leet's 36.5%.",
+         "Fischer won 62 percentages of the vote compared to Leet's 36.5 percentages."
+      ],
+      "table_id": "24709.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Phillip Lee gained 3.1% of conservative votes but Labour increased its share by 13.3%.",
+         "Phillip Lee gained 3.1 percentages of conservative votes but Labour increased its share by 13.3 percentages."
+      ],
+      "table_id": "24771.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The majority of Labour Party was 36.8% of the vote.",
+         "The majority of Labour Party was 37 percentages of the vote."
+      ],
+      "table_id": "24780.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Iowa was won by Abraham Lincoln (R), with 54.61% of the popular vote against Senator Stephen A. Douglas (D), with 43.22% of the popular vote.",
+         "Iowa was won by Abraham Lincoln (R), with 50 percentages of the popular vote against Senator Stephen A. Douglas (D), with 39 percentages of the popular vote."
+      ],
+      "table_id": "24843.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2016, Tsai Ing-wen won the election with 56.12% of the votes, beating Eric Chu, who won 31.07% of the votes.",
+         "In 2016, Tsai Ing-wen won the election with 60 percentages of the votes, beating Eric Chu, who won 32 percentages of the votes."
+      ],
+      "table_id": "24851.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Milo\u0161 Zeman and Ji\u0159\u00ed Draho\u0161 received 38.57% and 26.60% of the vote in the 2018 Czech presidential election.",
+         "Milo\u0161 Zeman and Ji\u0159\u00ed Draho\u0161 received 39 percentages and 27 percentages of the vote in the 2018 Czech presidential election."
+      ],
+      "table_id": "24855.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "McCaskill defeated Akin by a 15.5% margin of victory and a vote margin of 420,985.",
+         "McCaskill defeated Akin by a 14 percentages margin of victory and a vote margin of 420,985."
+      ],
+      "table_id": "24862.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Manoogian defeated David Wolkinson by 56.5% to 43.4%.",
+         "Manoogian defeated David Wolkinson by 53 percentages to 43.4 percentages."
+      ],
+      "table_id": "24868.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1939 Danish constitutional referendum was approved by 91.9% of voters, with a turnout of 48.9%.",
+         "The 1939 Danish constitutional referendum was approved by 83 percentages of voters, with a turnout of 48.9 percentages."
+      ],
+      "table_id": "24887.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2011, Swathi Reddy sang as playback singer for two songs, \"Unbelievable\" and \"A Square B Square\", for the albums of her own film Katha Screenplay Darshakatvam Appalaraju and 100% Love, respectively.",
+         "In 2011, Swathi Reddy sang as playback singer for two songs, \"Unbelievable\" and \"A Square B Square\", for the albums of her own film Katha Screenplay Darshakatvam Appalaraju and 109 percentages Love, respectively."
+      ],
+      "table_id": "24904.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Sher Valenzuela received 37.1% of the vote, versus Denn's 61.6% of the votes.",
+         "Sher Valenzuela received 38 percentages of the vote, versus Denn's 59 percentages of the votes."
+      ],
+      "table_id": "24926.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The two successful participants were Bibilov, with 25.44% of votes cast, and Dzhioyeva, with a 25.37% share of the votes.",
+         "The two successful participants were Bibilov, with 24 percentages of votes cast, and Dzhioyeva, with a 24 percentages share of the votes."
+      ],
+      "table_id": "24936.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2014, Kiska won the second round of the elections after securing 59.39% of the vote, compared to Fico's 40.61%.",
+         "In 2014, Kiska won the second round of the elections after securing 60 percentages of the vote, compared to Fico's 40.61 percentages."
+      ],
+      "table_id": "24939.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Harris of the Liberal Democrats was won with the majority of 17.8%.",
+         "Harris of the Liberal Democrats was won with the majority of 17.8 percentages."
+      ],
+      "table_id": "24955.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1936 United States presidential election in Maryland was won by Franklin D. Roosevelt with 62.35% of the vote against Alf Landon with 37.04% of the vote.",
+         "The 1936 United States presidential election in Maryland was won by Franklin D. Roosevelt with 56 percentages of the vote against Alf Landon with 35 percentages of the vote."
+      ],
+      "table_id": "24960.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The results o the 1962 independence referendum in Algeria were 99.72% in favour and just 0.28% against.",
+         "The results o the 1962 independence referendum in Algeria were 93 percentages in favour and just 0.28 percentages against."
+      ],
+      "table_id": "24975.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1984 Beninese parliamentary election was approved by 98.2% of voters, with a 93.1% turnout.",
+         "The 1984 Beninese parliamentary election was approved by 98 percentages of voters, with a 84 percentages turnout."
+      ],
+      "table_id": "25004.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2007 elections, the United National Congress party won 29.73% and 15 out of 41 seats.",
+         "In the 2007 elections, the United National Congress party won 28 percentages and 15 out of 41 seats."
+      ],
+      "table_id": "25015.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Kenneth Gibson won with a majority of 27.3%.",
+         "Kenneth Gibson won with a majority of 27.3 percentages."
+      ],
+      "table_id": "25061.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1984 Pakistani Islamisation programme referendum was approved by 98.5% of voters, with a turnout of 62.2%.",
+         "The 1984 Pakistani Islamisation programme referendum was approved by 92 percentages of voters, with a turnout of 62.2 percentages."
+      ],
+      "table_id": "25104.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In Burnaby, English was spoken as mother tongue by 41.33% of the population.",
+         "In Burnaby, English was spoken as mother tongue by 41 percentages of the population."
+      ],
+      "table_id": "25115.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 1900 United States presidential election in Missouri, Democrat William Jennings Bryan won 51.48% of the votes and Republican William McKinley's won 45.94%.",
+         "In 1900 United States presidential election in Missouri, Democrat William Jennings Bryan won 55 percentages of the votes and Republican William McKinley's won 45.94 percentages."
+      ],
+      "table_id": "25132.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to the 2002 census, there were 156 people residing in Roso\u0142\u00f3wka, of whom 47.4% were male and 52.6% were female.",
+         "According to the 2002 census, there were 156 people residing in Roso\u0142\u00f3wka, of whom 46 percentages were male and 51 percentages were female."
+      ],
+      "table_id": "25135.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to the study on White Latin Americans, 86% have European ancestry, 6.7% have African ancestry, and 7.8% have Native American ancestry.",
+         "According to the study on White Latin Americans, 87% have European ancestry, 6.7 percentages have African ancestry, and 7.8 percentages have Native American ancestry."
+      ],
+      "table_id": "25156.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1987 local elections, the Progress Party (Norway) nearly doubled its support from 6.3% to 12.3% in county results.",
+         "In the 1987 local elections, the Progress Party (Norway) nearly doubled its support from 6.3 percentages to 11 percentages in county results."
+      ],
+      "table_id": "25170.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The racial makeup of the Portland was 91.27% White, 2.59% African American, 3.08% Asian and 1.86% from two or more races.",
+         "The racial makeup of the Portland was 92% White, 2.59% African American, 3.08 percentages Asian and 1.86 percentages from two or more races."
+      ],
+      "table_id": "25171.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The racial makeup of the Leland School district was 91.29% African American, 6.84% White and 1.87% Hispanic.",
+         "The racial makeup of the Leland School district was 82% African American, 6.84 percentages White and 1.87 percentages Hispanic."
+      ],
+      "table_id": "25203.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The racial makeup of Omaha was 73.1% White, 13.7% African American and 2.4% Asian.",
+         "The racial makeup of Omaha was 66 percentages White, 12 percentages African American and 2.4 percentages Asian."
+      ],
+      "table_id": "25260.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The proposal was rejected by 73.3% of voters, with a turnout of 35.7%.",
+         "The proposal was rejected by 76 percentages of voters, with a turnout of 35.7 percentages."
+      ],
+      "table_id": "25275.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Brat defeated Trammell, with 60.83% of the vote to Trammell's 36.95%.",
+         "Brat defeated Trammell, with 58 percentages of the vote to Trammell's 36.95 percentages."
+      ],
+      "table_id": "25305.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Secretary of State Thyra Thomson defeated Charles Carroll with 62.24% of the vote.",
+         "The Secretary of State Thyra Thomson defeated Charles Carroll with 63 percentages of the vote."
+      ],
+      "table_id": "25324.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The final 2016 Gambian presidential election results showed Barrow winning a 43.3% plurality, achieving a 3.7% margin of victory over Jammeh's 39.6%, with a third candidate, Mama Kandeh, receiving 17.1% of the votes.",
+         "The final 2016 Gambian presidential election results showed Barrow winning a 40 percentages plurality, achieving a 3.7 percentages margin of victory over Jammeh's 39.6 percentages, with a third candidate, Mama Kandeh, receiving 17 percentages of the votes."
+      ],
+      "table_id": "25341.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2011, Pori Airport served 54,056 passengers, an increase of 25.2% from the previous year.",
+         "In 2011, Pori Airport served 54,056 passengers, an increase of 25 percentages from the previous year."
+      ],
+      "table_id": "25387.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "LV gained 21.5% in the province of Treviso, 20.6% in Verona and 19.5% in Vicenza.",
+         "LV gained 19 percentages in the province of Treviso, 20 percentages in Verona and 19 percentages in Vicenza."
+      ],
+      "table_id": "25395.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Final results of 2016 Mecklenburg-Vorpommern state election showed the SPD with 30.6% of the vote, AfD in second with 20.8%, CDU in third with 19.0%, and Die Linke in fourth with 13.2%.",
+         "Final results of 2016 Mecklenburg-Vorpommern state election showed the SPD with 29 percentages of the vote, AfD in second with 20.8 percentages, CDU in third with 19.0 percentages, and Die Linke in fourth with 13.2 percentages."
+      ],
+      "table_id": "25417.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The share of renewable electricity rose from just 3.4% of gross electricity consumption in 1990 to 36.2% of consumption by 2017.",
+         "The share of renewable electricity rose from just 3.4 percentages of gross electricity consumption in 1990 to 38 percentages of consumption by 2017."
+      ],
+      "table_id": "25425.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to Pereira 2005, Iberian individuals with mtDNA L are at rates of 11.38% in south Portugal, 5.02% in Center Portugal, 3.21% in North Portugal and 3.26% in Galicia.",
+         "According to Pereira 2005, Iberian individuals with mtDNA L are at rates of 10% in south Portugal, 5.02% in Center Portugal, 3.21 percentages in North Portugal and 3.26 percentages in Galicia."
+      ],
+      "table_id": "25439.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "North Carolina was won by incumbent Franklin D. Roosevelt (D), with 73.40% of the popular vote, against Alf Landon (R), who received 26.60% of the popular vote.",
+         "North Carolina was won by incumbent Franklin D. Roosevelt (D), with 67 percentages of the popular vote, against Alf Landon (R), who received 24 percentages of the popular vote."
+      ],
+      "table_id": "25443.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Turnout was 67.51%, resulting in a victory of the Social Democratic Party.",
+         "Turnout was 67.51 percentages, resulting in a victory of the Social Democratic Party."
+      ],
+      "table_id": "25466.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "At Barking, the BNP with 16.9% of the vote, were 27 votes behind the Conservatives.",
+         "At Barking, the BNP with 16 percentages of the vote, were 27 votes behind the Conservatives."
+      ],
+      "table_id": "25488.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Cruz Bustamante of Democrat was placed second to Republican Arnold Schwarzenegger, with 31.5% of the votes.",
+         "Cruz Bustamante of Democrat was placed second to Republican Arnold Schwarzenegger, with 32 percentages of the votes."
+      ],
+      "table_id": "25524.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Masakazu Yoshioka of the Liberal Democratic Party and Yugo Nakano of the Innovation Party were elected, winning 29.4% and 24.6% of the vote respectively.",
+         "Masakazu Yoshioka of the Liberal Democratic Party and Yugo Nakano of the Innovation Party were elected, winning 30 percentages and 25 percentages of the vote respectively."
+      ],
+      "table_id": "25530.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 1943, Harley E. Knox was first in the primary elections with 43.4% of the votes, followed by James B. Abbey in second place with 32.0%.",
+         "In 1943, Harley E. Knox was first in the primary elections with 45 percentages of the votes, followed by James B. Abbey in second place with 32.0 percentages."
+      ],
+      "table_id": "25538.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Thomas Kean Jr. lost the 2006 United States Senate election to Menendez by a margin of 53.3% to 44.3%.",
+         "Thomas Kean Jr. lost the 2006 United States Senate election to Menendez by a margin of 50 percentages to 44.3 percentages."
+      ],
+      "table_id": "25539.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to the 2002 census, there were 190 people residing in Jab\u0142onica, of whom 51.6% were male and 48.4% were female.",
+         "According to the 2002 census, there were 190 people residing in Jab\u0142onica, of whom 47 percentages were male and 48 percentages were female."
+      ],
+      "table_id": "25569.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The student body was 16.4% Hispanic-American, 5.5% Asian-American, 3.6% African-American, and 0.9% Native-American.",
+         "The student body was 16% Hispanic-American, 5.5% Asian-American, 3.6 percentages African-American, and 0.9 percentages Native-American."
+      ],
+      "table_id": "25610.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1968 Greek constitutional referendum was approved by 92.1% of voters with a voter turnout of 77.7%.",
+         "The 1968 Greek constitutional referendum was approved by 87 percentages of voters with a voter turnout of 77.7 percentages."
+      ],
+      "table_id": "25615.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the Castle Point election, Conservative has the majority of 42.2%.",
+         "In the Castle Point election, Conservative has the majority of 42.2 percentages."
+      ],
+      "table_id": "25631.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The result was 99.96% of voters in favour, with a 95.2% turnout.",
+         "The result was 90 percentages of voters in favour, with a 96 percentages turnout."
+      ],
+      "table_id": "25636.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1995 Gabonese constitutional referendum was approved by 96.5% of voters with a 64.0% turnout.",
+         "The 1995 Gabonese constitutional referendum was approved by 87 percentages of voters with a 61 percentages turnout."
+      ],
+      "table_id": "25682.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Forza Italia came first with 23.6% and Liga Veneta second with 21.6%.",
+         "Forza Italia came first with 22 percentages and Liga Veneta second with 21.6 percentages."
+      ],
+      "table_id": "25729.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Bush received 58.2% of the vote to Patterson's 29.7%.",
+         "Bush received 57 percentages of the vote to Patterson's 29.7 percentages."
+      ],
+      "table_id": "25737.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Electoral participation (amongst the second college) was 47.8% in Gabon and 67.7% in Moyen-Congo.",
+         "Electoral participation (amongst the second college) was 50 percentages in Gabon and 64 percentages in Moyen-Congo."
+      ],
+      "table_id": "25763.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Danish electoral age referendum was approved by 55% of voters, with a 37.3% turnout.",
+         "The Danish electoral age referendum was approved by 53 percentages of voters, with a 35 percentages turnout."
+      ],
+      "table_id": "25780.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "San Jose, Camarines Sur noted the age group for 22-35 ranked first with 17.45%, followed by 10-14 with 13.62%, and 36-45 with 10.31%.",
+         "San Jose, Camarines Sur noted the age group for 22-35 ranked first with 16, followed by 10-14 with 13.62 percentages, and 36-45 with 10.31 percentages."
+      ],
+      "table_id": "25845.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Peterson won with 60.38% to Republican Lee Byberg's 34.85% and Independent Adam Steele's 4.67%.",
+         "Peterson won with 63 percentages to Republican Lee Byberg's 31 percentages and Independent Adam Steele's 4.67 percentages."
+      ],
+      "table_id": "25861.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In Louisiana, Dwight D. Eisenhower won with 53.28% of the vote against Adlai Stevenson with 39.51% of the vote.",
+         "In Louisiana, Dwight D. Eisenhower won with 51 percentages of the vote against Adlai Stevenson with 39 percentages of the vote."
+      ],
+      "table_id": "25870.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Sevenitini Toumo\u02bbua received 15.5% of the vote and finished second to Fa\u02bbanunu.",
+         "Sevenitini Toumo\u02bbua received 15 percentages of the vote and finished second to Fa\u02bbanunu."
+      ],
+      "table_id": "25871.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1986 Algerian National Charter referendum were approved by 98.3% of voters with a turnout of 95.9%.",
+         "The 1986 Algerian National Charter referendum were approved by 96 percentages of voters with a turnout of 95.9 percentages."
+      ],
+      "table_id": "25901.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "2011 Gibraltar general election has a total of 174,757 votes, that came from 21,712 voters, an 81.4% turnout.",
+         "2011 Gibraltar general election has a total of 174,757 votes, that came from 21,712 voters, an 79 percentages turnout."
+      ],
+      "table_id": "25948.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "John defeated Democratic candidate Greg Morris in the election with 62.7% of the votes.",
+         "John defeated Democratic candidate Greg Morris in the election with 61 percentages of the votes."
+      ],
+      "table_id": "25988.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Illinois was won by Dwight D. Eisenhower, with 59.52% of the votes, against Adlai Stevenson, with 40.29% of the votes.",
+         "Illinois was won by Dwight D. Eisenhower, with 60 percentages of the votes, against Adlai Stevenson, with 42 percentages of the votes."
+      ],
+      "table_id": "25995.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 1970, Hawaii's population constitute 38.8% white and 57.7% Asian and Pacific Islander.",
+         "In 1970, Hawaii's population constitute 35 percentages white and 52 percentages Asian and Pacific Islander."
+      ],
+      "table_id": "26033.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Quarter-Dollar, Half-Dollar, and Dollar coins of United States were issued in the copper 91.67% nickel 8.33% composition for circulation.",
+         "The Quarter-Dollar, Half-Dollar, and Dollar coins of United States were issued in the copper 84 percentages nickel 8.33 percentages composition for circulation."
+      ],
+      "table_id": "26034.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Easley garnered 59.07% of the vote, compared with opponent Robert Edmonds, Jr.'s 40.93% of votes.",
+         "Easley garnered 58 percentages of the vote, compared with opponent Robert Edmonds, Jr.'s 38 percentages of votes."
+      ],
+      "table_id": "26075.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1986 Danish Single European Act referendum was approved by 56.2% of voters, with a voter participation of 75.4%.",
+         "1986 Danish Single European Act referendum was approved by 56 percentages of voters, with a voter participation of 75.4 percentages."
+      ],
+      "table_id": "26102.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Colter, a Democrat, won the 1918 Arizona gubernatorial election, garnering 44% of the total votes, 14,539 to Sutter's 10,108, and Osborn's 8,390.",
+         "Colter, a Democrat, won the 1918 Arizona gubernatorial election, garnering 43 percentages of the total votes, 14,539 to Sutter's 10,108, and Osborn's 8,390."
+      ],
+      "table_id": "26105.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Afro-Brazilians's mitochondrial DNA, that comes from maternal line, 85% of them come from Africa and 2.5% come from Europe.",
+         "Afro-Brazilians's mitochondrial DNA, that comes from maternal line, 92 percentages of them come from Africa and 2.5 percentages come from Europe."
+      ],
+      "table_id": "26195.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The May 1946 French constitutional referendum in Chad\u2013Ubangi-Shari was rejected by 65.9% of voters, with a turnout of 59.9%.",
+         "The May 1946 French constitutional referendum in Chad\u2013Ubangi-Shari was rejected by 60 percentages of voters, with a turnout of 59.9 percentages."
+      ],
+      "table_id": "26240.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In terms of votes received, Hamas took 44.45% of the vote, whilst Fatah received 41.43%.",
+         "In terms of votes received, Hamas took 47 percentages of the vote, whilst Fatah received 41.43 percentages."
+      ],
+      "table_id": "26246.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Democratic share increased from 37.0% in 2000 to 48.0% in 2004.",
+         "The Democratic share increased from 35 percentages in 2000 to 50 percentages in 2004."
+      ],
+      "table_id": "26274.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The national passing rate went from 36.55% in 2009 to 42.10% in 2010, and the CFNR passing rate went from 84.00% in 2009 to 95.00% in 2010.",
+         "The national passing rate went from 35 percentages in 2009 to 44 percentages in 2010, and the CFNR passing rate went from 82 percentages in 2009 to 101 percentages in 2010."
+      ],
+      "table_id": "26282.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Patterson defeated David Bernsen with 53.2% of the vote to 41.5%.",
+         "Patterson defeated David Bernsen with 56 percentages of the vote to 41.5 percentages."
+      ],
+      "table_id": "26293.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "West Virginia was won by incumbent Dwight D. Eisenhower with 54.08% of the popular vote, against Adlai Stevenson with 45.92% of the popular vote.",
+         "West Virginia was won by incumbent Dwight D. Eisenhower with 55 percentages of the popular vote, against Adlai Stevenson with 42 percentages of the popular vote."
+      ],
+      "table_id": "26295.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2004 Slovak early parliamentary elections referendum was approved by 87.9% of those voting, and the voter turnout was 35.9%.",
+         "The 2004 Slovak early parliamentary elections referendum was approved by 89 percentages of those voting, and the voter turnout was 35.9 percentages."
+      ],
+      "table_id": "26299.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Madison was elected with 50.4 percent of the popular vote to Clinton's 47.6% in the 1812 presidential election.",
+         "Madison was elected with 50.4 percent of the popular vote to Clinton's 50 percentages in the 1812 presidential election."
+      ],
+      "table_id": "26313.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "North Carolina was won by Adlai Stevenson (D) with 50.66% of the votes against incumbent Dwight D. Eisenhower (R) who stood with 49.34% of the votes.",
+         "North Carolina was won by Adlai Stevenson (D) with 51 percentages of the votes against incumbent Dwight D. Eisenhower (R) who stood with 50 percentages of the votes."
+      ],
+      "table_id": "26318.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Kathy Karpan, defeated Thomas T. Zollinger with 64.29% of the vote.",
+         "Kathy Karpan, defeated Thomas T. Zollinger with 65 percentages of the vote."
+      ],
+      "table_id": "26366.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The referendum was rejected by 97.9% votes, with the turnout of 23%.",
+         "The referendum was rejected by 90 percentages votes, with the turnout of 23 percentages."
+      ],
+      "table_id": "26389.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Portillo's defeat represented a 17.4% swing to Labour.",
+         "Portillo's defeat represented a 17 percentages swing to Labour."
+      ],
+      "table_id": "26476.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Illinois was won by Dwight D. Eisenhower with 54.84% of the popular vote, against Adlai Stevenson with 44.94% of the popular vote.",
+         "Illinois was won by Dwight D. Eisenhower with 58 percentages of the popular vote, against Adlai Stevenson with 46 percentages of the popular vote."
+      ],
+      "table_id": "26508.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In Veneto the Democratic Party was ahead with 37.5% of the votes, followed by the Five Star Movement who was second with 19.9% of the votes.",
+         "In Veneto the Democratic Party was ahead with 39 percentages of the votes, followed by the Five Star Movement who was second with 18 percentages of the votes."
+      ],
+      "table_id": "26524.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Tennessee was won by Dwight D. Eisenhower (R) with 49.99% of the popular vote, against Adlai Stevenson (D) with 49.71% of the popular vote.",
+         "Tennessee was won by Dwight D. Eisenhower (R) with 47 percentages of the popular vote, against Adlai Stevenson (D) with 47 percentages of the popular vote."
+      ],
+      "table_id": "26545.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Bernstine defeated Jaret Gibbons with 58.48% of the vote.",
+         "Bernstine defeated Jaret Gibbons with 61 percentages of the vote."
+      ],
+      "table_id": "26603.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1976 Cuban constitutional referendum was approved by 99.02% of voters with a turnout of 98%.",
+         "The 1976 Cuban constitutional referendum was approved by 91 percentages of voters with a turnout of 98 percentages."
+      ],
+      "table_id": "26622.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nicos Anastasiades won the presidential election with 57.48% of the vote and Stavros Malas received 42.52%.",
+         "Nicos Anastasiades won the presidential election with 58 percentages of the vote and Stavros Malas received 42.52 percentages."
+      ],
+      "table_id": "26624.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Tapani Kansa and Kwan gained 37.4% and 31.9% of the televote.",
+         "Tapani Kansa and Kwan gained 34 percentages and 29 percentages of the televote."
+      ],
+      "table_id": "26639.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The population of Gibraltarians was 79.0%, and \"Other British\" were 13.2%.",
+         "The population of Gibraltarians was 78, and \"Other British\" were 13.2 percentages."
+      ],
+      "table_id": "26694.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "UKIP came second with 24.2% of the votes, and the Conservatives dropped to a third with 11.5% of the votes.",
+         "UKIP came second with 25 percentages of the votes, and the Conservatives dropped to a third with 10 percentages of the votes."
+      ],
+      "table_id": "26711.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2015 election, the Estonian Reform Party received 27.7% of the vote and 30 seats.",
+         "In the 2015 election, the Estonian Reform Party received 28 percentages of the vote and 30 seats."
+      ],
+      "table_id": "26726.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Conservative Party's Nigel Forman had a victory with a majority of 18.9% of the vote.",
+         "The Conservative Party's Nigel Forman had a victory with a majority of 17 percentages of the vote."
+      ],
+      "table_id": "26733.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Forman had 17% or 18,734 votes and was defeated, while Couhig came in fourth with 10% and 10,287 votes.",
+         "Forman had 16 percentages or 18,734 votes and was defeated, while Couhig came in fourth with 9 percentages and 9,287 votes."
+      ],
+      "table_id": "26735.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Between 1995 and 2011, the grade inflation proportion of upper second class awarded for first degree courses increased from 40.42% to 48.38%, whilst lower second class honours dropped from 34.97% to 28.9%.",
+         "Between 1995 and 2011, the grade inflation proportion of upper second class awarded for first degree courses increased from 40 percentages to 48.38 percentages, whilst lower second class honours dropped from 36 percentages to 28.9 percentages."
+      ],
+      "table_id": "26753.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democratic nominee Brendan Byrne defeated Republican nominee Charles W. Sandman Jr. with 66.67% of the votes.",
+         "Democratic nominee Brendan Byrne defeated Republican nominee Charles W. Sandman Jr. with 67 percentages of the votes."
+      ],
+      "table_id": "26754.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "North Carolina was won by Franklin D. Roosevelt (D) with 69.93% of the popular vote, beating out incumbent Herbert Hoover (R) who received 29.28% of the popular vote.",
+         "North Carolina was won by Franklin D. Roosevelt (D) with 65 percentages of the popular vote, beating out incumbent Herbert Hoover (R) who received 27 percentages of the popular vote."
+      ],
+      "table_id": "26755.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nevada was won by President Dwight D. Eisenhower (R) with 61.45% of the popular vote against Adlai Stevenson (D), who had 38.55% of the popular vote.",
+         "Nevada was won by President Dwight D. Eisenhower (R) with 64 percentages of the popular vote against Adlai Stevenson (D), who had 36 percentages of the popular vote."
+      ],
+      "table_id": "26787.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2002, there were 388 people residing in Tukl\u0119cz village, of whom 47.9% were male and 52.1% were female.",
+         "In 2002, there were 388 people residing in Tukl\u0119cz village, of whom 43 percentages were male and 54 percentages were female."
+      ],
+      "table_id": "26799.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The election was won by Michael Palmer, with 54.54% of the votes, beating WP's Lee Li Lian and SDA's Desmond Lim, who garnered 41.01% and 4.45% of the votes, respectively.",
+         "The election was won by Michael Palmer, with 56 percentages of the votes, beating WP's Lee Li Lian and SDA's Desmond Lim, who garnered 39 percentages and 4.45 percentages of the votes, respectively."
+      ],
+      "table_id": "26804.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Bob Casey Jr. defeated Smith, 53.7% to 44.6%.",
+         "Bob Casey Jr. defeated Smith, 52 percentages to 44.6 percentages."
+      ],
+      "table_id": "26822.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Oldham West was gained for the Conservatives with a 17.7% swing by Bruce Campbell with a majority of 3,311 over the Labour candidate Michael Meacher.",
+         "Oldham West was gained for the Conservatives with a 17 percentages swing by Bruce Campbell with a majority of 3,311 over the Labour candidate Michael Meacher."
+      ],
+      "table_id": "26825.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ethnic Kazakhs are 63.1% of the population and ethnic Russians in Kazakhstan are 23.7%.",
+         "Ethnic Kazakhs are 64 percentages of the population and ethnic Russians in Kazakhstan are 23.7 percentages."
+      ],
+      "table_id": "26834.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The changes to the 1969 South Korean constitution were approved by 67.5% of voters, with a turnout of 77.1%.",
+         "The changes to the 1969 South Korean constitution were approved by 62 percentages of voters, with a turnout of 77.1 percentages."
+      ],
+      "table_id": "26868.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1991 Estonian independence referendum was approved by 78.4% of voters with an 82.9% turnout.",
+         "1991 Estonian independence referendum was approved by 73 percentages of voters with an 77 percentages turnout."
+      ],
+      "table_id": "26871.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Scripps accepted 948 of the 2,841 applicants by 33.4%.",
+         "Scripps accepted 948 of the 2,841 applicants by 33.4 percentages."
+      ],
+      "table_id": "26879.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1929 German referendum was approved by 94.5% of the vote and voter turnout was 14.9%.",
+         "The 1929 German referendum was approved by 95 percentages of the vote and voter turnout was 14.9 percentages."
+      ],
+      "table_id": "26935.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1958 Syrian United Arab Republic referendum, the formation was approved by 100% of voters, with only 139 voting against.",
+         "In the 1958 Syrian United Arab Republic referendum, the formation was approved by 106 percentages of voters, with only 139 voting against."
+      ],
+      "table_id": "26973.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Kenney won with 55.83% of the vote, defeating other Democratic candidates, including Anthony H. Williams and Lynn Abraham.",
+         "Kenney won with 56 percentages of the vote, defeating other Democratic candidates, including Anthony H. Williams and Lynn Abraham."
+      ],
+      "table_id": "27024.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Trudeau won on the fourth ballot by the narrow margin, recording 51.1% of the vote, defeating the runner-up, Robert Winters, who received 40.6% of the vote.",
+         "Trudeau won on the fourth ballot by the narrow margin, recording 47 percentages of the vote, defeating the runner-up, Robert Winters, who received 37 percentages of the vote."
+      ],
+      "table_id": "27088.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Venetist parties were 11.4% in Vicenza and 10.8% in Verona, PSI was 23.8% in Belluno and PCI was 29.0% in Rovigo.",
+         "Venetist parties were 11 percentages in Vicenza and 9 percentages in Verona, PSI was 24 percentages in Belluno and PCI was 28 percentages in Rovigo."
+      ],
+      "table_id": "27091.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nevada was won by President Dwight D. Eisenhower, with 57.97% of the popular vote, against Adlai Stevenson, with 42.03% of the popular vote.",
+         "Nevada was won by President Dwight D. Eisenhower, with 52 percentages of the popular vote, against Adlai Stevenson, with 45 percentages of the popular vote."
+      ],
+      "table_id": "27107.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The voter turnout was 53.2%, and the 1955 Swedish driving side referendum failed by 15.5% against 82.9%.",
+         "The voter turnout was 50, and the 1955 Swedish driving side referendum failed by 14 percentages against 82.9 percentages."
+      ],
+      "table_id": "27150.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1980 South Korean constitutional referendum had 91.6% of vote with a turnout of 95.5%.",
+         "The 1980 South Korean constitutional referendum had 98 percentages of vote with a turnout of 95.5 percentages."
+      ],
+      "table_id": "27181.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "A large majority (94.6%) voted in the 1999 Latvian pensions referendum and voter turnout was 25.1%.",
+         "A large majority (94.6 percentages) voted in the 1999 Latvian pensions referendum and voter turnout was 25.1 percentages."
+      ],
+      "table_id": "27201.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1981 Bangladeshi presidential election result was a victory for Abdus Sattar of the Bangladesh Nationalist Party (BNP), who received 65.5% of the vote, beating Kamal Hossain of the Awami League.",
+         "The 1981 Bangladeshi presidential election result was a victory for Abdus Sattar of the Bangladesh Nationalist Party (BNP), who received 62 percentages of the vote, beating Kamal Hossain of the Awami League."
+      ],
+      "table_id": "27220.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The biggest operator is IPKO with 51.21% followed by PTK with 25.43% and Kujtesa with 19.08%.",
+         "The biggest operator is IPKO with 55 percentages followed by PTK with 26 percentages and Kujtesa with 19.08 percentages."
+      ],
+      "table_id": "27247.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "30.7% of people in Ontario have a university credential compared with 11.8% of Indigenous people in Ontario.",
+         "29 percentages of people in Ontario have a university credential compared with 10 percentages of Indigenous people in Ontario."
+      ],
+      "table_id": "27284.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1993 Eritrean independence referendum, the result was 99.83% in favor, with a 98.5% turnout.",
+         "The 1993 Eritrean independence referendum, the result was 90 percentages in favor, with a 89 percentages turnout."
+      ],
+      "table_id": "27316.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Incumbent Democrat Bill de Blasio won election with 66.5% of the vote against Republican Nicole Malliotakis.",
+         "Incumbent Democrat Bill de Blasio won election with 65 percentages of the vote against Republican Nicole Malliotakis."
+      ],
+      "table_id": "27333.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Hip\u00f3lito Mej\u00eda won 49.87% of the votes, compared to 24.9% for Danilo Medina and 24.6% for Joaqu\u00edn Balaguer.",
+         "Hip\u00f3lito Mej\u00eda won 52 percentages of the votes, compared to 25 percentages for Danilo Medina and 22 percentages for Joaqu\u00edn Balaguer."
+      ],
+      "table_id": "27343.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Tina Liebling defeated Charlie O'Connell, garnering 55.15% of the vote to O'Connell's 44.73%.",
+         "Tina Liebling defeated Charlie O'Connell, garnering 58 percentages of the vote to O'Connell's 44.73 percentages."
+      ],
+      "table_id": "27370.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Cramer defeated Heitkamp with 55.4% of the votes.",
+         "Cramer defeated Heitkamp with 59 percentages of the votes."
+      ],
+      "table_id": "27377.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Labour won over 84% of the vote and a majority of 35,947 (74.8%) in the Liverpool Riverside (UK Parliament constituency).",
+         "Labour won over 79 percentages of the vote and a majority of 35,947 (74.8 percentages) in the Liverpool Riverside (UK Parliament constituency)."
+      ],
+      "table_id": "27398.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Laura Kelly defeated Brewer and Svaty, receiving 51.5% of the vote.",
+         "Laura Kelly defeated Brewer and Svaty, receiving 53 percentages of the vote."
+      ],
+      "table_id": "27430.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democrat J. Millard Tawes defeated Republican nominee Frank Small Jr., receiving 55.64% of the vote.",
+         "Democrat J. Millard Tawes defeated Republican nominee Frank Small Jr., receiving 59 percentages of the vote."
+      ],
+      "table_id": "27507.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Representative Caesar Augustus Rodney won with 50.11% of the vote.",
+         "Representative Caesar Augustus Rodney won with 53 percentages of the vote."
+      ],
+      "table_id": "27515.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Beltran lagged with 11.62% of the vote, followed by Sandri, who fell to 7.52% of the vote.",
+         "Beltran lagged with 10 percentages of the vote, followed by Sandri, who fell to 7.52 percentages of the vote."
+      ],
+      "table_id": "27517.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1997 Hungarian NATO membership referendum was approved by 85.3% of voters, with a voter turnout of 49.2%.",
+         "1997 Hungarian NATO membership referendum was approved by 80 percentages of voters, with a voter turnout of 49.2 percentages."
+      ],
+      "table_id": "27563.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democrat Jim Hunt defeated Republican David T. Flaherty, receiving 64.99% of the vote.",
+         "Democrat Jim Hunt defeated Republican David T. Flaherty, receiving 69 percentages of the vote."
+      ],
+      "table_id": "27592.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1952 United States presidential election, South Dakota was won by Dwight D. Eisenhower with 69.27% of the vote against Adlai Stevenson with 30.73% of the vote.",
+         "In the 1952 United States presidential election, South Dakota was won by Dwight D. Eisenhower with 63 percentages of the vote against Adlai Stevenson with 28 percentages of the vote."
+      ],
+      "table_id": "27596.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Allen lost to Collins (61.5% to 38.5%).",
+         "Allen lost to Collins (61.5 percentages to 38.5 percentages)."
+      ],
+      "table_id": "27609.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2011, Torbay's population grew by 17.8% from 2006 and brought the population to 7,397.",
+         "In 2011, Torbay's population grew by 17 percentages from 2006 and brought the population to 7,397."
+      ],
+      "table_id": "27614.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1999 Saskatchewan general election, the Saskatchewan Party won 39.61% of the popular vote, more than the NDP's 38.73%.",
+         "In the 1999 Saskatchewan general election, the Saskatchewan Party won 41 percentages of the popular vote, more than the NDP's 38.73 percentages."
+      ],
+      "table_id": "27615.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1920 Danish constitutional referendum was approved by 96.9% of voters, with a 49.6% turnout.",
+         "The 1920 Danish constitutional referendum was approved by 92 percentages of voters, with a 50 percentages turnout."
+      ],
+      "table_id": "27632.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the first round of the 2011 Liberian general election, Ellen Johnson Sirleaf of the Unity Party had lead with 43.9% of the vote, followed by Congress for Democratic Change candidate Winston Tubman with 32.7%.",
+         "In the first round of the 2011 Liberian general election, Ellen Johnson Sirleaf of the Unity Party had lead with 46 percentages of the vote, followed by Congress for Democratic Change candidate Winston Tubman with 32.7 percentages."
+      ],
+      "table_id": "27643.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Incumbent Democrat Ella Grasso defeated Republican nominee Ronald A. Sarasin with 59.15% of the votes.",
+         "Incumbent Democrat Ella Grasso defeated Republican nominee Ronald A. Sarasin with 56 percentages of the votes."
+      ],
+      "table_id": "27650.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to a 2013 Census estimate, 43.3% of Bronx's population was black or African American and 4.2% was Asian.",
+         "According to a 2013 Census estimate, 41 percentages of Bronx's population was black or African American and 4.2 percentages was Asian."
+      ],
+      "table_id": "27667.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2011 Russian legislative election, The Communist Party got 19.19% (92 seats), while the Liberal Democratic Party got 11.67% (56 seats) and A Just Russia 13.24% (64 seats).",
+         "In the 2011 Russian legislative election, The Communist Party got 18 percentages (92 seats), while the Liberal Democratic Party got 11 percentages (56 seats) and A Just Russia 13 percentages (64 seats)."
+      ],
+      "table_id": "27728.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to the 2002 Census, there were 22 people residing in Wymys\u0142\u00f3w of whom 59.1% were male and 40.9% were female.",
+         "According to the 2002 Census, there were 22 people residing in Wymys\u0142\u00f3w of whom 55 percentages were male and 37 percentages were female."
+      ],
+      "table_id": "27742.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Gates won with 98.7% of the votes and a 97.4% majority.",
+         "Gates won with 106 percentages of the votes and a 89 percentages majority."
+      ],
+      "table_id": "27765.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Bentsen defeated Bush, 53.6% \u2013 46.5%.",
+         "Bentsen defeated Bush, 51 percentages \u2013 46.5 percentages."
+      ],
+      "table_id": "27781.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Elliot County voted 65.3% and 73.4% for Democratics in 1972 and 1984.",
+         "Elliot County voted 69 percentages and 70 percentages for Democratics in 1972 and 1984."
+      ],
+      "table_id": "27806.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 1989, the Chadian constitutional referendum was passed by 99.9% of voters with a turnout of 93%.",
+         "In 1989, the Chadian constitutional referendum was passed by 103 percentages of voters with a turnout of 93 percentages."
+      ],
+      "table_id": "27821.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Emilia was announced as the runner-up, on Day 26, with 46.1% of the votes.",
+         "Emilia was announced as the runner-up, on Day 26, with 46 percentages of the votes."
+      ],
+      "table_id": "27822.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the election, Aoki received 62.7% of the vote to defeat Fukushima, who received 34.7%.",
+         "In the election, Aoki received 58 percentages of the vote to defeat Fukushima, who received 34.7 percentages."
+      ],
+      "table_id": "27882.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Norway has 10.7% Plug-in passenger cars on the road as of 2018, with 55.9 Plug-in cars per 1000 people.",
+         "Norway has 10 percentages Plug-in passenger cars on the road as of 2018, with 55.9 Plug-in cars per 1000 people."
+      ],
+      "table_id": "27907.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Galloway was elected to a full term as State Auditor of Missouri in the election 2018, winning by 135,571 votes, her opponent's 44.6%.",
+         "Galloway was elected to a full term as State Auditor of Missouri in the election 2018, winning by 135,571 votes, her opponent's 44.6 percentages."
+      ],
+      "table_id": "27943.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The rates on qualified dividends range from 0 to 23.8%.",
+         "The rates on qualified dividends range from 0 to 23.8 percentages."
+      ],
+      "table_id": "27976.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2009, a large drop in the SPD vote allowed the Left to gain the seat, although the winning percentage was just 28.8%.",
+         "In 2009, a large drop in the SPD vote allowed the Left to gain the seat, although the winning percentage was just 28.8 percentages."
+      ],
+      "table_id": "27990.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Whiteford from SNP won in the Banff and Buchan constituency with over 60% of the vote and 31.4% majority.",
+         "Whiteford from SNP won in the Banff and Buchan constituency with over 64 percentages of the vote and 32 percentages majority."
+      ],
+      "table_id": "28002.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Joseph M. Carey, a Democratic nominee defeated Republican nominee William E. Mullen and Socialist candidate W. W. Paterson with 55.60% of the vote.",
+         "Joseph M. Carey, a Democratic nominee defeated Republican nominee William E. Mullen and Socialist candidate W. W. Paterson with 57 percentages of the vote."
+      ],
+      "table_id": "28045.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "By 1996, the GDP growth in Pakistan had reached to 1.70% (lowest growth) and the rate of inflation had reached to 10.79%.",
+         "By 1996, the GDP growth in Pakistan had reached to 1.70 percentages (lowest growth) and the rate of inflation had reached to 10.79 percentages."
+      ],
+      "table_id": "28080.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Republican Frank Wheeler Mondell defeated Democrat Henry A. Coffeen and Populist Shakespeare E. Sealey, receiving 52.64% of the vote, making Coffeen the second Representative from Wyoming to lose the election.",
+         "Republican Frank Wheeler Mondell defeated Democrat Henry A. Coffeen and Populist Shakespeare E. Sealey, receiving 54 percentages of the vote, making Coffeen the second Representative from Wyoming to lose the election."
+      ],
+      "table_id": "28123.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Iowa was won by Dwight D. Eisenhower, with 59.06% of the popular vote, against Adlai Stevenson, with 40.65% of the popular vote.",
+         "Iowa was won by Dwight D. Eisenhower, with 55 percentages of the popular vote, against Adlai Stevenson, with 40 percentages of the popular vote."
+      ],
+      "table_id": "28127.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1932 Presidental Election, Alabama was won by Franklin D. Roosevelt (D) with 84.74% against incumbent Herbert Hoover (R) with 14.13%.",
+         "In the 1932 Presidental Election, Alabama was won by Franklin D. Roosevelt (D) with 89 percentages against incumbent Herbert Hoover (R) with 14.13 percentages."
+      ],
+      "table_id": "28138.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2009 Democratic Party (Italy) leadership election, Bersani was elected with 53.2% of the popular vote, Franceschini came in second with 34.3%, and Marino third with 12.5%.",
+         "In the 2009 Democratic Party (Italy) leadership election, Bersani was elected with 52 percentages of the popular vote, Franceschini came in second with 34.3 percentages, and Marino third with 12.5 percentages."
+      ],
+      "table_id": "28150.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Speshow debuted at number one on Taiwan's G-Music Weekly Top 20 Mandarin, Combo Charts, and Five Music Chart with a percentage sales of 25.56%, 13.65%, and 27.64% respectively.",
+         "Speshow debuted at number one on Taiwan's G-Music Weekly Top 20 Mandarin, Combo Charts, and Five Music Chart with a percentage sales of 23, 13.65 percentages, and 28 percentages respectively."
+      ],
+      "table_id": "28165.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Independence of Guinea and Cape Verde was approved by 95.6% of voters, with a turnout of 86.7%.",
+         "Independence of Guinea and Cape Verde was approved by 101 percentages of voters, with a turnout of 86.7 percentages."
+      ],
+      "table_id": "28179.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "A total of 3,070,847 people were registered to vote in the 2011 New Zealand general election with a turnout of 74.21%.",
+         "A total of 3,070,847 people were registered to vote in the 2011 New Zealand general election with a turnout of 74.21 percentages."
+      ],
+      "table_id": "28182.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Republican nominee Louie Nunn defeated Democratic nominee Henry Ward with 51.20% of the vote.",
+         "Republican nominee Louie Nunn defeated Democratic nominee Henry Ward with 51 percentages of the vote."
+      ],
+      "table_id": "28189.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In Veneto, the election was won by the Olive Tree coalition, and Lega Nord has 32.8% in single-seat constituencies and 29.3% among party lists.",
+         "In Veneto, the election was won by the Olive Tree coalition, and Lega Nord has 33 percentages in single-seat constituencies and 30 percentages among party lists."
+      ],
+      "table_id": "28196.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1981 French presidential election, Mitterrand and his Socialist Party received 51.76% of the vote, while Giscard and his Union for French Democracy trailed with about 48.24%, a margin of 1,065,956 votes.",
+         "In the 1981 French presidential election, Mitterrand and his Socialist Party received 52 percentages of the vote, while Giscard and his Union for French Democracy trailed with about 48.24 percentages, a margin of 1,065,956 votes."
+      ],
+      "table_id": "28203.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Little of Republican Party beat Ra\u00fal Labrador and Tommy Ahlquist with 37.3% of the vote.",
+         "Little of Republican Party beat Ra\u00fal Labrador and Tommy Ahlquist with 38 percentages of the vote."
+      ],
+      "table_id": "28259.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democrat Edward P. Carville defeated Republican Aaron V. Tallman with 60.26% of the vote.",
+         "Democrat Edward P. Carville defeated Republican Aaron V. Tallman with 57 percentages of the vote."
+      ],
+      "table_id": "28376.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Republican Robert D. Ray defeated Democratic nominee Paul Franzenburg with 58.43% of the vote.",
+         "Republican Robert D. Ray defeated Democratic nominee Paul Franzenburg with 55 percentages of the vote."
+      ],
+      "table_id": "28435.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1936 United States presidential election in Oklahoma was won by incumbent President Franklin D. Roosevelt (D\u2013New York), with 66.83% of the popular vote, while Alf Landon secured 32.69% of the popular vote.",
+         "1936 United States presidential election in Oklahoma was won by incumbent President Franklin D. Roosevelt (D\u2013New York), with 67 percentages of the popular vote, while Alf Landon secured 30 percentages of the popular vote."
+      ],
+      "table_id": "28442.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Greenlandic Government and the SAS Group are the largest shareholders of the Air Greenland airline, owning a 37.5% stake each.",
+         "The Greenlandic Government and the SAS Group are the largest shareholders of the Air Greenland airline, owning a 35 percentages stake each."
+      ],
+      "table_id": "28461.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1934 New Jersey gubernatorial election, Republican nominee Harold G. Hoffman defeated Democratic nominee William L. Dill with 49.90% of the vote.",
+         "In the 1934 New Jersey gubernatorial election, Republican nominee Harold G. Hoffman defeated Democratic nominee William L. Dill with 49 percentages of the vote."
+      ],
+      "table_id": "28486.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "McClintock obtained 45.1% of the vote, while three other candidates obtained a combined 9.5% of the vote.",
+         "McClintock obtained 45 percentages of the vote, while three other candidates obtained a combined 9.5 percentages of the vote."
+      ],
+      "table_id": "28548.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Wes Gilbreath led with 36.7% and Beau Boulter came second with 30.5% in the 1988 United States Senate elections.",
+         "Wes Gilbreath led with 37 percentages and Beau Boulter came second with 29 percentages in the 1988 United States Senate elections."
+      ],
+      "table_id": "28575.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Alex won the Celebrity Big Brother on Day 27 with 65.9% of the vote.",
+         "Alex won the Celebrity Big Brother on Day 27 with 61 percentages of the vote."
+      ],
+      "table_id": "28576.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democrat William L. Guy defeated Republican nominee Donald M. Halcrow with 55.74% of the vote.",
+         "Democrat William L. Guy defeated Republican nominee Donald M. Halcrow with 59 percentages of the vote."
+      ],
+      "table_id": "28598.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Minnesota Amendment 2 was defeated with 53.84% voting against the measure and 46.16% voting for the measure.",
+         "Minnesota Amendment 2 was defeated with 53 percentages voting against the measure and 48 percentages voting for the measure."
+      ],
+      "table_id": "28614.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "As a result of 1964 Central African parliamentary election, Movement for the Social Evolution of Black Africa won all 60 seats with 98.96% of the vote.",
+         "As a result of 1964 Central African parliamentary election, Movement for the Social Evolution of Black Africa won all 60 seats with 98 percentages of the vote."
+      ],
+      "table_id": "28625.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Mike Bercovici completed 3 of 4 with 75% for 18 yards and had a rating of 112.8.",
+         "Mike Bercovici completed 3 of 4 with 73 percentages for 18 yards and had a rating of 112.8."
+      ],
+      "table_id": "28717.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The president was elected with 96.1% of the votes on a 91.5% turnout.",
+         "The president was elected with 90 percentages of the votes on a 89 percentages turnout."
+      ],
+      "table_id": "28743.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The change was approved by 53.8% of voters with a turnout of 63.2%.",
+         "The change was approved by 48 percentages of voters with a turnout of 63.2 percentages."
+      ],
+      "table_id": "28745.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Banks held West Ham seat in the election with nearly 70% of the vote and a majority of 53.5% of the vote.",
+         "Banks held West Ham seat in the election with nearly 64 percentages of the vote and a majority of 50 percentages of the vote."
+      ],
+      "table_id": "28796.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2015, there are 3.882 million Catholics registered (based on Catholic Church registration) in the Netherlands, representing 22.9% of the population, which is down from more than 40% in 1970.",
+         "In 2015, there are 3.882 million Catholics registered (based on Catholic Church registration) in the Netherlands, representing 23 percentages of the population, which is down from more than 43 percentages in 1970."
+      ],
+      "table_id": "28804.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Abdelaziz Bouteflika had won 81.53% of the vote, Ali Benflis came in second with 12.18%.",
+         "Abdelaziz Bouteflika had won 88 percentages of the vote, Ali Benflis came in second with 12.18 percentages."
+      ],
+      "table_id": "28812.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Constitution of the European Union was approved by 81.8% of voters, turnout was 41.8%.",
+         "Constitution of the European Union was approved by 74 percentages of voters, turnout was 41.8 percentages."
+      ],
+      "table_id": "28829.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1977 Egyptian protection of national unity referendum was approved by 99.4% of voters, with a turnout of 96.7%.",
+         "The 1977 Egyptian protection of national unity referendum was approved by 104 percentages of voters, with a turnout of 96.7 percentages."
+      ],
+      "table_id": "28844.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "At the 1912 Bow and Bromley by-election, Lansbury had gained the seat for Labour with a majority of 11.1%.",
+         "At the 1912 Bow and Bromley by-election, Lansbury had gained the seat for Labour with a majority of 11.1 percentages."
+      ],
+      "table_id": "28860.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Law and Justice party won the 2015 Polish parliamentary election with 37.58% of the vote, beating out Civic Platform, who received a 24.09% share.",
+         "The Law and Justice party won the 2015 Polish parliamentary election with 34 percentages of the vote, beating out Civic Platform, who received a 22 percentages share."
+      ],
+      "table_id": "28888.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1970 Moroccan constitutional referendum was approved by 98.8% of voters, with a 93.2% turnout.",
+         "The 1970 Moroccan constitutional referendum was approved by 105 percentages of voters, with a 87 percentages turnout."
+      ],
+      "table_id": "28966.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "D\u00edaz de la Portilla lost to Democrat Jos\u00e9 Javier Rodr\u00edguez, with 53.7 to 46.3%.",
+         "D\u00edaz de la Portilla lost to Democrat Jos\u00e9 Javier Rodr\u00edguez, with 53.7 to 46.3 percentages."
+      ],
+      "table_id": "28979.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1948 United States presidential election in Illinois was won by incumbent Harry S. Truman (D) with 50.07% of the votes, against Thomas Dewey (R) with 49.22% of the votes.",
+         "1948 United States presidential election in Illinois was won by incumbent Harry S. Truman (D) with 50 percentages of the votes, against Thomas Dewey (R) with 48 percentages of the votes."
+      ],
+      "table_id": "29005.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ni\u00f1a became the second housemate officially evicted from the house on Day 14, following Bam with 42.7% of the votes.",
+         "Ni\u00f1a became the second housemate officially evicted from the house on Day 14, following Bam with 41 percentages of the votes."
+      ],
+      "table_id": "29008.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Republican Lamar Alexander defeated Democratic nominee Randy Tyree with 59.56% of the vote.",
+         "Republican Lamar Alexander defeated Democratic nominee Randy Tyree with 56 percentages of the vote."
+      ],
+      "table_id": "29027.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nixon carried Iowa with 57.61% of the vote to McGovern\u2019s 40.48%, a victory margin of 17.13%.",
+         "Nixon carried Iowa with 60 percentages of the vote to McGovern\u2019s 40.48 percentages, a victory margin of 17.13 percentages."
+      ],
+      "table_id": "29042.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Linda Jeffrey won the mayoral election defeating Susan Fennell with 49.33% of the vote.",
+         "Linda Jeffrey won the mayoral election defeating Susan Fennell with 48 percentages of the vote."
+      ],
+      "table_id": "29113.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the municipalities of Pre\u0161evo and Bujanovac, Albanians form the majority of population (89.1% in Pre\u0161evo and 54.69% in Bujanovac according to the 2002 census).",
+         "In the municipalities of Pre\u0161evo and Bujanovac, Albanians form the majority of population (89.1 percentages in Pre\u0161evo and 51 percentages in Bujanovac according to the 2002 census)."
+      ],
+      "table_id": "29133.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 1998, Nellist was elected in the Coventry City Council for St Michael's ward, where he was re-elected in 2004 and again in 2008, with 48.6% of the votes.",
+         "In 1998, Nellist was elected in the Coventry City Council for St Michael's ward, where he was re-elected in 2004 and again in 2008, with 45 percentages of the votes."
+      ],
+      "table_id": "29138.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "in the 1986 Iowa gubernatorial election, Republican Terry Branstad defeated Democratic nominee Lowell Junkins by 51.91% of the votes.",
+         "in the 1986 Iowa gubernatorial election, Republican Terry Branstad defeated Democratic nominee Lowell Junkins by 52 percentages of the votes."
+      ],
+      "table_id": "29157.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the Presidential elections, Colorado Party received 48.9% of the vote, whilst the National Party received 48.4%.",
+         "In the Presidential elections, Colorado Party received 45 percentages of the vote, whilst the National Party received 48.4 percentages."
+      ],
+      "table_id": "29178.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Hoeven beat the Democrat's Tracy Potter with 76.08% to 22.17%.",
+         "Hoeven beat the Democrat's Tracy Potter with 74 percentages to 22.17 percentages."
+      ],
+      "table_id": "29249.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Mississippi was won by Franklin D. Roosevelt (D) with 95.98% of the vote, against incumbent President Herbert Hoover (R) with 3.55% of the vote.",
+         "Mississippi was won by Franklin D. Roosevelt (D) with 86 percentages of the vote, against incumbent President Herbert Hoover (R) with 3.55 percentages of the vote."
+      ],
+      "table_id": "29258.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The subsidies for health insurance are given to individuals who have income between 133% and 400% of the poverty line.",
+         "The subsidies for health insurance are given to individuals who have income between 120 percentages and 427 percentages of the poverty line."
+      ],
+      "table_id": "29266.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1923 Estonian religious education referendum was approved by 71.9% of voters with a turnout of 66.2%.",
+         "The 1923 Estonian religious education referendum was approved by 72 percentages of voters with a turnout of 66.2 percentages."
+      ],
+      "table_id": "29294.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "During the 2010 General election, the local electorate had the largest vote change (Conservative-to-Liberal Democrat), of 11.1%.",
+         "During the 2010 General election, the local electorate had the largest vote change (Conservative-to-Liberal Democrat), of 11.1 percentages."
+      ],
+      "table_id": "29306.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Scott Surovell won the election by a margin of 60.52% to 39.28%.",
+         "Scott Surovell won the election by a margin of 57 percentages to 39.28 percentages."
+      ],
+      "table_id": "29348.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1946 Faroese independence referendum result was 50.73% in favor of independence to 49.27% of Denmark.",
+         "The 1946 Faroese independence referendum result was 50 percentages in favor of independence to 52 percentages of Denmark."
+      ],
+      "table_id": "29396.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2015, Loyola Marymount University received 13,288 applications, and 50.8% were admitted.",
+         "In 2015, Loyola Marymount University received 13,288 applications, and 47 percentages were admitted."
+      ],
+      "table_id": "29403.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "McCurdy held his seat with a majority of 3,371, at the election and a percentage of 55.6%.",
+         "McCurdy held his seat with a majority of 3,371, at the election and a percentage of 55.6 percentages."
+      ],
+      "table_id": "29416.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Thomas Wintringham was a candidate of the Liberal party, gain the seat from Unionists with 11.8% swing in 1920 Louth by-election.",
+         "Thomas Wintringham was a candidate of the Liberal party, gain the seat from Unionists with 10 percentages swing in 1920 Louth by-election."
+      ],
+      "table_id": "29463.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "9,320,240 of the 18,293,277 eligible voters participated in the 2009 Romanian parliamentary reform referendum with a turnout rate of 50.95%.",
+         "9,320,240 of the 18,293,277 eligible voters participated in the 2009 Romanian parliamentary reform referendum with a turnout rate of 50.95 percentages."
+      ],
+      "table_id": "29478.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "56.52% of the 220,717 voters said \"yes\".",
+         "57 percentages of the 220,717 voters said \"yes\"."
+      ],
+      "table_id": "29481.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democrat William L. Guy defeated Republican nominee Robert P. McCarney with 54.82% of the vote.",
+         "Democrat William L. Guy defeated Republican nominee Robert P. McCarney with 55 percentages of the vote."
+      ],
+      "table_id": "29488.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The racial makeup of Portland was 83.6% White, 7.1% African American, 0.5% Native American, 3.5% Asian, 3.0% Hispanic or Latino and 2.7% from two or more races.",
+         "The racial makeup of Portland was 79% White, 7.1% African American, 0.5% Native American, 3.5% Asian, 3.0 percentages Hispanic or Latino and 2.7 percentages from two or more races."
+      ],
+      "table_id": "29538.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Doherty lost to McCaul by a 54% (179,493) to 43% (143,719) margin with the Libertarian, Matt Finkel, taking the remainder of the votes.",
+         "Doherty lost to McCaul by a 49 percentages (179,493) to 45 percentages (145,719) margin with the Libertarian, Matt Finkel, taking the remainder of the votes."
+      ],
+      "table_id": "29587.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The racial makeup of Ann Arbor, Michigan was 73.0% White, 70.4% non-Hispanic White, 7.7% Black or African American and 14.4% Asian.",
+         "The racial makeup of Ann Arbor, Michigan was 68 percentages White, 67 percentages non-Hispanic White, 7.7 percentages Black or African American and 13 percentages Asian."
+      ],
+      "table_id": "29596.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Labour candidate Tulip Siddiq from Hampstead and Kilburn's party secured with 26.6% of the votes.",
+         "Labour candidate Tulip Siddiq from Hampstead and Kilburn's party secured with 24 percentages of the votes."
+      ],
+      "table_id": "29685.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Total TV viewing market share of Germany's market leaders in 2018 were ZDF with 13.9% and Das Erste with 11.5% and the two channels RTL with 8.3% and SAT.1 with 6.2%.",
+         "Total TV viewing market share of Germany's market leaders in 2018 were ZDF with 12 percentages and Das Erste with 10 percentages and the two channels RTL with 8.3 percentages and SAT.1 with 6.2 percentages."
+      ],
+      "table_id": "29697.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "A majority voted for Canadian prohibition plebiscite, except in Quebec, where 81.2% opposed it.",
+         "A majority voted for Canadian prohibition plebiscite, except in Quebec, where 87 percentages opposed it."
+      ],
+      "table_id": "29739.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "With 62.65% voting Yes, the referendum passed successfully.",
+         "With 66 percentages voting Yes, the referendum passed successfully."
+      ],
+      "table_id": "29762.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to the census of 2007, 56.1% of the population of Mozambique were Christian, 17.9% were Muslim, 18.7% had no religion, and 7.3% were of other beliefs.",
+         "According to the census of 2007, 56 percentages of the population of Mozambique were Christian, 16 percentages were Muslim, 17 percentages had no religion, and 7.3 percentages were of other beliefs."
+      ],
+      "table_id": "29782.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to the 2002 census, there were 287 people residing in Wola Osowa, of whom 50.5% were male and 49.5% were female.",
+         "According to the 2002 census, there were 287 people residing in Wola Osowa, of whom 50 percentages were male and 52 percentages were female."
+      ],
+      "table_id": "29790.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to the 2002 census, there were 84 people residing in Byd\u0142owa, of whom 48.8% were male and 51.2% were female.",
+         "According to the 2002 census, there were 84 people residing in Byd\u0142owa, of whom 46 percentages were male and 46 percentages were female."
+      ],
+      "table_id": "29797.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The result of 1927 Southwark North by-election was a gain for the Liberal Party with Strauss obtaining a majority of 1,167 over Isaacs with Haden-Guest a third with less than 20% of the poll.",
+         "The result of 1927 Southwark North by-election was a gain for the Liberal Party with Strauss obtaining a majority of 1,167 over Isaacs with Haden-Guest a third with less than 19 percentages of the poll."
+      ],
+      "table_id": "29830.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The cost of the Senedd increased from \u00a312M in 1997 to \u00a369.6M in 2006, an increase of 580%.",
+         "The cost of the Senedd increased from \u00a312M in 1997 to \u00a369.6M in 2006, an increase of 580 percentages."
+      ],
+      "table_id": "29853.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "4th Big Placer Devon had a total vote of 142,876 or 15.74%.",
+         "4th Big Placer Devon had a total vote of 142,876 or 15.74 percentages."
+      ],
+      "table_id": "29857.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The National Liberal Party received 27.7% of vote, and Labour received 21.4%.",
+         "The National Liberal Party received 26 percentages of vote, and Labour received 21.4 percentages."
+      ],
+      "table_id": "29879.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1996 Chadian constitutional referendum was approved by 63.5% of voters with a 61% turnout.",
+         "The 1996 Chadian constitutional referendum was approved by 64 percentages of voters with a 57 percentages turnout."
+      ],
+      "table_id": "29883.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "UM received a record 34,279 applications for 2018, and reported an acceptance rate of 32.1%.",
+         "UM received a record 34,279 applications for 2018, and reported an acceptance rate of 32.1 percentages."
+      ],
+      "table_id": "29891.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In Angola, the proportion of children below the age of 15 in 2010 was 46.6%, 50.9% were between 15 and 65 years of age, while 2.5% were 65 years or older.",
+         "In Angola, the proportion of children below the age of 15 in 2010 was 47, 51 percentages were between 15 and 65 years of age, while 2.5 percentages were 65 years or older."
+      ],
+      "table_id": "29930.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Tina Liebling defeated Nelson with 50.75% of the vote.",
+         "Tina Liebling defeated Nelson with 46 percentages of the vote."
+      ],
+      "table_id": "29939.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Republican's DeForest Richards was the Governor of Wyoming after defeating Democrat George T. Beck with 57.81% of the vote.",
+         "Republican's DeForest Richards was the Governor of Wyoming after defeating Democrat George T. Beck with 58 percentages of the vote."
+      ],
+      "table_id": "30017.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Hern\u00e1ndez leads, when compared to the 41.42% of Nasralla.",
+         "Hern\u00e1ndez leads, when compared to the 38 percentages of Nasralla."
+      ],
+      "table_id": "30021.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "San Diego had 58.9% White, 6.7% African American and 15.9% Asian.",
+         "San Diego had 58 percentages White, 6.7 percentages African American and 14 percentages Asian."
+      ],
+      "table_id": "30064.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The October 1946 French constitutional referendum in Chad\u2013Ubangi-Shari was rejected, with 77.3% of voters voting against with a turnout of 64.5%.",
+         "The October 1946 French constitutional referendum in Chad\u2013Ubangi-Shari was rejected, with 74 percentages of voters voting against with a turnout of 64.5 percentages."
+      ],
+      "table_id": "30074.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "With a turnout of 42.5%, Newbould from the Liberal party won 57.3% of the vote in the by-election.",
+         "With a turnout of 43, Newbould from the Liberal party won 52 percentages of the vote in the by-election."
+      ],
+      "table_id": "30075.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Voters passed the Constitutional Amendment by a margin of 53.84% to 46.16%.",
+         "Voters passed the Constitutional Amendment by a margin of 49 percentages to 46.16 percentages."
+      ],
+      "table_id": "30087.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1932 United States presidential election in Illinois was won by Franklin D. Roosevelt with 55.23% of the vote against incumbent President Herbert Hoover with 42.04% of the vote.",
+         "The 1932 United States presidential election in Illinois was won by Franklin D. Roosevelt with 58 percentages of the vote against incumbent President Herbert Hoover with 43 percentages of the vote."
+      ],
+      "table_id": "30091.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democrats Frank Briscoe and Mark Gibson ran for their party's nomination and Briscoe won with 53.18% of the vote.",
+         "Democrats Frank Briscoe and Mark Gibson ran for their party's nomination and Briscoe won with 56 percentages of the vote."
+      ],
+      "table_id": "30122.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Alice Lucas took 32.2% of the vote, and came second to the Liberal candidate, Henry Purchase.",
+         "Alice Lucas took 33 percentages of the vote, and came second to the Liberal candidate, Henry Purchase."
+      ],
+      "table_id": "30154.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Sestak defeated Specter, garnering 53.9% of the vote, to Specter's 46.1%.",
+         "Sestak defeated Specter, garnering 53 percentages of the vote, to Specter's 46.1 percentages."
+      ],
+      "table_id": "30164.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The result was a victory was for Wilson, who held the 1878 Middlesbrough seat for the Liberal with a majority of 37.6% of the votes.",
+         "The result was a victory was for Wilson, who held the 1878 Middlesbrough seat for the Liberal with a majority of 35 percentages of the votes."
+      ],
+      "table_id": "30166.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2000 Slovak early parliamentary elections referendum was approved by 95.1% of votes and the voter turnout was 20%.",
+         "The 2000 Slovak early parliamentary elections referendum was approved by 98 percentages of votes and the voter turnout was 20 percentages."
+      ],
+      "table_id": "30215.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Republican Representative Frank Wheeler Mondell defeated Democratic John C. Thompson and became Representative of Wyoming with 59.21% of the votes.",
+         "Republican Representative Frank Wheeler Mondell defeated Democratic John C. Thompson and became Representative of Wyoming with 61 percentages of the votes."
+      ],
+      "table_id": "30241.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Garamendi defeated Republican Kim Vann 54.2%-45.8%.",
+         "Garamendi defeated Republican Kim Vann 54.2 percentages-45.8 percentages."
+      ],
+      "table_id": "30257.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Out of 1,307 cases Hendry deemed 88.6% and 8.6% were unknowns (UFOs).",
+         "Out of 1,307 cases Hendry deemed 85 percentages and 8.6 percentages were unknowns (UFOs)."
+      ],
+      "table_id": "30261.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Slave Hunters averaged 31.7% and reached a peak of 35.9%.",
+         "The Slave Hunters averaged 33 percentages and reached a peak of 35.9 percentages."
+      ],
+      "table_id": "30288.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The race group Native Hawaiian and Other Pacific native alone increased from 0.05% of the population in 2000 to 0.16% of the population in 2010 for a 350.00% increase, which was the greatest percent change out of all race groups.",
+         "The race group Native Hawaiian and Other Pacific native alone increased from 0.05% of the population in 2000 to 0.16 percentages of the population in 2010 for a 374 percentages increase, which was the greatest percent change out of all race groups."
+      ],
+      "table_id": "30304.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2017, the GDP per capita of French Guiana was \u20ac16,218, but that only represented 46.7% of metropolitan France's average GDP per capita that year.",
+         "In 2017, the GDP per capita of French Guiana was \u20ac16,218, but that only represented 44 percentages of metropolitan France's average GDP per capita that year."
+      ],
+      "table_id": "30362.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "David Allaire defeated incumbent Christopher Louras with 51.85% of the vote.",
+         "David Allaire defeated incumbent Christopher Louras with 52 percentages of the vote."
+      ],
+      "table_id": "30364.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The second option won the vote, receiving 39.1% of the ballots cast to 38.7% for option 3.",
+         "The second option won the vote, receiving 39 percentages of the ballots cast to 36 percentages for option 3."
+      ],
+      "table_id": "30365.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The referendum was approved by voters, but there was a voter turnout of 37.5%",
+         "The referendum was approved by voters, but there was a voter turnout of 38 percentages"
+      ],
+      "table_id": "30374.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1932 United States presidential election in Indiana was won by Franklin D. Roosevelt (D) with 54.67% of the popular vote, against incumbent Herbert Hoover (R), with 42.94% of the popular vote.",
+         "The 1932 United States presidential election in Indiana was won by Franklin D. Roosevelt (D) with 55 percentages of the popular vote, against incumbent Herbert Hoover (R), with 42 percentages of the popular vote."
+      ],
+      "table_id": "30428.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The standard rate of VAT was increased from 17.5% to 20% on 4 January 2011.",
+         "The standard rate of VAT was increased from 16 percentages to 19 percentages on 4 January 1911."
+      ],
+      "table_id": "30434.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Romney carried Montana with 55.35% of the vote, compared to Obama's 41.70%, resulting in a 13.65% margin of victory.",
+         "Romney carried Montana with 50 percentages of the vote, compared to Obama's 41.70 percentages, resulting in a 12 percentages margin of victory."
+      ],
+      "table_id": "30451.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Lega Nord Friuli-Venezia Giulia in a regional election, became the largest party with 26.7%, while Christian Democracy, came second with 22.3%.",
+         "Lega Nord Friuli-Venezia Giulia in a regional election, became the largest party with 27, while Christian Democracy, came second with 22.3 percentages."
+      ],
+      "table_id": "30476.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Hau was elected in 2010 with 55.65% of the vote.",
+         "Hau was elected in 2010 with 53 percentages of the vote."
+      ],
+      "table_id": "30485.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to the 2002 census, there were 214 people residing in Gorzk\u00f3w, of whom 48.1% were male and 51.9% were female.",
+         "According to the 2002 census, there were 214 people residing in Gorzk\u00f3w, of whom 44 percentages were male and 53 percentages were female."
+      ],
+      "table_id": "30518.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Carter won reelection with 61.28% of votes against Wyman's 34.98%.",
+         "Carter won reelection with 66 percentages of votes against Wyman's 34.98 percentages."
+      ],
+      "table_id": "30550.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1991 Latvian independence and democracy referendum was approved by 74.9% of voters, with a turnout of 87.6%.",
+         "1991 Latvian independence and democracy referendum was approved by 75 percentages of voters, with a turnout of 87.6 percentages."
+      ],
+      "table_id": "30569.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Voter turnout was 89.40% with 4,447,388 of Tunisia's voters.",
+         "Voter turnout was 81 percentages with 4,447,388 of Tunisia's voters."
+      ],
+      "table_id": "30611.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Missouri was won by Franklin D. Roosevelt (D), with 60.76% of the vote, against Alf Landon (R), with 38.16% of the vote.",
+         "Missouri was won by Franklin D. Roosevelt (D), with 58 percentages of the vote, against Alf Landon (R), with 40 percentages of the vote."
+      ],
+      "table_id": "30673.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2010 Icelandic municipal elections, the Independence Party was second place with 33.6% of the vote, and 34.7% for the Best Party.",
+         "In the 2010 Icelandic municipal elections, the Independence Party was second place with 32 percentages of the vote, and 35 percentages for the Best Party."
+      ],
+      "table_id": "30714.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The turnout was 53.09%, with 3.22% votes invalid.",
+         "The turnout was 56, with 3.22 percentages votes invalid."
+      ],
+      "table_id": "30733.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Republican Robert D. Ray defeated Democrat Robert D. Fulton with 50.98% of the vote.",
+         "Republican Robert D. Ray defeated Democrat Robert D. Fulton with 54 percentages of the vote."
+      ],
+      "table_id": "30755.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nationally, Nicolas Sarkozy led with 31.18% of the vote, followed by S\u00e9gol\u00e8ne Royal with 25.87%, and then Fran\u00e7ois Bayrou with 18.57%.",
+         "Nationally, Nicolas Sarkozy led with 33 percentages of the vote, followed by S\u00e9gol\u00e8ne Royal with 25.87 percentages, and then Fran\u00e7ois Bayrou with 18.57 percentages."
+      ],
+      "table_id": "30771.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "With no candidate obtaining a majority of the vote, Graham and Hyman, received 33.4% and 24.9% of the vote, respectively.",
+         "With no candidate obtaining a majority of the vote, Graham and Hyman, received 33 percentages and 22 percentages of the vote, respectively."
+      ],
+      "table_id": "30793.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Kasoulidis is in first place with 33.51%, Christofias is in second with 33.29% and Papadopoulos is in third with 31.79%.",
+         "Kasoulidis is in first place with 35, Christofias is in second with 30 percentages and Papadopoulos is in third with 31.79 percentages."
+      ],
+      "table_id": "30831.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Whites comprised 96.1% of Seattle's population in 1940,\u00a0 87.4% in 1970, 75.3% in 1990, and 69.5% in 2010,",
+         "Whites comprised 91 percentages of Seattle's population in 1940,\u00a0 79 percentages in 1970, 72 percentages in 1990, and 65 percentages in 2010,"
+      ],
+      "table_id": "30845.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Claire McCaskill was elected with 54.7% of the vote to Akin's 39.2%.",
+         "Claire McCaskill was elected with 58 percentages of the vote to Akin's 39.2 percentages."
+      ],
+      "table_id": "30861.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Instant-runoff voting in the United States amounted to 42.33% for the first-round vote, with 19.38% exhausted ballots.",
+         "Instant-runoff voting in the United States amounted to 42 percentages for the first-round vote, with 18 percentages exhausted ballots."
+      ],
+      "table_id": "30883.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The figures show the total population of specified birthplace New Zealand-born is 69.74%, and 30.26% are born-overseas.",
+         "The figures show the total population of specified birthplace New Zealand-born is 65, and 29 percentages are born-overseas."
+      ],
+      "table_id": "30891.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "According to the 1998 census, the linguistic distribution of Karachi consists, 48.52% of Urdu, 13.94% of Punjabi, 11.42% of Pashto, 7.22% of Sindhi, 4.34% of Balochi, 2.11% of Saraiki and others 12.44%.",
+         "According to the 1998 census, the linguistic distribution of Karachi consists, 51 percentages of Urdu, 12 percentages of Punjabi, 11 percentages of Pashto, 7.22 percentages of Sindhi, 4.34 percentages of Balochi, 2.11 percentages of Saraiki and others 12.44 percentages."
+      ],
+      "table_id": "30909.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "North Dakota was won by incumbent President Dwight D. Eisenhower with 61.72% of the popular vote, against Adlai Stevenson with 38.09% of the popular vote.",
+         "North Dakota was won by incumbent President Dwight D. Eisenhower with 61 percentages of the popular vote, against Adlai Stevenson with 37 percentages of the popular vote."
+      ],
+      "table_id": "30923.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1974 Iowa gubernatorial election, Republican Robert D. Ray defeated Democrat James F. Schaben with 58.07% of the votes.",
+         "In the 1974 Iowa gubernatorial election, Republican Robert D. Ray defeated Democrat James F. Schaben with 58 percentages of the votes."
+      ],
+      "table_id": "30947.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Bridgen's majority was 7,511 or 14.5% of the total votes cast.",
+         "Bridgen's majority was 7,511 or 14 percentages of the total votes cast."
+      ],
+      "table_id": "30962.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Labour Party candidate George Craddock won with a majority of 4,022 and 51.3% of the vote.",
+         "Labour Party candidate George Craddock won with a majority of 4,022 and 49 percentages of the vote."
+      ],
+      "table_id": "30979.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1974 Italian divorce referendum was defeated by 59.26% to 40.74% and has a voter turnout of 87.72%.",
+         "The 1974 Italian divorce referendum was defeated by 54 percentages to 43 percentages and has a voter turnout of 87.72 percentages."
+      ],
+      "table_id": "31011.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1936 United States presidential election, Illinois was won by incumbent Franklin D. Roosevelt with 57.70% of the popular vote against Alf Landon with 39.69% of the popular vote.",
+         "In the 1936 United States presidential election, Illinois was won by incumbent Franklin D. Roosevelt with 52 percentages of the popular vote against Alf Landon with 41 percentages of the popular vote."
+      ],
+      "table_id": "31031.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Dick LaRossa defeated Gerald R. Stockman by a narrow 50.9%-49.1% margin.",
+         "Dick LaRossa defeated Gerald R. Stockman by a narrow 48 percentages margin."
+      ],
+      "table_id": "31056.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democratic nominee, Robert B. Meyner defeated Republican nominee Paul L. Troast with 53.17% of the vote.",
+         "Democratic nominee, Robert B. Meyner defeated Republican nominee Paul L. Troast with 48 percentages of the vote."
+      ],
+      "table_id": "31089.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2018, Morgan received 69.6% of the vote.",
+         "In 2018, Morgan received 68 percentages of the vote."
+      ],
+      "table_id": "31099.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2016 Castronovo won six awards including the Gold, Silver and Bronze for Best Dark Chocolate Bean-to-Bar under 80%.",
+         "In 2016 Castronovo won six awards including the Gold, Silver and Bronze for Best Dark Chocolate Bean-to-Bar under 80 percentages."
+      ],
+      "table_id": "31117.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1969 Danish electoral age referendum was rejected by 78.6% of voters with a turnout of 63.6%.",
+         "The 1969 Danish electoral age referendum was rejected by 83 percentages of voters with a turnout of 63.6 percentages."
+      ],
+      "table_id": "31142.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Republican candidate William A. Richards, receiving 52.61% of the vote, defeated the Democrat William H. Holliday.",
+         "Republican candidate William A. Richards, receiving 47 percentages of the vote, defeated the Democrat William H. Holliday."
+      ],
+      "table_id": "31185.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Runnymede and Weybridge election's margin of victory was 19.2%.",
+         "Runnymede and Weybridge election's margin of victory was 19.2 percentages."
+      ],
+      "table_id": "31212.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Maggie McEwen won with 68.2% of the vote, followed by the Liberal Democrats with 12.6%.",
+         "Maggie McEwen won with 65 percentages of the vote, followed by the Liberal Democrats with 12.6 percentages."
+      ],
+      "table_id": "31227.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The result announced that Hosni Mubarak won the 2005 Egyptian presidential election with 88.6% of the vote.",
+         "The result announced that Hosni Mubarak won the 2005 Egyptian presidential election with 95 percentages of the vote."
+      ],
+      "table_id": "31242.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "15.5% was slightly higher than the Scotland average of 15.2%.",
+         "15 percentages was slightly higher than the Scotland average of 15.2 percentages."
+      ],
+      "table_id": "31243.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1916 Danish West Indies status referendum was approved by 99.83% of voters, with only seven people voting against it.",
+         "The 1916 Danish West Indies status referendum was approved by 90 percentages of voters, with only seven people voting against it."
+      ],
+      "table_id": "31251.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Bengali Muslim population is 49.92% in Uttar Dinajpur, 51.27% in Maldah and 66.28% in Murshidabad.",
+         "The Bengali Muslim population is 47 percentages in Uttar Dinajpur, 50 percentages in Maldah and 67 percentages in Murshidabad."
+      ],
+      "table_id": "31277.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Kevin Johnson defeated other candidates with 58.74% of the votes.",
+         "Kevin Johnson defeated other candidates with 60 percentages of the votes."
+      ],
+      "table_id": "31284.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2008 Zambian presidential election, Banda had the victory with 40.09% of the vote against 38.13% for Sata.",
+         "In the 2008 Zambian presidential election, Banda had the victory with 43 percentages of the vote against 39 percentages for Sata."
+      ],
+      "table_id": "31298.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In Lombardy the Democratic Party was the largest party with 40.3% of the vote, Forza Italia (16.9%), the Five Star Movement (15.7%) and Lega Nord (14.6%).",
+         "In Lombardy the Democratic Party was the largest party with 40% of the vote, Forza Italia (16.9%), the Five Star Movement (15.7 percentages) and Lega Nord (14.6 percentages)."
+      ],
+      "table_id": "31302.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the first round, B\u0103sescu came first with 32.44% of the votes, and Geoan\u0103 second with 31.15%.",
+         "In the first round, B\u0103sescu came first with 33 percentages of the votes, and Geoan\u0103 second with 31.15 percentages."
+      ],
+      "table_id": "31311.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ch\u00e1vez was elected as President of Venezuela with 55.07% of the popular vote, ahead of the 44.31% of Capriles.",
+         "Ch\u00e1vez was elected as President of Venezuela with 59 percentages of the popular vote, ahead of the 45 percentages of Capriles."
+      ],
+      "table_id": "31355.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Bell held the seat for the Conservatives with a majority of 2,702 votes; Edwards had won 45.5% of the votes for the ILP.",
+         "Bell held the seat for the Conservatives with a majority of 2,702 votes; Edwards had won 45 percentages of the votes for the ILP."
+      ],
+      "table_id": "31381.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Roman Catholicism of the Netherlands formed 23.7% in 2015, down from 40% in the 1960s.",
+         "Roman Catholicism of the Netherlands formed 24 percentages in 2015, down from 42 percentages in the 1960s."
+      ],
+      "table_id": "31393.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2015, Burden was elected with a majority of 2,509 votes and a vote share of 41.6% in the Northfield Birmingham.",
+         "In 2015, Burden was elected with a majority of 2,509 votes and a vote share of 39 percentages in the Northfield Birmingham."
+      ],
+      "table_id": "31404.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Illinois was won by iLyndon B. Johnson, with 59.47% of the vote, against Barry Goldwater, with 40.53% of the vote.",
+         "Illinois was won by iLyndon B. Johnson, with 57 percentages of the vote, against Barry Goldwater, with 38 percentages of the vote."
+      ],
+      "table_id": "31429.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2010 election, Labour candidate Nick Smith gained the Blaenau Gwent (UK Parliament constituency) with a 29.2% swing.",
+         "In the 2010 election, Labour candidate Nick Smith gained the Blaenau Gwent (UK Parliament constituency) with a 30 percentages swing."
+      ],
+      "table_id": "31467.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Suzanne McCormick, who had run against Paula Fletcher, was the second-place candidate and received 26.3% (3,470 votes).",
+         "Suzanne McCormick, who had run against Paula Fletcher, was the second-place candidate and received 25 percentages (3,470 votes)."
+      ],
+      "table_id": "31491.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Whig nominee Charles C. Stratton defeated Democratic nominee John Renshaw Thomson with 50.94% of the vote.",
+         "Whig nominee Charles C. Stratton defeated Democratic nominee John Renshaw Thomson with 46 percentages of the vote."
+      ],
+      "table_id": "31517.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 1993 Newbury by-election was won by David Rendel of the Liberal Democrat party with a swing of 28.4%.",
+         "The 1993 Newbury by-election was won by David Rendel of the Liberal Democrat party with a swing of 28.4 percentages."
+      ],
+      "table_id": "31521.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2014, incumbent Mike Honda defeated Ro Khanna with 69,561 or 51.8% of the votes to 64,847 or 48.2%.",
+         "In 2014, incumbent Mike Honda defeated Ro Khanna with 69,561 or 47 percentages of the votes to 64,847 or 48.2 percentages."
+      ],
+      "table_id": "31566.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ruggles-Brise had held the seat with 53.4% of the votes, a majority of 24.5%.",
+         "Ruggles-Brise had held the seat with 55 percentages of the votes, a majority of 24.5 percentages."
+      ],
+      "table_id": "31600.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Kaytranada won the 2016 Polaris Music Prize for his album 99.9%.",
+         "Kaytranada won the 2016 Polaris Music Prize for his album 99.9 percentages."
+      ],
+      "table_id": "31606.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Philippines external debt has gone through a significant growth from 61.6% in 1999 to 68.2% in 2001.",
+         "Philippines external debt has gone through a significant growth from 60 percentages in 1999 to 63 percentages in 2001."
+      ],
+      "table_id": "31690.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Hagedorn won 15.1% of the vote in 2018, placing him third among Republicans running for the office.",
+         "Hagedorn won 14 percentages of the vote in 2018, placing him third among Republicans running for the office."
+      ],
+      "table_id": "31718.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democratic candidate Jacky Rosen defeated the Republican candidate Dean Heller with 50.4% of the vote to Heller's 45.4%.",
+         "Democratic candidate Jacky Rosen defeated the Republican candidate Dean Heller with 53 percentages of the vote to Heller's 45.4 percentages."
+      ],
+      "table_id": "31725.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Admit rate to Georgetown University fell from 16.4% in 2016 to 14.5% in 2018.",
+         "Admit rate to Georgetown University fell from 15 percentages in 2016 to 14 percentages in 2018."
+      ],
+      "table_id": "31743.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Greg Fischer, the incumbent Democratic mayor of Louisville, defeated Bob DeVore, a Republican, tallying 68.5% of the vote to DeVore's 31.3%, with 0.002% of the vote going to write-in candidates.",
+         "Greg Fischer, the incumbent Democratic mayor of Louisville, defeated Bob DeVore, a Republican, tallying 72 percentages of the vote to DeVore's 31.3 percentages, with 0.002 percentages of the vote going to write-in candidates."
+      ],
+      "table_id": "31803.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Koroma won the 2012 Sierra Leonean general election by receiving 58.7% of the vote against 37.4% for the SLPP Bio.",
+         "Koroma won the 2012 Sierra Leonean general election by receiving 55 percentages of the vote against 37 percentages for the SLPP Bio."
+      ],
+      "table_id": "31812.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Edward D. DiPrete defeated Bruce Sundlun with 64.70% of the vote.",
+         "Edward D. DiPrete defeated Bruce Sundlun with 64 percentages of the vote."
+      ],
+      "table_id": "31815.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Literacy rate of Akalgarh is higher in men than women (85.01% versus 75.68%).",
+         "Literacy rate of Akalgarh is higher in men than women (85.01 percentages versus 75.68 percentages)."
+      ],
+      "table_id": "31919.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1973 Cameroonian parliamentary election, the CNU won all available seats, with a turnout of 98.4%.",
+         "In the 1973 Cameroonian parliamentary election, the CNU won all available seats, with a turnout of 98.4 percentages."
+      ],
+      "table_id": "31925.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1,078,205 Dutch citizens were eligible to vote, of which 230,310 cast a vote, representing a turnout of 21.36%.",
+         "1,078,205 Dutch citizens were eligible to vote, of which 230,310 cast a vote, representing a turnout of 21.36 percentages."
+      ],
+      "table_id": "31961.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Republican nominee Arthur B. Langlie defeated Democrat Monrad Wallgren with 50.50% of the vote.",
+         "Republican nominee Arthur B. Langlie defeated Democrat Monrad Wallgren with 54 percentages of the vote."
+      ],
+      "table_id": "31962.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Literacy rate of Chak Gopipur is 79.17%.",
+         "Literacy rate of Chak Gopipur is 79.17 percentages."
+      ],
+      "table_id": "31971.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Lee and Hicks received 35.25% and 2.78% of the votes.",
+         "Lee and Hicks received 34 percentages and 2.78 percentages of the votes."
+      ],
+      "table_id": "32005.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Dwight D. Eisenhower with 70.97 won against Adlai Stevenson with 28.39% of the votes in North Dakota.",
+         "Dwight D. Eisenhower with 70.97 won against Adlai Stevenson with 26 percentages of the votes in North Dakota."
+      ],
+      "table_id": "32056.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2008 Brisbane City Council election, Campbell Newman of the Liberal Party defeated Labor's Greg Rowell with 66.1% of the mayoral two-party-preferred vote.",
+         "In the 2008 Brisbane City Council election, Campbell Newman of the Liberal Party defeated Labor's Greg Rowell with 71 percentages of the mayoral two-party-preferred vote."
+      ],
+      "table_id": "32067.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Sa\u00efb arrived in third with 11.47% of the vote, followed by Capdet with 10.11%, Nguyen-D\u00e9rosier with 6.88%, and Ari\u00e8s with 6.20%.",
+         "Sa\u00efb arrived in third with 10 percentages of the vote, followed by Capdet with 10.11 percentages, Nguyen-D\u00e9rosier with 6.88 percentages, and Ari\u00e8s with 6.20 percentages."
+      ],
+      "table_id": "32072.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Herbert Hoover received slightly over 70% of the votes compared to the Democrat Al Smith's 28.92%.",
+         "Herbert Hoover received slightly over 65 percentages of the votes compared to the Democrat Al Smith's 28.92 percentages."
+      ],
+      "table_id": "32080.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democratic nominee George C. Ludlow defeated Republican nominee Frederic A. Potts with 49.53% of the vote.",
+         "Democratic nominee George C. Ludlow defeated Republican nominee Frederic A. Potts with 45 percentages of the vote."
+      ],
+      "table_id": "32084.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nene was the winner and received 554,906 votes, or 48.9% of total votes, in the Big Night finale.",
+         "Nene was the winner and received 554,906 votes, or 47 percentages of total votes, in the Big Night finale."
+      ],
+      "table_id": "32130.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Ryan Silvey won the election with 52.8% over Democrat Sandra Reeves.",
+         "Ryan Silvey won the election with 55 percentages over Democrat Sandra Reeves."
+      ],
+      "table_id": "32163.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democratic Lieutenant David I. Walsh, defeated the Progressive, Republican and independent candidates, Charles S. Bird, Representative Augustus Peabody Gardner and incumbent Governor Eugene Foss, with 39.77% of the vote.",
+         "Democratic Lieutenant David I. Walsh, defeated the Progressive, Republican and independent candidates, Charles S. Bird, Representative Augustus Peabody Gardner and incumbent Governor Eugene Foss, with 38 percentages of the vote."
+      ],
+      "table_id": "32217.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Cholapuram had a total population of 2285 and a literacy rate of 72.05%.",
+         "Cholapuram had a total population of 2285 and a literacy rate of 72.05 percentages."
+      ],
+      "table_id": "32263.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "1940 United States presidential election in Delaware was won by incumbent President Franklin D. Roosevelt with 54.70% of the vote, against Wendell Willkie with 45.05% of the vote.",
+         "1940 United States presidential election in Delaware was won by incumbent President Franklin D. Roosevelt with 53 percentages of the vote, against Wendell Willkie with 47 percentages of the vote."
+      ],
+      "table_id": "32288.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "South Dakota was won by Wendell Willkie of the Republican party, with 57.41% of the votes, against incumbent Franklin D. Roosevelt of the Democratic party, with 42.59% of the votes.",
+         "South Dakota was won by Wendell Willkie of the Republican party, with 54 percentages of the votes, against incumbent Franklin D. Roosevelt of the Democratic party, with 43 percentages of the votes."
+      ],
+      "table_id": "32298.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Corzine lost the race to Christie by a margin of 48.5% to 44.9% with 5.8% of the vote going to the independent candidate, Chris Daggett.",
+         "Corzine lost the race to Christie by a margin of 49 percentages to 42 percentages with 5.8 percentages of the vote going to the independent candidate, Chris Daggett."
+      ],
+      "table_id": "32308.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "entailment"
+   }
+]

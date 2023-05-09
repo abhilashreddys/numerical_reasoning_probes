@@ -1,0 +1,3052 @@
+[
+   {
+      "hypothesis": [
+         "One municipality other than Fratar had a voter turnout of 57%. What district are we looking for?",
+         "One municipality other than Fratar had a voter turnout of 57 percentages. What district are we looking for?"
+      ],
+      "table_id": "1280.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The least win percentage for opposition is 0.00%.",
+         "The least win percentage for opposition is 0.00 percentages."
+      ],
+      "table_id": "2850.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The lowest win percentage for the opposition is 0.0%.",
+         "The lowest win percentage for the opposition is 0.0 percentages."
+      ],
+      "table_id": "2850.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The lowest win percentage for the opposition is 0.0%.",
+         "The lowest win percentage for the opposition is 0.0 percentages."
+      ],
+      "table_id": "2850.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The lowest win percentage for the opposition is 0.0%.",
+         "The lowest win percentage for the opposition is 0.0 percentages."
+      ],
+      "table_id": "2850.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In 1921, the 120,541 (20,6%) population was a bigger population than the Hungarians.",
+         "In 1921, the 120,541 (20,6 percentages) population was a bigger population than the Hungarians."
+      ],
+      "table_id": "2920.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In 1921, the 126,519 (22.6%) were a larger population than the Hungarians.",
+         "In 1921, the 126,519 (22.6 percentages) were a larger population than the Hungarians."
+      ],
+      "table_id": "2920.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Hispanic population 3.42% had the greatest growth from 2000 to 2005.",
+         "Hispanic population 3.42 percentages had the greatest growth from 2000 to 2005."
+      ],
+      "table_id": "8150.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 4.32% Hispanic population had the greatest growth from 2000 to 2005.",
+         "The 4.32 percentages Hispanic population had the greatest growth from 2000 to 2005."
+      ],
+      "table_id": "8150.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "33.56% hispanic population had the greatest growth from 2000 to 2005.",
+         "33.56 percentages hispanic population had the greatest growth from 2000 to 2005."
+      ],
+      "table_id": "8150.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Clare G. Fenerty had a higher percentage of votes than Matthew A. Dunn (D) 89.2% Guy E. Campbell (R) 6.8% John W. Slayton, Sr. (S) 1.8% Charles R. Murray (Ind Cit) 1.4% Louis C. Clark (Proh) 0.8%",
+         "Clare G. Fenerty had a higher percentage of votes than Matthew A. Dunn (D) 89.2 percentages Guy E. Campbell (R) 6.8 percentages John W. Slayton, Sr. (S) 1.8 percentages Charles R. Murray (Ind Cit) 1.4 percentages Louis C. Clark (Proh) 0.8 percentages"
+      ],
+      "table_id": "10000.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Clare G. Fenerty had a higher percentage of votes than George P. Darrow (R) 52.7% James C. Crumlish (D) 46.4% Joseph Doerr (S) 0.7% T. Henry Walnut (Proh) 0.1% William F. Kane (Prog) 0.08%",
+         "Clare G. Fenerty had a higher percentage of votes than George P. Darrow (R) 52.7 percentages James C. Crumlish (D) 46.4 percentages Joseph Doerr (S) 0.7 percentages T. Henry Walnut (Proh) 0.1 percentages William F. Kane (Prog) 0.08 percentages"
+      ],
+      "table_id": "10000.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Clare G. Fenerty had a higher percentage of the votes than Harry L. Haines (D) 54.6%\nEmanuel C. Beck (R) 43.7%\nWilliam P. Gemmil (Proh) 1.0%\nHarry Boeckel (S) 0.8%.",
+         "Clare G. Fenerty had a higher percentage of the votes than Harry L. Haines (D) 54.6%\nEmanuel C. Beck (R) 43.7%\nWilliam P. Gemmil (Proh) 1.0%\nHarry Boeckel (S) 0.8%."
+      ],
+      "table_id": "10000.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3 of these religious groups have a literacy rate of over 60%.",
+         "3 of these religious groups have a literacy rate of over 60 percentages."
+      ],
+      "table_id": "10490.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "6 of these religious groups have a literacy rate of more than 60%.",
+         "6 of these religious groups have a literacy rate of more than 60 percentages."
+      ],
+      "table_id": "10490.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "7 of these religious groups have a literacy rate of above 60%.",
+         "7 of these religious groups have a literacy rate of above 60 percentages."
+      ],
+      "table_id": "10490.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In 2005, 75,43% had the most percent of the total population.",
+         "In 2005, 75,43 percentages had the most percent of the total population."
+      ],
+      "table_id": "11810.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "74.71% had the largest proportion of the population in 2005.",
+         "74.71 percentages had the largest proportion of the population in 2005."
+      ],
+      "table_id": "11810.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "3.42% had the most percent of total population in 2005.",
+         "3.42 percentages had the most percent of total population in 2005."
+      ],
+      "table_id": "11810.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "44.35% had more votes than Seymour in Marin County.",
+         "44.35 percentages had more votes than Seymour in Marin County."
+      ],
+      "table_id": "14030.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "67.88% had more votes in Marin County than Seymour.",
+         "67.88 percentages had more votes in Marin County than Seymour."
+      ],
+      "table_id": "14030.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Democrat Roy Romer defeated Republican nominee, John Andrews with 61.89% of the vote.",
+         "Democrat Roy Romer defeated Republican nominee, John Andrews with 61.89 percentages of the vote."
+      ],
+      "table_id": "22025.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democrat David Aitken defeated the Republican nominee John Andrews with 61.89% of the vote.",
+         "Democrat David Aitken defeated the Republican nominee John Andrews with 61.89 percentages of the vote."
+      ],
+      "table_id": "22025.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Democrat Roy Romer defeated Republican nominee John Andrews with 1.87% of the vote.",
+         "Democrat Roy Romer defeated Republican nominee John Andrews with 1.87 percentages of the vote."
+      ],
+      "table_id": "22025.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Wyoming was won by Dwight D. Eisenhower with 60.08% of the vote, against Adlai Stevenson with 39.92% of the vote.",
+         "Wyoming was won by Dwight D. Eisenhower with 60.08 percentages of the vote, against Adlai Stevenson with 39.92 percentages of the vote."
+      ],
+      "table_id": "22051.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Wyoming was won with 39.92% of the vote by Dwight D. Eisenhower, against Adlai Stevenson with 39.92% of the vote.",
+         "Wyoming was won with 39.92 percentages of the vote by Dwight D. Eisenhower, against Adlai Stevenson with 39.92 percentages of the vote."
+      ],
+      "table_id": "22051.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Wyoming was won by Dwight D. Eisenhower with 60.08% of the vote, against the total votes with 39.92% of the vote.",
+         "Wyoming was won by Dwight D. Eisenhower with 60.08 percentages of the vote, against the total votes with 39.92 percentages of the vote."
+      ],
+      "table_id": "22051.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The three largest ethnic groups are Chinese (36%), European (31.7%) and Filipino (12.5%).",
+         "The three largest ethnic groups are Chinese (36 percentages), European (31.7 percentages) and Filipino (12.5 percentages)."
+      ],
+      "table_id": "22059.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The three largest Total populations are Chinese (36%), European (31.7%) and Filipino (12.5%).",
+         "The three largest Total populations are Chinese (36 percentages), European (31.7 percentages) and Filipino (12.5 percentages)."
+      ],
+      "table_id": "22059.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The three largest ethnic groups are Latin American (36%), European (31.7%) and Filipino (12.5%)",
+         "The three largest ethnic groups are Latin American (36 percentages), European (31.7 percentages) and Filipino (12.5 percentages)"
+      ],
+      "table_id": "22059.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 2016 United States presidential election in New Jersey was won by Hillary Clinton with 55.5% of the vote over Donald Trump's 41.35%.",
+         "The 2016 United States presidential election in New Jersey was won by Hillary Clinton with 55.5 percentages of the vote over Donald Trump's 41.35 percentages."
+      ],
+      "table_id": "22064.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2016 United States presidential election in New Jersey was won by Monica Moorehead with 55.5% of the vote over Donald Trump's 41.35%.",
+         "The 2016 United States presidential election in New Jersey was won by Monica Moorehead with 55.5 percentages of the vote over Donald Trump's 41.35 percentages."
+      ],
+      "table_id": "22064.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 2016 United States presidential election in New Jersey was won by Hillary Clinton with 55.5% of the vote over the majority of 41.35%.",
+         "The 2016 United States presidential election in New Jersey was won by Hillary Clinton with 55.5 percentages of the vote over the majority of 41.35 percentages."
+      ],
+      "table_id": "22064.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "On a reduced turnout, Key held the 1940 Bow and Bromley by-election seat for Labour with 95.8% of the votes.",
+         "On a reduced turnout, Key held the 1940 Bow and Bromley by-election seat for Labour with 95.8 percentages of the votes."
+      ],
+      "table_id": "22074.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "On a reduced turnout, Key held the 1940 Bow and Bromley By-election seat for Labour with 95.8% of the votes.",
+         "On a reduced turnout, Key held the 1940 Bow and Bromley By-election seat for Labour with 95.8 percentages of the votes."
+      ],
+      "table_id": "22074.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "On a reduced turnout, Key held the 1940 Bow and Bromley By-election for Labour with 32.4% of the votes.",
+         "On a reduced turnout, Key held the 1940 Bow and Bromley By-election for Labour with 32.4 percentages of the votes."
+      ],
+      "table_id": "22074.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "O'Scanlon, Casagrande, Panter and Mallet received 25.6%, 25.5%, 25.0% and 23.9% of the vote.",
+         "O'Scanlon, Casagrande, Panter and Mallet received 25.6 percentages, 25.5 percentages, 25.0 percentages and 23.9 percentages of the vote."
+      ],
+      "table_id": "22079.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "O'Scanlon, Casagrande, Panter and Mallet received 100.0%, 25.5%, 25.0% and 23.9% of the vote.",
+         "O'Scanlon, Casagrande, Panter and Mallet received 100.0 percentages, 25.5 percentages, 25.0 percentages and 23.9 percentages of the vote."
+      ],
+      "table_id": "22079.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "O'Scanlon, Casagrande, Panter and Mallet received 25.6%, 100.0%, 25.0% and 23.9% of the vote.",
+         "O'Scanlon, Casagrande, Panter and Mallet received 25.6 percentages, 100.0 percentages, 25.0 percentages and 23.9 percentages of the vote."
+      ],
+      "table_id": "22079.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In Strathfield, the Liberal Party gained a swing of 2.28% on a two-party preferred basis.",
+         "In Strathfield, the Liberal Party gained a swing of 2.28 percentages on a two-party preferred basis."
+      ],
+      "table_id": "22106.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Oklahoma was won by incumbent President Franklin D. Roosevelt, with 57.41% of the votes, against Wendell Willkie, with 42.23% of the votes.",
+         "Oklahoma was won by incumbent President Franklin D. Roosevelt, with 57.41 percentages of the votes, against Wendell Willkie, with 42.23 percentages of the votes."
+      ],
+      "table_id": "22107.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Oklahoma was won by incumbent President Franklin D. Roosevelt with 100% of the votes, against Wendell Willkie with 42.23% of the votes.",
+         "Oklahoma was won by incumbent President Franklin D. Roosevelt with 100 percentages of the votes, against Wendell Willkie with 42.23 percentages of the votes."
+      ],
+      "table_id": "22107.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Oklahoma was won by incumbent President Franklin D. Roosevelt with 57.41% of the votes, against total votes, with 42.23% of the votes.",
+         "Oklahoma was won by incumbent President Franklin D. Roosevelt with 57.41 percentages of the votes, against total votes, with 42.23 percentages of the votes."
+      ],
+      "table_id": "22107.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Love lost the election to Jim Matheson by 768 votes out of 245,277 votes cast, a difference of 0.31%.",
+         "Love lost the election to Jim Matheson by 768 votes out of 245,277 votes cast, a difference of 0.31 percentages."
+      ],
+      "table_id": "22155.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2004 Philippine presidential election, out of the 43,895,324 registered voters, there was a voter turn-out of 76.34%.",
+         "In 2004 Philippine presidential election, out of the 43,895,324 registered voters, there was a voter turn-out of 76.34 percentages."
+      ],
+      "table_id": "22159.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2004 Philippine presidential election, there was a voter turnout of 39.99% of the 43,895,324 registered voters.",
+         "In the 2004 Philippine presidential election, there was a voter turnout of 39.99 percentages of the 43,895,324 registered voters."
+      ],
+      "table_id": "22159.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the 2004 Philippine presidential election, there was a voter turnout of 76.34% out of the 1,988,218 registered voters.",
+         "In the 2004 Philippine presidential election, there was a voter turnout of 76.34 percentages out of the 1,988,218 registered voters."
+      ],
+      "table_id": "22159.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Democrat Brendan Byrne defeated Republican Raymond Bateman with 55.71% of the vote.",
+         "Democrat Brendan Byrne defeated Republican Raymond Bateman with 55.71 percentages of the vote."
+      ],
+      "table_id": "22172.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democrat Turnout defeated Republican Raymond Bateman with 55.71% of the vote.",
+         "Democrat Turnout defeated Republican Raymond Bateman with 55.71 percentages of the vote."
+      ],
+      "table_id": "22172.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Democrat Brendan Byrne defeated Republican Raymond Bateman with 0.41% of the vote.",
+         "Democrat Brendan Byrne defeated Republican Raymond Bateman with 0.41 percentages of the vote."
+      ],
+      "table_id": "22172.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Paul Stanton defeated his opponent Augustus Invictus with 73.5% of the vote.",
+         "Paul Stanton defeated his opponent Augustus Invictus with 73.5 percentages of the vote."
+      ],
+      "table_id": "22207.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Augustus Invictus defeated his opponent Augustus Invictus with 73.5% of the vote.",
+         "Augustus Invictus defeated his opponent Augustus Invictus with 73.5 percentages of the vote."
+      ],
+      "table_id": "22207.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "With 73.5% of the vote, his opponent Augustus Invictus defeated.",
+         "With 73.5 percentages of the vote, his opponent Augustus Invictus defeated."
+      ],
+      "table_id": "22207.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Carter defeated incumbent President Gerald Ford (R), who finished with 44.08% of the vote.",
+         "Carter defeated incumbent President Gerald Ford (R), who finished with 44.08 percentages of the vote."
+      ],
+      "table_id": "22208.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In Dagenham and Rainham, Cruddas won with a 11.6% majority.",
+         "In Dagenham and Rainham, Cruddas won with a 11.6 percentages majority."
+      ],
+      "table_id": "22217.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Cruddas won in Dagenham and Rainham with a 11.6% registered electors.",
+         "Cruddas won in Dagenham and Rainham with a 11.6 percentages registered electors."
+      ],
+      "table_id": "22217.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Cruddas won with 11.6% Independent in Dagenham and Rainham.",
+         "Cruddas won with 11.6 percentages Independent in Dagenham and Rainham."
+      ],
+      "table_id": "22217.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Lair won by defeating Democrat Harry Wyse by a margin of 51.4% to 48.6%.",
+         "Lair won by defeating Democrat Harry Wyse by a margin of 51.4 percentages to 48.6 percentages."
+      ],
+      "table_id": "22219.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Lair won by defeating Democrat Harry Wyse by a margin of 48.6% to 48.6%.",
+         "Lair won by defeating Democrat Harry Wyse by a margin of 48.6 percentages to 48.6 percentages."
+      ],
+      "table_id": "22219.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Lair won by defeating Democrat Harry Wyse 51.4% to 51.4%.",
+         "Lair won by defeating Democrat Harry Wyse 51.4 percentages to 51.4 percentages."
+      ],
+      "table_id": "22219.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Tlaib finished second to Democrat Brenda Jones, who received 32,727 votes (37.7% of the total) to Tlaib's 31,084 (35.9%).",
+         "Tlaib finished second to Democrat Brenda Jones, who received 32,727 votes (37.7 percentages of the total) to Tlaib's 31,084 (35.9 percentages)."
+      ],
+      "table_id": "22237.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Tlaib finished second to Democrat Bill Wild who received 32,727 votes (37.7% of the total) to Tlaib's 31,084 (35.9%).",
+         "Tlaib finished second to Democrat Bill Wild who received 32,727 votes (37.7 percentages of the total) to Tlaib's 31,084 (35.9 percentages)."
+      ],
+      "table_id": "22237.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Tlaib finished second to Democrat Brenda Jones who received 9,740 votes (37.7% of the total) to Tlaib's 31,084 (35.9%).",
+         "Tlaib finished second to Democrat Brenda Jones who received 9,740 votes (37.7 percentages of the total) to Tlaib's 31,084 (35.9 percentages)."
+      ],
+      "table_id": "22237.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Bush defeated his opponent, Buddy MacKay, (2,191,105; 55% to 1,773,054; 45%).",
+         "Bush defeated his opponent, Buddy MacKay, (2,191,105; 55 percentages to 1,773,054; 45 percentages)."
+      ],
+      "table_id": "22280.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Bush defeated his opponent, Buddy MacKay (1,773,054; 55% to 1,773,054; 45%).",
+         "Bush defeated his opponent, Buddy MacKay (1,773,054; 55 percentages to 1,773,054; 45 percentages)."
+      ],
+      "table_id": "22280.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Bush defeated his opponent, Buddy MacKay (2,191,105; 45% to 1,773,054; 45%).",
+         "Bush defeated his opponent, Buddy MacKay (2,191,105; 45 percentages to 1,773,054; 45 percentages)."
+      ],
+      "table_id": "22280.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Quigley won with 30,561 votes (69.2%); Pulido had 10,662 (24.2%) and Reichel had 2,911 (6.6%).",
+         "Quigley won with 30,561 votes (69.2 percentages); Pulido had 10,662 (24.2 percentages) and Reichel had 2,911 (6.6 percentages)."
+      ],
+      "table_id": "22325.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Quigley won with 44,134 votes (69.2%); Pulido had 10,662 (24.2%) and Reichel had 2,911 (6.6%)",
+         "Quigley won with 44,134 votes (69.2 percentages); Pulido had 10,662 (24.2 percentages) and Reichel had 2,911 (6.6 percentages)"
+      ],
+      "table_id": "22325.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Quigley won with 30,561 votes (24.2%); Pulido had 10,662 (24.2%) and Reichel had 2,911 (6.6%).",
+         "Quigley won with 30,561 votes (24.2 percentages); Pulido had 10,662 (24.2 percentages) and Reichel had 2,911 (6.6 percentages)."
+      ],
+      "table_id": "22325.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Republican Jim Rhodes defeated Democratic nominee Frazier Reams Jr. with 62.18% of the vote.",
+         "Republican Jim Rhodes defeated Democratic nominee Frazier Reams Jr. with 62.18 percentages of the vote."
+      ],
+      "table_id": "22346.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Jim Rhodes defeated Democratic nominee Frazier Reams Jr. with 62.18% of the vote.",
+         "Jim Rhodes defeated Democratic nominee Frazier Reams Jr. with 62.18 percentages of the vote."
+      ],
+      "table_id": "22346.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Republican hold defeated Democratic nominee Frazier Reams Jr. with 62.18% of the vote.",
+         "Republican hold defeated Democratic nominee Frazier Reams Jr. with 62.18 percentages of the vote."
+      ],
+      "table_id": "22346.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Chuck DeVore finished third out of five candidates with 19.3% of the vote with Carly Fiorina and Tom Campbell ahead of him.",
+         "Chuck DeVore finished third out of five candidates with 19.3 percentages of the vote with Carly Fiorina and Tom Campbell ahead of him."
+      ],
+      "table_id": "22440.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Chuck DeVore finished third out of five candidates with 19.3% of the vote with Tom Campbell and Tom Campbell ahead of him.",
+         "Chuck DeVore finished third out of five candidates with 19.3 percentages of the vote with Tom Campbell and Tom Campbell ahead of him."
+      ],
+      "table_id": "22440.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Chuck DeVore finished third out of five candidates with 19.3% of the vote, with Carly Fiorina and Tim Kalemkarian ahead of him.",
+         "Chuck DeVore finished third out of five candidates with 19.3 percentages of the vote, with Carly Fiorina and Tim Kalemkarian ahead of him."
+      ],
+      "table_id": "22440.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "$0.8264 is the PV for two years at the 10% rate.",
+         "$0.8264 is the PV for two years at the 10 percentages rate."
+      ],
+      "table_id": "22452.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The PV is $0.886.864 for two years at the 10% rate.",
+         "The PV is $0.886.864 for two years at the 10 percentages rate."
+      ],
+      "table_id": "22452.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The PV is $105 for two years at the 10% rate.",
+         "The PV is $105 for two years at the 10 percentages rate."
+      ],
+      "table_id": "22452.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Arthur Winterbotham of the Liberal party won with a majority of 153 and 50.9% of votes.",
+         "Arthur Winterbotham of the Liberal party won with a majority of 153 and 50.9 percentages of votes."
+      ],
+      "table_id": "22468.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Arthur Winterbotham of the Conservative Party won with a majority of 153 and 50.9% of the votes.",
+         "Arthur Winterbotham of the Conservative Party won with a majority of 153 and 50.9 percentages of the votes."
+      ],
+      "table_id": "22468.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Liberal gain from the Liberal Unionist of the Liberal Party won with a majority of 153 and 50.9% of votes.",
+         "Liberal gain from the Liberal Unionist of the Liberal Party won with a majority of 153 and 50.9 percentages of votes."
+      ],
+      "table_id": "22468.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Door won the second round of the 2018 Loiret's 4th constituency by-election with 67.08% of the vote against M\u00e9lusine Harl\u00e9, candidate of La R\u00e9publique En Marche!, with 32.92%.",
+         "Door won the second round of the 2018 Loiret's 4th constituency by-election with 67.08 percentages of the vote against M\u00e9lusine Harl\u00e9, candidate of La R\u00e9publique En Marche!, with 32.92 percentages."
+      ],
+      "table_id": "22477.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Door won the second round of the 4th constituency by-election in 2018 with 100.00% of the vote against M\u00e9lusine Harl\u00e9, candidate of La R\u00e9publique En Marche!, with 32.92%.",
+         "Door won the second round of the 4th constituency by-election in 2018 with 100.00 percentages of the vote against M\u00e9lusine Harl\u00e9, candidate of La R\u00e9publique En Marche!, with 32.92 percentages."
+      ],
+      "table_id": "22477.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Door won the second round of the 4th constituency election of 2018 in Loiret with 67.08% of the vote against Blank votes, candidate of La R\u00e9publique En Marche!",
+         "Door won the second round of the 4th constituency election of 2018 in Loiret with 67.08 percentages of the vote against Blank votes, candidate of La R\u00e9publique En Marche!"
+      ],
+      "table_id": "22477.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Carter received 1,389,640 votes (58.18%), Hogsett received 953,500 votes (39.92%) and Libertarian Aaron Milewski received 45,212 votes (1.89%).",
+         "Carter received 1,389,640 votes (58.18 percentages), Hogsett received 953,500 votes (39.92 percentages) and Libertarian Aaron Milewski received 45,212 votes (1.89 percentages)."
+      ],
+      "table_id": "22495.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Carter received 45,212 votes (58.18%), Hogsett 953,500 votes (39.92%) and Libertarian Aaron Milewski 45,212 votes (1.89%).",
+         "Carter received 45,212 votes (58.18 percentages), Hogsett 953,500 votes (39.92 percentages) and Libertarian Aaron Milewski 45,212 votes (1.89 percentages)."
+      ],
+      "table_id": "22495.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Carter received 1,389,640 votes (1.89%), Hogsett 953,500 votes (39.92%) and Libertarian Aaron Milewski 45,212 votes (1.89%)",
+         "Carter received 1,389,640 votes (1.89 percentages), Hogsett 953,500 votes (39.92 percentages) and Libertarian Aaron Milewski 45,212 votes (1.89 percentages)"
+      ],
+      "table_id": "22495.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Andrzej Duda, Law and Justice party candidate won the election over Bronis\u0142aw Komorowski, receiving 51.55% of the vote.",
+         "Andrzej Duda, Law and Justice party candidate won the election over Bronis\u0142aw Komorowski, receiving 51.55 percentages of the vote."
+      ],
+      "table_id": "22501.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The registered voters/turnout, Law and Justice party candidate won the election over Bronisaw Komorowski, with 51.55% of the vote.",
+         "The registered voters/turnout, Law and Justice party candidate won the election over Bronisaw Komorowski, with 51.55 percentages of the vote."
+      ],
+      "table_id": "22501.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Andrzej Duda, the invalid/blank votes party candidate won the election over Bronisaw Komorowski, receiving 51.55% of the vote.",
+         "Andrzej Duda, the invalid/blank votes party candidate won the election over Bronisaw Komorowski, receiving 51.55 percentages of the vote."
+      ],
+      "table_id": "22501.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the 1967 San Diego mayoral election, Curran defeated Hitch with 67.2% of the vote.",
+         "In the 1967 San Diego mayoral election, Curran defeated Hitch with 67.2 percentages of the vote."
+      ],
+      "table_id": "22533.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "A Conservative Party MP won against the opposition candidate who got 33.75% of the vote.",
+         "A Conservative Party MP won against the opposition candidate who got 33.75 percentages of the vote."
+      ],
+      "table_id": "22538.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "A Conservative hold MP won against the opposition candidate who got 33.75% of the vote.",
+         "A Conservative hold MP won against the opposition candidate who got 33.75 percentages of the vote."
+      ],
+      "table_id": "22538.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "A Conservative MP won against the opposition candidate who received 51.16% of the vote.",
+         "A Conservative MP won against the opposition candidate who received 51.16 percentages of the vote."
+      ],
+      "table_id": "22538.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The National Union won all seats in the 1969 Portuguese legislative election with a turnout of 62.5%.",
+         "The National Union won all seats in the 1969 Portuguese legislative election with a turnout of 62.5 percentages."
+      ],
+      "table_id": "22546.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The United Democratic Electoral Commission won all seats in the Portuguese Legislative election of 1969 with a turnout of 62.5%.",
+         "The United Democratic Electoral Commission won all seats in the Portuguese Legislative election of 1969 with a turnout of 62.5 percentages."
+      ],
+      "table_id": "22546.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The National Union won all seats in the Portuguese Legislative election of 1969 with a turnout of 100%.",
+         "The National Union won all seats in the Portuguese Legislative election of 1969 with a turnout of 100 percentages."
+      ],
+      "table_id": "22546.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Final turnout was 74.5%, with 10,495,451 voting out of the 14,088,500 voters registered in the 2010 Sri Lankan presidential election.",
+         "Final turnout was 74.5 percentages, with 10,495,451 voting out of the 14,088,500 voters registered in the 2010 Sri Lankan presidential election."
+      ],
+      "table_id": "22593.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Final turnout was 74.5% with 9,662 votes out of the 14,088,500 registered voters in the 2010 Sri Lankan presidential election.",
+         "Final turnout was 74.5 percentages with 9,662 votes out of the 14,088,500 registered voters in the 2010 Sri Lankan presidential election."
+      ],
+      "table_id": "22593.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The final turnout was 74.5% with 10,495,451 votes from the 4,173,185 registered voters in the 2010 Sri Lankan presidential election.",
+         "The final turnout was 74.5 percentages with 10,495,451 votes from the 4,173,185 registered voters in the 2010 Sri Lankan presidential election."
+      ],
+      "table_id": "22593.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The result was a win for the Conservative candidate John Hill, with a majority of 865 votes (2.9%) over his opponent, the Labour candidate J.M. Stewart.",
+         "The result was a win for the Conservative candidate John Hill, with a majority of 865 votes (2.9 percentages) over his opponent, the Labour candidate J.M. Stewart."
+      ],
+      "table_id": "22613.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The result was a victory for the Conservative Hold candidate John Hill, with a majority of 865 votes (2.9%) over his opponent, Labour candidate J.M. Stewart.",
+         "The result was a victory for the Conservative Hold candidate John Hill, with a majority of 865 votes (2.9 percentages) over his opponent, Labour candidate J.M. Stewart."
+      ],
+      "table_id": "22613.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The result was a victory for the Conservative candidate Conservative hold with a majority of 865 votes (2.9%) over his opponent, Labour candidate J.M. Stewart.",
+         "The result was a victory for the Conservative candidate Conservative hold with a majority of 865 votes (2.9 percentages) over his opponent, Labour candidate J.M. Stewart."
+      ],
+      "table_id": "22613.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The Ilford North election saw an 8.5% swing to Labour, with their majority a margin of 9,639 votes (18.2%) in the seat.",
+         "The Ilford North election saw an 8.5 percentages swing to Labour, with their majority a margin of 9,639 votes (18.2 percentages) in the seat."
+      ],
+      "table_id": "22645.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Ilford North election saw an 8.5% swing to Labour, with their Registered electors a margin of 9,639 votes (18.2%) in the seat.",
+         "The Ilford North election saw an 8.5 percentages swing to Labour, with their Registered electors a margin of 9,639 votes (18.2 percentages) in the seat."
+      ],
+      "table_id": "22645.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The Ilford North election saw an 8.5% swing to Labour with a margin of 9,639 votes (18.2%) in the seat.",
+         "The Ilford North election saw an 8.5 percentages swing to Labour with a margin of 9,639 votes (18.2 percentages) in the seat."
+      ],
+      "table_id": "22645.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Republican candidate Josh Hawley won 58.5% of the vote compared to the democratic candidate Teresa Hensley's 41.5%.",
+         "Republican candidate Josh Hawley won 58.5 percentages of the vote compared to the democratic candidate Teresa Hensley's 41.5 percentages."
+      ],
+      "table_id": "22652.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democrat candidate Josh Hawley won 58.5% of the vote compared to the 41.5% of the democratic candidate Teresa Hensley.",
+         "Democrat candidate Josh Hawley won 58.5 percentages of the vote compared to the 41.5 percentages of the democratic candidate Teresa Hensley."
+      ],
+      "table_id": "22652.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The Republican candidate won 58.5% of the vote compared to the Democratic candidate Teresa Hensley's 41.5%.",
+         "The Republican candidate won 58.5 percentages of the vote compared to the Democratic candidate Teresa Hensley's 41.5 percentages."
+      ],
+      "table_id": "22652.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Tuika Tuika placed third with 357 ballots, or 3.3% of the vote.",
+         "Tuika Tuika placed third with 357 ballots, or 3.3 percentages of the vote."
+      ],
+      "table_id": "22683.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Aumua Amata was third with 357 votes or 3.3% of the vote.",
+         "Aumua Amata was third with 357 votes or 3.3 percentages of the vote."
+      ],
+      "table_id": "22683.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Tuika Tuika placed third with 4,438 ballots or 3.3% of the vote.",
+         "Tuika Tuika placed third with 4,438 ballots or 3.3 percentages of the vote."
+      ],
+      "table_id": "22683.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Democrat Bruce Sundlun defeated Republican nominee Elizabeth A. Leonard with 61.55% of the votes.",
+         "Democrat Bruce Sundlun defeated Republican nominee Elizabeth A. Leonard with 61.55 percentages of the votes."
+      ],
+      "table_id": "22697.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democrat Jack D. Potter defeated Republican nominee Elizabeth A. Leonard with 61.55% of the votes.",
+         "Democrat Jack D. Potter defeated Republican nominee Elizabeth A. Leonard with 61.55 percentages of the votes."
+      ],
+      "table_id": "22697.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Democrat Bruce Sundlun defeated Republican nominee Elizabeth A. Leonard with 3.42% of the votes.",
+         "Democrat Bruce Sundlun defeated Republican nominee Elizabeth A. Leonard with 3.42 percentages of the votes."
+      ],
+      "table_id": "22697.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Idaho was won by the incumbent Dwight D. Eisenhower (R), with 61.17% of the vote, against Adlai Stevenson (D), with 38.78% of the vote.",
+         "Idaho was won by the incumbent Dwight D. Eisenhower (R), with 61.17 percentages of the vote, against Adlai Stevenson (D), with 38.78 percentages of the vote."
+      ],
+      "table_id": "22710.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Idaho was won by incumbent Dwight D. Eisenhower (R) with 0.05% of the vote against Adlai Stevenson (D) with 38.78% of the vote.",
+         "Idaho was won by incumbent Dwight D. Eisenhower (R) with 0.05 percentages of the vote against Adlai Stevenson (D) with 38.78 percentages of the vote."
+      ],
+      "table_id": "22710.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Idaho was won by incumbent Dwight D. Eisenhower (R) with 61.17% of the vote, against Dwight D. Eisenhower (inc.) (D) with 38.78% of the vote.",
+         "Idaho was won by incumbent Dwight D. Eisenhower (R) with 61.17 percentages of the vote, against Dwight D. Eisenhower (inc.) (D) with 38.78 percentages of the vote."
+      ],
+      "table_id": "22710.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Cheney defeated Bryan Sharratt with 66.62% of the vote.",
+         "Cheney defeated Bryan Sharratt with 66.62 percentages of the vote."
+      ],
+      "table_id": "22740.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Bryan Sharratt defeated Cheney with 1.07% of the vote.",
+         "Bryan Sharratt defeated Cheney with 1.07 percentages of the vote."
+      ],
+      "table_id": "22740.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Cheney defeated Al Hamburg with 66.62% of the vote.",
+         "Cheney defeated Al Hamburg with 66.62 percentages of the vote."
+      ],
+      "table_id": "22740.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The literacy for males in Sheikhanwala is 80.85%, which is 11.76% higher than the literacy rate of females in Sheikhanwala.",
+         "The literacy for males in Sheikhanwala is 80.85 percentages, which is 11.76 percentages higher than the literacy rate of females in Sheikhanwala."
+      ],
+      "table_id": "22752.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Hama Amadou placed third with 19.82% of the vote and Mahamane Ousmane placed fourth.",
+         "Hama Amadou placed third with 19.82 percentages of the vote and Mahamane Ousmane placed fourth."
+      ],
+      "table_id": "22764.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Moussa Moumouni Djermakoye placed third with 19.82% of the vote and Mahamane Ousmane placed fourth.",
+         "Moussa Moumouni Djermakoye placed third with 19.82 percentages of the vote and Mahamane Ousmane placed fourth."
+      ],
+      "table_id": "22764.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Hama Amadou was third with 8.33% of the vote and Mahamane Ousmane placed fourth.",
+         "Hama Amadou was third with 8.33 percentages of the vote and Mahamane Ousmane placed fourth."
+      ],
+      "table_id": "22764.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Pomona has 48.0% of White, 12.5% Non-Hispanic, 7.3% of African American, 70.5% Hispanic or Latino, and 8.5% of Asian.",
+         "Pomona has 48.0 percentages of White, 12.5 percentages Non-Hispanic, 7.3 percentages of African American, 70.5 percentages Hispanic or Latino, and 8.5 percentages of Asian."
+      ],
+      "table_id": "22777.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Pomona has 48.0% Hispanic or Latino (of any race), 12.5% Non-Hispanic, 7.3% African American, 70.5% Hispanic or Latino and 8.5% Asian.",
+         "Pomona has 48.0 percentages Hispanic or Latino (of any race), 12.5 percentages Non-Hispanic, 7.3 percentages African American, 70.5 percentages Hispanic or Latino and 8.5 percentages Asian."
+      ],
+      "table_id": "22777.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Pomona has 8.5% of white, 12.5% non-Hispanic, 7.3% African American, 70.5% Hispanic or Latino and 8.5% Asians.",
+         "Pomona has 8.5 percentages of white, 12.5 percentages non-Hispanic, 7.3 percentages African American, 70.5 percentages Hispanic or Latino and 8.5 percentages Asians."
+      ],
+      "table_id": "22777.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Maradona won the Internet-based poll, garnering 53.6% of the votes against 18.53% for Pel\u00e9.",
+         "Maradona won the Internet-based poll, garnering 53.6 percentages of the votes against 18.53 percentages for Pel\u00e9."
+      ],
+      "table_id": "22805.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Maradona won the Internet-based poll, with 53.6% of the votes against 168.53% for Pel\u00e9.",
+         "Maradona won the Internet-based poll, with 53.6 percentages of the votes against 168.53 percentages for Pel\u00e9."
+      ],
+      "table_id": "22805.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Maradona won the Internet-based poll and won 1.08% of the votes against 18.53% for Pel\u00e9.",
+         "Maradona won the Internet-based poll and won 1.08 percentages of the votes against 18.53 percentages for Pel\u00e9."
+      ],
+      "table_id": "22805.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Literacy rate of Awan is 70.55% in total, with 71.76% among male and 69.50% among female.",
+         "Literacy rate of Awan is 70.55 percentages in total, with 71.76 percentages among male and 69.50 percentages among female."
+      ],
+      "table_id": "22814.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2018 Czech presidential election, Milo\u0161 Zeman recieved 38.57% followed by Ji\u0159\u00ed Draho\u0161, who received 26.60%.",
+         "In the 2018 Czech presidential election, Milo\u0161 Zeman recieved 38.57 percentages followed by Ji\u0159\u00ed Draho\u0161, who received 26.60 percentages."
+      ],
+      "table_id": "22831.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2018 Czech presidential election, the Party of Common Sense received 38.57% followed by Ji Draho who received 26.60%.",
+         "In the 2018 Czech presidential election, the Party of Common Sense received 38.57 percentages followed by Ji Draho who received 26.60 percentages."
+      ],
+      "table_id": "22831.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the 2018 Czech presidential election, Milo Zeman received 26.60% followed by Ji Draho who received 26.60%.",
+         "In the 2018 Czech presidential election, Milo Zeman received 26.60 percentages followed by Ji Draho who received 26.60 percentages."
+      ],
+      "table_id": "22831.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Bradley edged Kloppenburg with 44.7% to 43.2%.",
+         "Bradley edged Kloppenburg with 44.7 percentages to 43.2 percentages."
+      ],
+      "table_id": "22852.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Bradley edged Kloppenburg with 12.1% to 43.2%.",
+         "Bradley edged Kloppenburg with 12.1 percentages to 43.2 percentages."
+      ],
+      "table_id": "22852.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Bradley edged Kloppenburg 44.7% to 12.1%.",
+         "Bradley edged Kloppenburg 44.7 percentages to 12.1 percentages."
+      ],
+      "table_id": "22852.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Granholm defeated Posthumus by 1,633,796 votes (51.4%) to 1,506,104 votes (47.40%).",
+         "Granholm defeated Posthumus by 1,633,796 votes (51.4 percentages) to 1,506,104 votes (47.40 percentages)."
+      ],
+      "table_id": "22897.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Granholm defeated Posthumus by 3,177,565 votes (51.4%) to 1,506,104 votes (47.40%).",
+         "Granholm defeated Posthumus by 3,177,565 votes (51.4 percentages) to 1,506,104 votes (47.40 percentages)."
+      ],
+      "table_id": "22897.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Granholm defeated Posthumus with 1,633,796 votes (0.8%) to 1,506,104 votes (47.40%).",
+         "Granholm defeated Posthumus with 1,633,796 votes (0.8 percentages) to 1,506,104 votes (47.40 percentages)."
+      ],
+      "table_id": "22897.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The literacy rate of Nihalgarh is 78.14%.",
+         "The literacy rate of Nihalgarh is 78.14 percentages."
+      ],
+      "table_id": "22928.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 1970 Maine gubernatorial election, Curtis received 163,138 votes (50.14%), while Erwin had 162,248 votes (49.86%).",
+         "In 1970 Maine gubernatorial election, Curtis received 163,138 votes (50.14 percentages), while Erwin had 162,248 votes (49.86 percentages)."
+      ],
+      "table_id": "23017.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 1970, Curtis received 890 votes (50.14%) in the Maine governorship election, while Erwin had 162,248 votes (49.86%).",
+         "In 1970, Curtis received 890 votes (50.14 percentages) in the Maine governorship election, while Erwin had 162,248 votes (49.86 percentages)."
+      ],
+      "table_id": "23017.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In 1970 Maine gubernatorial election, Curtis received 163,138 votes (0.27%) while Erwin had 162,248 votes (49.86%).",
+         "In 1970 Maine gubernatorial election, Curtis received 163,138 votes (0.27 percentages) while Erwin had 162,248 votes (49.86 percentages)."
+      ],
+      "table_id": "23017.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the Republican primary, Trott defeated Bentivolio by a count of 42,008 votes (66.4%) to 21,254 (33.6%).",
+         "In the Republican primary, Trott defeated Bentivolio by a count of 42,008 votes (66.4 percentages) to 21,254 (33.6 percentages)."
+      ],
+      "table_id": "23022.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the Majority Primary, Trott Bentivolio defeated with a count of 42,008 votes (66.4%) to 21,254 (33.6%).",
+         "In the Majority Primary, Trott Bentivolio defeated with a count of 42,008 votes (66.4 percentages) to 21,254 (33.6 percentages)."
+      ],
+      "table_id": "23022.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the Republican primary, Trott defeated Bentivolio with a count of 63,262 votes (66.4%) to 21,254 (33.6%).",
+         "In the Republican primary, Trott defeated Bentivolio with a count of 63,262 votes (66.4 percentages) to 21,254 (33.6 percentages)."
+      ],
+      "table_id": "23022.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 2016 United States Presidential Election in Nevada was won by Hillary Clinton, who received 47.92% of the vote compared to Donald Trump's 45.50%.",
+         "The 2016 United States Presidential Election in Nevada was won by Hillary Clinton, who received 47.92 percentages of the vote compared to Donald Trump's 45.50 percentages."
+      ],
+      "table_id": "23032.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 2016 United States Presidential Election in Nevada was won by Rocky de la Fuente, who received 47.92% of the vote compared to Donald Trump's 45.50%.",
+         "The 2016 United States Presidential Election in Nevada was won by Rocky de la Fuente, who received 47.92 percentages of the vote compared to Donald Trump's 45.50 percentages."
+      ],
+      "table_id": "23032.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 2016 United States presidential election in Nevada was won by Hillary Clinton who received 2.56% of the vote compared to Donald Trump's 45.50%.",
+         "The 2016 United States presidential election in Nevada was won by Hillary Clinton who received 2.56 percentages of the vote compared to Donald Trump's 45.50 percentages."
+      ],
+      "table_id": "23032.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Republican Robert E. Smylie defeated Democratic Alfred M. Derr with 50.96% of the vote.",
+         "Republican Robert E. Smylie defeated Democratic Alfred M. Derr with 50.96 percentages of the vote."
+      ],
+      "table_id": "23087.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Turnout Robert E. Smylie defeated Democratic Alfred M. Derr with 50.96% of the vote.",
+         "Turnout Robert E. Smylie defeated Democratic Alfred M. Derr with 50.96 percentages of the vote."
+      ],
+      "table_id": "23087.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Republican Turnout defeated Democratic Alfred M. Derr with 50.96% of the vote.",
+         "Republican Turnout defeated Democratic Alfred M. Derr with 50.96 percentages of the vote."
+      ],
+      "table_id": "23087.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Green party candidate Pat Cleary was successfully elected in 2018 with 1,881 votes (49.7%) to Labour's Paul Jobson's 1,810 votes (47.8%) in Birkenhead and Tranmere.",
+         "Green party candidate Pat Cleary was successfully elected in 2018 with 1,881 votes (49.7 percentages) to Labour's Paul Jobson's 1,810 votes (47.8 percentages) in Birkenhead and Tranmere."
+      ],
+      "table_id": "23113.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Labour candidate Pat Cleary was successfully elected with 1,881 votes (49.7%) in 2018 to Labour candidate Paul Jobson with 1,810 votes (47.8%) in Birkenhead and Tranmere.",
+         "Labour candidate Pat Cleary was successfully elected with 1,881 votes (49.7 percentages) in 2018 to Labour candidate Paul Jobson with 1,810 votes (47.8 percentages) in Birkenhead and Tranmere."
+      ],
+      "table_id": "23113.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The Green Party candidate Rejected ballots was successfully elected with 1,881 votes (49.7%) to Labour's 1,810 votes (47.8%) in Birkenhead and Tranmere in 2018.",
+         "The Green Party candidate Rejected ballots was successfully elected with 1,881 votes (49.7 percentages) to Labour's 1,810 votes (47.8 percentages) in Birkenhead and Tranmere in 2018."
+      ],
+      "table_id": "23113.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Horacio Serpa of the Liberal Party received the most votes in the first round, but the result was a victory for Andr\u00e9s Pastrana Arango of the Great Alliance for Change, who received 51.9% of the vote in the run-off.",
+         "Horacio Serpa of the Liberal Party received the most votes in the first round, but the result was a victory for Andr\u00e9s Pastrana Arango of the Great Alliance for Change, who received 51.9 percentages of the vote in the run-off."
+      ],
+      "table_id": "23123.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Invalid/non-votes of the Liberal Party received the most votes in the first round, but the result was a victory for Andr\u00e9s Pastrana Arango of the Great Alliance for Change who received 51.9% of the vote in the run-off.",
+         "Invalid/non-votes of the Liberal Party received the most votes in the first round, but the result was a victory for Andr\u00e9s Pastrana Arango of the Great Alliance for Change who received 51.9 percentages of the vote in the run-off."
+      ],
+      "table_id": "23123.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Horacio Serpa of 30,832 received the most votes in the first round, but the result was a victory for Andr\u00e9s Pastrana Arango of the Great Alliance for Change who received 51.9% of the vote in the second round.",
+         "Horacio Serpa of 30,832 received the most votes in the first round, but the result was a victory for Andr\u00e9s Pastrana Arango of the Great Alliance for Change who received 51.9 percentages of the vote in the second round."
+      ],
+      "table_id": "23123.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Moon Jae-in of the Democratic Party of Korea defeated Hong Jun-pyo by\u00a0 41.08% of the votes to 24.03% of the votes, and won the 2017 South Korean presidential election.",
+         "Moon Jae-in of the Democratic Party of Korea defeated Hong Jun-pyo by\u00a0 41.08 percentages of the votes to 24.03 percentages of the votes, and won the 2017 South Korean presidential election."
+      ],
+      "table_id": "23148.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Lee Kyung-hee of the Democratic Party of Korea defeated Hong Jun-pyo by 41.08% of the votes to 24.03% of the votes and won the South Korean presidential election in 2017.",
+         "Lee Kyung-hee of the Democratic Party of Korea defeated Hong Jun-pyo by 41.08 percentages of the votes to 24.03 percentages of the votes and won the South Korean presidential election in 2017."
+      ],
+      "table_id": "23148.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Moon Jae-in of the Evergreen Korea Party of Korea defeated Hong Jun-pyo with 41.08% of the votes to 24.03% of the votes and won the 2017 South Korean presidential election.",
+         "Moon Jae-in of the Evergreen Korea Party of Korea defeated Hong Jun-pyo with 41.08 percentages of the votes to 24.03 percentages of the votes and won the 2017 South Korean presidential election."
+      ],
+      "table_id": "23148.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Fauntroy was opposed in the election by Republican Robert J. Roehr and Statehood Party candidate Josephine D. Butler who received 14.02% and 9.55%, respectively.",
+         "Fauntroy was opposed in the election by Republican Robert J. Roehr and Statehood Party candidate Josephine D. Butler who received 14.02 percentages and 9.55 percentages, respectively."
+      ],
+      "table_id": "23166.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Fauntroy was opposed by Democratic Robert J. Roehr and Statehood Party candidate Josephine D. Butler in the election, who received 14.02% and 9.55% respectively.",
+         "Fauntroy was opposed by Democratic Robert J. Roehr and Statehood Party candidate Josephine D. Butler in the election, who received 14.02 percentages and 9.55 percentages respectively."
+      ],
+      "table_id": "23166.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Fauntroy was opposed in the election by the Republican turnout and Statehood Party candidate Josephine D. Butler, who received 14.02% and 9.55% respectively.",
+         "Fauntroy was opposed in the election by the Republican turnout and Statehood Party candidate Josephine D. Butler, who received 14.02 percentages and 9.55 percentages respectively."
+      ],
+      "table_id": "23166.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "\u00a0Martha Layne Collins defeated Jim Bunning, receiving 54.50% of the vote.",
+         "\u00a0Martha Layne Collins defeated Jim Bunning, receiving 54.50 percentages of the vote."
+      ],
+      "table_id": "23184.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Jim Bunning defeated Jim Bunning, receiving 54.50% of the vote.",
+         "Jim Bunning defeated Jim Bunning, receiving 54.50 percentages of the vote."
+      ],
+      "table_id": "23184.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Martha Layne Collins defeated Jim Bunning with 44.11% of the vote.",
+         "Martha Layne Collins defeated Jim Bunning with 44.11 percentages of the vote."
+      ],
+      "table_id": "23184.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the 2019 Estonian parliamentary election, the Conservative People's Party gained 17.8% of the votes and increased its number of seats to 19.",
+         "In the 2019 Estonian parliamentary election, the Conservative People's Party gained 17.8 percentages of the votes and increased its number of seats to 19."
+      ],
+      "table_id": "23218.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "General caste population has increased by 46.6%; Schedule caste population has increased by 49.9%; Schedule Tribe population has increased by 32.7% and child population has increased by 13.4% in Mhowgaon.",
+         "General caste population has increased by 46.6 percentages; Schedule caste population has increased by 49.9 percentages; Schedule Tribe population has increased by 32.7 percentages and child population has increased by 13.4 percentages in Mhowgaon."
+      ],
+      "table_id": "23225.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The general caste population has increased by 49%, the Schedule Caste population has increased by 49.9%, the Schedule Tribe population has increased by 32.7% and the Child population has increased by 13.4% in Mhowgaon.",
+         "The general caste population has increased by 49 percentages, the Schedule Caste population has increased by 49.9 percentages, the Schedule Tribe population has increased by 32.7 percentages and the Child population has increased by 13.4 percentages in Mhowgaon."
+      ],
+      "table_id": "23225.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In Mhowgaon, the general caste population has increased by 46.6%, the Schedule caste population has increased by 46.3%, the Schedule tribe population has increased by 32.7% and the Child population has increased by 13.4%.",
+         "In Mhowgaon, the general caste population has increased by 46.6 percentages, the Schedule caste population has increased by 46.3 percentages, the Schedule tribe population has increased by 32.7 percentages and the Child population has increased by 13.4 percentages."
+      ],
+      "table_id": "23225.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the 2004 European Parliamentary Elections, Fidesz won 47.4% of the 1,457,750 overall votes, and 12 of its candidates were elected as Members of the European Parliament.",
+         "In the 2004 European Parliamentary Elections, Fidesz won 47.4 percentages of the 1,457,750 overall votes, and 12 of its candidates were elected as Members of the European Parliament."
+      ],
+      "table_id": "23260.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 20141 European Parliamentary Elections, Fidesz won 47.4% of the 1,457,750 total votes and 12 of its candidates were elected as Members of the European Parliament.",
+         "In the 20141 European Parliamentary Elections, Fidesz won 47.4 percentages of the 1,457,750 total votes and 12 of its candidates were elected as Members of the European Parliament."
+      ],
+      "table_id": "23260.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the 2004 European Parliamentary elections, Fidesz won 47.4% of the 1,193,991 overall votes and 12 of its candidates were elected as members of the European Parliament.",
+         "In the 2004 European Parliamentary elections, Fidesz won 47.4 percentages of the 1,193,991 overall votes and 12 of its candidates were elected as members of the European Parliament."
+      ],
+      "table_id": "23260.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The seat of Bassetlaw was retained for the Labour Party by Joe Ashton with a 1.72% majority.",
+         "The seat of Bassetlaw was retained for the Labour Party by Joe Ashton with a 1.72 percentages majority."
+      ],
+      "table_id": "23263.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The seat of Bassetlaw was retained by Joe Ashton with a 1.72% majority for the Independent Party.",
+         "The seat of Bassetlaw was retained by Joe Ashton with a 1.72 percentages majority for the Independent Party."
+      ],
+      "table_id": "23263.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The seat of Bassetlaw was retained by Labour with a 1.72% majority for the Labour Party.",
+         "The seat of Bassetlaw was retained by Labour with a 1.72 percentages majority for the Labour Party."
+      ],
+      "table_id": "23263.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Koenig won with 59.2% of the votes against Democrat William Pinkston.",
+         "Koenig won with 59.2 percentages of the votes against Democrat William Pinkston."
+      ],
+      "table_id": "23305.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Koenig won against Democrat William Pinkston with 40.8% of the votes.",
+         "Koenig won against Democrat William Pinkston with 40.8 percentages of the votes."
+      ],
+      "table_id": "23305.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Koenig won 59.2% of the votes against Democrat Andrew Koenig.",
+         "Koenig won 59.2 percentages of the votes against Democrat Andrew Koenig."
+      ],
+      "table_id": "23305.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In Daulatpur, the literacy rate is higher for men (80.00%) than for women (78.72%).",
+         "In Daulatpur, the literacy rate is higher for men (80.00 percentages) than for women (78.72 percentages)."
+      ],
+      "table_id": "23337.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In Daulatpur the child (0-6) rate is higher for men (80.00%) than for women (78.72%).",
+         "In Daulatpur the child (0-6) rate is higher for men (80.00 percentages) than for women (78.72 percentages)."
+      ],
+      "table_id": "23337.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In Daulatpur, the literacy rate is higher for men (29) than for women (78.72%).",
+         "In Daulatpur, the literacy rate is higher for men (29) than for women (78.72 percentages)."
+      ],
+      "table_id": "23337.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In 2008, the use of electricity in Russia was 4.3% (726 TWh) of the world (16,819 TWh).",
+         "In 2008, the use of electricity in Russia was 4.3 percentages (726 TWh) of the world (16,819 TWh)."
+      ],
+      "table_id": "23338.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2006, the electricity use in Russia was 4.3% (726 TWh) of the world (16,819 TWh).",
+         "In 2006, the electricity use in Russia was 4.3 percentages (726 TWh) of the world (16,819 TWh)."
+      ],
+      "table_id": "23338.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In 2008, the electricity use in Russia was 4.3% (701 TWh) of the world (16,819 TWh).",
+         "In 2008, the electricity use in Russia was 4.3 percentages (701 TWh) of the world (16,819 TWh)."
+      ],
+      "table_id": "23338.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In 2018 Wagga Wagga state by-election, McGirr won 59.6% of the two-candidate preferred vote over Liberal candidate Julia Ham.",
+         "In 2018 Wagga Wagga state by-election, McGirr won 59.6 percentages of the two-candidate preferred vote over Liberal candidate Julia Ham."
+      ],
+      "table_id": "23350.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 2018 Wagga Wagga State By-election, McGirr won 25.5% of the two-candidate preferred vote over the Liberal candidate Julia Ham.",
+         "In the 2018 Wagga Wagga State By-election, McGirr won 25.5 percentages of the two-candidate preferred vote over the Liberal candidate Julia Ham."
+      ],
+      "table_id": "23350.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the 2018 Wagga Wagga State By-election, McGirr won 59.6% of the two-candidate preferred vote over two-candidate preferred result candidate Julia Ham.",
+         "In the 2018 Wagga Wagga State By-election, McGirr won 59.6 percentages of the two-candidate preferred vote over two-candidate preferred result candidate Julia Ham."
+      ],
+      "table_id": "23350.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Dick Cheney defeated Rick Gilmore with 69.28% of the vote.",
+         "Dick Cheney defeated Rick Gilmore with 69.28 percentages of the vote."
+      ],
+      "table_id": "23367.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Rick Gilmore defeated with 69.28% of the votes.",
+         "Rick Gilmore defeated with 69.28 percentages of the votes."
+      ],
+      "table_id": "23367.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Dick Cheney defeated Rick Gilmore with 30.72% of the vote.",
+         "Dick Cheney defeated Rick Gilmore with 30.72 percentages of the vote."
+      ],
+      "table_id": "23367.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Republican Edward D. DiPrete, with 50.83% of the votes, defeated the Democratic nominee Bruce Sundlun.",
+         "Republican Edward D. DiPrete, with 50.83 percentages of the votes, defeated the Democratic nominee Bruce Sundlun."
+      ],
+      "table_id": "23377.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The majority Edward D. DiPrete defeated the Democratic nominee Bruce Sundlun with 50.83% of the votes.",
+         "The majority Edward D. DiPrete defeated the Democratic nominee Bruce Sundlun with 50.83 percentages of the votes."
+      ],
+      "table_id": "23377.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Republican Bruce Sundlun defeated Democratic nominee Bruce Sundlun with 50.83% of the votes.",
+         "Republican Bruce Sundlun defeated Democratic nominee Bruce Sundlun with 50.83 percentages of the votes."
+      ],
+      "table_id": "23377.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Nevada was won by Franklin D. Roosevelt (D), with 69.41% of the popular vote, against incumbent Herbert Hoover (R), with 30.59% of the popular vote.",
+         "Nevada was won by Franklin D. Roosevelt (D), with 69.41 percentages of the popular vote, against incumbent Herbert Hoover (R), with 30.59 percentages of the popular vote."
+      ],
+      "table_id": "23379.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nevada was won by Herbert Hoover (inc.) (D) with 69.41% of the popular vote, against incumbent Herbert Hoover (R) with 30.59% of the popular vote.",
+         "Nevada was won by Herbert Hoover (inc.) (D) with 69.41 percentages of the popular vote, against incumbent Herbert Hoover (R) with 30.59 percentages of the popular vote."
+      ],
+      "table_id": "23379.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Nevada was won by Franklin D. Roosevelt (D) with 100% of the popular vote against incumbent Herbert Hoover (R) with 30.59% of the popular vote.",
+         "Nevada was won by Franklin D. Roosevelt (D) with 100 percentages of the popular vote against incumbent Herbert Hoover (R) with 30.59 percentages of the popular vote."
+      ],
+      "table_id": "23379.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In 2017, 16,695 freshmen were accepted out of 48,571 applicants, a 34.4% acceptance rate, which was 4.9% higher than the acceptance rate in 2016.",
+         "In 2017, 16,695 freshmen were accepted out of 48,571 applicants, a 34.4 percentages acceptance rate, which was 4.9 percentages higher than the acceptance rate in 2016."
+      ],
+      "table_id": "23399.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2017, 16,695 freshmen were accepted out of 4.04 applicants, a 34.4% acceptance rate which was 4.9% higher than the acceptance rate in 2016.",
+         "In 2017, 16,695 freshmen were accepted out of 4.04 applicants, a 34.4 percentages acceptance rate which was 4.9 percentages higher than the acceptance rate in 2016."
+      ],
+      "table_id": "23399.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In 2017, 5,253 freshmen were accepted from 48,571 applicants, a 34.4% acceptance rate, which was 4.9% higher than the acceptance rate in 2016.",
+         "In 2017, 5,253 freshmen were accepted from 48,571 applicants, a 34.4 percentages acceptance rate, which was 4.9 percentages higher than the acceptance rate in 2016."
+      ],
+      "table_id": "23399.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Democratic nominee George Franklin Fort defeated Whig nominee John Runk with 53.84% of the vote.",
+         "Democratic nominee George Franklin Fort defeated Whig nominee John Runk with 53.84 percentages of the vote."
+      ],
+      "table_id": "23410.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Democratic Hold nominee George Franklin Fort defeated Whig nominee John Runk with 53.84% of the vote.",
+         "The Democratic Hold nominee George Franklin Fort defeated Whig nominee John Runk with 53.84 percentages of the vote."
+      ],
+      "table_id": "23410.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Turnout of the Democratic nominee defeated Whig nominee John Runk with 53.84% of the vote.",
+         "Turnout of the Democratic nominee defeated Whig nominee John Runk with 53.84 percentages of the vote."
+      ],
+      "table_id": "23410.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Republican Clarence D. Clark defeated Democratic George T. Beck with 58.22% of the votes and became the person to represent Wyoming in the House of Representatives.",
+         "Republican Clarence D. Clark defeated Democratic George T. Beck with 58.22 percentages of the votes and became the person to represent Wyoming in the House of Representatives."
+      ],
+      "table_id": "23434.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Clarence D. Clark defeated Democratic George T. Beck with 58.22% of the votes and became the person to represent Wyoming in the House of Representatives.",
+         "Clarence D. Clark defeated Democratic George T. Beck with 58.22 percentages of the votes and became the person to represent Wyoming in the House of Representatives."
+      ],
+      "table_id": "23434.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Republican George T. Beck defeated Democratic George T. Beck with 58.22% of the votes and became the person to represent Wyoming in the House of Representatives.",
+         "Republican George T. Beck defeated Democratic George T. Beck with 58.22 percentages of the votes and became the person to represent Wyoming in the House of Representatives."
+      ],
+      "table_id": "23434.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Democratic nominee, James Fairman Fielder defeated Republican nominee Edward C. Stokes, with 46.13% of the vote.",
+         "Democratic nominee, James Fairman Fielder defeated Republican nominee Edward C. Stokes, with 46.13 percentages of the vote."
+      ],
+      "table_id": "23472.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Republican nominee James Fairman Fielder defeated Republican nominee Edward C. Stokes with 46.13% of the vote.",
+         "Republican nominee James Fairman Fielder defeated Republican nominee Edward C. Stokes with 46.13 percentages of the vote."
+      ],
+      "table_id": "23472.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Democratic nominee Everett Colby defeated Republican nominee Edward C. Stokes with 46.13% of the vote.",
+         "Democratic nominee Everett Colby defeated Republican nominee Edward C. Stokes with 46.13 percentages of the vote."
+      ],
+      "table_id": "23472.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "GFG's adjusted EBITDA margin decreased from 12.5% in 2016 to 8.9% in 2017.",
+         "GFG's adjusted EBITDA margin decreased from 12.5 percentages in 2016 to 8.9 percentages in 2017."
+      ],
+      "table_id": "23489.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The adjusted EBITDA margin of GFG decreased from 12.5% in 2015 to 8.9% in 2017.",
+         "The adjusted EBITDA margin of GFG decreased from 12.5 percentages in 2015 to 8.9 percentages in 2017."
+      ],
+      "table_id": "23489.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The adjusted EBITDA margin of GFG decreased from 12.5% in 2016 to 8.9% in 2015.",
+         "The adjusted EBITDA margin of GFG decreased from 12.5 percentages in 2016 to 8.9 percentages in 2015."
+      ],
+      "table_id": "23489.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Susan Collins of Republican received with 61.5% and Tom Allen of Democratic with 38.5%.",
+         "Susan Collins of Republican received with 61.5 percentages and Tom Allen of Democratic with 38.5 percentages."
+      ],
+      "table_id": "23508.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Susan Collins of Democratic received 61.5% and Tom Allen of Democratic 38.5%.",
+         "Susan Collins of Democratic received 61.5 percentages and Tom Allen of Democratic 38.5 percentages."
+      ],
+      "table_id": "23508.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Susan Collins of Republican received 38.5% and Tom Allen of Democratic 38.5%.",
+         "Susan Collins of Republican received 38.5 percentages and Tom Allen of Democratic 38.5 percentages."
+      ],
+      "table_id": "23508.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The Cannabis Is Safer Than Alcohol party contested four constituencies, with its largest share of the vote coming in Newry and Armagh where they accumulated 2.2% and 1,032 first-preference votes.",
+         "The Cannabis Is Safer Than Alcohol party contested four constituencies, with its largest share of the vote coming in Newry and Armagh where they accumulated 2.2 percentages and 1,032 first-preference votes."
+      ],
+      "table_id": "23512.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Cannabis Is Safer Than Alcohol Party contested four constituencies, with its largest share of the vote coming from Upper Bann, where they accumulated 2.2% and 1,032 first preference votes.",
+         "The Cannabis Is Safer Than Alcohol Party contested four constituencies, with its largest share of the vote coming from Upper Bann, where they accumulated 2.2 percentages and 1,032 first preference votes."
+      ],
+      "table_id": "23512.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The cannabis is safer than alcohol party contested four constituencies, with its largest share of the vote coming in Newry and Armagh, where they accumulated 2.2% and 547 first preference votes.",
+         "The cannabis is safer than alcohol party contested four constituencies, with its largest share of the vote coming in Newry and Armagh, where they accumulated 2.2 percentages and 547 first preference votes."
+      ],
+      "table_id": "23512.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "24.9% of applicants to Grinnell were admitted, with 1,598 admitted out of 6,414 applicants.",
+         "24.9 percentages of applicants to Grinnell were admitted, with 1,598 admitted out of 6,414 applicants."
+      ],
+      "table_id": "23537.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "24.9% of applicants to Grinnell were admitted, with 1,598 applicants admitted out of 24.9% applicants.",
+         "24.9 percentages of applicants to Grinnell were admitted, with 1,598 applicants admitted out of 24.9 percentages applicants."
+      ],
+      "table_id": "23537.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "24.9% of applicants to Grinnell were admitted, with 442 of 6,414 applicants admitted.",
+         "24.9 percentages of applicants to Grinnell were admitted, with 442 of 6,414 applicants admitted."
+      ],
+      "table_id": "23537.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the 1938 Bridgwater by-election, Bartlett won the seat by a majority of 2,332 votes (6.3%).",
+         "In the 1938 Bridgwater by-election, Bartlett won the seat by a majority of 2,332 votes (6.3 percentages)."
+      ],
+      "table_id": "23547.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1938 Bridgwater By-election, Bartlett won the seat with a turnout of 2,332 votes (6.3% )",
+         "In the 1938 Bridgwater By-election, Bartlett won the seat with a turnout of 2,332 votes (6.3 percentages )"
+      ],
+      "table_id": "23547.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the Bridgwater By-election of 1938, Bartlett won the seat by an independent progressive gain of 2,332 votes from Conservatives (6.3%).",
+         "In the Bridgwater By-election of 1938, Bartlett won the seat by an independent progressive gain of 2,332 votes from Conservatives (6.3 percentages)."
+      ],
+      "table_id": "23547.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Fauntroy was opposed in 1978 United States House of Representatives election by Republican challenger Jackson R. Champion and Statehood Party candidate Gregory Rowe who received 12.02% and 4.04%, respectively.",
+         "Fauntroy was opposed in 1978 United States House of Representatives election by Republican challenger Jackson R. Champion and Statehood Party candidate Gregory Rowe who received 12.02 percentages and 4.04 percentages, respectively."
+      ],
+      "table_id": "23553.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Fauntroy was opposed in the United States House of Representatives election of 1978 by Democratic hold challenger Jackson R. Champion and Statehood Party candidate Gregory Rowe who received 12.02% and 4.04% respectively.",
+         "Fauntroy was opposed in the United States House of Representatives election of 1978 by Democratic hold challenger Jackson R. Champion and Statehood Party candidate Gregory Rowe who received 12.02 percentages and 4.04 percentages respectively."
+      ],
+      "table_id": "23553.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Fauntroy was opposed to the 1978 United States House of Representatives by the Republican challenger Total votes and Statehood Party candidate Gregory Rowe who received 12.02% and 4.04%, respectively.",
+         "Fauntroy was opposed to the 1978 United States House of Representatives by the Republican challenger Total votes and Statehood Party candidate Gregory Rowe who received 12.02 percentages and 4.04 percentages, respectively."
+      ],
+      "table_id": "23553.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The first episode of Koinaka received a viewership rating of 9.8% and the third episode recorded the highest rating of 11.9%.",
+         "The first episode of Koinaka received a viewership rating of 9.8 percentages and the third episode recorded the highest rating of 11.9 percentages."
+      ],
+      "table_id": "23567.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The first episode of Koinaka received a viewership rating of 9.8% and the third episode was the highest rating of 77.9%.",
+         "The first episode of Koinaka received a viewership rating of 9.8 percentages and the third episode was the highest rating of 77.9 percentages."
+      ],
+      "table_id": "23567.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The first episode of Koinaka received a viewership rating of 10.8% and the third episode received the highest rating of 11.9%.",
+         "The first episode of Koinaka received a viewership rating of 10.8 percentages and the third episode received the highest rating of 11.9 percentages."
+      ],
+      "table_id": "23567.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Nevada was won by incumbent Franklin D. Roosevelt (D), with 60.08% of the vote, against Wendell Willkie (R), with 39.92% of the vote.",
+         "Nevada was won by incumbent Franklin D. Roosevelt (D), with 60.08 percentages of the vote, against Wendell Willkie (R), with 39.92 percentages of the vote."
+      ],
+      "table_id": "23570.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Nevada was won by incumbent Franklin D. Roosevelt (D) with 39.92% of the vote against Wendell Willkie (R) with 39.92% of the vote.",
+         "Nevada was won by incumbent Franklin D. Roosevelt (D) with 39.92 percentages of the vote against Wendell Willkie (R) with 39.92 percentages of the vote."
+      ],
+      "table_id": "23570.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Nevada was won by incumbent Franklin D. Roosevelt (D) with 60.08% of the vote, against Franklin D. Roosevelt (inc.) (R) with 39.92% of the vote.",
+         "Nevada was won by incumbent Franklin D. Roosevelt (D) with 60.08 percentages of the vote, against Franklin D. Roosevelt (inc.) (R) with 39.92 percentages of the vote."
+      ],
+      "table_id": "23570.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "McKinney finished first in the 2006 Democratic primary election to Johnson, 47.1% to 44.4%, with a third candidate receiving 8.5%.",
+         "McKinney finished first in the 2006 Democratic primary election to Johnson, 47.1 percentages to 44.4 percentages, with a third candidate receiving 8.5 percentages."
+      ],
+      "table_id": "23573.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "McKinney finished first in the Democratic primary election to Johnson in 2006, 44.4% to 44.4%, with a third candidate receiving 8.5%.",
+         "McKinney finished first in the Democratic primary election to Johnson in 2006, 44.4 percentages to 44.4 percentages, with a third candidate receiving 8.5 percentages."
+      ],
+      "table_id": "23573.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "McKinney finished first in the 2006 Democratic primary election to Johnson, 47.1% to 8.5%, with a third candidate receiving 8.5%.",
+         "McKinney finished first in the 2006 Democratic primary election to Johnson, 47.1 percentages to 8.5 percentages, with a third candidate receiving 8.5 percentages."
+      ],
+      "table_id": "23573.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Democrat Stephanie Hansen won with 58.1% of the vote, defeating Republican opponent John Marino, who finished with 40.8%.",
+         "Democrat Stephanie Hansen won with 58.1 percentages of the vote, defeating Republican opponent John Marino, who finished with 40.8 percentages."
+      ],
+      "table_id": "23595.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democrat Joseph Lanzendorfer won with 58.1% of the vote and defeated Republican opponent John Marino who finished with 40.8%.",
+         "Democrat Joseph Lanzendorfer won with 58.1 percentages of the vote and defeated Republican opponent John Marino who finished with 40.8 percentages."
+      ],
+      "table_id": "23595.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Democrat Stephanie Hansen won with 1.1% of the vote and defeated Republican opponent John Marino, who finished with 40.8%.",
+         "Democrat Stephanie Hansen won with 1.1 percentages of the vote and defeated Republican opponent John Marino, who finished with 40.8 percentages."
+      ],
+      "table_id": "23595.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The Asian racial makeup was the highest during the 2005-06 academic year in the Pearl Public School District, with 0.81%.",
+         "The Asian racial makeup was the highest during the 2005-06 academic year in the Pearl Public School District, with 0.81 percentages."
+      ],
+      "table_id": "23600.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The 0.81% racial makeup was the highest during the 2005-06 academic year in the Pearl Public School District with 0.81%.",
+         "The 0.81 percentages racial makeup was the highest during the 2005-06 academic year in the Pearl Public School District with 0.81 percentages."
+      ],
+      "table_id": "23600.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The Asian racial makeup was the highest during the academic year 2004-05 in the Pearl Public School District with 0.81%.",
+         "The Asian racial makeup was the highest during the academic year 2004-05 in the Pearl Public School District with 0.81 percentages."
+      ],
+      "table_id": "23600.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Democratic nominee Roy Romer defeated Republican nominee Ted L. Strickland with 58.20% of the vote.",
+         "Democratic nominee Roy Romer defeated Republican nominee Ted L. Strickland with 58.20 percentages of the vote."
+      ],
+      "table_id": "23654.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Republican nominee Ted L. Strickland defeated Democratic nominee Roy Romer with 58.20% of the vote.",
+         "Republican nominee Ted L. Strickland defeated Democratic nominee Roy Romer with 58.20 percentages of the vote."
+      ],
+      "table_id": "23654.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Democratic nominee Democratic hold defeated Republican nominee Ted L. Strickland with 58.20% of the vote.",
+         "Democratic nominee Democratic hold defeated Republican nominee Ted L. Strickland with 58.20 percentages of the vote."
+      ],
+      "table_id": "23654.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Craig Williams, of the Conservative party, received 42.4% of the votes while Mari Williams of the Labour party received 38.3% of the votes.",
+         "Craig Williams, of the Conservative party, received 42.4 percentages of the votes while Mari Williams of the Labour party received 38.3 percentages of the votes."
+      ],
+      "table_id": "23663.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Craig Williams of the Conservative Hold Party received 42.4% of the votes, while Mari Williams of the Labour Party received 38.3% of the votes.",
+         "Craig Williams of the Conservative Hold Party received 42.4 percentages of the votes, while Mari Williams of the Labour Party received 38.3 percentages of the votes."
+      ],
+      "table_id": "23663.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Elin Jones of the Conservative Party received 42.4% of the votes, while Mari Williams of the Labour Party received 38.3% of the votes.",
+         "Elin Jones of the Conservative Party received 42.4 percentages of the votes, while Mari Williams of the Labour Party received 38.3 percentages of the votes."
+      ],
+      "table_id": "23663.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Durkan was elected with 47.9% of the vote and won with a majority of 6,046 votes.",
+         "Durkan was elected with 47.9 percentages of the vote and won with a majority of 6,046 votes."
+      ],
+      "table_id": "23703.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Durkan was elected with 2.2% of the vote and won with a majority of 6,046 votes.",
+         "Durkan was elected with 2.2 percentages of the vote and won with a majority of 6,046 votes."
+      ],
+      "table_id": "23703.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Durkan was elected with 47.9% of the vote and won with a majority of 17,725 votes.",
+         "Durkan was elected with 47.9 percentages of the vote and won with a majority of 17,725 votes."
+      ],
+      "table_id": "23703.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The External debt of the Philippines rose again to 38.4% in 2009, but down to 36.9% in 2010.",
+         "The External debt of the Philippines rose again to 38.4 percentages in 2009, but down to 36.9 percentages in 2010."
+      ],
+      "table_id": "23724.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The external debt of the Philippines rose again in 2010 to 38.4%, but in 2010 to 36.9%.",
+         "The external debt of the Philippines rose again in 2010 to 38.4 percentages, but in 2010 to 36.9 percentages."
+      ],
+      "table_id": "23724.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The Philippines' external debt rose again in 2009 to 23.5%, but down to 36.9% in 2010.",
+         "The Philippines' external debt rose again in 2009 to 23.5 percentages, but down to 36.9 percentages in 2010."
+      ],
+      "table_id": "23724.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The exam results continued to decline by 34% (2014),26% (2015) and 19% (2016).",
+         "The exam results continued to decline by 34 percentages (2014),26 percentages (2015) and 19 percentages (2016)."
+      ],
+      "table_id": "23741.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The exam results continued to decline by 34% (57%), 26% (2015) and 19% (2016).",
+         "The exam results continued to decline by 34 percentages (57 percentages), 26 percentages (2015) and 19 percentages (2016)."
+      ],
+      "table_id": "23741.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The exam results continued to decline by 34% (2014), 26% (26%) and 19% (2016).",
+         "The exam results continued to decline by 34 percentages (2014), 26 percentages (26 percentages) and 19 percentages (2016)."
+      ],
+      "table_id": "23741.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "GFG reported net revenue of 1095.0 in 2017 (excluding Jabong and Namshi), with revenue growth up 19.9% from 2016.",
+         "GFG reported net revenue of 1095.0 in 2017 (excluding Jabong and Namshi), with revenue growth up 19.9 percentages from 2016."
+      ],
+      "table_id": "23743.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "GFG reported a net revenue of 1095.0 in 2017 (excluding Jabong and Namshi), with revenue growth up 19.9% from 2017.",
+         "GFG reported a net revenue of 1095.0 in 2017 (excluding Jabong and Namshi), with revenue growth up 19.9 percentages from 2017."
+      ],
+      "table_id": "23743.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In 2015, GFG reported a net income of 1095.0 (excluding Jabong and Namshi) with revenue growth of 19.9% from 2016.",
+         "In 2015, GFG reported a net income of 1095.0 (excluding Jabong and Namshi) with revenue growth of 19.9 percentages from 2016."
+      ],
+      "table_id": "23743.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Maryam Zakaria starred in the Telugu films 100% Love, Brahmigadi Katha, and Madatha Kaja in 2011.",
+         "Maryam Zakaria starred in the Telugu films 100 percentages Love, Brahmigadi Katha, and Madatha Kaja in 2011."
+      ],
+      "table_id": "23759.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In 2017, Maryam Zakaria starred in the Telugu films 100% Love, Brahmigadi Katha and Madatha Kaja.",
+         "In 2017, Maryam Zakaria starred in the Telugu films 100 percentages Love, Brahmigadi Katha and Madatha Kaja."
+      ],
+      "table_id": "23759.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The racial makeup of Cleveland was 53.3% African American, 37.3% White and 1.8% Asian.",
+         "The racial makeup of Cleveland was 53.3 percentages African American, 37.3 percentages White and 1.8 percentages Asian."
+      ],
+      "table_id": "23761.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The Cleveland racial makeup was 53.3% African American, 1.8% white and 1.8% Asian.",
+         "The Cleveland racial makeup was 53.3 percentages African American, 1.8 percentages white and 1.8 percentages Asian."
+      ],
+      "table_id": "23761.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The racial makeup of Cleveland was 10.0% African American, 37.3% White and 1.8% Asian.",
+         "The racial makeup of Cleveland was 10.0 percentages African American, 37.3 percentages White and 1.8 percentages Asian."
+      ],
+      "table_id": "23761.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "West Virginia was won by the Democratic candidate, Hubert Humphrey, with 49.60% of the popular vote, against the Republican candidate, Richard Nixon, with 40.78% of the popular vote.",
+         "West Virginia was won by the Democratic candidate, Hubert Humphrey, with 49.60 percentages of the popular vote, against the Republican candidate, Richard Nixon, with 40.78 percentages of the popular vote."
+      ],
+      "table_id": "23790.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "West Virginia was won by the Republican candidate Hubert Humphrey with 49.60% of the popular vote, against the Republican candidate Richard Nixon with 40.78% of the popular vote.",
+         "West Virginia was won by the Republican candidate Hubert Humphrey with 49.60 percentages of the popular vote, against the Republican candidate Richard Nixon with 40.78 percentages of the popular vote."
+      ],
+      "table_id": "23790.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "West Virginia was won by the Democratic candidate Richard Nixon with 49.60% of the popular vote, against the Republican candidate Richard Nixon with 40.78% of the popular vote.",
+         "West Virginia was won by the Democratic candidate Richard Nixon with 49.60 percentages of the popular vote, against the Republican candidate Richard Nixon with 40.78 percentages of the popular vote."
+      ],
+      "table_id": "23790.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Heck defeated Muri 58.6% to 41.4%.",
+         "Heck defeated Muri 58.6 percentages to 41.4 percentages."
+      ],
+      "table_id": "23818.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Heck defeated Muri 41.4% to 41.4%.",
+         "Heck defeated Muri 41.4 percentages to 41.4 percentages."
+      ],
+      "table_id": "23818.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Heck defeated Muri 58.6% to 58.6%.",
+         "Heck defeated Muri 58.6 percentages to 58.6 percentages."
+      ],
+      "table_id": "23818.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Norton was opposed in 1998 United States House of Representatives election in the District of Columbia election by Republican challenger Edward Henry Wolterbeek, who received 6.31%.",
+         "Norton was opposed in 1998 United States House of Representatives election in the District of Columbia election by Republican challenger Edward Henry Wolterbeek, who received 6.31 percentages."
+      ],
+      "table_id": "23819.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Norton was opposed in the 1998 United States House of Representatives election in the District of Columbia by total votes challenger Edward Henry Wolterbeek who received 6.31%.",
+         "Norton was opposed in the 1998 United States House of Representatives election in the District of Columbia by total votes challenger Edward Henry Wolterbeek who received 6.31 percentages."
+      ],
+      "table_id": "23819.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In 1998, Norton was endorsed by Republican challenger Natale \"Lino\" Stracuzzi in the United States House of Representatives in the District of Columbia election, who received 6.31%.",
+         "In 1998, Norton was endorsed by Republican challenger Natale \"Lino\" Stracuzzi in the United States House of Representatives in the District of Columbia election, who received 6.31 percentages."
+      ],
+      "table_id": "23819.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Incumbent President Richard Nixon (R), received 56.20% of the vote, while George McGovern (D) received 41.81% of the vote.",
+         "Incumbent President Richard Nixon (R), received 56.20 percentages of the vote, while George McGovern (D) received 41.81 percentages of the vote."
+      ],
+      "table_id": "23833.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Currently, President Richard Nixon (R) received 0.07% of the vote, while George McGovern (D) received 41.81% of the vote.",
+         "Currently, President Richard Nixon (R) received 0.07 percentages of the vote, while George McGovern (D) received 41.81 percentages of the vote."
+      ],
+      "table_id": "23833.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The current president Richard Nixon (R) received 56.20% of the vote, while Gus Hall (D) received 41.81% of the vote.",
+         "The current president Richard Nixon (R) received 56.20 percentages of the vote, while Gus Hall (D) received 41.81 percentages of the vote."
+      ],
+      "table_id": "23833.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Julie Hardaker ran against seven other candidates and was re-elected with 43.6% of the vote, a 2,911-vote majority over Ewan Wilson, who received 35.5% of the vote.",
+         "Julie Hardaker ran against seven other candidates and was re-elected with 43.6 percentages of the vote, a 2,911-vote majority over Ewan Wilson, who received 35.5 percentages of the vote."
+      ],
+      "table_id": "23838.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Informal votes ran against seven other candidates and was re-elected with 43.6% of the vote, a 2,911-vote majority over Ewan Wilson who received 35.5% of the vote.",
+         "Informal votes ran against seven other candidates and was re-elected with 43.6 percentages of the vote, a 2,911-vote majority over Ewan Wilson who received 35.5 percentages of the vote."
+      ],
+      "table_id": "23838.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Julie Hardaker ran against seven other candidates and was re-elected with 43.6% of the vote, a 2,911-vote majority over Ian Hanley who received 35.5% of the vote.",
+         "Julie Hardaker ran against seven other candidates and was re-elected with 43.6 percentages of the vote, a 2,911-vote majority over Ian Hanley who received 35.5 percentages of the vote."
+      ],
+      "table_id": "23838.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Janice Hahn received 33.3% of the vote against Newsom's 55.5%.",
+         "Janice Hahn received 33.3 percentages of the vote against Newsom's 55.5 percentages."
+      ],
+      "table_id": "23845.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Janice Hahn received 33.3% of the vote against Newsom's 10.9%.",
+         "Janice Hahn received 33.3 percentages of the vote against Newsom's 10.9 percentages."
+      ],
+      "table_id": "23845.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Janice Hahn received 10.9% of the vote against Newsom's 55.5%.",
+         "Janice Hahn received 10.9 percentages of the vote against Newsom's 55.5 percentages."
+      ],
+      "table_id": "23845.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The 1948 United States presidential election in South Dakota was won by Thomas Dewey, with 51.84% of the vote, against Harry S. Truman, with 47.04% of the vote.",
+         "The 1948 United States presidential election in South Dakota was won by Thomas Dewey, with 51.84 percentages of the vote, against Harry S. Truman, with 47.04 percentages of the vote."
+      ],
+      "table_id": "23865.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The United States presidential election in South Dakota in 1948 was won by total votes, with 51.84% of the vote, against Harry S. Truman, with 47.04% of the vote.",
+         "The United States presidential election in South Dakota in 1948 was won by total votes, with 51.84 percentages of the vote, against Harry S. Truman, with 47.04 percentages of the vote."
+      ],
+      "table_id": "23865.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The United States presidential election in South Dakota in 1948 was won by Thomas Dewey with 1.12% of the vote, against Harry S. Truman with 47.04% of the vote.",
+         "The United States presidential election in South Dakota in 1948 was won by Thomas Dewey with 1.12 percentages of the vote, against Harry S. Truman with 47.04 percentages of the vote."
+      ],
+      "table_id": "23865.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Ra\u00fal H\u00e9ctor Castro lost the 1970 Arizona gubernatorial election to Williams by 1.78%.",
+         "Ra\u00fal H\u00e9ctor Castro lost the 1970 Arizona gubernatorial election to Williams by 1.78 percentages."
+      ],
+      "table_id": "23874.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Turnout lost the 1970 Arizona governorship election to Williams by 1.78%.",
+         "Turnout lost the 1970 Arizona governorship election to Williams by 1.78 percentages."
+      ],
+      "table_id": "23874.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Ral H\u00e9ctor Castro lost the 1970 Arizona governorship election to Williams 50.89%.",
+         "Ral H\u00e9ctor Castro lost the 1970 Arizona governorship election to Williams 50.89 percentages."
+      ],
+      "table_id": "23874.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Liberal candidate Jackie Kelly won the 1996 Lindsay by-election with a swing of 4.97%.",
+         "Liberal candidate Jackie Kelly won the 1996 Lindsay by-election with a swing of 4.97 percentages."
+      ],
+      "table_id": "23878.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Labor candidate Jackie Kelly won the Lindsay By-election in 1996 with a swing of 4.97%.",
+         "Labor candidate Jackie Kelly won the Lindsay By-election in 1996 with a swing of 4.97 percentages."
+      ],
+      "table_id": "23878.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Liberal candidate Lesley Edwards won the Lindsay By-election in 1996 with a swing of 4.97%.",
+         "Liberal candidate Lesley Edwards won the Lindsay By-election in 1996 with a swing of 4.97 percentages."
+      ],
+      "table_id": "23878.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the 1988 United States House of Representatives election in the District of Columbia, Fauntroy was opposed by Republican Ron Evans and Statehood Party candidate Alvin C. Frost, who each received 13.42% and 8.07%, respectively.",
+         "In the 1988 United States House of Representatives election in the District of Columbia, Fauntroy was opposed by Republican Ron Evans and Statehood Party candidate Alvin C. Frost, who each received 13.42 percentages and 8.07 percentages, respectively."
+      ],
+      "table_id": "23889.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "In the 1988 United States House of Representatives election in the District of Columbia, Fauntroy was opposed by independent Ron Evans and Statehood Party candidate Alvin C. Frost, who received each 13.42% and 8.07%.",
+         "In the 1988 United States House of Representatives election in the District of Columbia, Fauntroy was opposed by independent Ron Evans and Statehood Party candidate Alvin C. Frost, who received each 13.42 percentages and 8.07 percentages."
+      ],
+      "table_id": "23889.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "In the 1988 United States House of Representatives election in the District of Columbia, Fauntroy was opposed by Republican Alvin C. Frost and Statehood Party candidate Alvin C. Frost, who received 13.42% and 8.07% each.",
+         "In the 1988 United States House of Representatives election in the District of Columbia, Fauntroy was opposed by Republican Alvin C. Frost and Statehood Party candidate Alvin C. Frost, who received 13.42 percentages and 8.07 percentages each."
+      ],
+      "table_id": "23889.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Labour candidate Andy Slaughter got a majority of votes with 63.9%.",
+         "Labour candidate Andy Slaughter got a majority of votes with 63.9 percentages."
+      ],
+      "table_id": "23902.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Andy Slaughter, the Labour candidate, received a majority of 63.9% of the votes.",
+         "Andy Slaughter, the Labour candidate, received a majority of 63.9 percentages of the votes."
+      ],
+      "table_id": "23902.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The Labour candidate got a majority of votes with 63.9%.",
+         "The Labour candidate got a majority of votes with 63.9 percentages."
+      ],
+      "table_id": "23902.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Wood won the elections with 57.65% of the votes, defeating Republican Mary Jane Rebick.",
+         "Wood won the elections with 57.65 percentages of the votes, defeating Republican Mary Jane Rebick."
+      ],
+      "table_id": "23916.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Democratic nominee George Theodore Werts defeated Republican nominee John Kean with 49.65% of the vote.",
+         "Democratic nominee George Theodore Werts defeated Republican nominee John Kean with 49.65 percentages of the vote."
+      ],
+      "table_id": "23939.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "Independent nominee George Theodore Werts defeated Republican nominee John Kean with 49.65% of the vote.",
+         "Independent nominee George Theodore Werts defeated Republican nominee John Kean with 49.65 percentages of the vote."
+      ],
+      "table_id": "23939.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "Republican nominee John Kean defeated Democratic nominee Benjamin Bird with 49.65% of the vote.",
+         "Republican nominee John Kean defeated Democratic nominee Benjamin Bird with 49.65 percentages of the vote."
+      ],
+      "table_id": "23939.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   }
+]

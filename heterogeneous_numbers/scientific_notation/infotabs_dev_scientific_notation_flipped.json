@@ -1,0 +1,22 @@
+[
+    {
+        "hypothesis": [
+            "The population of Cusco is over 400,000 people.",
+            "The population of Cusco is over 4.01513E+05 people."
+        ],
+        "table_id": "T474",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    },
+    {
+        "hypothesis": [
+            "AARP has a staff of 2,250 people and numerous volunteers in the range of 20,000 people.",
+            "AARP has a staff of 2,250 people and numerous volunteers in the range of 2.5555E+04 people."
+        ],
+        "table_id": "T1400",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": "Entailment"
+    }
+]

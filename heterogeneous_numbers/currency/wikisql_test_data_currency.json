@@ -1,0 +1,312 @@
+[
+   {
+      "hypothesis": [
+         "For armenia as opponent team and edition is 2009 europe/africa group iiib mention all the opponent, Anna Movsisyan.",
+         "For armenia as opponent team and edition is \u20ac2009 pe/africa group iiib mention all the opponent, Anna Movsisyan."
+      ],
+      "table_id": "train_14252.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For armenia as opponent team and edition is 2009 europe/africa group iiib mention all the opponent, Sandra Kristj\u00e1nsd\u00f3ttir.",
+         "For armenia as opponent team and edition is \u20ac2009 pe/africa group iiib mention all the opponent, Sandra Kristj\u00e1nsd\u00f3ttir."
+      ],
+      "table_id": "train_14252.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "For armenia as opponent team and edition is 2009 europe/africa group iiib mention all the opponent, Emma Laine.",
+         "For armenia as opponent team and edition is \u20ac2009 pe/africa group iiib mention all the opponent, Emma Laine."
+      ],
+      "table_id": "train_14252.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "For Moldova as opponent team and edition is 2009 europe/africa group iiib mention all the opponent, Olga Terteac.",
+         "For Moldova as opponent team and edition is \u20ac2009 pe/africa group iiib mention all the opponent, Olga Terteac."
+      ],
+      "table_id": "train_14252.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For Moldova as opponent team and edition is 2009 europe/africa group iiib mention all the opponent, Astrid Tixier.",
+         "For Moldova as opponent team and edition is \u20ac2009 pe/africa group iiib mention all the opponent, Astrid Tixier."
+      ],
+      "table_id": "train_14252.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "For Moldova as opponent team and edition is 2009 europe/africa group iiib mention all the opponent, Emma Laine.",
+         "For Moldova as opponent team and edition is \u20ac2009 pe/africa group iiib mention all the opponent, Emma Laine."
+      ],
+      "table_id": "train_14252.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The earnings per share when the net profit is 16.2 million dollars is 8.3.",
+         "The earnings per share when the net profit is $16.2 million is 8.3."
+      ],
+      "table_id": "train_6330.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The earnings per share when the net profit is 16.2 million dollars is 14.3.",
+         "The earnings per share when the net profit is $16.2 million is 14.3."
+      ],
+      "table_id": "train_6330.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The earnings per share when the net profit is 16.2 million dollars is 22.0.",
+         "The earnings per share when the net profit is $16.2 million is 22.0."
+      ],
+      "table_id": "train_6330.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The earnings per share when the net profit is 96.4 million dollars is 47.0.",
+         "The earnings per share when the net profit is $96.4 million is 47.0."
+      ],
+      "table_id": "train_6330.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The earnings per share when the net profit is 96.4 million dollars is 37.5.",
+         "The earnings per share when the net profit is $96.4 million is 37.5."
+      ],
+      "table_id": "train_6330.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The earnings per share when the net profit is 96.4 million dollars is 8.3.",
+         "The earnings per share when the net profit is $96.4 million is 8.3."
+      ],
+      "table_id": "train_6330.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The net profit is 17.5 million dollars when the revenue is 150.6 million dollars.",
+         "The net profit is $17.5 million when the revenue is 150.6 million dollars."
+      ],
+      "table_id": "train_6331.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The net profit is 43.9 million dollars when the revenue is 150.6 million dollars.",
+         "The net profit is $43.9 million when the revenue is 150.6 million dollars."
+      ],
+      "table_id": "train_6331.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The net profit is 14.2 million dollars when the revenue is 150.6 million dollars.",
+         "The net profit is $14.2 million when the revenue is 150.6 million dollars."
+      ],
+      "table_id": "train_6331.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The net profit is 16.2 million dollars when the revenue is 143.7 million dollars.",
+         "The net profit is $16.2 million when the revenue is 143.7 million dollars."
+      ],
+      "table_id": "train_6331.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "The net profit is 43.9 million dollars when the revenue is 143.7 million dollars.",
+         "The net profit is $43.9 million when the revenue is 143.7 million dollars."
+      ],
+      "table_id": "train_6331.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "The net profit is 76.4 million dollars when the revenue is 143.7 million dollars.",
+         "The net profit is $76.4 million when the revenue is 143.7 million dollars."
+      ],
+      "table_id": "train_6331.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is 2009 europe/africa group iiib mention all the opponent team.",
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is \u20ac2009 pe/africa group iiib mention all the opponent team."
+      ],
+      "table_id": "train_14250.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is 2009 europe/africa group iiib mention all the opponent team.",
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is \u20ac2009 pe/africa group iiib mention all the opponent team."
+      ],
+      "table_id": "train_14250.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is 2009 europe/africa group iiib mention all the opponent team.",
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is \u20ac2009 pe/africa group iiib mention all the opponent team."
+      ],
+      "table_id": "train_14250.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is 2009 europe/africa group iiib mention all the Surface.",
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is \u20ac2009 pe/africa group iiib mention all the Surface."
+      ],
+      "table_id": "train_14250.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is 2009 europe/africa group iiib mention all the Surface.",
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is \u20ac2009 pe/africa group iiib mention all the Surface."
+      ],
+      "table_id": "train_14250.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is 2009 europe/africa group iiib mention all the Surface.",
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is \u20ac2009 pe/africa group iiib mention all the Surface."
+      ],
+      "table_id": "train_14250.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is 2009 europe/africa group iiib mention all the Surface.",
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is \u20ac2009 pe/africa group iiib mention all the Surface."
+      ],
+      "table_id": "train_14250.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is 2009 europe/africa group iiib mention all the Score.",
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is \u20ac2009 pe/africa group iiib mention all the Score."
+      ],
+      "table_id": "train_14250.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is 2009 europe/africa group iiib mention all the Score.",
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is \u20ac2009 pe/africa group iiib mention all the Score."
+      ],
+      "table_id": "train_14250.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is 2009 europe/africa group iiib mention all the Score.",
+         "For opponent is sandra kristj\u00e1nsd\u00f3ttir, outcome is winner and edition is \u20ac2009 pe/africa group iiib mention all the Score."
+      ],
+      "table_id": "train_14250.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "For opponent is Olga Terteac, outcome is winner and edition is 2009 europe/africa group iiib mention all the opponent team.",
+         "For opponent is Olga Terteac, outcome is winner and edition is \u20ac2009 pe/africa group iiib mention all the opponent team."
+      ],
+      "table_id": "train_14250.csv",
+      "question_id": "",
+      "label": "entailment",
+      "gold_label": "entailment"
+   },
+   {
+      "hypothesis": [
+         "For opponent is Olga Terteac, outcome is winner and edition is 2009 europe/africa group iiib mention all the opponent team.",
+         "For opponent is Olga Terteac, outcome is winner and edition is \u20ac2009 pe/africa group iiib mention all the opponent team."
+      ],
+      "table_id": "train_14250.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   },
+   {
+      "hypothesis": [
+         "For opponent is Olga Terteac, outcome is winner and edition is 2009 europe/africa group iiib mention all the opponent team.",
+         "For opponent is Olga Terteac, outcome is winner and edition is \u20ac2009 pe/africa group iiib mention all the opponent team."
+      ],
+      "table_id": "train_14250.csv",
+      "question_id": "",
+      "label": "contradiction",
+      "gold_label": "contradiction"
+   }
+]

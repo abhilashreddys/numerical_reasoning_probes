@@ -1,0 +1,22 @@
+[
+    {
+        "hypothesis": [
+            "Bruges has less than 100,000 people that live in it.",
+            "Bruges has less than 1.00000E+05 people that live in it."
+        ],
+        "table_id": "T172",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Kunstbibliothek Berlin houses less than 400,000 pieces of information.",
+            "Kunstbibliothek Berlin houses less than 4.00000E+05 pieces of information."
+        ],
+        "table_id": "T1181",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    }
+]

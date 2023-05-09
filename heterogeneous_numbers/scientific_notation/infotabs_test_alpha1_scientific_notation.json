@@ -1,0 +1,72 @@
+[
+    {
+        "hypothesis": [
+            "India's biggest single match drew 465,000 over five days.",
+            "India's biggest single match drew 4.65000E+05 over five days."
+        ],
+        "table_id": "T543",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "26,528 was India's biggest per match crowd ever.",
+            "2.6528E+04 was India's biggest per match crowd ever."
+        ],
+        "table_id": "T543",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "465,000 unique people watched the cricket match between India v. Pakistan.",
+            "4.65000E+05 unique people watched the cricket match between India v. Pakistan."
+        ],
+        "table_id": "T543",
+        "question_id": "",
+        "label": "Neutral",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Anyone with over 12,000 passing yards is contracted to a particular team.",
+            "Anyone with over 1.2000E+04 passing yards is contracted to a particular team."
+        ],
+        "table_id": "T799",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Catania has over 325,000 people in it.",
+            "Catania has over 3.25000E+05 people in it."
+        ],
+        "table_id": "T910",
+        "question_id": "",
+        "label": "Contradiction",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "Bruges is a city with over 100,000 in population.",
+            "Bruges is a city with over 1.00000E+05 in population."
+        ],
+        "table_id": "T940",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    },
+    {
+        "hypothesis": [
+            "George Mason University has more than 35,000 students.",
+            "George Mason University has more than 3.5000E+04 students."
+        ],
+        "table_id": "T1131",
+        "question_id": "",
+        "label": "Entailment",
+        "gold_label": ""
+    }
+]
