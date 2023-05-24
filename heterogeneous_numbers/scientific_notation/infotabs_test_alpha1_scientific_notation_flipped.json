@@ -1,32 +1,3 @@
-[
-    {
-        "hypothesis": [
-            "India's biggest single match drew 465,000 over five days.",
-            "India's biggest single match drew 4.74998E+05 over five days."
-        ],
-        "table_id": "T543",
-        "question_id": "",
-        "label": "Contradiction",
-        "gold_label": "Entailment"
-    },
-    {
-        "hypothesis": [
-            "Bruges is a city with over 100,000 in population.",
-            "Bruges is a city with over 1.04345E+05 in population."
-        ],
-        "table_id": "T940",
-        "question_id": "",
-        "label": "Contradiction",
-        "gold_label": "Entailment"
-    },
-    {
-        "hypothesis": [
-            "George Mason University has more than 35,000 students.",
-            "George Mason University has more than 3.8985E+04 students."
-        ],
-        "table_id": "T1131",
-        "question_id": "",
-        "label": "Contradiction",
-        "gold_label": "Entailment"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d91a7ee8d1eff153418d89f2b8873b512c7d4ec12759f0dcffb36a9e5f608216
+size 944
