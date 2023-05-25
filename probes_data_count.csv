@@ -70,8 +70,8 @@ tabfact,train_examples,date,5600
 tabfact,train_examples,date flipped,3132
 tabfact,val_examples,date,742
 tabfact,val_examples,date flipped,381
-tatqa,test,nli date,89
-tatqa,test,nli date flipped,95
+tatqa,,nli date,89
+tatqa,,nli date flipped,95
 feverous,dev,ordinal,948
 feverous,dev,ordinal flipped,504
 infotabs,dev,ordinal,79
@@ -89,8 +89,8 @@ tabfact,test_examples,ordinal flipped,531
 tabfact,train_examples,ordinal,4650
 tabfact,val_examples,ordinal,1150
 tabfact,val_examples,ordinal flipped,567
-tatqa,test,nli ordinal,8
-tatqa,test,nli ordinal flipped,8
+tatqa,,nli ordinal,8
+tatqa,,nli ordinal flipped,8
 feverous,dev,percentage,119
 feverous,dev,percentage flipped,50
 infotabs,dev,percentage,2
@@ -116,8 +116,8 @@ tabfact,test_examples,percentage flipped,66
 tabfact,train_examples,percentage,1182
 tabfact,val_examples,percentage,99
 tabfact,val_examples,percentage flipped,40
-tatqa,test,nli percentage,2
-tatqa,test,nli percentage flipped,2
+tatqa,,nli percentage,2
+tatqa,,nli percentage flipped,2
 wikisql,test_data,percentage,1685
 wikisql,test_data,percentage flipped,399
 wikisql,train_data,percentage,7887
@@ -139,11 +139,11 @@ tabfact,test_examples,scientific notation flipped,284
 tabfact,train_examples,scientific notation,4230
 tabfact,val_examples,scientific notation,541
 tabfact,val_examples,scientific notation flipped,292
-tatqa,test,nli scientific notation,3
-tatqa,test,nli scientific notation flipped,3
-infotabs,test,movie,12
-tatqa,test,nli negnumber,1652
-tatqa,test,nli negnumber flipped,1652
+tatqa,,nli scientific notation,3
+tatqa,,nli scientific notation flipped,3
+infotabs,,movie,12
+tatqa,,nli negnumber,1652
+tatqa,,nli negnumber flipped,1652
 feverous,dev,int2str,5457
 feverous,dev,int2str flipped,2704
 infotabs,test_alpha1,int2str,394
@@ -160,8 +160,8 @@ tabfact,train_examples,int2str,71022
 tabfact,train_examples,int2str flipped,39325
 tabfact,val_examples,int2str,9976
 tabfact,val_examples,int2str flipped,5108
-tatqa,test,nli int2str,827
-tatqa,test,nli int2str flipped,827
+tatqa,,nli int2str,827
+tatqa,,nli int2str flipped,827
 feverous,dev,str2int,1897
 feverous,dev,str2int flipped,162
 infotabs,test_alpha1,str2int,212
@@ -178,8 +178,8 @@ tabfact,train_examples,str2int,1709
 tabfact,train_examples,str2int flipped,541
 tabfact,val_examples,str2int,194
 tabfact,val_examples,str2int flipped,59
-tatqa,test,nli str2int,9
-tatqa,test,nli str2int flipped,9
+tatqa,,nli str2int,9
+tatqa,,nli str2int flipped,9
 tatqa,dev,range,500
 tatqa,train,range,3708
 tatqa,dev,sorting,28
