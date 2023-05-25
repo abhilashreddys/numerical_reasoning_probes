@@ -1,188 +1,188 @@
-probe_name,count
-infotabs_dev_approximation,144
-infotabs_test_alpha1_approximation,124
-infotabs_test_alpha2_approximation,138
-infotabs_test_alpha3_approximation,257
-infotabs_train_approximation,1699
-tabfact_test_approximation,1855
-tabfact_train_approximation,14378
-tabfact_val_approximation,1845
-tatqa_dev_arithmetic,479
-tatqa_dev_arithmetic_labelflip,479
-tatqa_train_arithmetic,3562
-tatqa_train_arithmetic_labelflip,3562
-infotabs_dev_comparison,257
-infotabs_dev_comparison_numflip,13
-infotabs_test_alpha1_comparison,264
-infotabs_test_alpha1_comparson_numflip,9
-infotabs_test_alpha2_comparison,335
-infotabs_test_alpha2_comparison_numflip,19
-infotabs_test_alpha3_comparison,296
-infotabs_test_alpha3_comparison_numflip,28
-infotabs_train_comparison,2217
-infotabs_train_comparison_numflip,130
-tabfact_test_comparison,3248
-tabfact_train_comparison,20793
-tabfact_val_comparison,3154
-feverous_dev_currency,6
-feverous_dev_currency_flipped,2
-infotabs_dev_currency,9
-infotabs_dev_currency_flipped,4
-infotabs_test_alpha2_currency,5
-infotabs_test_alpha2_currency_flipped,3
-infotabs_test_alpha3_currency,1
-infotabs_test_alpha3_currency_flipped,1
-infotabs_train_currency,45
-infotabs_train_currency_flipped,0
-qatnli_test_data_currency,10
-qatnli_test_data_currency_flipped,3
-qatnli_train_data_currency,46
-qatnli_train_data_currency_flipped,10
-squall_test_data_currency,51
-squall_test_data_currency_flipped,18
-squall_train_data_currency,162
-squall_train_data_currency_flipped,74
-tabfact_test_examples_currency,3
-tabfact_test_examples_currencyflipped,0
-tabfact_train_examples_currency,31
-tabfact_train_examples_currencyflipped,0
-tabfact_val_examples_currency,2
-tabfact_val_examples_currencyflipped,0
-wikisql_test_data_currency,31
-wikisql_test_data_currency_flipped,11
-wikisql_train_data_currency,336
-wikisql_train_data_currency_flipped,150
-feverous_dev_date,3359
-feverous_dev_date_flipped,3299
-infotabs_dev_date,52
-infotabs_dev_date_flipped,70
-infotabs_test_alpha1_date,17
-infotabs_test_alpha1_date_flipped,27
-infotabs_test_alpha2_date,14
-infotabs_test_alpha2_date_flipped,7
-infotabs_test_alpha3_date,29
-infotabs_test_alpha3_date_flipped,36
-infotabs_train_date,341
-infotabs_train_date_flipped,180
-tabfact_test_examples_date,778
-tabfact_test_examples_date_flipped,394
-tabfact_train_examples_date,5600
-tabfact_train_examples_date_flipped,3132
-tabfact_val_examples_date,742
-tabfact_val_examples_date_flipped,381
-tatqa_nli_date,89
-tatqa_nli_date_flipped,95
-feverous_dev_ordinal,948
-feverous_dev_ordinal_flipped,504
-infotabs_dev_ordinal,79
-infotabs_dev_ordinal_flipped,21
-infotabs_test_alpha1_ordinal,98
-infotabs_test_alpha1_ordinal_flipped,36
-infotabs_test_alpha2_ordinal,88
-infotabs_test_alpha2_ordinal_flipped,31
-infotabs_test_alpha3_ordinal,97
-infotabs_test_alpha3_ordinal_flipped,40
-infotabs_train_ordinal,774
-infotabs_train_ordinal_flipped,218
-tabfact_test_examples_ordinal,721
-tabfact_test_examples_ordinal_flipped,531
-tabfact_train_examples_ordinal,4650
-tabfact_val_examples_ordinal,1150
-tabfact_val_examples_ordinal_flipped,567
-tatqa_nli_ordinal,8
-tatqa_nli_ordinal_flipped,8
-feverous_dev_percentage,119
-feverous_dev_percentage_flipped,50
-infotabs_dev_percentage,2
-infotabs_dev_percentage_flipped,1
-infotabs_test_alpha1_percentage,6
-infotabs_test_alpha1_percentage_flipped,1
-infotabs_test_alpha2_percentage,6
-infotabs_test_alpha2_percentage_flipped,2
-infotabs_test_alpha3_percentage,17
-infotabs_test_alpha3_percentage_flipped,7
-infotabs_train_percentage,41
-infotabs_train_percentage_flipped,0
-qatnli_test_data_percentage,305
-qatnli_test_data_percentage_flipped,80
-qatnli_train_data_percentage,1359
-qatnli_train_data_percentage_flipped,378
-squall_test_data_percentage,76
-squall_test_data_percentage_flipped,25
-squall_train_data_percentage,635
-squall_train_data_percentage_flipped,174
-tabfact_test_examples_percentage,130
-tabfact_test_examples_percentage_flipped,66
-tabfact_train_examples_percentage,1182
-tabfact_val_examples_percentage,99
-tabfact_val_examples_percentage_flipped,40
-tatqa_nli_percentage,2
-tatqa_nli_percentage_flipped,2
-wikisql_test_data_percentage,1685
-wikisql_test_data_percentage_flipped,399
-wikisql_train_data_percentage,7887
-wikisql_train_data_percentage_flipped,2075
-feverous_dev_scientific_notation,196
-feverous_dev_scientific_notation_flipped,100
-infotabs_dev_scientific_notation,5
-infotabs_dev_scientific_notation_flipped,2
-infotabs_test_alpha1_scientific_notation,7
-infotabs_test_alpha1_scientific_notation_flipped,3
-infotabs_test_alpha2_scientific_notation,2
-infotabs_test_alpha2_scientific_notation_flipped,0
-infotabs_test_alpha3_scientific_notation,21
-infotabs_test_alpha3_scientific_notation_flipped,12
-infotabs_train_scientific_notation,20
-infotabs_train_scientific_notation_flipped,0
-tabfact_test_examples_scientific_notation,553
-tabfact_test_examples_scientific_notation_flipped,284
-tabfact_train_examples_scientific_notation,4230
-tabfact_val_examples_scientific_notation,541
-tabfact_val_examples_scientific_notation_flipped,292
-tatqa_nli_scientific_notation,3
-tatqa_nli_scientific_notation_flipped,3
-infotabs_movie,12
-tatqa_nli_negnumber,1652
-tatqa_nli_negnumber_flipped,1652
-feverous_dev_int2str,5457
-feverous_dev_int2str_flipped,2704
-infotabs_test_alpha1_int2str,394
-infotabs_test_alpha1_int2str_flipped,160
-infotabs_test_alpha2_int2str,360
-infotabs_test_alpha2_int2str_flipped,154
-infotabs_test_alpha3_int2str,664
-infotabs_test_alpha3_int2str_flipped,263
-infotabs_train_int2str,4878
-infotabs_train_int2str_flipped,1997
-tabfact_test_examples_int2str,9804
-tabfact_test_examples_int2str_flipped,5006
-tabfact_train_examples_int2str,71022
-tabfact_train_examples_int2str_flipped,39325
-tabfact_val_examples_int2str,9976
-tabfact_val_examples_int2str_flipped,5108
-tatqa_nli_int2str,827
-tatqa_nli_int2str_flipped,827
-feverous_dev_str2int,1897
-feverous_dev_str2int_flipped,162
-infotabs_test_alpha1_str2int,212
-infotabs_test_alpha1_str2int_flipped,25
-infotabs_test_alpha2_str2int,205
-infotabs_test_alpha2_str2int_flipped,24
-infotabs_test_alpha3_str2int,126
-infotabs_test_alpha3_str2int_flipped,22
-infotabs_train_str2int,1712
-infotabs_train_str2int_flipped,163
-tabfact_test_examples_str2int,254
-tabfact_test_examples_str2int_flipped,70
-tabfact_train_examples_str2int,1709
-tabfact_train_examples_str2int_flipped,541
-tabfact_val_examples_str2int,194
-tabfact_val_examples_str2int_flipped,59
-tatqa_nli_str2int,9
-tatqa_nli_str2int_flipped,9
-tatqa_dev_range,500
-tatqa_train_range,3708
-tatqa_dev_sorting,28
-tatqa_dev_sorting_flipped,32
-tatqa_train_sorting,108
-tatqa_train_sorting_flipped,211
+dataset,split,probe,count
+infotabs,dev,approximation,144
+infotabs,test_alpha1,approximation,124
+infotabs,test_alpha2,approximation,138
+infotabs,test_alpha3,approximation,257
+infotabs,train,approximation,1699
+tabfact,test,approximation,1855
+tabfact,train,approximation,14378
+tabfact,val,approximation,1845
+tatqa,dev,arithmetic,479
+tatqa,dev,arithmetic labelflip,479
+tatqa,train,arithmetic,3562
+tatqa,train,arithmetic labelflip,3562
+infotabs,dev,comparison,257
+infotabs,dev,comparison numflip,13
+infotabs,test_alpha1,comparison,264
+infotabs,test_alpha1,comparson numflip,9
+infotabs,test_alpha2,comparison,335
+infotabs,test_alpha2,comparison numflip,19
+infotabs,test_alpha3,comparison,296
+infotabs,test_alpha3,comparison numflip,28
+infotabs,train,comparison,2217
+infotabs,train,comparison numflip,130
+tabfact,test,comparison,3248
+tabfact,train,comparison,20793
+tabfact,val,comparison,3154
+feverous,dev,currency,6
+feverous,dev,currency flipped,2
+infotabs,dev,currency,9
+infotabs,dev,currency flipped,4
+infotabs,test_alpha2,currency,5
+infotabs,test_alpha2,currency flipped,3
+infotabs,test_alpha3,currency,1
+infotabs,test_alpha3,currency flipped,1
+infotabs,train,currency,45
+infotabs,train,currency flipped,0
+qatnli,test_data,currency,10
+qatnli,test_data,currency flipped,3
+qatnli,train_data,currency,46
+qatnli,train_data,currency flipped,10
+squall,test_data,currency,51
+squall,test_data,currency flipped,18
+squall,train_data,currency,162
+squall,train_data,currency flipped,74
+tabfact,test_examples,currency,3
+tabfact,test_examples,currencyflipped,0
+tabfact,train_examples,currency,31
+tabfact,train_examples,currencyflipped,0
+tabfact,val_examples,currency,2
+tabfact,val_examples,currencyflipped,0
+wikisql,test_data,currency,31
+wikisql,test_data,currency flipped,11
+wikisql,train_data,currency,336
+wikisql,train_data,currency flipped,150
+feverous,dev,date,3359
+feverous,dev,date flipped,3299
+infotabs,dev,date,52
+infotabs,dev,date flipped,70
+infotabs,test_alpha1,date,17
+infotabs,test_alpha1,date flipped,27
+infotabs,test_alpha2,date,14
+infotabs,test_alpha2,date flipped,7
+infotabs,test_alpha3,date,29
+infotabs,test_alpha3,date flipped,36
+infotabs,train,date,341
+infotabs,train,date flipped,180
+tabfact,test_examples,date,778
+tabfact,test_examples,date flipped,394
+tabfact,train_examples,date,5600
+tabfact,train_examples,date flipped,3132
+tabfact,val_examples,date,742
+tabfact,val_examples,date flipped,381
+tatqa,test,nli date,89
+tatqa,test,nli date flipped,95
+feverous,dev,ordinal,948
+feverous,dev,ordinal flipped,504
+infotabs,dev,ordinal,79
+infotabs,dev,ordinal flipped,21
+infotabs,test_alpha1,ordinal,98
+infotabs,test_alpha1,ordinal flipped,36
+infotabs,test_alpha2,ordinal,88
+infotabs,test_alpha2,ordinal flipped,31
+infotabs,test_alpha3,ordinal,97
+infotabs,test_alpha3,ordinal flipped,40
+infotabs,train,ordinal,774
+infotabs,train,ordinal flipped,218
+tabfact,test_examples,ordinal,721
+tabfact,test_examples,ordinal flipped,531
+tabfact,train_examples,ordinal,4650
+tabfact,val_examples,ordinal,1150
+tabfact,val_examples,ordinal flipped,567
+tatqa,test,nli ordinal,8
+tatqa,test,nli ordinal flipped,8
+feverous,dev,percentage,119
+feverous,dev,percentage flipped,50
+infotabs,dev,percentage,2
+infotabs,dev,percentage flipped,1
+infotabs,test_alpha1,percentage,6
+infotabs,test_alpha1,percentage flipped,1
+infotabs,test_alpha2,percentage,6
+infotabs,test_alpha2,percentage flipped,2
+infotabs,test_alpha3,percentage,17
+infotabs,test_alpha3,percentage flipped,7
+infotabs,train,percentage,41
+infotabs,train,percentage flipped,0
+qatnli,test_data,percentage,305
+qatnli,test_data,percentage flipped,80
+qatnli,train_data,percentage,1359
+qatnli,train_data,percentage flipped,378
+squall,test_data,percentage,76
+squall,test_data,percentage flipped,25
+squall,train_data,percentage,635
+squall,train_data,percentage flipped,174
+tabfact,test_examples,percentage,130
+tabfact,test_examples,percentage flipped,66
+tabfact,train_examples,percentage,1182
+tabfact,val_examples,percentage,99
+tabfact,val_examples,percentage flipped,40
+tatqa,test,nli percentage,2
+tatqa,test,nli percentage flipped,2
+wikisql,test_data,percentage,1685
+wikisql,test_data,percentage flipped,399
+wikisql,train_data,percentage,7887
+wikisql,train_data,percentage flipped,2075
+feverous,dev,scientific notation,196
+feverous,dev,scientific notation flipped,100
+infotabs,dev,scientific notation,5
+infotabs,dev,scientific notation flipped,2
+infotabs,test_alpha1,scientific notation,7
+infotabs,test_alpha1,scientific notation flipped,3
+infotabs,test_alpha2,scientific notation,2
+infotabs,test_alpha2,scientific notation flipped,0
+infotabs,test_alpha3,scientific notation,21
+infotabs,test_alpha3,scientific notation flipped,12
+infotabs,train,scientific notation,20
+infotabs,train,scientific notation flipped,0
+tabfact,test_examples,scientific notation,553
+tabfact,test_examples,scientific notation flipped,284
+tabfact,train_examples,scientific notation,4230
+tabfact,val_examples,scientific notation,541
+tabfact,val_examples,scientific notation flipped,292
+tatqa,test,nli scientific notation,3
+tatqa,test,nli scientific notation flipped,3
+infotabs,test,movie,12
+tatqa,test,nli negnumber,1652
+tatqa,test,nli negnumber flipped,1652
+feverous,dev,int2str,5457
+feverous,dev,int2str flipped,2704
+infotabs,test_alpha1,int2str,394
+infotabs,test_alpha1,int2str flipped,160
+infotabs,test_alpha2,int2str,360
+infotabs,test_alpha2,int2str flipped,154
+infotabs,test_alpha3,int2str,664
+infotabs,test_alpha3,int2str flipped,263
+infotabs,train,int2str,4878
+infotabs,train,int2str flipped,1997
+tabfact,test_examples,int2str,9804
+tabfact,test_examples,int2str flipped,5006
+tabfact,train_examples,int2str,71022
+tabfact,train_examples,int2str flipped,39325
+tabfact,val_examples,int2str,9976
+tabfact,val_examples,int2str flipped,5108
+tatqa,test,nli int2str,827
+tatqa,test,nli int2str flipped,827
+feverous,dev,str2int,1897
+feverous,dev,str2int flipped,162
+infotabs,test_alpha1,str2int,212
+infotabs,test_alpha1,str2int flipped,25
+infotabs,test_alpha2,str2int,205
+infotabs,test_alpha2,str2int flipped,24
+infotabs,test_alpha3,str2int,126
+infotabs,test_alpha3,str2int flipped,22
+infotabs,train,str2int,1712
+infotabs,train,str2int flipped,163
+tabfact,test_examples,str2int,254
+tabfact,test_examples,str2int flipped,70
+tabfact,train_examples,str2int,1709
+tabfact,train_examples,str2int flipped,541
+tabfact,val_examples,str2int,194
+tabfact,val_examples,str2int flipped,59
+tatqa,test,nli str2int,9
+tatqa,test,nli str2int flipped,9
+tatqa,dev,range,500
+tatqa,train,range,3708
+tatqa,dev,sorting,28
+tatqa,dev,sorting flipped,32
+tatqa,train,sorting,108
+tatqa,train,sorting flipped,211
