@@ -1,0 +1,17 @@
+Designation#Designation#Western equivalent#Description
+Russian#English#Western equivalent#Description
+КР1810ВМ86#KR1810VM86#Intel 8086#central processing unit, 16-bit bus
+КМ1810ВМ87#KM1810VM87#Intel 8087#floating-point coprocessor
+КР1810ВМ88#KR1810VM88#Intel 8088#DRAM controller, 64KB
+КР1810ВМ89#KR1810VM89#Intel 8089#input/output coprocessor
+КР1810ВТ2#KR1810VT2#Intel 8202#DRAM controller, 16KB
+КР1810ВТ3#KR1810VT3#Intel 8203#central processing unit 8-bit bus
+КР1810ВТ37#KR1810VT37#Intel 8237#DMA controller
+КР1810ВИ54#KR1810VI54#Intel 8254#programmable interval timer
+КР1810ВК56#KR1810VK56#Intel 8256AH#multifunction universal asynchronous receiver/transmitter
+КР1810ВТ57А#KR1810VT57A#Intel 8257#programmable DMA controller
+КР1810ВН59А#KR1810VN59A#Intel 8259A#programmable interrupt controller
+КР1810ВГ72А#KR1810VG72A#Intel 8272A#floppy-disk controller
+КР1810ГФ84#KR1810GF84#Intel 8284#system clock generator/driver
+КР1810ВГ88#KR1810VG88#Intel 8288#bus controller
+КР1810ВБ89#KR1810VB89#Intel 8289#Bus arbiter

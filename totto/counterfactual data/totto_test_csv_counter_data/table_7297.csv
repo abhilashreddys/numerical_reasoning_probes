@@ -1,0 +1,82 @@
+Software#Developer#Applications#Operative system#License#URL
+Advanced Simulation Library#Avtech Scientific#Process data validation and reconciliation, real-time optimization, virtual sensing and predictive control#Windows, Linux, FreeBSD, Mac#open-source#[1]
+APMonitor##Data reconciliation, real-time optimization, dynamic simulation and nonlinear predictive control###[2]
+Apros#Fortum and VTT Technical Research Centre of Finland#Dynamic process simulation for power plants#Windows#Commercial#[3]
+Aspen Plus#Aspen Technology#Process simulation and optimization#Windows#Commercial#[4]
+ChromWorks#Aspen Technology#Process simulation and optimization#Windows#Commercial#[5]
+ASSETT#Kongsberg Oil & Gas Technologies AS#Dynamic process simulation###[6]
+BatchColumn#ProSim#Simulation and Optimization of batch distillation columns#Windows#commercial#[7]
+BATCHES#Batch Process Technologies, Inc.#Simulation of recipe driven multiproduct and multipurpose batch processes for applications in design, scheduling and supply chain management#Linux#Commercial#[8]
+BatchReactor#ProSim#Simulation of chemical reactors in batch mode#Windows#commercial#[9]
+D-SPICE#Kongsberg Oil & Gas Technologies AS####
+K-Spice#Kongsberg Oil & Gas Technologies AS#Dynamic process simulation and multiphase pipeline simulation###[10]
+CADSIM Plus#Aurel Systems Inc.#Steady-state and dynamic process simulation###[11]
+aspen hysys#YPSO-FACTO#Chromatographic process design, simulation & optimization###[12]
+CHEMCAD#Chemstations#Software suite for process simulation###[13]
+Cycle-Tempo#Asimptote#Thermodynamic analysis and optimization of systems for the production of electricity, heat and refrigeration###[14]
+COCO simulator#AmsterCHEM#Steady state simulation##free of charge#[15]
+Design II for Windows#WinSim Inc.#Process simulation###[16]
+Distillation expert trainer#ATR#Operator training simulator for distillation process###[17]
+DWSIM#Daniel Medeiros, Gustavo León and Gregor Reichert#Process simulator#Windows, Linux, macOS, Android, iOS#open-source (Windows/Linux/macOS), free + in-app purchases (Android/iOS)#[18]
+DynoChem#Scale-up Systems#Dynamic process simulation and optimization#Windows#Commercial#[19]
+EMSO#ALSOC Project#Modelling, simulation and optimisation, steady state and dynamic, equation oriented with open source models#Windows, Linux#ALSOC License#[20]
+EQ-COMP#Amit Katyal#Vapor Liquid Equilibrium Software#SAAS##[59]
+Dymola#Dassault Systèmes#Modelica-based dynamic modelling and simulation software#Windows, Linux#Commercial#[21]
+Flowtran simulation#Monsanto####
+gPROMS#PSE Ltd#Advanced process simulation and modelling###[22]
+HSC Sim#Outotec Oyj#Advanced process simulation and modelling, Flowsheet simulation#Windows##[23]
+HYD-PREDIC#Amit Katyal#Flow Assurance Software###
+HYDROFLO#Tahoe Design Software#Piping System Design with Steady State Analysis#Windows#Free Academic -Std Commercial#[24]
+INDISS#RSI####[25]
+ICAS: integrated computer-aided system#CAPEC####[26]
+IDEAS#Andritz Automation####[27]
+ITHACA#Element Process Technology#Dynamic chemical process simulator#Windows##[28]
+iiSE Simulator#iiSE company#Equation oriented chemical process simulator and optimizer#Windows, Linux#Freeware demo, Commercial#[29]
+LIBPF##C++ LIBrary for process flowsheeting###
+JModelica.org#Modelon AB###open-source#
+METSIM#Proware#General-purpose dynamic and steady state process simulation system#Windows##[30]
+Mimic Simulation Software#MYNAH Technologies#First-principles dynamic simulator built for software acceptance testing and operator training systems###[31]
+Mobatec Modeller#Mobatec#Advanced Dynamic (Steady-State) Process Modelling Environment#Windows##[32]
+NAPCON ProsDS#Neste Engineering Solutions Oy#Dynamic process simulation#Windows##[33]
+Clearview#Mapjects#Dynamic Asset BIM process simulation and optimization#Windows & Debian Linux##
+OLGA#SPT Group (Schlumberger)####
+OLI Analyzer#OLI Systems, Inc.#Chemical phase equilibrium simulation featuring electrolytes#Windows#Commercial#[34]
+Omegaland#Yokogawa####
+OptiRamp#Statistics & Control, Inc.#Real-time Process Simulation and Optimization, Multi variable Predictive Control#Windows#Commercial#[35]
+OpenModelica#Open-Source Modelica Consortium###open-source#
+PIPE-FLO Professional#Engineered Software Inc.#Piping System Simulation and Design#Windows#Commercial#[36]
+PEL Software Suite#####
+Petro-SIM#KBC Advanced Technologies####[37]
+PETROX#Petrobras#General Purpose, Static, Sequential-Modular Process Simulator#Windows#internal users only#
+Power Plant Simulator & Designer#KED GmbH#Basic Engineering and Dynamic process simulation for power plants#Windows#Commercial#[38]
+Process Studio#Protomation#Simulation Suite for Modeling, Engineering & Training#Windows#Commercial#[39]
+Prode Properties#Prode Software#Thermodynamic Library, Properties of pure fluids and mixtures, Multi phase Equilibria + process simulation#Windows, Linux, Android#Free version + commercial versions#[40]
+Prode simulator#Prode Software#Process Simulator#Windows#commercial#[41]
+ProPhyPlus#ProSim#Thermodynamic calculation software#Windows#commercial#[42]
+ProSec#ProSim#Simulation of brazed plate fin heat exchangers#Windows#commercial#[43]
+ProSim DAC#ProSim#Dynamic adsorption column simulation#Windows#commercial#[44]
+ProSim HEX#ProSim#Heat Exchangers Simulation#Windows#commercial#[45]
+ProSimPlus#ProSim#Steady-state simulation and optimization of processes#Windows#commercial#[46]
+ProSimulator#Sim Infosystems#Process and Power plant simulation#Windows##[47]
+Pro-Steam#KBC Advanced Technologies####
+ProMax#Bryan Research & Engineering#Process simulator capable of modeling oil & gas plants, refineries, and many chemical plants#Windows##[48]
+ProMax / TSWEET#Bryan Research & Engineering#Retired process simulators now incorporated in ProMax###
+PRO/II#SimSci####[49]
+DYNSIM#SimSci####
+ROMeo (process optimizer)#SimSci####
+RecoVR#VRTech####
+REX#Optience#Reactor Optimization and Kinetic Estimation#Windows##[50]
+Simulis Thermodynamics#ProSim#Mixture properties and fluid phase equilibria calculations##commercial#[51]
+SimCreate#TSC Simulation#Real time, first principle and generic operator training simulations, plant specific emulations and OPC for live plant connections.#Windows#Commercial#[52]
+SimCentral#SimSci####[53]
+SPEEDUP#Roger W.H. Sargent and students####
+SolidSim (Now in Aspen Plus)#SolidSim Engineering GmbH#Flowsheet simulation of solids processes###[54]
+SuperPro Designer#Intelligen####[55]
+SysCAD#KWA Kenwalt Australia#Process simulation#Windows##[56]
+System7#Epcon International####[57]
+UniSim Design Suite#Honeywell#Process simulation and optimization#Windows#Commercial and Academic#[58]
+UniSim Competency Suite#Honeywell#Opertator Competency Management and Training#Windows#Commercial and Academic#[59]
+Usim Pac#Caspeo#Steady-state simulator for the mineral industry, biorefineries and waste treatment#Windows#Commercial#[60]
+Virtuoso#Wood Group#Multiphase dynamic process simulator for oil & gas production#Windows#Commercial#[61]
+VMGSim#Virtual Materials Group####[62]
+Wolfram SystemModeler#Wolfram Research##Windows, Mac, Linux##[63]

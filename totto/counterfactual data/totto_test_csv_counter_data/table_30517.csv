@@ -1,0 +1,101 @@
+Route#Start#End#Operator#Letter code#Notes
+A10#Heathrow Central bus station#Uxbridge station#Metroline#Airport#
+B11#Bexleyheath bus garage#Thamesmead#London Central#Bexley#
+B12#Erith#west drayton station#Arriva London#Bexley#
+B13#Bexleyheath Shopping Centre#New Eltham#Arriva London#Bexley#
+B14#Bexleyheath Shopping Centre#Orpington Station#Stagecoach London#Bexley#
+B15#Bexleyheath Shopping Centre#Horn Park#Arriva London#Bexley#
+B16#Bexleyheath bus garage#Kidbrooke Station#London Central#Bexley#
+C1#Victoria#White City#London United#Central London#
+C3#Clapham Junction#Earls Court Tesco#Abellio London#Chelsea#
+C10#Canada Water#Victoria#Abellio London#Central London#
+C11#Archway#Brent Cross#Metroline#Camden#
+D3#Bethnal Green Chest Hospital#Leamouth#Stagecoach London#Docklands#
+D6#Ash Grove#Crossharbour#CT Plus#Docklands#
+D7#Mile End#Poplar All Saints#Docklands Buses#Docklands#
+D8#Crossharbour#Stratford#Tower Transit#Docklands#
+E1#Ealing Broadway#Greenford Broadway#Abellio London#Ealing#
+E2#Brentford Commerce Road#Greenford Broadway#Metroline#Ealing#
+E3#Chiswick Edensor Road#Greenford Broadway#London United#Ealing#
+E5#Perivale Tesco#Southall Toplocks Estate#Abellio London#Ealing#
+E6#Bulls Bridge#Greenford station#Metroline#Ealing#
+E7#Ealing Broadway#Ruislip station#Abellio London#Ealing#
+E8#Ealing Broadway#Hounslow Bell Corner#Metroline#Ealing#
+E9#Ealing Broadway#Yeading Barnhill Estate#Abellio London#Ealing#
+E10#Ealing Broadway#Northolt Islip Manor#London United#Ealing#
+E11#Ealing Common Warwick Dene#Greenford Broadway#London United#Ealing#
+EL1#Barking Riverside#Ilford#Blue Triangle#East London Transit#24 hour operation
+EL2#Becontree Heath bus station#Dagenham Dock station#Blue Triangle#East London Transit#
+EL3#Barking Riverside#Little Heath#Blue Triangle#East London Transit#
+G1#Battersea Shaftesbury Estate#Streatham Green Lane#London General#St George's Hospital#
+H2#Golders Green station#Circular via Hampstead Garden Suburb#Metroline#Hampstead#
+H3#East Finchley#Golders Green station#Metroline#Hampstead#
+H9#Harrow bus station circular#anti-clockwise via Northwick Park Hospital#London Sovereign#Harrow#
+H10#Harrow bus station circular#clockwise via South Harrow#London Sovereign#Harrow#
+H11#Harrow bus station#Mount Vernon Hospital#London Sovereign#Harrow#
+H12#South Harrow#Stanmore Station#London Sovereign#Harrow#
+H13#Northwood Hills St Vincent's Park#Ruislip Lido#London Sovereign#Harrow#
+H14#Northwick Park Hospital#Hatch End St Thomas' Drive#London Sovereign#Harrow#
+H17#Harrow bus station#Wembley Central station#London United#Harrow#
+H18#Harrow bus station circular#clockwise via North Harrow#London Sovereign#Harrow#
+H19#Harrow bus station circular#anticlockwise via Kenton#London Sovereign#Harrow#
+H20#Hounslow Civic Centre#Ivybridge Twickenham Tesco#Abellio London#Hounslow#
+H22#Hounslow Bell Corner#Richmond Manor Circus#London United#Hounslow#
+H25#Hanworth Butts Farm#Hatton Cross#Abellio London#Hounslow#
+H26#Feltham Sparrow Farm#Hatton Cross#Abellio London#Hounslow#
+H28#Bulls Bridge#Osterley Tesco#Abellio London#Hounslow#
+H32#Hounslow bus station#Southall Town Hall#London United#Hounslow#
+H37#Richmond Manor Circus#Hounslow Blenheim Centre#London United#Hounslow#
+H91#Hammersmith bus station#Hounslow West station#London United#Hounslow#
+H98#Hayes End Kingsway#bus station#London United#Hounslow#
+K1#New Malden#Kingston#Abellio London#Kingston#
+K2#Kingston Hospital#Hook#London United#Kingston#
+K3#Roehampton Vale#Esher#Abellio London#Kingston#
+K4#Chessington Mansfield Park Estate#Kingston Hospital#London United#Kingston#
+K5#Morden#Ham#Quality Line#Kingston#
+P4#Brixton#Lewisham#Stagecoach London#Peckham#
+P5#Elephant & Castle station#Nine Elms#London Central#Peckham#
+P12#Surrey Quays#Brockley Rise#London Central#Peckham#
+P13#New Cross Gate#Streatham#Abellio London#Peckham#
+R1#Green Street Green#St Paul's Cray#London General#Orpington (Roundabout)#
+R2#Orpington ″Walnuts Centre″#Biggin Hill Valley#London General#Orpington (Roundabout)#
+R3#Princess Royal University Hospital#Orpington Station#London General#Orpington (Roundabout)#
+R4#Princess Royal University Hospital#Pauls Cray Hill#London General#Orpington (Roundabout)#
+R5#Orpington station circular#clockwise via Knockholt#London General#Orpington (Roundabout)#
+R6#Orpington station#St Mary Cray station#London General#Orpington (Roundabout)#
+R7#Chelsfield Village#Chislehurst ″Sainsbury's″#Stagecoach London#Orpington (Roundabout)#
+R8#Orpington station#Biggin Hill#London General#Orpington (Roundabout)#
+R9#Orpington station#Ramsden Estate#London General#Orpington (Roundabout)#
+R10#Orpington station circular#anticlockwise via Cudham#London General#Orpington (Roundabout)#
+R11#Green Street Green#Queen Mary's Hospital#London General#Orpington (Roundabout)#
+R68#Hampton Court#Kew Retail Park#Abellio London#Richmond#
+R70#Hampton The Avenue (Circular)#Richmond Manor Road#Abellio London#Richmond#
+RV1#Covent Garden#Tower Bridge#Tower Transit#Riverside#
+S1#Mitcham#Banstead#Quality Line#Sutton#
+S3#Sutton Hospital#Malden Manor station#Quality Line#Sutton#
+S4#Roundshaw#St Helier station#Abellio London#Sutton#
+U1#Ruislip station#Joydens Wood#Metroline#Uxbridge#
+U2#Uxbridge station#Brunel University#Metroline#Uxbridge#
+U3#Uxbridge station#Heathrow Central bus station#Metroline#Uxbridge#
+U4#Uxbridge station#Hayes ProLogis Park#Metroline#Uxbridge#
+U5#Hayes & Harlington Station#Uxbridge station#Abellio London#Uxbridge#
+U7#Uxbridge station#Hayes Sainsbury's#Abellio London#Uxbridge#
+U9#Uxbridge station#Harefield Hospital#Abellio London#Uxbridge#
+U10#Uxbridge station#Ruislip Heathfield Rise#Metroline#Uxbridge#
+W3#Finsbury Park bus station#Northumberland Park#Arriva London#Wood Green#
+W4#Oakthorpe Park#Tottenham Hale bus station#Arriva London#Wood Green#
+W5#Archway#Harringay#CT Plus#Wood Green#
+W6#Southgate#Edmonton Green Shopping Centre#Arriva London#Wood Green#
+W7#Finsbury Park bus station#Muswell Hill#Metroline#Wood Green#
+W8#Picketts Lock#Chase Farm Hospital#Metroline#Wood Green#
+W9#Southgate#Chase Farm Hospital#Sullivan Buses#Wood Green#
+W10#Enfield Town#Crews Hill#London General#Wood Green#
+W11#Walthamstow bus station#Chingford Hall Estate#CT Plus#Waltham Forest#
+W12#Walthamstow bus station#Wanstead#CT Plus#Waltham Forest#
+W13#Leytonstone bus station#Woodford Wells#CT Plus#Waltham Forest#
+W14#Leyton#Woodford Bridge#Tower Transit#Waltham Forest#
+W15#Hackney Central#Cogan Avenue Estate#Tower Transit#Waltham Forest#
+W16#Leytonstone bus station#Chingford Mount#CT Plus#Waltham Forest#
+W19#Argall Avenue St James Street station (after 20:00)#Ilford#CT Plus#Waltham Forest#
+X26#West Croydon bus station#Heathrow Central bus station#Metrobus##
+X68#Russell Square#West Croydon bus station#London Central##

@@ -1,0 +1,13 @@
+Name#Codename#Manufacturer#Image#Fab Process#Transistors#Die size#Cores#CPU Clock#Front Side Bus#L2 cache#Consumption#Package#Introduced
+PPC740 MPC740#Arthur#IBM Motorola#-#0.25 μm Al#6.35 Million#67 mm2#1#233 - 366 MHz#66 MHz#No L2 cache#7.3W @ 366 MHz#255 pin CBGA#1997
+PPC750 MPC750#Arthur#IBM Motorola#-#0.25 μm Al#6.35 Million#67 mm2#1#233 - 366 MHz#66 MHz#256 - 1024 kB off-die half speed#7.3W @ 366 MHz#360 pin CBGA#1997
+MPC745#Conan#Motorola Freescale#-#0.22 μm Al#6.75 Million#51 mm2#1#300 - 350 MHz#66 MHz#No L2 cache#5.4W @ 400 MHz#255 pin PBGA#1998
+MPC755#Doyle#Motorola Freescale#-#0.22 μm Al#6.75 Million#51 mm2#1#300 - 400 MHz#66 MHz#256 - 1024 kB off-die half speed#5.4W @ 400 MHz#360 pin PBGA 360 pin CBGA#1998
+PPC740L#Lonestar#IBM#-#0.20 μm Cu#6.35 Million#40 mm2#1#300 - 533 MHz#100 MHz#No L2 cache#6W @ 500 MHz#255 pin CBGA#1999
+PPC750L#Lonestar#IBM#-#0.20 μm Cu#6.35 Million#40 mm2#1#300 - 533 MHz#100 MHz#256 - 1024 kB off-die half speed#6W @ 500 MHz#360 pin CBGA#1999
+PPC750FX PPC750FL#Sidewinder Anaconda Gekko#IBM#-#0.18 μm Cu#20 Million (including L2 cache)#42.7 mm2#1#350 - 600 MHz 366 - 700 MHz 300 - 533 MHz 486 MHz#100 MHz 133 MHz 133 MHz 162 MHz#256 kB#4.2W @ 400 MHz 6 W @ 600 MHz 7.8 W @ 533 MHz 4.9W @ 486 MHz#256 pin PBGA#2000 2001 2003 2001
+RAD750##BAE Systems#-#0.25 μm - 0.15 μm#10.4 Million#130 mm2#1#110 - 200 MHz#66 MHz#0 - 1024 kB off-die#5 W @ 133 MHz#360 pin CBGA Radiation hardened#2001
+ppc750cx ppc750cxe ppc750cxr ppcdbk#Sahara#IBM#-#0.13 μm SOI#38 Million (including L2 cache)#34.3 mm2#1#600 - 900 MHz 600 - 733 MHz#166 MHz#512 kB#5.4 W @ 800 MHz 5.1 W @ 733 MHz#292 pin CBGA#2002 2007
+PPC750GX PPC750GL#Gobi#IBM#-#0.13 μm SOI#74 Million (including L2 cache)#52.5 mm2#1#733 - 1000 MHz 800 - 933 MHz#200 MHz#1024 kB#8.3 W @ 1000 MHz 6.5 W@ 933 MHz#292 pin CBGA#2003 2005
+PPC750CL Broadway##IBM#-#90 nm 90 nm, 65 nm SOI#20 Million (including L2 cache)#15.9 mm2#1#400 - 1000 MHz 729 MHz#240 MHz 243 MHz#256 kB#10.5 W (max) @ 1 GHz 3.9 W @ 729 MHz#278 pin PBGA#2006
+Espresso##IBM#-#45 nm SOI#60 Million (?)#27.7mm2#3#1243 MHz 1243 MHz 1243 MHz#?#512 kB 2048 kB 512 kB#?#PBGA MCM#2012

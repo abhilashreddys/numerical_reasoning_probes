@@ -1,0 +1,10 @@
+Model#Launch#Code name#Fab (nm)#Bus interface#Core config1#Clock speed#Clock speed#Clock speed#Fillrate#Fillrate#Memory#Memory#Memory#Memory#API support (version)#API support (version)#Processing Power2 (GFLOPS)#TDP (watts)
+Model#Launch#Code name#Fab (nm)#Bus interface#Core config1#Core (MHz)#Shader (MHz)#Memory (MT/s)#Pixel (GP/s)#Texture (GT/s)#Size (MB)#Bandwidth (GB/s)#Bus type#Bus width (bit)#DirectX#OpenGL#Processing Power2 (GFLOPS)#TDP (watts)
+GeForce 800M#March 17, 2014#GF117#28#PCIe 2.0 x8#48:8:8#738#1476#2000#5.9#5.9#2048#14.4#DDR3#64#12.0 (11_0)#4.6#141.7#15
+GeForce 820M#February 2014#GF117#28#PCIe 2.0 x16#96:16:4#719-954#1438-1908#2000#2.9-3.8#11.5-15.3#2048#16#DDR3#64#12.0 (11_0)#4.6#276.1-366.3#15
+GeForce 830M#March 12, 2014#GM108#28#PCIe 3.0 x16#256:16:8 (2 SMM)#1029#1029#2000#8.2#16.5#2048#14.4#DDR3#64#12.0 (11_0)#4.6#790.3#30
+GeForce 840M#March 12, 2014#GM108#28#PCIe 3.0 x16#384:24:8 (3 SMM)#1029#1029#2000#8.2#24.7#2048#16#DDR3#64#12.0 (11_0)#4.6#790.3#30
+GeForce GTX 850M#March 12, 2014#GM107#28#PCIe 3.0 x16#640:40:16 (5 SMM)#936+Boost#936+Boost#5000#14.0#35.0#2048 4096#32 to 80#DDR3 or GDDR5#128#12.0 (11_0)#4.6#1198.1#40
+GeForce GTX 860M#March 12, 2014#GM107 GK104#28#PCIe 3.0 x16#640:40:16 (5 SMM) 1152:96:16 (6 SMX)#1029+Boost 797+Boost#1029+Boost 797+Boost#5000#16.5 12.8#41.2 76.5#2048 4096#80#GDDR5#128#12.0 (11_0)#4.6#1317.1 1836.3#40-45 75
+GeForce GTX 870M#March 12, 2014#GK104#28#PCIe 3.0 x16#1344:112:24 (7 SMX)#941+Boost#941+Boost#5000#22.6#105.4#3072 6144#120#GDDR5#192#12.0 (11_0)#4.6#2529.4#100
+GeForce GTX 880M#March 12, 2014#GK104#28#PCIe 3.0 x16#1536:128:32 (8 SMX)#954+Boost#954+Boost#5000#30.5#122.1#4096 8192#160#GDDR5#256#12.0 (11_0)#4.6#2930.7#105

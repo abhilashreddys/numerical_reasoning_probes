@@ -1,0 +1,21 @@
+Name#Description#Provides#Version
+bash#GNU's UNIX compatible shell#bash#5.0 (January 7, 2019; 3 months ago) [±]
+coreutils#base commands#fileutils: chgrp, chown, chmod, cp, dd, df, dir, du, ln, ls, mkdir, mkfifo, mknod, mv, rm, etc. textutils: cat, cksum, head, tail, md5sum, nl, od, pr, tsort, join, wc, tac, paste, etc.#8.31 (March 10, 2019; 36 days ago) [±]
+cpio#archiving program#cpio#2.12 (September 12, 2015; 3 years ago) [±]
+diffutils#contains utilities to compare files#diff, cmp, diff3, sdiff#3.2 (September 2, 2011)
+findutils#contains search utilities#find, locate, updatedb, xargs#4.6.0 (December 28, 2015; 3 years ago) [±]
+finger#user information#n/a#1.37, (October 28, 1992)
+grep#search for strings in files#grep#2.10, (November 16, 2011)
+groff#document processing system (groff)#groff#1.22.2 (February 7, 2013; 6 years ago) [±]
+GRUB#GRand Unified Bootloader#grub#2.02 (GRUB2) (April 26, 2017; 23 months ago) [±]
+gzip#compression program (gzip)#gzip#1.7 (28 March 2016; 3 years ago) [±]
+hurd#microkernel-based set of servers that perform the same function as a UNIX kernel#n/a#0.7, (October 31, 2015)
+time#useful utils for networking#ftp, telnet, rsh, rlogin, tftp#1.9.4, (June 10, 2015)
+linux-libre#kernel that is maintained from modified versions of Linux to remove any software that does not include its source code, has its source code obfuscated, or is released under proprietary licenses#n/a#4.13.10-gnu, (October 28, 2017)
+plotutils#useful utils for plotting to different devices#graph, libplot, libplotter#2.6, (September 27, 2009)
+readline#useful library for reading command lines#readline#6.2 (February 14, 2011; 8 years ago) [±]
+screen#a terminal multiplexer#screen#4.6.2 (October 23, 2017; 17 months ago) [±]
+sysutils#system utilities to manage users, groups, passwords, shells#add-shell, chage, chfn, chgroup, chgrpmem, chpasswd, chsh, chuser, cppw, expiry, gpasswd, grpck, gshadow, hwclock, isosize, last, lastlog, login, lsage, lsgroup, lsuser, mkgroup, mkuser, nologin, passwd, pwck, remove-shell, rmgroup, rmuser, setpwnam, vipw, wall, write#0.1.6 (2009)
+tar#archiver able to create and handle file archives in various formats#tar#1.29 (May 16, 2016; 2 years ago) [±]
+texinfo#documentation system for producing online and printed manuals#n/a#6.4 (23 June 2017; 21 months ago) [±]
+inetutils#program to determine the duration of execution of a particular command#time#1.8, (November 11, 2017)

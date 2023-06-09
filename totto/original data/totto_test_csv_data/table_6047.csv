@@ -1,0 +1,10 @@
+Feature#CCS 1.0#CCS 2.0
+Power#< 80 kW#< 350 kW
+Voltage#< 500V#200–1000 V
+Current#< 200 A#< 500 A
+Vehicle connector#Combo 1 or 2 (IEC 62196-3)#Combo 1 or 2 (IEC 62196-3)
+Vehicle inlet#Combo 1 or 2 (IEC 62196-3)#Combo 1 or 2 (IEC 62196-3)
+Charging communication#High-level communication: DIN SPEC 70121:2014#High-level communication: DIN SPEC 70121:2014 (< 80 kW) ISO/IEC 15118-2:2014 ED1 (<350 kW) ISO/IEC 15118-3:2015 ED1 (<350 kW)
+Load balancing#Reactive#Reactive and scheduled
+Charge authorization mode#External payment#"External payment and/or ""plug and charge"" (mandatory from 2020 on)"
+Charging station#IEC 61851-23#IEC 61851-23

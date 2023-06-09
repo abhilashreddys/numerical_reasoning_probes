@@ -1,0 +1,15 @@
+Protein Name#Species#Date of Divergence (Million Years Ago)#Accession Number#"Sequence Length (# amino acids)"#Sequence Identity#E Value
+ZNF280D#Mouse (Mus musculus)#92.3#NP_666336#974#76%#0
+ZNF280D Isoform X1#Cow (Bos taurus)#94.2#XP_002690904#974#88%#0
+ZNF280D#African bush elephant (Loxodonta africana)#98.7#XP_003418437#879#90%#0
+ZNF280D Isoform X1#Chinese softshell turtle (Pelodiscus sinensis)#296#XP_006112544#993#61%#0
+ZNF280D#Saker falcon (Falco cherrug)#296#XP_005435548#939#60%#0
+ZNF280D#Ground tit (Pseudopdoces humilis)#296#XP_005521527#936#57%#0
+ZNF280D Isoform X1#Chinese alligator (Alligator sinensis)#296#XP_006018037#277#50%#1E-64
+ZNF280D#Western clawed frog (Xenopus tropicalis)#371.2#XP_002940298#1071#49%#0
+ZNF280D Isoform X1#Zebrafish (Danio rerio)#400.1#XP_005166581#979#43%#2E-172
+ZNF280D-like#Acorn worm (Saccoglossus kowalevskii)#661.2#XP_006811912#733#32%#5E-50
+Zinc Finger Protein 36#Sea squirt (Ciona intestinalis)#722.5#NP_001041459#581#32%#7E-58
+GL11474#Fruit fly (Drosophila persimilis)#782.7#XP_002016218#1271#29%#5E-16
+Zinc Finger Protein#Eye worm (Loa loa)#937.5#XP_003139663#495#33%#6E-19
+Zap1p#Yeast (Saccharomyces cerevisiae S288c)#12158#NP_012479#880#33%#2E-7

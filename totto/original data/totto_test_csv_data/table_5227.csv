@@ -1,0 +1,45 @@
+Name#xUnit#Source#Remarks
+Arquillian#Yes##Open source framework for writing Integration and functional tests. It includes Arquillian graphene, Drone and Selenium to write tests to the visual layer too.
+AssertJ###Fluent assertions for java
+beanSpec###Behavior-driven development
+BeanTest#No##A tiny Java web test framework built to use WebDriver/HTMLUnit within BeanShell scripts
+Cactus###A JUnit extension for testing Java EE and web applications. Cactus tests are executed inside the Java EE/web container.
+Concordion###Acceptance test-driven development, Behavior-driven development, Specification by example
+Concutest###A framework for testing concurrent programs
+Cucumber-JVM###Behavior-driven development replaces deprecated JRuby-based Cuke4Duke
+Cuppa###Behavior-driven development framework for Java 8
+DbUnit###A JUnit extension to perform unit testing with database-driven programs
+EasyMock###A mock framework
+EtlUnit#Yes##A unit testing framework for Extract-Transform-Load processes, written in Java. Capable of testing Oracle, Informatica, SqlServer, PostGreSQL, MySQL, etc.
+EvoSuite###A test case generation tool that can automatically generate JUnit tests.
+GrandTestAuto###GrandTestAuto (GTA) is a platform for the complete automated testing of Java software. Tests can be distributed across a number of machines on a network.
+GroboUtils###A JUnit extension providing automated documentation, class hierarchy unit testing, code coverage, and multi-threaded tests.
+HavaRunner#Yes##A JUnit runner with built-in concurrency support, suites and scenarios.
+Instinct###Behavior-driven development
+Java Server-Side Testing framework (JSST)###Java Server-Side Testing framework which is based on the similar idea to the one of Apache CACTUS, but unlike CACTUS it's not coupled to JUnit 3.x and can be used in conjunction with any testing framework.
+JBehave###Behavior-driven development
+JDave###Behavior-driven development
+JExample#Yes##A JUnit extension that uses dependencies between test cases to reduce code duplication and improves defect localization.
+JGiven###Behavior-driven development
+JMock###A mock framework
+JMockit###Open source framework. Tests can easily be written that will mock final classes, static methods, constructors, and so on.
+Jnario#Yes##Behavior-driven development like Cucumber
+Jtest#Yes##Commercial. Automated unit/component test generation and execution with code coverage and runtime error detection.
+Jukito###Combines Mockito and Guice to allow automatic mocking and instantiation of dependencies
+JUnit#Yes##
+JUnitEE###A JUnit extension for testing Java EE applications
+JWalk###Fast, semi-automatic creation of exhaustive unit test-sets
+Mockito###A mock framework, using the [11] library
+Mockrunner###A JUnit extension for testing testing servlets, filters, tag classes and Struts actions and forms.
+Needle###Open source framework for testing Java EE components outside of the container in isolation.
+NUTester###Testing framework developed at Northeastern University to aid in teaching introductory computer science courses in Java
+OpenPojo###Open source framework used to validate and enforce POJO behavior as well as manage identity - equals, hashCode & toString.
+PowerMock###An extension to both Mockito and EasyMock that allows mocking of static methods, constructors, final classes and methods, private methods, removal of static initializers and more.
+Randoop#Yes##Automatically finds bugs and generates unit tests for Java, via feedback-directed random testing (a variant of Fuzzing).
+Spock###Spock is a testing and specification framework for Java and Groovy applications. Spock supports specification by example and BDD style testing.
+SpryTest#Yes##Commercial. Automated Unit Testing Framework for Java
+SureAssert###An integrated Java unit testing solution for Eclipse. Contract-First Design and test-driven development
+Tacinga###Uses a pure Object-Oriented Programming approach and offers a commercial license and free support.
+TestNG#Yes##Tests can include unit tests, functional tests, and integration tests. Has facilities to create even no-functional tests (as loading tests, timed tests).
+Unitils###Offers general utilities and features for helping with persistence layer testing and testing with mock objects. Offers specific support for testing application code that makes use of JPA, hibernate and spring.
+XMLUnit###JUnit and NUnit testing for XML

@@ -1,0 +1,37 @@
+Project#Name#Bus#Payload#Order#Launch#Launch Vehicle#Launch Result#Launch Mass#Status#Remarks
+jcsat-8#JCSAT-1#HS-393#32 Ku band#1985#1989-03-06#Ariane 44LP#Success#2,280 kg (5,030 lb)#Decommissioned#First commercial Japanese satellite.
+Superbird-1#Superbird-A#SSL 1300#23 Ku band, 3 Ka band and 2 X band#1986#1989-06-05#Ariane 44L#Success#2,800 kg (6,200 lb)#Decommissioned#Launch with DFS Kopernikus-1.
+JCSAT-2#JCSAT-2#HS-393#32 Ku band#1985#1990-01-01#Commercial Titan III#Success#2,280 kg (5,030 lb)#Decommissioned#Launched with Skynet 4A.
+Superbird-2#Superbird-B#SSL 1300#23 Ku band, 3 Ka band and 2 X band#1986#1990-02-22#Ariane 44L#Failure#2,800 kg (6,200 lb)#Decommissioned#Launched with BS-2X. Launch failure.
+Superbird-B1#Superbird-B1#SSL 1300#23 Ku band, 3 Ka band and 2 X band#1986#1992-02-26#Ariane 44L#Success#2,800 kg (6,200 lb)#Decommissioned#Launched with Arabsat-1C.
+Superbird-A1#Superbird-A1#SSL 1300#23 Ku band, 3 Ka band and 2 X band#1986#1992-12-01#Ariane 42P#Success#2,800 kg (6,200 lb)#Decommissioned#
+JCSAT-3#JCSAT-3#HS-601#12 C band and 28 Ku band#1993#1995-08-29#Atlas IIAS#Success#3,105 kg (6,845 lb)#Decommissioned#
+N-STAR a#N-STAR a#SSL 1300#11 Ka band, 8 Ku band, 6 C band and 4 S band#1992#1995-08-29#Ariane 44P#Success#3,400 kg (7,500 lb)#Decommissioned#Acquired from NTT Communications in March 2000.
+N-STAR b#N-STAR b#SSL 1300#11 Ka band, 8 Ku band, 6 C band and 4 S band#1992#1996-02-05#Ariane 44P#Success#3,400 kg (7,500 lb)#Decommissioned#Acquired from NTT Communications in March 2000.
+JCSAT-4#JCSAT-R#HS-601#12 C band and 28 Ku band#1995#1997-02-17#Atlas IIAS#Success#3,105 kg (6,845 lb)#Decommissioned#Sold as Intelsat 26.
+Superbird-C#Superbird-C#HS-601#24 Ku band#1995#1997-07-28#Atlas IIAS#Success#3,130 kg (6,900 lb)#Decommissioned#
+JCSAT-5#JCSAT-1B#HS-601#32 Ku band#1996#1997-12-02#Atlas IIAS#Success#2,982 kg (6,574 lb)#Operational at 150°E#Launched with Equator-S. Replacement of JCSAT-1.
+JCSAT-6#JCSAT-4A#HS-601#32 Ku band#1996#1999-02-16#Atlas IIAS#Success#2,900 kg (6,400 lb)#Decommissioned#Replacement of JCSAT-4.
+Superbird-4#Superbird-B2#HS-601HP#23 (+1 steerable) Ku band and 6 Ka band#1998#2000-02-18#Ariane 44LP#Success#4,057 kg (8,944 lb)#Operational at 162°E#
+JCSAT-7 Superbird-5#N-SAT-110 JCSAT-110 Superbird-D#A2100AX#24 Ku band#1998#2000-10-06#Ariane 42L#Success#4,048 kg (8,924 lb)#Operational at 110°E#Replacement of JCSAT-3.
+JCSAT-1#JCSAT-2A#BSS-601#16 C band and 16 Ku band#2000#2002-03-29#Ariane 44L#Success#2,460 kg (5,420 lb)#Operational at 154°E#Replacement of JCSAT-2.
+N-STAR c#N-STAR c#GEOStar-2#1 C band and 20 S band#1999#2002-07-05#Ariane 5 G#Success#1,620 kg (3,570 lb)#Operational at 136°E#Launched with Stellat 5.
+Horizons-1#Horizons-1 Galaxy 13#HS-601HP#24 Ku band and 24 C band#2001#2003-10-01#Zenit-3SL#Success#4,060 kg (8,950 lb)#Operational at 127°E#Co-owned with Intelsat.
+Superbird-6#Superbird-A2#HS-601HP#23 Ku band and 4 Ka band#2001#2004-04-16#Atlas IIAS#Success#3,100 kg (6,800 lb)#Never commissioned#Injection orbit to supersynchronous orbit failed to account for lunar influence; satellite spent most of its fuel and suffered damage. Never commissioned.
+JCSAT-9#JCSAT-5A N-STAR d#A2100AXS#20 C band, 20 Ku band and 1 S band#2003#2006-04-12#Zenit-3SLB#Success#4,401 kg (9,703 lb)#Operational at 132°E#Replacement of JCSAT-5.
+JCSAT-10#JCSAT-3A#A2100AXS#30 Ku band and 12 C band#2004#2006-08-11#Ariane 5 ECA#Success#4,048 kg (8,924 lb)#Operational at 128°E#Launched with Syracuse-3B. Replacement of JCSAT-3.
+JCSAT-11#N/A#A2100AXS#30 Ku band and 12 C band#2005#2007-09-05#Proton-M/Briz-M#Failure#4,007 kg (8,834 lb)#Launch Failure#Was to serve as general backup. Lost at launch.
+Horizons-2#Horizons-2#GEOStar-2#20 Ku band#2005#2007-12-21#Ariane 5 GS#Success#2,304 kg (5,079 lb)#Operational at 85°E#Launched with Rascom-QAF 1. Co-owned with Intelsat
+Superbird-7#Superbird-C2#DS2000#28 Ku band#N/A#2008-08-14#Ariane 5 ECA#Success#4,820 kg (10,630 lb)#Operational at 144°E#Launched with AMC-21.
+JCSAT-12#JCSAT-RA#A2100AXS#12 C band and 30 Ku band#2007#2009-08-21#Ariane 5 ECA#Success#4,000 kg (8,800 lb)#Backup w/o slot#Launched with Optus D3. Replacement of JCSAT-11.
+JCSAT-85#JCSAT-85 Intelsat 15#GEOStar-2#22 Ku band#2007#2009-11-30#Zenit-3SLB#Success#2,484 kg (5,476 lb)#Operational at 85°E#JSAT owns 5 transponders on Intelsat 15.
+JCSAT-110R#JCSAT-110R BSAT-3c#A2100A#two payloads of 12 Ku band each#2008#2011-08-06#Ariane 5 ECA#Success#2,910 kg (6,420 lb)#Operational at 110°E#Launched with Astra 1N. Co-owned with B-SAT, one payload each. Backup of N-SAT-110.
+JCSAT-13#JCSAT-4B#A2100AXS#44 Ku band#2009#2012-06-15#Ariane 5 ECA#Success#4,528 kg (9,983 lb)#Operational at 124°E#Launched with Vinasat-2. Replaced JCSAT-4A.
+JCSAT-14#JCSAT-2B#SSL 1300#26 C band and 18 Ku band#2013#2016-05-06#Falcon 9 Full Thrust#Success#4,696 kg (10,353 lb)#Operational at 154°E#Replaced JCSAT-2A.
+JCSAT-16#N/A#SSL 1300#Ku band and Ka band#2014#2016-08-14#Falcon 9 Full Thrust#Success#4,600 kg (10,100 lb)#Commissioning (In transit to 162°E)#Will act as backup. Temporarily replacing delayed Superbird-8.
+JCSAT-15#N/A#SSL 1300#Ku#2014#2016-12-21#Ariane 5 ECA#Success#3,400 kg (7,500 lb)#Commissioning (In transit to 110°E)#Replacement for N-SAT-110.
+DSN-2#Kirameki-2#NEC#X band military payload#N/A#2017-01-24#H-IIA 204#Success#N/A#Commissioning (In transit to 162°E#Managed for the DSN Corporation on behalf of the Japanese Military.
+Superbird-8#Superbird-B3 DSN-1 Kirameki-1#DS2000#Ku band, Ka band and an X band military payload#2014#2018-04-05#Ariane 5 ECA#Success#N/A#Success#Replacement for Superbird-B2. DSN-1 Payload for the Japanese Military.
+Horizons-3e#N/A#BSS-702MP#C band and Ku band#2015#2019 2nd Half#Ariane 5 ECA#Planned#6 t (5.9 long tons; 6.6 short tons)#Planned#Horizons Satellite 3rd satellite. Co-owned with Intelsat, EpicNG architecture. Will replace Intelsat 805.
+JCSAT-17#N/A#A2100#S band, C band and Ku band#2016#August 2019#Ariane 5 ECA#Planned#N/A#Planned#
+JCSAT-18#N/A####2019#Falcon 9 Full Thrust#Planned#N/A#Planned#

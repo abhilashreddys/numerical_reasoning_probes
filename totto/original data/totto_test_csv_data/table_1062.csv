@@ -1,0 +1,65 @@
+Route#Start#End#Days of operation#Frequency
+1#Ashford#Canterbury#Monday - Saturday#2 Hourly
+2#Ashford#Hastings#Monday - Saturday#2 Hourly
+3, 3A, 3B, 3X#Canterbury#Faversham Sittingbourne#Daily#10-20 mins Mon-Sat Hourly Sunday
+5#Canterbury#Seasalter#Daily, but Sunday service operated by Chalkwell#Hourly Mon-Sat 120 mins Sunday
+7#Canterbury#Herne Bay#Monday - Saturday#6 journeys Mon-Sat 4 journeys Sunday
+8, 8A#Canterbury#Westwood Cross or Northdown Park#Daily#15 mins Mon-Sat 30 mins Sunday
+9#Canterbury#Westwood Cross#Monday - Saturday#hourly
+10, 10A#Folkestone#Ashford#Daily#Hourly Mon-Sat 4 jounrneys Sunday
+10X#Ashford#Maidstone#Daily#Hourly Mon-Sat 5 journeys Sunday
+11, 11A, 11B#Ashford#Lydd#Monday - Saturday#Hourly
+11#Canterbury#Westwood Cross#Monday - Saturday#5 journeys
+12#Canterbury#Deal#Monday - Saturday#Hourly
+15#Canterbury#Dover#Daily#20 mins Mon - Sat 120 mins (15) Sundays
+Gold 16#Canterbury#Folkestone Hythe#Daily#15 mins (30 mins to Hythe) 30 mins Sunday
+17#Folkestone#Canterbury#Daily#Hourly Mon - Sat 120 mins Sunday
+18#Canterbury#Hythe#Monday - Saturday#5 journeys
+21, 21A#Canterbury#Canterbury via Hales Place#Daily#15 mins Hourly Sunday
+22, 22A#Canterbury#London Road Estate#Daily#15 mins Monday - Saturday Hourly Sunday
+23#Canterbury#Canterbury via Spring Lane Estate#Monday - Saturday#20 mins
+25, 25A#Canterbury#Kent and Canterbuy Hospital#Daily#7 mins (Mon-Fir) 20 mins (Sat) Hourly Sunday
+26A#University of Kent#Sturry Road#Saturdays only, Term Times only#40 minutes
+27#Canterbury#London Road Estate#Monday - Saturday#Hourly
+32#Garlinge#Dane Valley#Daily#15 mins Mondays to Saturdays
+33#Broadstairs#Margate#Monday - Saturday#Hourly
+34#Ramsgate#Minnis Bay#Monday - Saturday#30 mins (34) Hourly (34A)
+38, 38A#Birchington-on-Sea#Palm Bay#Monday - Saturday, off-peak only#Hourly
+39#Dumpton#Broadstairs Asda#Monday - Saturday, off-peak only#Hourly
+42#Monkton#Ramsgate#Monday - Saturday, off-peak only#75 minutes
+43#Canterbury#Sandwich - some journeys extending to Ramsgate & Westwood#Every 20 mins Canterbury to Sandwich, hourly Sandwich/Ramsgate/Westwood Mon-Sat, hourly Canterbury/Sandwich Sundays.#
+56#Broadstairs#Margate#Monday - Saturday#Hourly
+60, 60A#Dover#St. Radigunds Whitfield (60A)#Daily#20 mins to St. Radingunds or Hourly to Whitfield Mon-Sat Hourly Sunday
+61, 61A#Whitfield#Aycliffe#Daily#15 minutes Monday - Saturday 30 mins (Hourly to Aycliffe) Sunday
+62#Dover#The Linces#Monday - Saturday#20 minutes
+63#Dover#Tower Hamlets#Daily#20 minutes Monday-Saturday Hourly Sunday
+68#Temple Ewell#Maxton#Monday - Saturday, off-peak only#Hourly
+71#Cheriton#Creteway Down#Daily#15 minutes Monday-Saturday 30 minutes Sunday
+72#Cheriton#East CLiff#Daily#30 minutes (Cheriton - Folkestone only on Sundays)
+73#Cheriton#Hawkinge#Monday - Saturday#30 minutes
+77, 78#Folkestone#Golden Valley Shorncliffe (77 only)#Monday to Saturday#30 minutes
+80, 81#Deal#Dover#Monday to Saturday every 30 mins combined, Sunday hourly.#
+82, 82A#Kingsdown#Mill Hill#Monday - Saturday#Hourly, every 30 mins Deal/Mill Hill.
+83#Deal#Deal via Walmer#Mon - Sat#Monday to Saturday, hourly.
+84#Deal#Deal via Sandown#Mon - Sat#Monday to Saturday, hourly.
+89, 89A#Canterbury#Dover#Daily#30 minutes (Canterbury - Aylesham) Hourly to Dover
+90#Deal#Dover#MON - SAT Daytime Only#Monday to Saturday daytimes, hourly.
+91#Folkestone#Dover#Monday - Saturday#5 journeys Weekdays and 4 journeys Saturdays
+100#Lydd#Conquest Hospital#Daily#Hourly Monday to Saturday Hourly Sunday
+101#Dover#Conquest Hospital#Daily#Hourly Monday-Saturday Hourly Sunday
+102#Dover#Lydd-on-Sea#Daily#30 minutes Dover - New Romney, Hourly to Lydd-on-Sea Monday-Saturday Hourly Sunday
+123#Ashford#Biddenden#Monday - Friday#4 journeys
+666#Ashford#Faversham#Monday to Saturday#Hourly Monday - Friday 120 minutes Saturday
+Little & Often A#Ashford Town Centre#Singleton#Daily#10 minutes Monday-Saturday daytime 30 minutes daytime Sunday
+AD#Town Centre - Arlington - Singleton - Stanhope - Town Centre##Weekday evenings and Sundays#30 minutes (more frequent early evening)
+Little & Often B#Park Farm, Kent#Kennington#Daily#12 minutes (up to every 15 minutes on Sundays)
+Little & Often C#Ashford#William Harvey Hospital#Daily#10 minutes (up to every 15 minutes on Sundays)
+D#Town Centre Ashford#Stanhope#Daily#15 mins Monday to Saturday 30 mins Sunday daytime
+G#South Willesborough#Godinton Park#Daily#30 minutes Monday-Saturday Hourly Ashford - Godinton Park only Sunday
+Thanet Loop#Margate#Margate via QEQM Hospital, Westwood Cross, Ramsgate Rail Station, Ramsgate, Dumpton Park, Broadstairs, St Peter's & Cliftonville#Daily#7–8 minutes Monday-Saturday 10 minutes Sunday
+Triangle#Canterbury#Canterbury via Herne Bay and Whitstable#Daily#Every 15 mins Mondays to Sundays, every 30 mins evenings.
+Unibus#Canterbury#University of Kent#Daily#7–8 minutes term time or 15 minutes non term time Monday-Saturday 30 minutes on term time Sunday only
+nite unibus#Canterbury#University of Kent#Every Night except Sunday, Term Time only#30–60 minutes
+New Dover Road Park & Ride#Canterbury#New Dover Road car park#Daily#7–8 minutes Monday-Saturday 15 minutes Sunday
+Sturry Road Park & Ride#Canterbury#Sturry car park#Daily#7–8 minutes Monday-Saturday 15 minutes Sunday
+Wincheap Park & Ride#Canterbury#Wincheap car park#Monday - Saturday#7–8 minutes

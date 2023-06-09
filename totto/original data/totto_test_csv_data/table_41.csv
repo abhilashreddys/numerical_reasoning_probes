@@ -1,0 +1,9 @@
+Symbol#Parameter#Value#Unit
+Vout#Output voltage range#1.25 – 37#V
+Vin – Vout#Voltage differential#3 – 40#V
+TJ#Operating junction temperature range#0 – 125#°C
+IO(MAX)#Maximum output current#1.5#A
+IL(MIN)#Minimum load current#3.5 mA typical, 12 mA maximum#
+PD#Power dissipation#Internally Limited#W
+RθJA#Thermal resistance, Junction to ambient#80#°C/W
+RθJC#Thermal resistance, Junction to case#5#°C/W

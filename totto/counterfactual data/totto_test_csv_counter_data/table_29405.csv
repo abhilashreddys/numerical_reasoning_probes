@@ -1,0 +1,10 @@
+Algorithm and variant#Algorithm and variant#Output size (bits)#Internal state size (bits)#Block size (bits)#Max message size (bits)#Rounds#Operations#Security bits (Info)#Capacity against length extension attacks#Performance on Skylake (median cpb)#Performance on Skylake (median cpb)#First Published
+Algorithm and variant#long messages#Output size (bits)#Internal state size (bits)#Block size (bits)#Max message size (bits)#Rounds#Operations#Security bits (Info)#Capacity against length extension attacks#8 bytes#0#First Published
+MD5 (as reference)#MD5 (as reference)#128#128 (4 × 32)#512#Unlimited#64#And, Xor, Rot, Add (mod 232), Or#<64 (collisions found)#0#4.99#55.00#1992
+SHA-0#SHA-0#160#160 (5 × 32)#512#264 − 1#80#And, Xor, Rot, Add (mod 232), Or#<34 (collisions found)#0#≈ SHA-1#≈ SHA-1#1993
+SHA-1#SHA-1#160#160 (5 × 32)#512#264 − 1#80#And, Xor, Rot, Add (mod 232), Or#<63 (collisions found)#0#3.47#52.00#1995
+SHA-2#SHA-224 SHA-256#224 256#256 (8 × 32)#1024#264 − 1#64#And, Xor, Rot, Add (mod 232), Or, Shr#112 128#32 0#7.62 7.63#84.50 85.25#2004 2001
+SHA-2#SHA-384 SHA-512#384 512#512 (8 × 64)#512#2128 − 1#80#And, Xor, Rot, Add (mod 264), Or, Shr#192 256#128 (≤ 384) 0#5.12 5.06#135.75 135.50#2004 2001
+SHA-2#SHA-512/224 SHA-512/256#224 256#512 (8 × 64)#512#2128 − 1#80#And, Xor, Rot, Add (mod 264), Or, Shr#112 128#288 256#≈ SHA-384#≈ SHA-384#2004 2001
+SHA-3#SHA3-224 SHA3-256 SHA3-384 SHA3-512#224 256 384 512#1600 (5 × 5 × 64)#1152 1088 832 576#Unlimited#24#And, Xor, Rot, Not#112 128 192 256#448 512 768 1024#8.12 8.59 11.06 15.88#154.25 155.50 164.00 164.00#2015
+SHA-3#SHAKE128 SHAKE256#d (arbitrary) d (arbitrary)#1600 (5 × 5 × 64)#1344 1088#Unlimited#24#And, Xor, Rot, Not#min(d/2, 128) min(d/2, 256)#256 512#7.08 8.59#155.25 155.50#2015

@@ -1,0 +1,23 @@
+UD#Combo#1000HD#1100HD#2000HD
+Product#Dis-continued#Available#Available#Will-be-available
+Life Cycle#2011.May-#2011.Sep-#2011.Nov-#2011.Dec-
+SoC#s2+t#STi7105#STi7110#STi7110
+Size#290 x 200 x 58#180 x 145 x 38#180 x 145 x 38#180 x 145 x 38
+CPU(MHz)#450#450#450#450
+RAM(MB)#256#256#256#256
+Flash(MB)#32#32#32#32
+Flash type#NOR#NOR#NOR#NOR
+Default OS#ST Linux#ST Linux#ST Linux#ST Linux
+DVB#STi7105#S2/T/C#S2/T/C#S2 + S2/T/C
+Common Interface#1#0#0#2
+Smart card#2#1#1#2
+USB#2 x 2.0#2 x 2.0#1 x 2.0#2 x 2.0
+RS232#Yes#No#No#Yes
+LAN(Mbit/s)#100#100#100#100
+HDD#e-sata, USB#USB#USB#e-sata, USB
+SCART#1#0#0#1
+HDMI#1#1#1#1
+Display#VFD#No#No#VFD
+S/PDIF Optical#Yes#Yes#Yes#Yes
+Component#Yes#No#No#Yes
+Composite(RCA)#Yes#Yes#Yes#Yes

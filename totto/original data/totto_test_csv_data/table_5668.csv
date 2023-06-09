@@ -1,0 +1,40 @@
+Generation#Introduction#Prominent CPU models#Address space#Address space#Address space#Notable features
+Generation#Introduction#Prominent CPU models#Linear#Virtual#Physical#Notable features
+1st#1978#Intel 8086, Intel 8088 (1979)#16-bit#N/A#20-bit#Real mode, 16-bit ISA
+1st#1982#Intel 80186, Intel 80188 NEC V20 and V30 (1983)#16-bit#N/A#20-bit#8086-2 ISA, embedded (80186 and 80188)
+2nd#1982#Intel 80286 and clones#16-bit#30-bit#24-bit#Protected mode, unreal mode
+3rd (IA-32)#1985#Intel 80386, AMD Am386 (1991)#32-bit#46-bit#32-bit#Virtual mode, 32-bit ISA, paging, IBM PS/2
+4th#1989#Intel 80486 Cyrix Cx486SLC and DLC (1992) AMD Am486 (1993) and Am5x86 (1995)#32-bit#46-bit#32-bit#System Management Mode, pipelining, on-die x87 FPU (486 DX), on-die CPU cache
+5th#1993#Intel Pentium, Pentium MMX (1996)#32-bit#46-bit#32-bit#Superscalar, 64-bit databus, faster FPU, MMX (Pentium MMX), APIC, SMP
+5th#1994#NexGen Nx586 AMD 5k86 and K5 (1996)#32-bit#46-bit#32-bit#Discrete microarchitecture (µ-op translation)
+5th#1995#Cyrix Cx5x86 Cyrix 6x86 and MX (1997), MII (1998)#32-bit#46-bit#32-bit#Dynamic execution
+6th#1995#Intel Pentium Pro#32-bit#46-bit#36-bit (PAE)#Conditional move instructions, speculative execution, 3-way x86 superscalar, superscalar FPU, PAE, on-chip L2 cache
+6th#1997#Intel Pentium II, Pentium III (1999) Celeron (1998), Xeon (1998)#32-bit#46-bit#36-bit (PAE)#L2 Cache, SSE
+6th#1997#AMD K6, K6-2 (1998), K6-III (1999)#32-bit#46-bit#3DNow!, L3 cache#0
+7th#1999#AMD Athlon, Athlon XP/MP (2001) Duron (2000), Sempron (2004)#32-bit#46-bit#36-bit#MMX+, 3DNow!+
+7th#2000#Transmeta Crusoe#32-bit#46-bit#CMS powered x86 platform processor, VLIW-128 core, on-die memory controller, on-die PCI bridge logic#0
+7th#2000#Intel Pentium 4#32-bit#46-bit#36-bit#SSE2, hyper-threading, NetBurst, quad-pumped bus, Trace Cache
+7th#2003#Intel Pentium M Intel Core (2006), Pentium Dual-Core (2007)#32-bit#46-bit#36-bit#µ-op fusion, XD bit
+7th#2003#Transmeta Efficeon#32-bit#46-bit#36-bit#CMS 6.0.4, VLIW-256, NX bit, HyperTransport
+8th (x64)#2003#Athlon 64, FX, X2 (2005), Opteron Sempron (2004), X2 (2008) Turion 64 (2005), X2 (2006)#40-bit#40-bit#40-bit#AMD64, long mode, on-die memory controller, HyperTransport, AMD-V
+8th (x64)#2004#Pentium 4 (Prescott) Celeron D, Pentium D (2005)#36-bit#36-bit#36-bit#EM64T, SSE3, 2nd gen. NetBurst pipelining, Intel VT
+8th (x64)#2006#Intel Core 2 Pentium Dual-Core (2007) Celeron Dual-Core (2008)#36-bit#Intel 64, SSSE3, wide dynamic execution, smart shared L2 cache#0#0
+8th (x64)#2007#AMD Phenom, Phenom II (2008) Athlon II (2009), Turion II (2009)#48-bit#48-bit#48-bit#SSE4a, Rapid Virtualization Indexing (RVI), HyperTransport 3
+8th (x64)#2008#Intel Core 2 (45nm)#40-bit#40-bit#40-bit#SSE4.1
+8th (x64)#2008#Intel Atom#40-bit##0#0
+8th (x64)#2008#Intel Nehalem (2009) and Westmere (2010) series#40-bit#QuickPath, on-chip graphic memory hub controller (GMCH), SSE4.2, Extended Page Tables (EPT), x64 macro-op fusion#0#0
+8th (x64)#2008#VIA Nano#40-bit#Hardware-based encryption, adaptive power management#0#0
+8th (x64)#2010#AMD FX#48-bit#48-bit#48-bit#Clustered Multi-Thread (CMT), FMA instruction set, OpenCL
+8th (x64)#2011#AMD APU A and E Series (Llano)#40-bit#40-bit#40-bit#On-die GPGPU
+8th (x64)#2011#AMD APU C, E and Z Series (Bobcat)#40-bit#40-bit#40-bit#
+8th (x64)#2011#Intel Sandy Bridge and Ivy Bridge series#40-bit#Decoded µ-op cache#0#0
+8th (x64)#2012#AMD Bulldozer and Trinity series#48-bit#48-bit#48-bit#AVX
+8th (x64)#2012#Intel Xeon Phi Knights Corner#48-bit#48-bit#48-bit#In-order P54C, very wide VPU (512-bit SSE), LRBni instructions (8× 64-bit)
+8th (x64)#2013#AMD Jaguar (Athlon, Sempron)#48-bit#48-bit#48-bit#SoC
+8th (x64)#2013#Intel Silvermont series#36-bit#36-bit#36-bit#SoC
+8th (x64)#2013#Intel Haswell and Broadwell series#42-bit#42-bit#42-bit#AVX2, FMA3, TSX, BMI1, and BMI2 instructions
+8th (x64)#2015#Intel Broadwell-U series#42-bit#SoC, on-chip Broadwell-U PCH-LP (Multi-chip module)#0#0
+8th (x64)#2015#Intel Skylake, Kaby Lake and Cannon Lake series#46-bit#46-bit#46-bit#AVX-512
+8th (x64)#2016#Intel Xeon Phi Knights Landing#48-bit#48-bit#48-bit#Bootable and standalone accelerator supplement to Xeon system, Airmont (Atom) core based
+8th (x64)#2016#AMD Excavator series#48-bit#48-bit#48-bit#Integrated Fusion controller hubs (FCH) on die
+8th (x64)#2017#AMD Ryzen and Epyc series#48-bit#Simultaneous multithreading (SMT), on-chip multiple dies#0#0

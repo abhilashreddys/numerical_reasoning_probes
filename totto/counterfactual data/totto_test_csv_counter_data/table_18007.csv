@@ -1,0 +1,15 @@
+Genus/Species#Common Name#Divergence from Human (MYA)#Length (aa)#Similarity#Identity#NCBI Accession
+Homo sapiens#Human#N/A#570#100%#100%#XP_006719036.1
+Mus musculus#Mouse#92.3#563#93%#95%#XP_006506337.2
+Lipotes vexillifer#Baiji dolphin#94.2#573#92%#95%#XP_007469487.1
+Loxodonta africana#African bush elephant#98.7#574#94%#96%#XP_003410688.1
+Chrysemys picta bellii#Painted turtle#296#557#78%#84%#XP_005291351.1
+Pseudopodoces humilis#Ground tit#296#531#76%#81%#XP_005523902.1
+Python bivittatus#Burmese python#296#570#75%#82%#XP_007429680.1
+Haliaeetus leucocephalus#Bald eagle#296#537#74%#79%#XP_010565842.1
+Rana catesbeiana#American bull frog#371.2#511#25%#44%#BAB63946.1
+Ambystoma mexicanum#australian ghostshark#371.2#372#24%#42%#AFN68290.1
+Notophthalmus viridescens#Eastern newt#371.2#496#23%#45%#CAA04656.1
+Danio Rerio#Zebra fish#400.1#640#62%#71%#XP_690165.5
+Poecilia formosa#Amazon molly#400.1#640#57%#65%#XP_007550181.1
+Callorhinchus milii#Axolotl#462.5#512#62%#73%#XP_007896103.1

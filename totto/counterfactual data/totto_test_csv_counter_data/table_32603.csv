@@ -1,0 +1,25 @@
+Model Number#Fab#CPU#CPU#CPU#CPU#GPU#GPU#Memory Technology#Memory Technology#Ethernet Speed#Hardware Decoding#Hardware Encoding#Sampl. Avail- ability#Utilizing Devices
+Model Number#Fab#ISA#µarch#Cores#Freq. (GHz)#µarch#Freq. (MHz)#Type#Bus width#Ethernet Speed#Hardware Decoding#Hardware Encoding#Sampl. Avail- ability#Utilizing Devices
+S812#65 nm#ARMv7-A#Cortex-A9#1#1.0#Mali 400 MP#250#DDR3/3L 533 MHz#32-bit#100M#H.264 1080p 30fps##2011#OTT/IP/DVB STB, TV dongle, Smart home
+AML8726-M3#40 nm#ARMv7-A#Cortex-A9#1#1.0#Mali 400 MP#250#DDR3/3L 533 MHz#32-bit#100M#H.264 1080p 30fps##2012#OTT/IP/DVB STB, TV dongle, Smart home
+AML8726-MX/MXS/M6#40 nm#ARMv7-A#Cortex-A9#2#1.5#Mali 400 MP2#400#DDR3/3L, LPDDR2 533 MHz#32-bit#100M#H.264 1080p 30fps##2012#Tablet, TV dongle
+AML7366-M6C#40 nm#ARMv7-A#Cortex-A9#2#1.5#Mali 400 MP2#400#DDR3/3L, LPDDR2/3 800 MHz#32-bit#100M#H.264 1080p 30fps##2011#OTT/IP/DVB STB, TV dongle, Smart home
+M801, M802#28 nm HKMG#ARMv7-A#Cortex-A9r4#4#2.0#Mali 450 MP6#600#DDR3/3L, LPDDR2/3 800 MHz#64-bit#100M#H.265 4K 30fps#H.264 1080p 30fps##Tablet
+M805, M806#28 nm HKMG#ARMv7-A#Cortex-A5#4#1.5#Mali 450 MP2#500#DDR3/3L, LPDDR2/3 800 MHz#32-bit#?#H.265 1080p 60fps#H.264 1080p 30fps##Tablet, Smart projector
+T826#28 nm HKMG#ARMv7-A#Cortex-A5#4#1.5#Mali 450 MP4#600#DDR3/3L, LPDDR2/3 800 MHz#32-bit#?#H.265 1080p 60fps#H.264 720p 30fps##Smart TV, Smart projector
+T828#28 nm HKMG#ARMv7-A#Cortex-A5#4#1.5#Mali 450 MP4#600#DDR3/3L, LPDDR2/3 800 MHz#32-bit#?#H.265 1080p 60fps#H.264 720p 30fps##Smart TV
+T866#28 nm HKMG#ARMv7-A#Cortex-A9r4#4#1.8#Mali 450 MP6#600#DDR3/3L, LPDDR2/3 800 MHz#64-bit#1GbE#H.265 4K 30fps#H.264 1080p 60fps##Smart TV, Smart projector
+T868#28 nm HKMG#ARMv7-A#Cortex-A9r4#4#1.8#Mali 450 MP6#600#DDR3/3L, LPDDR2/3 800 MHz#64-bit#1GbE#H.265 4K 30fps#H.264 1080p 30fps##Smart TV
+T962#28 nm HKMG#ARMv8-A#Cortex-A53#4#1.5#Mali 450 MP3#750#?#?#100M#H.265 4K 60fps, H.264 4K 30fps#H.264 1080p 30fps##Smart TV
+T966#28 nm HKMG#ARMv8-A#Cortex-A53#4#1.8#Mali T830 MP2#650#?#?#1GbE#H.265 4K 60fps, H.264 4K 30fps#H.264 1080p 30fps#2016#Smart TV List Xiaomi Mi TV 3S
+T968#28 nm HKMG#ARMv8-A#Cortex-A53#4#1.8#Mali T830 MP2#650#?#?#1GbE#H.265 4K 60fps, H.264 4K 30fps#H.264 1080p 30fps#2016#Smart TV
+S802#28 nm HKMG#ARMv7-A#Cortex-A9r4#4#2.0#Mali 450 MP6#600#DDR3/3L, LPDDR2/3 800 MHz#32-bit#100M#H.265 720p, H.264 4K HP@L5.1 30fps(AVC) 60fps(MVC)#H.264 1080p 30fps#Q1 2014#OTT/IP/DVB STB, TV dongle, Smart home List Xiaomi's Mi Box Pro, Baidu's Shadow Stick 3, Tronsmart's Vega Elite S89, and the MINIX NEO X8-H.
+S805#28 nm HKMG#ARMv7-A#Cortex-A5#4#1.5#Mali 450 MP2#500#DDR3/3L, LPDDR2/3 800 MHz#32-bit#1GbE#H.265 1080p MP@L4.1 60fps, H.264 4K HP@L4.2 60fps#H.264 1080p 30fps#Q2 2014#OTT/IP/DVB STB, TV dongle, Smart home List MXQ S85, RikoMagic MK05 MINIX NEO X6, and Hardkernel's ODROID-C1 development board.
+S805X#28 nm HKMG#ARMv8-A#Cortex-A53#4#1.2#Mali 450 MP3#?#?#?#100M#H.265, H.264, VP9 1080p (60fps?)#H.264 1080p#2017#
+aml8726-m#28 nm HKMG#ARMv7-A#Cortex-A9r4#4#2.0#Mali 450 MP6#600#DDR3/3L, LPDDR2/3 800 MHz#32-bit#1GbE#H.265 4K 30fps, H.264 4K HP@L5.1 30fps(AVC) 60fps(MVC)#H.264 1080p 30fps#Q2 2014#OTT/IP/DVB STB, TV dongle, Tablet, Smart home List MINIX NEO X8-H Plus, RikoMagic MK12. and Matricom G-Box Q2.
+S905#28 nm HKMG#ARMv8-A#Cortex-A53#4#1.5#Mali 450 MP3#750#DDR3/3L, LPDDR2/3 1066 MHz#32-bit#1GbE#H.265 4K MP-10@L5.1 60fps, H.264 4K HP@L5.1 30fps(AVC) 60fps(MVC)#H.264 1080p 60fps#Q2 2015#OTT/IP/DVB STB, TV dongle, Smart home List Hardkernel's ODROID-C2 development board
+S905L#28 nm HKMG#ARMv8-A#Cortex-A53#4#1.5#Mali 450 MP3#750#DDR3/3L, LPDDR2/3 1066 MHz#64-bit#1GbE#H.265 4K MP-10@L5.1 60fps, H.264 4K HP@L5.1 30fps(AVC) 60fps(MVC)#H.264 1080p 60fps##
+S905D#28 nm HKMG#ARMv8-A#Cortex-A53#4#1.5#Mali 450 MP3#750#DDR3/3L, LPDDR2/3 1200 MHz#64-bit#1GbE#H.265 4K MP-10@L5.1 60fps, VP9 4K profile 2 60fps, H.264 4K HP@L5.1 30fps(AVC) 60fps(MVC)#H.264 1080p 60fps##
+S905X#28 nm HKMG#ARMv8-A#Cortex-A53#4#1.5#Mali 450 MP3#750#DDR3/3L, LPDDR2/3 1200 MHz#64-bit#1GbE#H.265 4K MP-10@L5.1 60fps, VP9 4K profile 2 60fps, H.264 4K HP@L5.1 30fps(AVC) 60fps(MVC)#H.264 1080p 60fps#Q2 2016#OTT/IP/DVB STB, TV dongle, Smart home List Xiaomi Mi Box (AndroidTV model). Khadas VIM and VIM Pro Amazon Fire TV with 4K Ultra HD and Alexa Voice Remote (2017 Edition, Pendant)
+S912#28 nm HKMG#ARMv8-A#Cortex-A53#4+4#1.5 + 1.0#Mali T820 MP3#600#DDR3/3L, LPDDR2/3 1200 MHz#64-bit#1GbE#H.265 4K MP-10@L5.1 60fps, VP9 4K profile 2 60fps, H.264 4K HP@L5.1 30fps(AVC) 60fps(MVC)#H.265 1080p 60fps#Q2 2016#
+Model Number#Fab#CPU#CPU#CPU#CPU#GPU#GPU#Memory Technology#Memory Technology#Ethernet Speed#Hardware Decoding#Hardware Encoding#Sampl. Avail- ability#Utilizing Devices

@@ -1,0 +1,60 @@
+Pos#Class#No#Team#Drivers#Chassis#Tyre#Laps#Time/Retired
+Pos#Class#No#Team#Drivers#Engine#Tyre#Laps#Time/Retired
+1#LMP1#7#Germany Audi Sport Team Joest#Germany André Lotterer Switzerland Marcel Fässler France Benoît Tréluyer#Audi R18 e-tron quattro#M#201#6:00:30.876
+1#LMP1#7#Germany Audi Sport Team Joest#Germany André Lotterer Switzerland Marcel Fässler France Benoît Tréluyer#Audi TDI 4.0 L Turbo Diesel V6#M#201#6:00:30.876
+2#LMP1#18#Germany Porsche Team#Germany Marc Lieb France Romain Dumas Switzerland Neel Jani#Porsche 919 Hybrid#M#201#+4.610
+2#LMP1#18#Germany Porsche Team#Germany Marc Lieb France Romain Dumas Switzerland Neel Jani#Porsche 2.0 L Turbo V4#M#201#+4.610
+3#LMP1#1#Japan Toyota Racing#United Kingdom Anthony Davidson Switzerland Sébastien Buemi Japan Kazuki Nakajima#Toyota TS040 Hybrid#M#201#+10.206
+3#LMP1#1#Japan Toyota Racing#United Kingdom Anthony Davidson Switzerland Sébastien Buemi Japan Kazuki Nakajima#Toyota 3.7 L V8#M#201#+10.206
+4#LMP1#2#Japan Toyota Racing#Austria Alexander Wurz France Stéphane Sarrazin United Kingdom Mike Conway#Toyota TS040 Hybrid#M#200#+1 Lap
+4#LMP1#2#Japan Toyota Racing#Austria Alexander Wurz France Stéphane Sarrazin United Kingdom Mike Conway#Toyota 3.7 L V8#M#200#+1 Lap
+5#LMP1#8#Germany Audi Sport Team Joest#France Loïc Duval Brazil Lucas di Grassi United Kingdom Oliver Jarvis#Audi R18 e-tron quattro#M#197#+4 Laps
+5#LMP1#8#Germany Audi Sport Team Joest#France Loïc Duval Brazil Lucas di Grassi United Kingdom Oliver Jarvis#Audi TDI 4.0 L Turbo Diesel V6#M#197#+4 Laps
+6#LMP2#26#Russia G-Drive Racing#Russia Roman Rusinov France Julien Canal United Kingdom Sam Bird#Ligier JS P2#D#185#+16 Laps
+6#LMP2#26#Russia G-Drive Racing#Russia Roman Rusinov France Julien Canal United Kingdom Sam Bird#Nissan VK45DE 4.5 L V8#D#185#+16 Laps
+7#LMP2#83#Russia G-Drive Racing#Colombia Gustavo Yacamán Mexico Ricardo González Brazil Pipo Derani#Ligier JS P2#D#184#+17 Laps
+7#LMP2#83#Russia G-Drive Racing#Colombia Gustavo Yacamán Mexico Ricardo González Brazil Pipo Derani#Nissan VK45DE 4.5 L V8#D#184#+17 Laps
+8#LMP2#42#United Kingdom Strakka Racing#United Kingdom Nick Leventis United Kingdom Jonny Kane United Kingdom Danny Watts#Strakka Dome S103#M#178#+23 Laps
+8#LMP2#42#United Kingdom Strakka Racing#United Kingdom Nick Leventis United Kingdom Jonny Kane United Kingdom Danny Watts#Nissan VK45DE 4.5 L V8#M#178#+23 Laps
+9#LMGTE Pro#51#Italy AF Corse#Italy Gianmaria Bruni Finland Toni Vilander#Ferrari 458 Italia GT2#M#172#+29 Laps
+9#LMGTE Pro#51#Italy AF Corse#Italy Gianmaria Bruni Finland Toni Vilander#Ferrari 4.5 L V8#M#172#+29 Laps
+10#LMGTE Pro#91#Germany Porsche Team Manthey#Austria Richard Lietz Denmark Michael Christensen#Porsche 911 RSR#M#172#+29 Laps
+10#LMGTE Pro#91#Germany Porsche Team Manthey#Austria Richard Lietz Denmark Michael Christensen#Porsche 4.0 L Flat-6#M#172#+29 Laps
+11#LMGTE Pro#71#Italy AF Corse#Italy Davide Rigon United Kingdom James Calado#Ferrari 458 Italia GT2#M#172#+29 Laps
+11#LMGTE Pro#71#Italy AF Corse#Italy Davide Rigon United Kingdom James Calado#Ferrari 4.5 L V8#M#172#+29 Laps
+12#LMGTE Pro#95#United Kingdom Aston Martin Racing#Denmark Christoffer Nygaard Denmark Nicki Thiim Denmark Marco Sørensen#Aston Martin V8 Vantage GTE#M#171#+30 Laps
+12#LMGTE Pro#95#United Kingdom Aston Martin Racing#Denmark Christoffer Nygaard Denmark Nicki Thiim Denmark Marco Sørensen#Aston Martin 4.5 L V8#M#171#+30 Laps
+13#LMGTE Pro#97#United Kingdom Aston Martin Racing#United Kingdom Darren Turner Germany Stefan Mücke#Aston Martin V8 Vantage GTE#M#171#+30 Laps
+13#LMGTE Pro#97#United Kingdom Aston Martin Racing#United Kingdom Darren Turner Germany Stefan Mücke#Aston Martin 4.5 L V8#M#171#+30 Laps
+14#LMGTE Pro#99#United Kingdom Aston Martin Racing V8#Brazil Fernando Rees United Kingdom Alex MacDowall New Zealand Richie Stanaway#Aston Martin V8 Vantage GTE#M#171#+30 Laps
+14#LMGTE Pro#99#United Kingdom Aston Martin Racing V8#Brazil Fernando Rees United Kingdom Alex MacDowall New Zealand Richie Stanaway#Aston Martin 4.5 L V8#M#171#+30 Laps
+15#LMGTE Pro#92#Germany Porsche Team Manthey#France Patrick Pilet France Frédéric Makowiecki#Porsche 911 RSR#M#170#+31 Laps
+15#LMGTE Pro#92#Germany Porsche Team Manthey#France Patrick Pilet France Frédéric Makowiecki#Porsche 4.0 L Flat-6#M#170#+31 Laps
+16#LMGTE Am#98#United Kingdom Aston Martin Racing#Canada Paul Dalla Lana Portugal Pedro Lamy Austria Mathias Lauda#Aston Martin V8 Vantage GTE#M#168#+33 Laps
+16#LMGTE Am#98#United Kingdom Aston Martin Racing#Canada Paul Dalla Lana Portugal Pedro Lamy Austria Mathias Lauda#Aston Martin 4.5 L V8#M#168#+33 Laps
+17#LMGTE Am#28#Italy AF Corse#France François Perrodo France Emmanuel Collard Portugal Rui Águas#Ferrari 458 Italia GT2#M#168#+33 Laps
+17#LMGTE Am#28#Italy AF Corse#France François Perrodo France Emmanuel Collard Portugal Rui Águas#Ferrari 4.5 L V8#M#168#+33 Laps
+18#LMGTE Am#72#Russia SMP Racing#Russia Viktor Shaitar Russia Aleksey Basov Italy Andrea Bertolini#Ferrari 458 Italia GT2#M#168#+33 Laps
+18#LMGTE Am#72#Russia SMP Racing#Russia Viktor Shaitar Russia Aleksey Basov Italy Andrea Bertolini#Ferrari 4.5 L V8#M#168#+33 Laps
+19#LMP2#47#Hong Kong KCMG#United Kingdom Matthew Howson United Kingdom Richard Bradley United Kingdom Nick Tandy#Oreca 05#D#167#+34 Laps
+19#LMP2#47#Hong Kong KCMG#United Kingdom Matthew Howson United Kingdom Richard Bradley United Kingdom Nick Tandy#Nissan VK45DE 4.5 L V8#D#167#+34 Laps
+20#LMGTE Am#96#United Kingdom Aston Martin Racing#Germany Roald Goethe United Kingdom Stuart Hall Italy Francesco Castellacci#Aston Martin V8 Vantage GTE#M#166#+35 Laps
+20#LMGTE Am#96#United Kingdom Aston Martin Racing#Germany Roald Goethe United Kingdom Stuart Hall Italy Francesco Castellacci#Aston Martin 4.5 L V8#M#166#+35 Laps
+21#LMGTE Am#88#Germany Abu Dhabi-Proton Racing#Germany Christian Ried Austria Klaus Bachler United Arab Emirates Khalded Al Qubaisi#Porsche 911 RSR#M#166#+35 Laps
+21#LMGTE Am#88#Germany Abu Dhabi-Proton Racing#Germany Christian Ried Austria Klaus Bachler United Arab Emirates Khalded Al Qubaisi#Porsche 4.0 L Flat-6#M#166#+35 Laps
+22#LMP2#35#France OAK Racing#France Jacques Nicolet France Jean-Marc Merlin France Erik Maris#Ligier JS P2#D#165#+36 Laps
+22#LMP2#35#France OAK Racing#France Jacques Nicolet France Jean-Marc Merlin France Erik Maris#Nissan VK45DE 4.5 L V8#D#165#+36 Laps
+23#LMGTE Am#77#Germany Dempsey Racing-Proton#United States Patrick Dempsey United States Patrick Long Germany Marco Seefried#Porsche 911 RSR#M#165#+36 Laps
+23#LMGTE Am#77#Germany Dempsey Racing-Proton#United States Patrick Dempsey United States Patrick Long Germany Marco Seefried#Porsche 4.0 L Flat-6#M#165#+36 Laps
+24#LMP2#31#United States Extreme Speed Motorsports#United States Ed Brown Australia David Brabham United States Jon Fogarty#HPD ARX-03b#D#165#+36 Laps
+24#LMP2#31#United States Extreme Speed Motorsports#United States Ed Brown Australia David Brabham United States Jon Fogarty#Honda HR28TT 2.8 L Turbo V6#D#165#+36 Laps
+25#LMGTE Am#50#France Larbre Compétition#Italy Gianluca Roda Italy Paolo Ruberti Denmark Kristian Poulsen#Chevrolet Corvette C7.R#M#160#+41 Laps
+25#LMGTE Am#50#France Larbre Compétition#Italy Gianluca Roda Italy Paolo Ruberti Denmark Kristian Poulsen#Chevrolet 5.5 L V8#M#160#+41 Laps
+DNF#LMP1#4#Austria Team ByKolles#Switzerland Simon Trummer Italy Vitantonio Liuzzi Austria Christian Klien#CLM P1/01#M#116#Retired
+DNF#LMP1#4#Austria Team ByKolles#Switzerland Simon Trummer Italy Vitantonio Liuzzi Austria Christian Klien#AER P60 Turbo V6#M#116#Retired
+DNF#LMP1#17#Germany Porsche Team#Germany Timo Bernhard New Zealand Brendon Hartley Australia Mark Webber#Porsche 919 Hybrid#M#44#Drivetrain
+DNF#LMP1#17#Germany Porsche Team#Germany Timo Bernhard New Zealand Brendon Hartley Australia Mark Webber#Porsche 2.0 L Turbo V4#M#44#Drivetrain
+DNF#LMP2#36#France Signatech Alpine#France Nelson Panciatici France Paul-Loup Chatin France Vincent Capillaire#Alpine A450b#D#20#Accident
+DNF#LMP2#36#France Signatech Alpine#France Nelson Panciatici France Paul-Loup Chatin France Vincent Capillaire#Nissan VK45DE 4.5 L V8#D#20#Accident
+EX#LMP2#30#United States Extreme Speed Motorsports#United States Scott Sharp United Kingdom Ryan Dalziel Denmark David Heinemeier Hansson#HPD ARX-03b#D#183#Disqualified
+EX#LMP2#30#United States Extreme Speed Motorsports#United States Scott Sharp United Kingdom Ryan Dalziel Denmark David Heinemeier Hansson#Honda HR28TT 2.8 L Turbo V6#D#183#Disqualified

@@ -1,0 +1,35 @@
+Year#Micro-architecture#Pipeline stages#max. Clock#Tech process
+1989#486 (80486)#3#100 MHz#1000 nm
+1993#P5 (Pentium)#5#300 MHz#600 nm
+1995#P6 (Pentium Pro; later Pentium II)#14 (17 with load & store/retire)#450 MHz#350 nm
+1999#P6 (Pentium III) (Copper Mine)#12 (15 with load & store/retire)#1400 MHz#250 nm
+2000#NetBurst (Pentium 4) (Willamette)#20 unified with branch prediction#2000 MHz#180 nm
+2002#NetBurst (Pentium 4) (Northwood, Gallatin)#20 unified with branch prediction#3466 MHz#130 nm
+2003#Pentium M#10 (12 with fetch/retire)#2133 MHz#130 nm
+2004#NetBurst (Pentium 4) (Prescott)#31 unified with branch prediction#3800 MHz#90 nm
+2006#Intel Core#12 (14 with fetch/retire)#3000 MHz#65 nm
+2007#Penryn##3333 MHz#45 nm
+2008#Nehalem#20 unified (14 without miss prediction)#3600 MHz#45 nm
+2008#Bonnell#16 (20 with prediction miss)#2100 MHz#45 nm
+2010#Westmere#20 unified (14 without miss prediction)#3730 MHz#32 nm
+2011#Saltwell#16 (20 with prediction miss)#2130 MHz#32 nm
+2011#Sandy Bridge#14 (16 with fetch/retire)#4000 MHz#32 nm
+2012#Ivy Bridge#14 (16 with fetch/retire)#4100 MHz#22 nm
+2013#Silvermont#14-17 (16-19 with fetch/retire)#2670 MHz#22 nm
+2013#Haswell#14 (16 with fetch/retire)#4400 MHz#22 nm
+2014#Broadwell#14 (16 with fetch/retire)#3700 MHz#14 nm
+2015#Airmont#14-17 (16-19 with fetch/retire)#2640 MHz#14 nm
+2015#Skylake#14 (16 with fetch/retire)#4200 MHz#14 nm
+2016#Goldmont#20 unified with branch prediction#2600 MHz#14 nm
+2016#Kaby Lake#14 (16 with fetch/retire)#4500 MHz#14 nm
+2017#Coffee Lake#14 (16 with fetch/retire)#5000 MHz#14 nm
+2017#Goldmont Plus#? 20 unified with branch prediction ?#2800 MHz#14 nm
+2018#Cannon Lake#14 (16 with fetch/retire)#3200 MHz#10 nm
+2018#Whiskey Lake#14 (16 with fetch/retire)#4600 MHz#14 nm
+2018#Amber Lake#14 (16 with fetch/retire)#4200 MHz#14 nm
+(2019)#Cascade Lake#14 (16 with fetch/retire)#? MHz#14 nm
+(2019)#Cooper Lake#14 (16 with fetch/retire)##14 nm
+(2019)#Ice Lake###10 nm
+(2020)#Tiger Lake###10 nm
+(2021)#Alder Lake###10 nm
+(2022)#Meteor Lake###7 nm

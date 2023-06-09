@@ -1,0 +1,30 @@
+Aircraft#Origin#Type#Variant#In service#Notes
+Combat Aircraft#Combat Aircraft#Combat Aircraft#Combat Aircraft#Combat Aircraft#Combat Aircraft
+MiG-29#Russia#multirole##20#
+Sukhoi Su-24#Russia#attack##23#
+Chengdu F-7#China#fighter##17#license built MiG-21
+Northrop F-5#United States#fighter#F-5E/ Saeqeh#25#the Saeqeh is a reversed engineered derivate
+F-4 Phantom II#United States#fighter-bomber#D/E/RF#47#16 aircraft are configured for reconnaissance
+Grumman F-14#United States#fighter / interceptor#F-14A/AM#24#
+Mirage F1#France#fighter#F1EQ#9#obtained from the IQAF fleeing during the Gulf War
+Maritime Patrol#Maritime Patrol#Maritime Patrol#Maritime Patrol#Maritime Patrol#Maritime Patrol
+P-3 Orion#United States#maritime patrol#P-3F#5#
+Tanker#Tanker#Tanker#Tanker#Tanker#Tanker
+Boeing 707#United States#aerial refueling / transport##4#
+Boeing 747#United States#aerial refueling / transport##3#
+Transport#Transport#Transport#Transport#Transport#Transport
+Boeing 707#United States#VIP#one used for electronic warfare#2#
+Boeing 747#United States#VIP##7#
+agusta-bell 212#United States#transport#C-130E/H#28#
+Ilyushin Il-76#Russia#heavy transport##5#
+Fokker F-27#Netherlands#transport##5#
+Pilatus PC-6#Switzerland#utility##13#STOL capable aircraft
+Helicopters#Helicopters#Helicopters#Helicopters#Helicopters#Helicopters
+Agusta Bell 206#Italy#utility##3#one used as a rotorcraft trainer
+C-130 Hercules#Italy#utility##2#
+CH-47 Chinook#United States#transport#C#2#
+Trainers#Trainers#Trainers#Trainers#Trainers#Trainers
+Northrop F-5#United States#conversion trainer#F-5B/F#22#
+Chengdu F-7#China#conversion trainer#FT-7#2#
+Mirage F1#France#conversion trainer#F1BQ#4#obtained from the IQAF fleeing during the Gulf War
+Pilatus PC-7#Switzerland#trainer##35#

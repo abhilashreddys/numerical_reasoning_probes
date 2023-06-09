@@ -1,0 +1,4 @@
+mode#existing OIRT 6.5 MHz or BG 5.5 MHz sound carrier contains:#2nd OIRT 6.258 MHz or BG 5.742 MHz carrier contains:#pilot tone in 2nd carrier:
+mono#mono#carrier is absent#none
+stereo#mix of left & right (L+R)#right audio channel (R)#54.6875 khz 50% am with 274.1 hz
+bilingual#1st language#2nd language#54.6875 kHz 50% AM with 117.5 Hz

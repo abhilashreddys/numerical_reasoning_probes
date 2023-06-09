@@ -1,0 +1,17 @@
+Model Number#Semiconductor technology#CPU instruction set#CPU#GPU#Memory technology#Availability#Utilizing devices
+S3C44B0#0.25 µm CMOS#ARMv4#66 MHz single-core ARM7 (ARM7TDMI)#LCD controller#FP, EDO, SDRAM#2000#Juice Box, Danger Hiptop
+S5L2010##ARMv5#176 MHz single-core ARM9 (ARM946E-S)#LCD controller#SDRAM, EDO##
+S3C2410#0.18 µm CMOS#ARMv4#200/266 MHz single-core ARM9 (ARM920T)#LCD controller#SDRAM#2003#HP iPAQ H1930/H1937/H1940/rz1717, HP 49g+/48gII/50g, Everex E500, E-TEN InfoTouch P300, Acer n30/n35/d155, Palm Z22, LG LN600, Typhoon MyGuide 3610 GO, Samsung S5230, Openmoko Neo1973
+S3C2412#0.13 µm CMOS#ARMv5#200/266 MHz single-core ARM9 (ARM926EJ-S)#LCD controller#mSDRAM##
+S3C2413#0.13 µm LP#ARMv5#266 MHz single-core ARM9 (ARM926EJ-S)#LCD controller#mSDRAM, mDDR##
+S3C2440#0.13 µm CMOS#ARMv4#300/400/533 MHz single-core ARM9 (ARM920T)#LCD controller#SDRAM#2004#HP iPAQ rx3115/3415/3417/3715, Everex E900, Airis T470i/920/930, Acer n300/311, Boardcon EM2440-III, Typhoon MyPhone M500,Mio p550/P350/C710 Digi-Walker
+S3C2442#0.13 µm CMOS#ARMv4#300/400 MHz single-core ARM9 (ARM920T)#LCD controller#mSDRAM##Openmoko Neo Freerunner
+S3C2443##ARMv4#400/533 MHz single-core ARM9 (ARM920T)#LCD controller#SDRAM, mSDRAM, mDDR#2007#Asus R300/R600/R700, Mio Digi-Walker (C620T/...), Mio Moov 2xx/3xx, LG LN8xx, JoinTech JPro Mini Laptop JL7220, Navigon 8300/8310
+S5L8900#90 nm#ARMv6#412 MHz single-core ARM11#PowerVR MBX Lite#eDRAM#2007#Apple iPhone, Apple iPod touch 1G, Apple iPhone 3G
+S3C2416#65 nm LP#ARMv5#400 MHz single-core ARM9 (ARM926EJ)#2D graphics accelerator#SDRAM, mSDRAM, mDDR, DDR2#2008#Boardcon Handheld POS, iconX G310, HP Prime
+S3C2450#65 nm LP CMOS#ARMv5#400/533 MHz single-core ARM9 (ARM926EJ)#2D graphics accelerator#SDRAM, mSDRAM, mDDR, DDR2#2008#Mio Moov 500/510/560/S568/580, Getac PS535F, MENQ EasyPC E720/E790, Archos Arnova 10, Hivision PWS0890AW,SMiT MTV-PND530 8GB
+S3C6410#65 nm LP#ARMv6#533/667/800 MHz single-core ARM11 (ARM1176ZJF-S)#FIMG 3DSE graphics accelerator#mSDRAM, mDDR#2009#Samsung S5620 Monte, Boardcon SBC6410
+S5P6422##ARMv6#533/667 MHz single-core ARM11#FIMG 3DSE graphics accelerator###Samsung Galaxy 3
+S5P6442#45 nm#ARMv6#533/667 MHz single-core ARM11#FIMG 3DSE graphics accelerator##2010#
+S5P6450##ARMv6#533/667/800 MHz single-core ARM11 (ARM1176JZF-S)#3D graphics accelerator#mDDR, mDDR2, LPDDR#2010#
+S5PC100#65 nm#ARMv7#667/833 MHz single-core ARM Cortex-A8#PowerVR SGX535#LPDDR2, DDR2#2009#Apple iPhone 3GS

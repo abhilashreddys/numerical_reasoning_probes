@@ -1,0 +1,11 @@
+Model Number#CPU#GPU#Video decoder#Video encoder#Integrated connectivity#Segment#Released
+MT5327#Dual-core ARM Cortex-A9 @ 1.2GHz#SGX543 MP2 @ 400 MHz#1080p@60fps MPEG1/2/4, H.264, VC-1, 4Kx2K@30fps H.264#1080p H.264#3 x HDMI 1.4a, 2.4GHz WiFI + BT, MHL, USB 3.0#Android TV, UltraHD TV#H1 2014
+MT5329#Dual-core ARM Cortex-A17@1Ghz + dual-core ARM Cortex-A7@700MHz#ARM Mali-T624 MP4#4K HEVC/VP9 @ 60 fps###Android TV, UltraHD TV#2014
+MT5366###MPEG1/2/4, H.264, VC-1, RMVB, AVS##TCON/OD, Ethernet MAC#60 Hz cost-efficient TV#
+MT5389###MPEG1/2/4, H.264, VC-1, RMVB, AVS, VP8##TCON, 3 x HDMI 1.4#Basic 60 Hz 3D TV#
+MT5395###MPEG1/2/4, H.264, VC-1, RMVB, AVS#720p H.264#TCON/OD, Ethernet PHY, HDMI 1.4#Full-HD 120 Hz, 3D LCD TV with ME/MC#
+MT5396###MPEG1/2/4, H.264, VC-1, RMVB, AVS, VP8#720p H.264#TCON/OD, Ethernet PHY#Full-HD 120 Hz, 3D LCD TV with ME/MC (Smart TV)#
+MT5398#Dual-core ARM Cortex-A9#Yes#MPEG-1/2/4, H.264, VC-1, RMVB, AVS, VP8#720p H.264#TCON, HDMI 1.4#Smart 3D TV#
+MT5505#Dual-core Cortex-A9#ARM Mali-4xx MP2#MPEG-1/2/4, H.264, VC-1, RMVB, AVS, VP8#720p H.264#TCON, HDMI 1.4#Smart 3D TV#
+MT5580#Cortex-A9##MPEG-1/2/4, H.264, VC-1, RMVB, AVS, VP8##TCON, Ethernet PHY + MAC, HDMI 1.4#Connected 3D TV#
+MT5595#Dual-core ARM Cortex-A17 + dual-core ARM Cortex-A7#ARM Mali-T6xx?#4K HEVC/VP9 @ 60 fps###Android TV, UltraHD#Q1 2015

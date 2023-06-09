@@ -1,0 +1,13 @@
+Aspect#NFC#Bluetooth#Bluetooth Low Energy
+Tag requires power#No#Yes#Yes
+Cost of tag#US$0.10#US$5.00#US$5.00
+RFID compatible#ISO 18000-3#Active#Active
+Standardisation body#ISO/IEC#Bluetooth SIG#Bluetooth SIG
+Network standard#ISO 13157 etc.#IEEE 802.15.1 (no longer maintained)#IEEE 802.15.1 (no longer maintained)
+Network type#Point-to-point#WPAN#WPAN
+Cryptography#Not with RFID#Available#Available
+Range#< 20 cm#≈100 m (class 1)#≈50 m
+Frequency#13.56 MHz#2.4–2.5 GHz#2.4–2.5 GHz
+Bit rate#424 kbit/s#2.1 Mbit/s#1 Mbit/s
+Set-up time#< 0.1 s#< 6 s#< 0.006 s
+Current consumption#< 15 mA (read)#Varies with class#< 15 mA (read and transmit)

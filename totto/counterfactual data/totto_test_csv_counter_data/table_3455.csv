@@ -1,0 +1,17 @@
+"#"#Airline#Flight#Origin#Destination#Stop#Origin-Dest.#All sectors#Duration#Aircraft
+1#Air New Zealand#NZ 1#London—Heathrow#Auckland#Los Angeles#18,354 km (9,910 nmi)#19,248 km (10,393 nmi)#26:25#B777-300ER
+2#qantas#CA 907#Beijing—Capital#São Paulo—Guarulhos#Madrid—Barajas#17,578 km (9,491 nmi)#17,584 km (9,495 nmi)#21:30 to 22:05#B787-9
+3#Air China#QF 1#Sydney#London—Heathrow#Singapore#17,016 km (9,188 nmi)#17,176 km (9,274 nmi)#22:15#A380
+3#British Airways#BA 16#Sydney#London—Heathrow#Singapore#17,016 km (9,188 nmi)#17,176 km (9,274 nmi)#21:45 to 22:00#B777-300ER
+4#Qantas#QF 9#Melbourne#London—Heathrow#Perth#16,904 km (9,127 nmi)#17,205 km (9,290 nmi)#21:20#B787-9
+5#Singapore Airlines#SQ 52#Singapore#Houston#Manchester, UK#15,981 km (8,629 nmi)#18,545 km (10,013 nmi)#24:45#A350-900
+6#French Bee#BF 710#Paris—Orly#Papeete#San Francisco#15,728 km (8,492 nmi)#15,742 km (8,500 nmi)#21:00#A350-900
+7#Air Tahiti Nui#TN 7#Paris—CDG#Papeete#Los Angeles#15,715 km (8,485 nmi)#15,715 km (8,485 nmi)#20:10 to 20:25#A340-300
+7#Air France#AF 76#Paris—CDG#Papeete#Los Angeles#15,715 km (8,485 nmi)#15,715 km (8,485 nmi)#20:05 to 20:25#B777-200
+8#Air Canada#AC 33#Toronto—Pearson#Sydney#Vancouver#15,551 km (8,397 nmi)#15,838 km (8,552 nmi)#20:15 to 20:37#B777-200LR
+9#Singapore Airlines#SQ 26#Singapore#New York—JFK#Frankfurt#15,348 km (8,287 nmi)#16,488 km (8,903 nmi)#21:15 to 22:20#A380
+10#Emirates#EK 263#Dubai#Santiago#São Paulo—Guarulhos#14,777 km (7,979 nmi)#14,835 km (8,010 nmi)#20:35#B777-200LR
+11#Emirates#EK 451#Auckland#Dubai#Denpasar#14,200 km (7,667 nmi)#14,232 km (7,685 nmi)#18:00 to 18:10#B777-300ER
+12#China Southern Airlines#CZ 378#Mexico City#Guangzhou#Vancouver#14,115 km (7,621 nmi)#14,162 km (7,647 nmi)#18:15 to 19:00#B787-8
+13#Singapore Airlines#SQ 11#Los Angeles#Singapore#Tokyo—Narita#14,113 km (7,620 nmi)#14,122 km (7,625 nmi)#18:45 to 19:30#B777-300ER
+14#Emirates#EK 413#Christchurch#Dubai#Sydney#14,000 km (7,559 nmi)#14,120 km (7,624 nmi)#17:45#A380

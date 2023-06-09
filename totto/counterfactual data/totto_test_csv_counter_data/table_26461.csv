@@ -1,0 +1,65 @@
+Launch designation#Nickname#Satellite designation#Date/Time (GMT)#Launch site#Rocket#Orbit#Project#Function#Status#Patch#Remarks
+L-1#Nemesis#USA-179#August 31, 2004 23:17#CCAFS SLC-36A#Atlas IIAS#Molniya#Quasar#Communications#Active#-#
+L-2##USA-129#December 20, 1996 18:04#VAFB SLC-4E#Titan IV#LEO#KH-11#Optical imaging###
+L-3##USA-133#October 24, 1997 02:32#VAFB SLC-4E#Titan IV#LEO#Lacrosse#ELINT#Active##
+L-4#Oscar#USA-136#November 8, 1997 02:05#CCAFS SLC-41#Titan IV#Molniya#Trumpet#ELINT#Active##
+L-5#Capricorn#USA-137#January 29, 1998 18:37#CCAFS SLC-36A#Atlas IIA#Molniya#Quasar#Communications#Active##
+L-6#Jack#USA-139#May 9, 1998 01:38#CCAFS SLC-40#Titan IV/Centaur#GSO#Orion#ELINT##-#
+L-7#Elwood#N/A#August 12, 1998 11:30#CCAFS SLC-41#Titan IV/Centaur#GSO (planned)#Mercury#ELINT#Failed: 1998-08-12#"""On a Mission from DoD"""#Rocket self-destructed 40 seconds into launch due to guidance problem
+L-8##USA-140, USA-141#October 3, 1998 10:04#VAFB LC-576E#Taurus 1110#LEO#STEX#Technology###ATEX experiment jettisoned on 1999-01-16 and catalogued as USA-141
+L-9##USA-144#May 22, 1999 09:36#VAFB SLC-4E#Titan IVB##Misty#Optical imaging##-#First Titan IV-B launch from VAFB
+L-10#Great Bear#USA-155#December 6, 2000 02:47#CCAFS SLC-36A#Atlas IIAS#GSO#Quasar#Communications#Active#-#
+L-11#Onyx/Vega#USA-152#August 17, 2000 23:45#VAFB SLC-4E#Titan IVB#LEO#Lacrosse#Radar imaging#Active#-#
+L-12#Aquila#USA-162#October 11, 2001 02:32#CCAFS SLC-36B#Atlas IIAS#GSO#Quasar#Communications#Active##
+L-13#Gemini#USA-160#September 8, 2001 15:25#VAFB SLC-3E#Atlas IIAS#LEO#Intruder#Naval reconnaissance#Active##Two satellites
+L-14##USA-161#October 5, 2001 21:21#VAFB SLC-4E#Titan IVB#LEO#KH-11#Optical reconnaissance#Active##
+L-15##USA-237#June 29, 2012 13:15#CCAFS SLC-37B#Delta IV Heavy (first RS-68A upgrade)#GSO#Mentor*#ELINT#Active##* - or follow-on
+L-16#Prometheus#USA-182#April 30, 2005 00:50#CCAFS SLC-40#Titan IVB#LEO#Lacrosse#Radar imaging#Active#-#
+L-17#GeoLITE#USA-158#May 18, 2001 17:45#CCAFS SLC-17B#Delta II 7925-9.5#GSO#GeoLITE#Technology demonstration#Active##
+l-66#Libra#USA-173#December 2, 2003 10:04#VAFB SLC-3E#Atlas IIAS#LEO#Intruder#Naval reconnaissance#Active##Two satellites
+L-19#Homer#USA-171#September 9, 2003 04:29#CCAFS SLC-40#Titan IVB/Centaur#GSO#Orion#ELINT#Active#-#
+L-20##USA-186#October 19, 2005 18:05#VAFB SLC-4E#Titan IVB#LEO#KH-11#Optical imaging#Active#-#Last launch of a Titan rocket.
+L-21##USA-193#December 14, 2006 21:00#VAFB SLC-2W#Delta II 7920-10#LEO#Unknown#Unknown#Failed#-#Failed immediately after launch. Destroyed by ASAT on 2008-02-21.
+L-22##USA-184#June 28, 2006 03:33#VAFB SLC-6#Delta IV M+(4,2)#Molniya#Improved Trumpet#ELINT#Active#-#
+L-23#Canis Minor#USA-181#February 3, 2005 07:41#CCAFS SLC-36B#Atlas IIIB#LEO#Intruder#Naval reconnaissance#Active#-#Two satellites
+L-24#Scorpius#USA-198#December 10, 2007 22:05#CCAFS SLC-41#Atlas V 401#Molniya#Quasar#Communications#Active#-#
+L-25#Altair#USA-234#April 3, 2012 23:12#VAFB SLC-6#Delta IV M+(5,2)#Retrograde LEO#Topaz#Radar imaging#Active#-#
+L-26##USA-202#January 18, 2009 02:47#CCAFS SLC-37B#Delta IV Heavy#GSO#Orion#ELINT#Active#-#
+L-27#Gryphon#USA-227#March 11, 2011 23:38#CCAFS SLC-37B#Delta IV M+(4,2)#GSO#Quasar#Communications#Active#-#
+L-28##USA-200#March 13, 2008 10:02#VAFB SLC-3E#Atlas V 411#Molniya#Improved Trumpet#ELINT#Active#-#
+L-29##N/A##VAFB SLC-3E#Atlas V 521####Cancelled##
+L-30#Pyxis#USA-194#June 15, 2007 15:12#CCAFS SLC-41#Atlas V 401#LEO#Intruder#Naval reconnaissance#Active#-#Two satellites Premature 2nd stage cutoff during launch. Lifetime reduced by need to correct orbit
+L-32##USA-223#November 21, 2010 22:58#CCAFS SLC-37B#Delta IV Heavy#GSO#Orion#ELINT#Operational#-#
+L-33##USA-252#May 22, 2014 13:09#CCAFS SLC-41#Atlas V 401#GSO#Quasar#Communications#Active#-#
+L-34#Odin#USA-229#April 15, 2011 04:24#VAFB SLC-3E#Atlas V 411#LEO#Intruder#Naval SIGINT#Operational#-#Two satellites
+L-35##USA-259#December 13, 2014 03:19#VAFB SLC-3E#Atlas V 541#Molniya#Trumpet (third generation)#ELINT#Active#-#First flight of the RL10C-1 rocket engine, used by the Centaur upper stage
+L-36##USA-238#September 13, 2012 21:39#VAFB SLC-3E#Atlas V 401#LEO#Intruder#SIGINT#Launched#-#Two satellites sharing a designation
+L-37##USA-268#June 11, 2016 17:51#CCAFS SLC-37B#Delta IV Heavy#GSO#Orion#SIGINT#Launched#"Mission patch for NROL-37 ""The NROL37 mission patch depicts a knight, a symbol of courage with a chivalrous code of conduct representing bravery, training, and service to others."#Likely the seventh so called Mentor/Orion satellite for the National Security Agency.
+L-38#Drake#USA-236#June 20, 2012 12:28#CCAFS SLC-41#Atlas V 401#GSO#Quasar#Communications#Active#-#
+L-39##USA-247#December 6, 2013 07:14#VAFB SLC-3E#Atlas V 501#LEO#Topaz#Radar imaging#Active#"Mission ""patch"" of NROL-39: an octopus grabbing the earth's globe, labeled ""Nothing is beyond our reach"""#
+L-41#Gladys#USA-215#September 21, 2010 04:03#VAFB SLC-3E#Atlas V 501#LEO (retrograde) 1058 x 1072 km#Topaz#Radar imaging#Operational#-#
+L-42##USA-278#September 24, 2017 05:49:47#VAFB SLC-3E#Atlas V 541#Molniya#Trumpet (third generation)#ELINT#Launched#-#
+L-44##TBD#2019#CCAFS SLC-37B#Delta IV Heavy#GSO#Orion#SIGINT#Awaiting launch##
+L-45##USA-267#February 10, 2016 11:40#VAFB SLC-6#Delta IV M+(5,2)#LEO (retrograde) 1084 x 1086 km x 123 deg#Topaz#Radar imaging#Launched#-#
+L-47##USA-281#January 12, 2018 22:11#VAFB SLC-6#Delta IV M+(5,2)#LEO (retrograde)#Topaz#Radar imaging#Launched#-#
+L-49#Betty#USA-224#January 20, 2011 21:10#VAFB SLC-6#Delta IV Heavy#LEO 239 x 1005 km#KH-11#Optical imaging#Operational#-#
+L-52##USA-279#October 15, 2017 07:28#CCAFS SLC-41#Atlas V 421#GSO#Quasar 21#Communications#Launched##
+L-55##USA-264#October 8, 2015 12:49#VAFB SLC-3E#Atlas V 401#LEO 1000 x 1200 km x 63.4°#Intruder#Naval SIGINT ELINT#Launched#"Mission ""patch"" of NROL-55: a weapon smith (Hephaestus) is forging a sword. ""SUSTENTANTES BELLATORES DE CÆLIS"" means something like ""In sustained support for the warriors, from the sky/or heaven"""#Two classified satellites (NROL-55) and 13 cubesats.
+L-61#Spike#USA-269#July 28, 2016 12:37#CCAFS SLC-41#Atlas V 421#GSO#Quasar 20#Communications#Launched#The NROL-61 logo/mission patch depicts a green lizard, Spike, riding an Atlas 5 launch vehicle. The stars represents the teams from various agencies who contributed to the project.#
+L-65##USA-245#August 28, 2013 18:03#VAFB SLC-6#Delta IV Heavy#LEO#KH-11#Optical imaging#Launched##
+L-18##USA-225#February 6, 2011 12:26#VAFB SLC-8#Minotaur I#LEO#RPP#Technology#Operational#-#
+L-67##USA-250#April 10, 2014 17:45#CCAFS SLC-41#Atlas V 541####Launched##
+L-68##TBD#2020#CCAFS SLC-37B#Delta IV Heavy####Awaiting launch##
+L-70##TBD#2022#CCAFS SLC-37B#Delta IV Heavy####Awaiting launch##
+L-71##USA-290#January 19, 2019 19:05#VAFB SLC-6#Delta IV Heavy#LEO#KH-11#Optical imaging#Launched#-#
+L-76##USA-276#May 1, 2017 11:15#Kennedy LC-39A#Falcon 9 Full Thrust#LEO###Launched#-#
+L-79##USA-274#March 1, 2017 17:50#VAFB SLC-3E#Atlas V 401#LEO#Intruder 8#Naval reconnaissance#Launched#-#Two classified satellites sharing a designation
+L-82##TBD#July 2020#VAFB SLC-6#Delta IV Heavy###Electro-optical surveillance#Awaiting launch##
+L-85##TBD#Q3, 2021#CCAFS#Falcon 9 Full Thrust#LEO 63°#Intruder#Naval reconnaissance#Awaiting launch##
+L-87##TBD#Q2, 2021#VAFB#Falcon 9 Full Thrust#SSO###Awaiting launch##
+L-91##TBD#2023#VAFB SLC-6#Delta IV Heavy####Awaiting launch##
+L-101##TBD#2019#CCAFS SLC-41#Atlas V 551####Awaiting launch##
+L-107##TBD#Q4, 2021#CCAFS SLC-41#Atlas V#GSO 42464 x 41864km x 0°#Silent Barker#Situational Awareness#Awaiting launch##
+L-111##TBD#March 2019#Wallops Flight Facility#Minotaur I###Technology#Awaiting Launch##
+L-129##TBD#September 2019#Wallops Flight Facility#Minotaur IV / Orion 38####Awaiting Launch##
+Launch Designation#Launch Name#Satellite Designation#Launch Date/Time (GMT)#Launch Site#Rocket#Orbit#Project#Function#Status#Patch#Remarks

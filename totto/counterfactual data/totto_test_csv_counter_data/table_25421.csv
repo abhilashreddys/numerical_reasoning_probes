@@ -1,0 +1,30 @@
+Name#Command/ Response#Description#Info#C-Field Format#C-Field Format#C-Field Format#C-Field Format#C-Field Format#C-Field Format#C-Field Format#C-Field Format
+Name#Command/ Response#Description#Info#7#6#5#4#3#2#1#0
+Set normal response mode SNRM#C#Set mode#Use 3 bit sequence number#1#0#0#P#0#0#1#1
+set mode sm#C#Set mode; extended#Use 7 bit sequence number#1#1#0#P#1#1#1#1
+Set asynchronous response mode SARM#C#Set mode#Use 3 bit sequence number#0#0#0#P#1#1#1#1
+SARM extended SARME#C#Set mode; extended#Use 7 bit sequence number#0#1#0#P#1#1#1#1
+Set asynchronous balanced mode SABM#C#Set mode#Use 3 bit sequence number#0#0#1#P#1#1#1#1
+SABM extended SABME#C#Set mode; extended#Use 7 bit sequence number#1#1#0#P#1#1#1#1
+SNRM extended SNRME#C#Set mode, generic#New in ISO 13239#0#1#1#P#0#0#1#1
+Set initialization mode SIM#C#Initialize link control function in the addressed station#Initialize link control function in the addressed station#0#0#0#P#0#1#1#1
+Request initialization mode RIM#R#Initialization needed#Request for SIM command#0#0#0#F#0#1#1#1
+Disconnect DISC#C#Terminate logical link connection#Future I and S frames return DM#0#1#0#P#0#0#1#1
+Request disconnect RD#R#Solicitation for DISC Command##0#1#0#F#0#0#1#1
+Unnumbered acknowledgment UA#R#Acknowledge acceptance of one of the set-mode commands.#Acknowledge acceptance of one of the set-mode commands.#0#1#1#F#0#0#1#1
+Disconnect mode DM#R#Responder in disconnected mode#Mode set required#0#0#0#F#1#1#1#1
+Unnumbered information UI#C/R#Unacknowledged data#Has a payload#0#0#0#P/F#0#0#1#1
+UI with header check UIH#C/R#Unacknowledged data#New in ISO 13239#0#0#0#P/F#0#0#1#1
+Unnumbered poll UP#C#Used to solicit control information#Used to solicit control information#0#0#1#P#0#0#1#1
+Reset RSET#C#Used for recovery#Resets N(R) but not N(S)#1#0#0#P#1#1#1#1
+Exchange identification XID#C/R#Used to Request/Report capabilities#Used to Request/Report capabilities#1#0#1#P/F#1#1#1#1
+Test TEST#C/R#Exchange identical information fields for testing#Exchange identical information fields for testing#1#1#1#P/F#0#0#1#1
+Frame reject FRMR#R#Report receipt of unacceptable frame#Report receipt of unacceptable frame#1#0#0#F#0#1#1#1
+Nonreserved 0 NR0#C/R#Not standardized#For application use#0#0#0#P/F#1#0#1#1
+Nonreserved 1 NR1#C/R#Not standardized#For application use#1#0#0#P/F#1#0#1#1
+Nonreserved 2 NR2#C/R#Not standardized#For application use#0#1#0#P/F#1#0#1#1
+Nonreserved 3 NR3#C/R#Not standardized#For application use#1#1#0#P/F#1#0#1#1
+Ack connectionless, seq 0 AC0#C/R#Not part of HDLC#IEEE 802.2 LLC extension#0#1#1#P/F#0#1#1#1
+Ack connectionless, seq 1 AC1#C/R#Not part of HDLC#IEEE 802.2 LLC extension#1#1#1#P/F#0#1#1#1
+Configure for test CFGR#C/R#Not part of HDLC#Was part of SDLC#1#1#0#P/F#0#1#1#1
+Beacon BCN#R#Not part of HDLC#Was part of SDLC#1#1#1#F#1#1#1#1

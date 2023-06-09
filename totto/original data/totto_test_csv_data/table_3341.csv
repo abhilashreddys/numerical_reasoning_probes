@@ -1,0 +1,3 @@
+Model number#CPU ISA#fab#CPU#Embedded memory#Cellular#IO#Released
+MT2625#Armv7E-M#?#single-core 104 MHz Cortex-M with FPU#4MB PSRAM + 4MB NOR#NB-IoT R14#I2C, I2S, PCM, SDIO, UART, SPI#June 2017
+MT2621#ARMv7#?#260 MHz single-core#160KB SYSRAM + 4MB SIPRAM#NB-IoT R14 + GSM/GPRS#LCM, camera and audio AMP Bluetooth 4.2#November 2017

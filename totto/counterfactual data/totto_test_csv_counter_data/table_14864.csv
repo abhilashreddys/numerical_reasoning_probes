@@ -1,0 +1,15 @@
+Attribute#Specification
+Processor#Motorola 68EC030 or 68040 at 25 MHz
+Bus speed#25 MHz
+RAM#"2-18 MB on board (2 MB ""chip"" RAM and up to 16 MB additional RAM); Upgradable by further 128 MB via the CPU slot and 512 MB per Zorro III slot"
+ROM#analog rgb video out (db-23m) audio out (2 × rca) keyboard (6 pin mini-din) 2 × mouse/gamepad ports (de9) rs-232 serial port (db-25m) centronics style parallel port (db-25f) floppy disk drive port (db-23f) internal buffered ata controller (40-pin)
+Chipset#Advanced Graphics Architecture (AGA)
+Video#24-bit color palette (16.8 Million colors) Up to 256 on-screen colors in indexed mode 262,144 on-screen colors in HAM-8 mode Resolutions from: 320×200 to 1280×400i (NTSC) 320×256 to 1280×512i (PAL) 640×480 (VGA), 800×600i, 1024×768i Horizontal scan rates of 15.60-31.44 kHz Vertical scan rates of 50–72 Hz
+Audio#4 × 8-bit PCM channels (2 stereo channels) 28–56 kHz maximum DMA sampling rate (dependent on video mode in use)
+Internal storage#"120 MB 3.5"" IDE hard disk drive (upgradable)"
+Removable storage#"3.5"" HD floppy disk drive (1.76 MB capacity)"
+Input/output ports#512 kB Kickstart ROM
+Expansion slots#4 × 100pin 32-bit Zorro III slots 1 × AGA video slot (inline with Zorro slot) 3 × 16-bit ISA slots (requires bridgeboard to activate) 1 × 200-pin CPU expansion slot 4 or 5 × 72-pin SIMM slots
+Operating system#AmigaOS 3.0 (Kickstart 3.0/Workbench 3.0)
+Physical dimensions#"W × H × D: 15 × 5 × 15​1⁄4"" (380 × 125 × 395 mm)"
+Other#"2 × front accessible 3.5"" drive bays 1 × front accessible 5.25"" drive bay 2 × internal 3.5"" drive mountings Key lock (disables mouse and keyboard)"
