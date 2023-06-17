@@ -1,5 +1,5 @@
-{
-  "16": {
+[
+  {
     "question": "Some friends discussed the sizes of their coin collections. What is the mean of the numbers?",
     "choices": null,
     "answer": "84",
@@ -30,7 +30,7 @@
     },
     "row_num": 9,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n76, 94, 86, 84, 80, 83, 82, 87\n\nFirst, count how many numbers are in the group.\n\nThere are 8 numbers.\n\nNow add all the numbers together:\n\n76 + 94 + 86 + 84 + 80 + 83 + 82 + 87 = 672\n\nNow divide the sum by the number of numbers:\n\n672 ÷ 8 = 84\n\nThe mean is 84.",
+    "solution": "Read the numbers from the table.\n\n76, 94, 86, 84, 80, 83, 82, 87\n\nFirst, count how many numbers are in the group.\n\nThere are 8 numbers.\n\nNow add all the numbers together:\n\n76 + 94 + 86 + 84 + 80 + 83 + 82 + 87 = 672\n\nNow divide the sum by the number of numbers:\n\n672 Ã· 8 = 84\n\nThe mean is 84.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 5,
@@ -39,12 +39,11 @@
       "Some friends discussed the sizes of their coin collections. The mean of the numbers is 84.",
       "Some friends discussed the sizes of their coin collections. The mean of the numbers is 88."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "16",
+    "gold_label": "Entailment"
   },
-  "462": {
+  {
     "question": "Brenda purchased 1.1 pounds of coarse gravel. What was the total cost?",
     "choices": null,
     "answer": "3.30",
@@ -71,7 +70,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Find the cost of the coarse gravel. Multiply the price per pound by the number of pounds.\n$3 × 1.1 = $3.30\nThe total cost was $3.30.",
+    "solution": "Find the cost of the coarse gravel. Multiply the price per pound by the number of pounds.\n$3 Ã— 1.1 = $3.30\nThe total cost was $3.30.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 6,
@@ -80,12 +79,11 @@
       "Brenda purchased 1.1 pounds of coarse gravel for 3.30 $.",
       "Brenda purchased 1.1 pounds of coarse gravel for 3.462 $."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "462",
+    "gold_label": "Entailment"
   },
-  "604": {
+  {
     "question": "How much money does Philip need to buy 6 teapots and 2 casserole dishes?",
     "choices": null,
     "answer": "268",
@@ -110,7 +108,7 @@
     },
     "row_num": 5,
     "column_num": 2,
-    "solution": "Find the cost of 6 teapots.\n\n$38 × 6 = $228\n\nFind the cost of 2 casserole dishes.\n\n$20 × 2 = $40\n\nNow find the total cost.\n\n$228 + $40 = $268\n\nPhilip needs $268.",
+    "solution": "Find the cost of 6 teapots.\n\n$38 Ã— 6 = $228\n\nFind the cost of 2 casserole dishes.\n\n$20 Ã— 2 = $40\n\nNow find the total cost.\n\n$228 + $40 = $268\n\nPhilip needs $268.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 7,
@@ -119,12 +117,11 @@
       "Philip needs 268 $ to buy 6 teapots and 2 casserole dishes.",
       "Philip needs 263 $ to buy 6 teapots and 2 casserole dishes."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "604",
+    "gold_label": "Entailment"
   },
-  "681": {
+  {
     "question": "How much money does Madelyn need to buy 9 shell necklaces?",
     "choices": null,
     "answer": "3.87",
@@ -149,7 +146,7 @@
     },
     "row_num": 5,
     "column_num": 2,
-    "solution": "Find the total cost of 9 shell necklaces by multiplying 9 times the price of a shell necklace.\n\n$0.43 × 9 = $3.87\n\nMadelyn needs $3.87.",
+    "solution": "Find the total cost of 9 shell necklaces by multiplying 9 times the price of a shell necklace.\n\n$0.43 Ã— 9 = $3.87\n\nMadelyn needs $3.87.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 8,
@@ -158,12 +155,11 @@
       "Madelyn needs 3.87 $ to buy 9 shell necklaces.",
       "Madelyn needs 3.7888 $ to buy 9 shell necklaces."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "681",
+    "gold_label": "Entailment"
   },
-  "759": {
+  {
     "question": "Each bag has 5 silver buttons. How many silver buttons are in 4 bags?",
     "choices": null,
     "answer": "20",
@@ -195,12 +191,11 @@
       "Each bag has 5 silver buttons. There are 20 silver buttons in 4 bags.",
       "Each bag has 5 silver buttons. There are 19 silver buttons in 4 bags."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "759",
+    "gold_label": "Entailment"
   },
-  "1117": {
+  {
     "question": "Each bush has 2 flowers. How many flowers are on 4 bushes?",
     "choices": null,
     "answer": "8",
@@ -232,12 +227,11 @@
       "Each bush has 2 flowers. There are 8 flowers on 4 bushes.",
       "Each bush has 2 flowers. There are 9 flowers on 4 bushes."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "1117",
+    "gold_label": "Entailment"
   },
-  "1198": {
+  {
     "question": "A machine at the candy factory dispensed different numbers of lemon-flavored candies into various bags. What is the largest number of lemon-flavored candies?",
     "choices": null,
     "answer": "90",
@@ -281,12 +275,11 @@
       "A machine at the candy factory dispensed 90 lemon-flavored candies into various bags",
       "A machine at the candy factory dispensed 82 lemon-flavored candies into various bags"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "1198",
+    "gold_label": "Entailment"
   },
-  "1206": {
+  {
     "question": "How much more does an orchestra ticket cost than a basketball ticket?",
     "choices": null,
     "answer": "11.17",
@@ -318,12 +311,11 @@
       "An orchestra ticket costs 11.17 $ more than a basketball ticket.",
       "An orchestra ticket costs 10.5814 $ more than a basketball ticket."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "1206",
+    "gold_label": "Entailment"
   },
-  "1288": {
+  {
     "question": "Some students compared how many pets they have. What is the mean of the numbers?",
     "choices": null,
     "answer": "5",
@@ -348,7 +340,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n1, 7, 4, 4, 9\n\nFirst, count how many numbers are in the group.\n\nThere are 5 numbers.\n\nNow add all the numbers together:\n\n1 + 7 + 4 + 4 + 9 = 25\n\nNow divide the sum by the number of numbers:\n\n25 ÷ 5 = 5\n\nThe mean is 5.",
+    "solution": "Read the numbers from the table.\n\n1, 7, 4, 4, 9\n\nFirst, count how many numbers are in the group.\n\nThere are 5 numbers.\n\nNow add all the numbers together:\n\n1 + 7 + 4 + 4 + 9 = 25\n\nNow divide the sum by the number of numbers:\n\n25 Ã· 5 = 5\n\nThe mean is 5.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 5,
@@ -357,12 +349,11 @@
       "Some students compared how many pets they have. The mean of the numbers is 5.",
       "Some students compared how many pets they have. The mean of the numbers is 6."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "1288",
+    "gold_label": "Entailment"
   },
-  "1476": {
+  {
     "question": "How much money does Jamal need to buy 6 blue sweaters?",
     "choices": null,
     "answer": "32.28",
@@ -385,7 +376,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the total cost of 6 blue sweaters by multiplying 6 times the price of a blue sweater.\n\n$5.38 × 6 = $32.28\n\nJamal needs $32.28.",
+    "solution": "Find the total cost of 6 blue sweaters by multiplying 6 times the price of a blue sweater.\n\n$5.38 Ã— 6 = $32.28\n\nJamal needs $32.28.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 8,
@@ -394,12 +385,11 @@
       "Jamal needs 32.28 $ to buy 6 blue sweaters.",
       "Jamal needs 30.5635 $ to buy 6 blue sweaters."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "1476",
+    "gold_label": "Entailment"
   },
-  "1566": {
+  {
     "question": "Some students compared how many blocks they live from school. What is the mean of the numbers?",
     "choices": null,
     "answer": "7",
@@ -430,7 +420,7 @@
     },
     "row_num": 9,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n10, 5, 10, 7, 7, 6, 8, 3\n\nFirst, count how many numbers are in the group.\n\nThere are 8 numbers.\n\nNow add all the numbers together:\n\n10 + 5 + 10 + 7 + 7 + 6 + 8 + 3 = 56\n\nNow divide the sum by the number of numbers:\n\n56 ÷ 8 = 7\n\nThe mean is 7.",
+    "solution": "Read the numbers from the table.\n\n10, 5, 10, 7, 7, 6, 8, 3\n\nFirst, count how many numbers are in the group.\n\nThere are 8 numbers.\n\nNow add all the numbers together:\n\n10 + 5 + 10 + 7 + 7 + 6 + 8 + 3 = 56\n\nNow divide the sum by the number of numbers:\n\n56 Ã· 8 = 7\n\nThe mean is 7.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 8,
@@ -439,12 +429,11 @@
       "Some students compared how many blocks they live from school. The mean of the numbers is 7",
       "Some students compared how many blocks they live from school. The mean of the numbers is 8"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "1566",
+    "gold_label": "Entailment"
   },
-  "2099": {
+  {
     "question": "Some students compared how many clubs they belong to. What is the mode of the numbers?",
     "choices": null,
     "answer": "5",
@@ -484,12 +473,11 @@
       "Some students compared how many clubs they belong to. The mode of the numbers is 5.",
       "Some students compared how many clubs they belong to. The mode of the numbers is 6."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "2099",
+    "gold_label": "Entailment"
   },
-  "2139": {
+  {
     "question": "Some students compared how many clubs they belong to. What is the mode of the numbers?",
     "choices": null,
     "answer": "3",
@@ -529,12 +517,11 @@
       "Some students compared how many clubs they belong to. The mode of the numbers is 3.",
       "Some students compared how many clubs they belong to. The mode of the numbers is 4."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "2139",
+    "gold_label": "Entailment"
   },
-  "2365": {
+  {
     "question": "How much money does Trudy need to buy 7 pieces of bubble wrap?",
     "choices": null,
     "answer": "4.90",
@@ -561,7 +548,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Find the total cost of 7 pieces of bubble wrap by multiplying 7 times the price of a piece of bubble wrap.\n\n$0.70 × 7 = $4.90\n\nTrudy needs $4.90.",
+    "solution": "Find the total cost of 7 pieces of bubble wrap by multiplying 7 times the price of a piece of bubble wrap.\n\n$0.70 Ã— 7 = $4.90\n\nTrudy needs $4.90.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 7,
@@ -570,12 +557,11 @@
       "Trudy needs 4.90 $ to buy 7 pieces of bubble wrap.",
       "Trudy needs 5.2466 $ to buy 7 pieces of bubble wrap."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "2365",
+    "gold_label": "Entailment"
   },
-  "2643": {
+  {
     "question": "How much more does an airplane calendar cost than a map of Africa?",
     "choices": null,
     "answer": "3.13",
@@ -611,12 +597,11 @@
       "An airplane calendar costs 3.13 $ more than a map of Africa.",
       "An airplane calendar costs 2.8528 $ more than a map of Africa."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "2643",
+    "gold_label": "Entailment"
   },
-  "2900": {
+  {
     "question": "Colleen bought 3 pounds of mung beans. How much did she spend?",
     "choices": null,
     "answer": "4.35",
@@ -641,7 +626,7 @@
     },
     "row_num": 5,
     "column_num": 2,
-    "solution": "Find the cost of the mung beans. Multiply the price per pound by the number of pounds.\n\n$1.45 × 3 = $4.35\n\nShe spent $4.35.",
+    "solution": "Find the cost of the mung beans. Multiply the price per pound by the number of pounds.\n\n$1.45 Ã— 3 = $4.35\n\nShe spent $4.35.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 8,
@@ -650,12 +635,11 @@
       "Colleen spent 4.35 $ on 3 pounds of mung beans.",
       "Colleen spent 4.4615 $ on 3 pounds of mung beans."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "2900",
+    "gold_label": "Entailment"
   },
-  "3527": {
+  {
     "question": "How much money does Rhianna need to buy a hedgehog and a finch?",
     "choices": null,
     "answer": "109.53",
@@ -691,12 +675,11 @@
       "Rhianna needs 109.53 $ to buy a hedgehog and a fin",
       "Rhianna needs 114.9238 $ to buy a hedgehog and a fin"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "3527",
+    "gold_label": "Entailment"
   },
-  "3933": {
+  {
     "question": "Mark buys 0.6 pounds of milk chocolate chips. What is the total cost?",
     "choices": null,
     "answer": "3.60",
@@ -719,7 +702,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the cost of the milk chocolate chips. Multiply the price per pound by the number of pounds.\n$6 × 0.6 = $3.60\nThe total cost is $3.60.",
+    "solution": "Find the cost of the milk chocolate chips. Multiply the price per pound by the number of pounds.\n$6 Ã— 0.6 = $3.60\nThe total cost is $3.60.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 6,
@@ -728,12 +711,11 @@
       "Mark buys 0.6 pounds of milk chocolate chips. The total cost is 3.60 $ ",
       "Mark buys 0.6 pounds of milk chocolate chips. The total cost is 3.8277 $ "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "3933",
+    "gold_label": "Entailment"
   },
-  "3943": {
+  {
     "question": "Tucker bought 1 kilogram of coarse gravel and 3 kilograms of white sand. How much did he spend?",
     "choices": null,
     "answer": "8.04",
@@ -758,7 +740,7 @@
     },
     "row_num": 5,
     "column_num": 2,
-    "solution": "Find the cost of the coarse gravel. Multiply:\n\n$1.62 × 1 = $1.62\n\nFind the cost of the white sand. Multiply:\n\n$2.14 × 3 = $6.42\n\nNow find the total cost by adding:\n\n$1.62 + $6.42 = $8.04\n\nHe spent $8.04.",
+    "solution": "Find the cost of the coarse gravel. Multiply:\n\n$1.62 Ã— 1 = $1.62\n\nFind the cost of the white sand. Multiply:\n\n$2.14 Ã— 3 = $6.42\n\nNow find the total cost by adding:\n\n$1.62 + $6.42 = $8.04\n\nHe spent $8.04.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 7,
@@ -767,12 +749,11 @@
       "Tucker spent 8.04 $ on 1 kilogram of coarse gravel and 3 kilograms of white s",
       "Tucker spent 8.7762 $ on 1 kilogram of coarse gravel and 3 kilograms of white s"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "3943",
+    "gold_label": "Entailment"
   },
-  "3956": {
+  {
     "question": "Miss Lawrence ran a sit-up competition among her P.E. students and monitored how many sit-ups each students could do. How many people did at least 30 sit-ups but fewer than 90 sit-ups?",
     "choices": null,
     "answer": "22",
@@ -810,12 +791,11 @@
       "22 people did at least 30 sit-ups but fewer than 90 sit-ups",
       "24 people did at least 30 sit-ups but fewer than 90 sit-ups"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "3956",
+    "gold_label": "Entailment"
   },
-  "4740": {
+  {
     "question": "How much money does Sasha need to buy a gold tack and an elastic band?",
     "choices": null,
     "answer": "0.08",
@@ -849,12 +829,11 @@
       "Sasha needs 0.08 $ to buy a gold tack and an elastic band",
       "Sasha needs 0.0851 $ to buy a gold tack and an elastic band"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "4740",
+    "gold_label": "Entailment"
   },
-  "4986": {
+  {
     "question": "Each apartment has 10 light switches. How many light switches are in 5 apartments?",
     "choices": null,
     "answer": "50",
@@ -888,12 +867,11 @@
       "Each apartment has 10 light switches. There are 50 light switches in 5 apartments.",
       "Each apartment has 10 light switches. There are 54 light switches in 5 apartments."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "4986",
+    "gold_label": "Entailment"
   },
-  "5054": {
+  {
     "question": "Gabe went to the store. He bought 1 kilogram of raisins. How much did he spend?",
     "choices": null,
     "answer": "2.91",
@@ -920,7 +898,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Find the cost of the raisins. Multiply the price per kilogram by the number of kilograms.\n\n$2.91 × 1 = $2.91\n\nHe spent $2.91.",
+    "solution": "Find the cost of the raisins. Multiply the price per kilogram by the number of kilograms.\n\n$2.91 Ã— 1 = $2.91\n\nHe spent $2.91.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 8,
@@ -929,12 +907,11 @@
       "Gabe went to the store. He bought 1 kilogram of raisins. He spent 2.91 $",
       "Gabe went to the store. He bought 1 kilogram of raisins. He spent 2.94 $"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5054",
+    "gold_label": "Entailment"
   },
-  "5181": {
+  {
     "question": "The Hillsboro Tourism Office researched how often people played miniature golf last summer. How many people are there in all?",
     "choices": null,
     "answer": "46",
@@ -968,12 +945,11 @@
       "The Hillsboro Tourism Office researched how often people played miniature golf last summer. There are 46 people",
       "The Hillsboro Tourism Office researched how often people played miniature golf last summer. There are 44 people"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5181",
+    "gold_label": "Entailment"
   },
-  "5205": {
+  {
     "question": "Each fish bowl has 10 fish. How many fish are in 5 fish bowls?",
     "choices": null,
     "answer": "50",
@@ -1007,12 +983,11 @@
       "Each fish bowl has 10 fish. There are 50 fish in 5 fish bowls.",
       "Each fish bowl has 10 fish. There are 49 fish in 5 fish bowls."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5205",
+    "gold_label": "Entailment"
   },
-  "5228": {
+  {
     "question": "How much money does Edward need to buy 2 navy blue bath mats?",
     "choices": null,
     "answer": "30",
@@ -1039,7 +1014,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Find the total cost of 2 navy blue bath mats by multiplying 2 times the price of a navy blue bath mat.\n\n$15.00 × 2 = $30.00\n\nEdward needs $30.00.",
+    "solution": "Find the total cost of 2 navy blue bath mats by multiplying 2 times the price of a navy blue bath mat.\n\n$15.00 Ã— 2 = $30.00\n\nEdward needs $30.00.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 7,
@@ -1048,12 +1023,11 @@
       "Edward needs 30 $ to buy 2 navy blue bath mats.",
       "Edward needs 29 $ to buy 2 navy blue bath mats."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5228",
+    "gold_label": "Entailment"
   },
-  "5343": {
+  {
     "question": "This is Duncan's complete financial record for July. On July 5, how much money did Duncan make?",
     "choices": null,
     "answer": "15",
@@ -1103,12 +1077,11 @@
       "Duncan made 15 $ on July 5.",
       "Duncan made 17 $ on July 5."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5343",
+    "gold_label": "Entailment"
   },
-  "5525": {
+  {
     "question": "Each bag has 10 yellow buttons. How many yellow buttons are in 3 bags?",
     "choices": null,
     "answer": "30",
@@ -1138,12 +1111,11 @@
       "Each bag has 10 yellow buttons. There are 30 yellow buttons in 3 bags.",
       "Each bag has 10 yellow buttons. There are 32 yellow buttons in 3 bags."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5525",
+    "gold_label": "Entailment"
   },
-  "5539": {
+  {
     "question": "Each bag has 5 yellow buttons. How many yellow buttons are in 3 bags?",
     "choices": null,
     "answer": "15",
@@ -1173,12 +1145,11 @@
       "Each bag has 5 yellow buttons. There are 15 yellow buttons in 3 bags.",
       "Each bag has 5 yellow buttons. There are 17 yellow buttons in 3 bags."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5539",
+    "gold_label": "Entailment"
   },
-  "5583": {
+  {
     "question": "Henry went to the store and bought 3.7 pounds of salmon. How much did he spend?",
     "choices": null,
     "answer": "14.80",
@@ -1205,7 +1176,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Find the cost of the salmon. Multiply the price per pound by the number of pounds.\n$4 × 3.7 = $14.80\nHe spent $14.80.",
+    "solution": "Find the cost of the salmon. Multiply the price per pound by the number of pounds.\n$4 Ã— 3.7 = $14.80\nHe spent $14.80.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 6,
@@ -1214,12 +1185,11 @@
       "Henry went to the store and bought 3.7 pounds of salmon. He spent 14.80 $ ",
       "Henry went to the store and bought 3.7 pounds of salmon. He spent 15.1059 $ "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5583",
+    "gold_label": "Entailment"
   },
-  "5722": {
+  {
     "question": "How much more does a fleece blanket cost than a beach blanket?",
     "choices": null,
     "answer": "0.56",
@@ -1255,12 +1225,11 @@
       "A fleece blanket costs 0.56 $ more than a beach blanket.",
       "A fleece blanket costs 0.5171 $ more than a beach blanket."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5722",
+    "gold_label": "Entailment"
   },
-  "6051": {
+  {
     "question": "How much more does a navy blue bath mat cost than a green kitchen towel?",
     "choices": null,
     "answer": "4.58",
@@ -1294,12 +1263,11 @@
       "A navy blue bath mat costs 4.58 $ more than a green kitchen towel.",
       "A navy blue bath mat costs 4.7917 $ more than a green kitchen towel."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "6051",
+    "gold_label": "Entailment"
   },
-  "6149": {
+  {
     "question": "How much money does Jason need to buy a set of forks and a baking dish?",
     "choices": null,
     "answer": "26.88",
@@ -1335,12 +1303,11 @@
       "Jason needs 26.88 $ to buy a set of forks and a baking",
       "Jason needs 25.5784 $ to buy a set of forks and a baking"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "6149",
+    "gold_label": "Entailment"
   },
-  "6375": {
+  {
     "question": "How much money does Vijay need to buy a piano key chain and a pumpkin key chain?",
     "choices": null,
     "answer": "1.82",
@@ -1376,12 +1343,11 @@
       "Vijay needs 1.82 $ to buy a piano key chain and a pumpkin key",
       "Vijay needs 1.9367 $ to buy a piano key chain and a pumpkin key"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "6375",
+    "gold_label": "Entailment"
   },
-  "6934": {
+  {
     "question": "What is the total cost for 3 kilograms of cheddar popcorn?",
     "choices": null,
     "answer": "4.89",
@@ -1406,7 +1372,7 @@
     },
     "row_num": 5,
     "column_num": 2,
-    "solution": "Find the cost of the cheddar popcorn. Multiply the price per kilogram by the number of kilograms.\n\n$1.63 × 3 = $4.89\n\nThe total cost is $4.89.",
+    "solution": "Find the cost of the cheddar popcorn. Multiply the price per kilogram by the number of kilograms.\n\n$1.63 Ã— 3 = $4.89\n\nThe total cost is $4.89.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 8,
@@ -1415,12 +1381,11 @@
       "The total cost for 3 kilograms of cheddar popcorn is 4.89 $.",
       "The total cost for 3 kilograms of cheddar popcorn is 4.435 $."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "6934",
+    "gold_label": "Entailment"
   },
-  "7017": {
+  {
     "question": "Every year Greenwood has a citywide relay and reports the winning times. According to the table, what was the rate of change between 2017 and 2018?",
     "choices": null,
     "answer": "3",
@@ -1454,12 +1419,11 @@
       "According to the table, the rate of change between 2017 and 2018 was 3 minutes per year ",
       "According to the table, the rate of change between 2017 and 2018 was 4 minutes per year "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "7017",
+    "gold_label": "Entailment"
   },
-  "7164": {
+  {
     "question": "Each vase has 5 poppies. How many poppies are in 3 vases?",
     "choices": null,
     "answer": "15",
@@ -1489,12 +1453,11 @@
       "Each vase has 5 poppies. There are 15 poppies in 3 vases.",
       "Each vase has 5 poppies. There are 16 poppies in 3 vases."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "7164",
+    "gold_label": "Entailment"
   },
-  "7314": {
+  {
     "question": "A Technical Assistance Manager monitored his customers' wait times. How many people waited for less than 60 minutes?",
     "choices": null,
     "answer": "7",
@@ -1536,12 +1499,11 @@
       "A Technical Assistance Manager monitored his customers' wait times. 7 people waited for less than 60",
       "A Technical Assistance Manager monitored his customers' wait times. 8 people waited for less than 60"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "7314",
+    "gold_label": "Entailment"
   },
-  "7727": {
+  {
     "question": "Gwen bought 4 pounds of sawdust and 2 pounds of bark. How much did she spend?",
     "choices": null,
     "answer": "26",
@@ -1566,7 +1528,7 @@
     },
     "row_num": 5,
     "column_num": 2,
-    "solution": "Find the cost of the sawdust. Multiply:\n\n$4 × 4 = $16\n\nFind the cost of the bark. Multiply:\n\n$5 × 2 = $10\n\nNow find the total cost by adding:\n\n$16 + $10 = $26\n\nShe spent $26.",
+    "solution": "Find the cost of the sawdust. Multiply:\n\n$4 Ã— 4 = $16\n\nFind the cost of the bark. Multiply:\n\n$5 Ã— 2 = $10\n\nNow find the total cost by adding:\n\n$16 + $10 = $26\n\nShe spent $26.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 8,
@@ -1575,12 +1537,11 @@
       "Gwen spent 26 $ on 4 pounds of sawdust and 2 pounds of bark ",
       "Gwen spent 29 $ on 4 pounds of sawdust and 2 pounds of bark "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "7727",
+    "gold_label": "Entailment"
   },
-  "7772": {
+  {
     "question": "How much money does Evelyn need to buy a piece of rose quartz and a piece of copper?",
     "choices": null,
     "answer": "0.15",
@@ -1614,12 +1575,11 @@
       "Evelyn needs 0.15 $ to buy a piece of rose quartz and a piece",
       "Evelyn needs 0.1425 $ to buy a piece of rose quartz and a piece"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "7772",
+    "gold_label": "Entailment"
   },
-  "8058": {
+  {
     "question": "How much money does Owen need to buy a jersey signed by a famous hockey player and a photograph signed by a famous movie star?",
     "choices": null,
     "answer": "89",
@@ -1653,12 +1613,11 @@
       "Owen needs 89 $ to buy a jersey signed by a famous hockey player and ",
       "Owen needs 86 $ to buy a jersey signed by a famous hockey player and "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "8058",
+    "gold_label": "Entailment"
   },
-  "8128": {
+  {
     "question": "Each sheet has 2 stamps. How many stamps are on 5 sheets?",
     "choices": null,
     "answer": "10",
@@ -1692,12 +1651,11 @@
       "Each sheet has 2 stamps. There are 10 stamps on 5 sheets.",
       "Each sheet has 2 stamps. There are 11 stamps on 5 sheets."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "8128",
+    "gold_label": "Entailment"
   },
-  "8683": {
+  {
     "question": "Annie figured out the scores at the end of a card game. How many people scored more than 5?",
     "choices": null,
     "answer": "27",
@@ -1735,12 +1693,11 @@
       "Annie figured out the scores at the end of a card game. 27 people scored more",
       "Annie figured out the scores at the end of a card game. 26 people scored more"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "8683",
+    "gold_label": "Entailment"
   },
-  "9353": {
+  {
     "question": "How much money does Jacob need to buy a gold tack and a red thumbtack?",
     "choices": null,
     "answer": "0.10",
@@ -1776,12 +1733,11 @@
       "Jacob needs 0.10 $ to buy a gold tack and a red thumbt",
       "Jacob needs 0.101 $ to buy a gold tack and a red thumbt"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "9353",
+    "gold_label": "Entailment"
   },
-  "9395": {
+  {
     "question": "How much money does Maggie need to buy 9 red thumbtacks?",
     "choices": null,
     "answer": "1.35",
@@ -1806,7 +1762,7 @@
     },
     "row_num": 5,
     "column_num": 2,
-    "solution": "Find the total cost of 9 red thumbtacks by multiplying 9 times the price of a red thumbtack.\n\n$0.15 × 9 = $1.35\n\nMaggie needs $1.35.",
+    "solution": "Find the total cost of 9 red thumbtacks by multiplying 9 times the price of a red thumbtack.\n\n$0.15 Ã— 9 = $1.35\n\nMaggie needs $1.35.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 7,
@@ -1815,12 +1771,11 @@
       "Maggie needs 1.35 $ to buy 9 red thumbtacks.",
       "Maggie needs 1.3199 $ to buy 9 red thumbtacks."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "9395",
+    "gold_label": "Entailment"
   },
-  "9567": {
+  {
     "question": "How much more does a book about South America cost than a book about hiking?",
     "choices": null,
     "answer": "1.59",
@@ -1856,12 +1811,11 @@
       "A book about South America costs 1.59 $ more than a book about hiking.",
       "A book about South America costs 1.694 $ more than a book about hiking."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "9567",
+    "gold_label": "Entailment"
   },
-  "9994": {
+  {
     "question": "Each apartment has 10 doors. How many doors are in 3 apartments?",
     "choices": null,
     "answer": "30",
@@ -1891,12 +1845,11 @@
       "Each apartment has 10 doors. There are 30 doors in 3 apartments.",
       "Each apartment has 10 doors. There are 32 doors in 3 apartments."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "9994",
+    "gold_label": "Entailment"
   },
-  "10189": {
+  {
     "question": "How much money does Nolan need to buy a piece of green slate and a piece of copper?",
     "choices": null,
     "answer": "0.14",
@@ -1932,12 +1885,11 @@
       "Nolan needs 0.14 $ to buy a piece of green slate and a piece of",
       "Nolan needs 0.1503 $ to buy a piece of green slate and a piece of"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "10189",
+    "gold_label": "Entailment"
   },
-  "10348": {
+  {
     "question": "Each bunch has 5 balloons. How many balloons are in 5 bunches?",
     "choices": null,
     "answer": "25",
@@ -1971,12 +1923,11 @@
       "Each bunch has 5 balloons. There are 25 balloons in 5 bunches.",
       "Each bunch has 5 balloons. There are 27 balloons in 5 bunches."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "10348",
+    "gold_label": "Entailment"
   },
-  "10374": {
+  {
     "question": "How much money does Jake need to buy eggplant parmesan and a grilled steak?",
     "choices": null,
     "answer": "32.50",
@@ -2010,12 +1961,11 @@
       "Jake needs 32.50 $ to buy eggplant parmesan and a grilled steak ",
       "Jake needs 35.5697 $ to buy eggplant parmesan and a grilled steak "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "10374",
+    "gold_label": "Entailment"
   },
-  "10639": {
+  {
     "question": "A farmer wrote down how many kilograms of cherries were sold in the past 5 days. What is the mode of the numbers?",
     "choices": null,
     "answer": "8",
@@ -2049,12 +1999,11 @@
       "A farmer wrote down 8 kilograms of cherries were sold in the past 5 days.",
       "A farmer wrote down 9 kilograms of cherries were sold in the past 5 days."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "10639",
+    "gold_label": "Entailment"
   },
-  "10744": {
+  {
     "question": "How much money does Jenna need to buy a lamp and a crystal vase?",
     "choices": null,
     "answer": "166.14",
@@ -2090,12 +2039,11 @@
       "Jenna needs 166.14 $ to buy a lamp and a crystal vase",
       "Jenna needs 182.5259 $ to buy a lamp and a crystal vase"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "10744",
+    "gold_label": "Entailment"
   },
-  "10755": {
+  {
     "question": "Some students compared how many pets they have. What is the mean of the numbers?",
     "choices": null,
     "answer": "5",
@@ -2124,7 +2072,7 @@
     },
     "row_num": 8,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n2, 5, 1, 1, 10, 9, 7\n\nFirst, count how many numbers are in the group.\n\nThere are 7 numbers.\n\nNow add all the numbers together:\n\n2 + 5 + 1 + 1 + 10 + 9 + 7 = 35\n\nNow divide the sum by the number of numbers:\n\n35 ÷ 7 = 5\n\nThe mean is 5.",
+    "solution": "Read the numbers from the table.\n\n2, 5, 1, 1, 10, 9, 7\n\nFirst, count how many numbers are in the group.\n\nThere are 7 numbers.\n\nNow add all the numbers together:\n\n2 + 5 + 1 + 1 + 10 + 9 + 7 = 35\n\nNow divide the sum by the number of numbers:\n\n35 Ã· 7 = 5\n\nThe mean is 5.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 8,
@@ -2133,12 +2081,11 @@
       "Some students compared how many pets they have. The mean of the numbers is 5.",
       "Some students compared how many pets they have. The mean of the numbers is 6."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "10755",
+    "gold_label": "Entailment"
   },
-  "11551": {
+  {
     "question": "How much money does Dan need to buy a grape lollipop and a caramel?",
     "choices": null,
     "answer": "0.53",
@@ -2170,12 +2117,11 @@
       "Dan needs 0.53 $ to buy a grape lollipop and a caramel ",
       "Dan needs 0.4988 $ to buy a grape lollipop and a caramel "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "11551",
+    "gold_label": "Entailment"
   },
-  "11571": {
+  {
     "question": "A food magazine published a listing of local restaurant ratings. What is the highest rating?",
     "choices": null,
     "answer": "50",
@@ -2209,12 +2155,11 @@
       "A food magazine published a listing of local restaurant ratings. The highest rating is 50 points ",
       "A food magazine published a listing of local restaurant ratings. The highest rating is 46 points "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "11571",
+    "gold_label": "Entailment"
   },
-  "11597": {
+  {
     "question": "How much more does a spool of thread cost than a tube of paste?",
     "choices": null,
     "answer": "0.20",
@@ -2248,12 +2193,11 @@
       "A spool of thread costs 0.20 $ more than a tube of paste.",
       "A spool of thread costs 0.186 $ more than a tube of paste."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "11597",
+    "gold_label": "Entailment"
   },
-  "11698": {
+  {
     "question": "How much money does Finn need to buy 2 bottles of mustard?",
     "choices": null,
     "answer": "1.60",
@@ -2280,7 +2224,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Find the total cost of 2 bottles of mustard by multiplying 2 times the price of a bottle of mustard.\n\n$0.80 × 2 = $1.60\n\nFinn needs $1.60.",
+    "solution": "Find the total cost of 2 bottles of mustard by multiplying 2 times the price of a bottle of mustard.\n\n$0.80 Ã— 2 = $1.60\n\nFinn needs $1.60.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 7,
@@ -2289,12 +2233,11 @@
       "Finn needs 1.60 $ to buy 2 bottles of mustard.",
       "Finn needs 1.6202 $ to buy 2 bottles of mustard."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "11698",
+    "gold_label": "Entailment"
   },
-  "11709": {
+  {
     "question": "If Isaiah buys 1 kilogram of romaine lettuce, how much will he spend?",
     "choices": null,
     "answer": "0.46",
@@ -2317,7 +2260,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the cost of the romaine lettuce. Multiply the price per kilogram by the number of kilograms.\n\n$0.46 × 1 = $0.46\n\nHe will spend $0.46.",
+    "solution": "Find the cost of the romaine lettuce. Multiply the price per kilogram by the number of kilograms.\n\n$0.46 Ã— 1 = $0.46\n\nHe will spend $0.46.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 7,
@@ -2326,12 +2269,11 @@
       "If Isaiah buys 1 kilogram of romaine lettuce, he will spend 0.46",
       "If Isaiah buys 1 kilogram of romaine lettuce, he will spend 0.502"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "11709",
+    "gold_label": "Entailment"
   },
-  "11988": {
+  {
     "question": "A food magazine published a listing of local restaurant ratings. What is the highest rating?",
     "choices": null,
     "answer": "50",
@@ -2365,12 +2307,11 @@
       "A food magazine published a listing of local restaurant ratings. The highest rating is 50 points ",
       "A food magazine published a listing of local restaurant ratings. The highest rating is 54 points "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "11988",
+    "gold_label": "Entailment"
   },
-  "12210": {
+  {
     "question": "How much money does Lara need to buy a red wagon and a model railroad set?",
     "choices": null,
     "answer": "130",
@@ -2404,12 +2345,11 @@
       "Lara needs 130 $ to buy a red wagon and a model railroad set.",
       "Lara needs 126 $ to buy a red wagon and a model railroad set."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "12210",
+    "gold_label": "Entailment"
   },
-  "12373": {
+  {
     "question": "How much money does Brennan need to buy a green colored pencil and a purple colored pencil?",
     "choices": null,
     "answer": "1.70",
@@ -2443,12 +2383,11 @@
       "Brennan needs 1.70 $ to buy a green colored pencil and a purple colored pencil",
       "Brennan needs 1.8108 $ to buy a green colored pencil and a purple colored pencil"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "12373",
+    "gold_label": "Entailment"
   },
-  "12567": {
+  {
     "question": "Turner buys 1 pound of shredded wheat. What is the total cost?",
     "choices": null,
     "answer": "4.74",
@@ -2471,7 +2410,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the cost of the shredded wheat. Multiply the price per pound by the number of pounds.\n\n$4.74 × 1 = $4.74\n\nThe total cost is $4.74.",
+    "solution": "Find the cost of the shredded wheat. Multiply the price per pound by the number of pounds.\n\n$4.74 Ã— 1 = $4.74\n\nThe total cost is $4.74.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 8,
@@ -2480,12 +2419,11 @@
       "Turner buys 1 pound of shredded wheat for 4.74 $.",
       "Turner buys 1 pound of shredded wheat for 4.793 $."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "12567",
+    "gold_label": "Entailment"
   },
-  "12699": {
+  {
     "question": "How much would it cost to buy 4+9/10 kilograms of heart-shaped beads?",
     "choices": null,
     "answer": "14.70",
@@ -2514,7 +2452,7 @@
     },
     "row_num": 7,
     "column_num": 2,
-    "solution": "Find the cost of the heart-shaped beads. Multiply the price per kilogram by the number of kilograms.\n$3 × 4\\frac{9}{10} = $3 × 4.9 = $14.70\nIt would cost $14.70.",
+    "solution": "Find the cost of the heart-shaped beads. Multiply the price per kilogram by the number of kilograms.\n$3 Ã— 4\\frac{9}{10} = $3 Ã— 4.9 = $14.70\nIt would cost $14.70.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 6,
@@ -2523,12 +2461,11 @@
       "It would cost 14.70 $ to buy 4+9/10 kilograms of heart-shaped beads",
       "It would cost 14.841 $ to buy 4+9/10 kilograms of heart-shaped beads"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "12699",
+    "gold_label": "Entailment"
   },
-  "12712": {
+  {
     "question": "How much money does Nate need to buy a history book and a spelling workbook?",
     "choices": null,
     "answer": "25",
@@ -2564,12 +2501,11 @@
       "Nate needs 25 $ to buy a history book and a spelling workbook.",
       "Nate needs 26 $ to buy a history book and a spelling workbook."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "12712",
+    "gold_label": "Entailment"
   },
-  "12961": {
+  {
     "question": "How much more does a pink and white striped shell cost than a polished silver top shell?",
     "choices": null,
     "answer": "0.50",
@@ -2601,12 +2537,11 @@
       "A pink and white striped shell costs 0.50 $ more than a polished silver top shell",
       "A pink and white striped shell costs 0.5123 $ more than a polished silver top shell"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "12961",
+    "gold_label": "Entailment"
   },
-  "13383": {
+  {
     "question": "How much more does a plane ticket to Tokyo cost than a plane ticket to New York City?",
     "choices": null,
     "answer": "517",
@@ -2638,12 +2573,11 @@
       "A plane ticket to Tokyo costs 517 $ more than a plane ticket to New York City",
       "A plane ticket to Tokyo costs 502 $ more than a plane ticket to New York City"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "13383",
+    "gold_label": "Entailment"
   },
-  "13529": {
+  {
     "question": "How much more does a guitar cost than a clarinet?",
     "choices": null,
     "answer": "90",
@@ -2679,12 +2613,11 @@
       "A guitar costs 90 $ more than a clarinet.",
       "A guitar costs 96 $ more than a clarinet."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "13529",
+    "gold_label": "Entailment"
   },
-  "13562": {
+  {
     "question": "Ethan wants to buy 3+1/4 pounds of rib. How much will he spend?",
     "choices": null,
     "answer": "16.25",
@@ -2711,7 +2644,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Find the cost of the rib. Multiply the price per pound by the number of pounds.\n$5 × 3\\frac{1}{4} = $5 × 3.25 = $16.25\nHe will spend $16.25.",
+    "solution": "Find the cost of the rib. Multiply the price per pound by the number of pounds.\n$5 Ã— 3\\frac{1}{4} = $5 Ã— 3.25 = $16.25\nHe will spend $16.25.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 6,
@@ -2720,12 +2653,11 @@
       "Ethan wants to buy 3+1/4 pounds of rib. He will spend 16.25 $",
       "Ethan wants to buy 3+1/4 pounds of rib. He will spend 15.8713 $"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "13562",
+    "gold_label": "Entailment"
   },
-  "13617": {
+  {
     "question": "How much more does a pot-bellied pig cost than a rabbit?",
     "choices": null,
     "answer": "29",
@@ -2757,12 +2689,11 @@
       "A pot-bellied pig costs 29 $ more than a rabbit.",
       "A pot-bellied pig costs 27 $ more than a rabbit."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "13617",
+    "gold_label": "Entailment"
   },
-  "13686": {
+  {
     "question": "Kenny bought 4 kilograms of strawberry ice cream and 2 kilograms of cherry ice cream. How much did he spend?",
     "choices": null,
     "answer": "12.78",
@@ -2785,7 +2716,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the cost of the strawberry ice cream. Multiply:\n\n$2.30 × 4 = $9.20\n\nFind the cost of the cherry ice cream. Multiply:\n\n$1.79 × 2 = $3.58\n\nNow find the total cost by adding:\n\n$9.20 + $3.58 = $12.78\n\nHe spent $12.78.",
+    "solution": "Find the cost of the strawberry ice cream. Multiply:\n\n$2.30 Ã— 4 = $9.20\n\nFind the cost of the cherry ice cream. Multiply:\n\n$1.79 Ã— 2 = $3.58\n\nNow find the total cost by adding:\n\n$9.20 + $3.58 = $12.78\n\nHe spent $12.78.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 7,
@@ -2794,12 +2725,11 @@
       "Kenny spent 12.78 $ on 4 kilograms of strawberry ice cream and 2 kilogram",
       "Kenny spent 13.8363 $ on 4 kilograms of strawberry ice cream and 2 kilogram"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "13686",
+    "gold_label": "Entailment"
   },
-  "13774": {
+  {
     "question": "How much money does Anthony need to buy 2 pieces of black obsidian and 7 pumice stones?",
     "choices": null,
     "answer": "6.22",
@@ -2822,7 +2752,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the cost of 2 pieces of black obsidian.\n\n$0.59 × 2 = $1.18\n\nFind the cost of 7 pumice stones.\n\n$0.72 × 7 = $5.04\n\nNow find the total cost.\n\n$1.18 + $5.04 = $6.22\n\nAnthony needs $6.22.",
+    "solution": "Find the cost of 2 pieces of black obsidian.\n\n$0.59 Ã— 2 = $1.18\n\nFind the cost of 7 pumice stones.\n\n$0.72 Ã— 7 = $5.04\n\nNow find the total cost.\n\n$1.18 + $5.04 = $6.22\n\nAnthony needs $6.22.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 8,
@@ -2831,12 +2761,11 @@
       "Anthony needs 6.22 $ to buy 2 pieces of black obsidian and 7 pumice",
       "Anthony needs 6.6717 $ to buy 2 pieces of black obsidian and 7 pumice"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "13774",
+    "gold_label": "Entailment"
   },
-  "13790": {
+  {
     "question": "How much money does Kinsley need to buy a basketball ticket and a football ticket?",
     "choices": null,
     "answer": "176.28",
@@ -2870,12 +2799,11 @@
       "Kinsley needs 176.28 $ to buy a basketball ticket and a football ticket",
       "Kinsley needs 172.6544 $ to buy a basketball ticket and a football ticket"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "13790",
+    "gold_label": "Entailment"
   },
-  "14054": {
+  {
     "question": "An administrator at the Department of Motor Vehicles (DMV) tracked the average wait time from month to month. According to the table, what was the rate of change between July and August?",
     "choices": null,
     "answer": "-7",
@@ -2909,12 +2837,11 @@
       "According to the table, the rate of change between July and August was -7 minutes per month",
       "According to the table, the rate of change between July and August was -6 minutes per month"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "14054",
+    "gold_label": "Entailment"
   },
-  "14096": {
+  {
     "question": "Each branch has 5 flowers. How many flowers are on 6 branches?",
     "choices": null,
     "answer": "30",
@@ -2950,12 +2877,11 @@
       "Each branch has 5 flowers. There are 30 flowers on 6 branches.",
       "Each branch has 5 flowers. There are 29 flowers on 6 branches."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "14096",
+    "gold_label": "Entailment"
   },
-  "14252": {
+  {
     "question": "Valeria buys 3.2 pounds of African rice. What is the total cost?",
     "choices": null,
     "answer": "12.80",
@@ -2980,7 +2906,7 @@
     },
     "row_num": 5,
     "column_num": 2,
-    "solution": "Find the cost of the African rice. Multiply the price per pound by the number of pounds.\n$4 × 3.2 = $12.80\nThe total cost is $12.80.",
+    "solution": "Find the cost of the African rice. Multiply the price per pound by the number of pounds.\n$4 Ã— 3.2 = $12.80\nThe total cost is $12.80.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 6,
@@ -2989,12 +2915,11 @@
       "Valeria buys 3.2 pounds of African rice. The total cost is 12.80 $ ",
       "Valeria buys 3.2 pounds of African rice. The total cost is 12.8472 $ "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "14252",
+    "gold_label": "Entailment"
   },
-  "14421": {
+  {
     "question": "Lola buys 1.4 pounds of lace scraps. What is the total cost?",
     "choices": null,
     "answer": "16.80",
@@ -3019,7 +2944,7 @@
     },
     "row_num": 5,
     "column_num": 2,
-    "solution": "Find the cost of the lace scraps. Multiply the price per pound by the number of pounds.\n$12 × 1.4 = $16.80\nThe total cost is $16.80.",
+    "solution": "Find the cost of the lace scraps. Multiply the price per pound by the number of pounds.\n$12 Ã— 1.4 = $16.80\nThe total cost is $16.80.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 6,
@@ -3028,12 +2953,11 @@
       "Lola buys 1.4 pounds of lace scraps. The total cost is 16.80",
       "Lola buys 1.4 pounds of lace scraps. The total cost is 15.8388"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "14421",
+    "gold_label": "Entailment"
   },
-  "14908": {
+  {
     "question": "Danny's classmates revealed how many science articles they read. Together, how many science articles did Danny and Lisa read?",
     "choices": null,
     "answer": "808",
@@ -3065,12 +2989,11 @@
       "Danny and Lisa read 808 science articles together.",
       "Danny and Lisa read 827 science articles together."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "14908",
+    "gold_label": "Entailment"
   },
-  "15767": {
+  {
     "question": "Seth went to the store. He bought 1+3/10 pounds of lentils. How much did he spend?",
     "choices": null,
     "answer": "3.90",
@@ -3097,7 +3020,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Find the cost of the lentils. Multiply the price per pound by the number of pounds.\n$3 × 1\\frac{3}{10} = $3 × 1.3 = $3.90\nHe spent $3.90.",
+    "solution": "Find the cost of the lentils. Multiply the price per pound by the number of pounds.\n$3 Ã— 1\\frac{3}{10} = $3 Ã— 1.3 = $3.90\nHe spent $3.90.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 6,
@@ -3106,12 +3029,11 @@
       "Seth spent 3.90 $ on lentils.",
       "Seth spent 3.7442 $ on lentils."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "15767",
+    "gold_label": "Entailment"
   },
-  "16005": {
+  {
     "question": "An economics student recorded the amount of per-capita aid that the U.S. gave to various countries during the 1900s. Per capita, how much more aid did Pakistan receive in 1980 than in 1990?",
     "choices": null,
     "answer": "4",
@@ -3143,7 +3065,7 @@
     },
     "row_num": 5,
     "column_num": 3,
-    "solution": "Find the Pakistan row. Find the numbers in this row for 1980 and 1990.\n\n1980: $14.00\n1990: $10.00\n\nNow subtract:\n\n$14.00 − $10.00 = $4.00\n\nPer capita, Pakistan received $4 more in aid in 1980 than in 1990.",
+    "solution": "Find the Pakistan row. Find the numbers in this row for 1980 and 1990.\n\n1980: $14.00\n1990: $10.00\n\nNow subtract:\n\n$14.00 âˆ’ $10.00 = $4.00\n\nPer capita, Pakistan received $4 more in aid in 1980 than in 1990.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 5,
@@ -3152,12 +3074,11 @@
       "Pakistan received 4 $ more aid in 1980 than in 1990.",
       "Pakistan received 5 $ more aid in 1980 than in 1990."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "16005",
+    "gold_label": "Entailment"
   },
-  "16398": {
+  {
     "question": "This is Duncan's complete financial record for July. On July 5, how much money did Duncan make?",
     "choices": null,
     "answer": "15",
@@ -3207,12 +3128,11 @@
       "Duncan made 15 $ on July 5.",
       "Duncan made 16 $ on July 5."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "16398",
+    "gold_label": "Entailment"
   },
-  "16577": {
+  {
     "question": "How much money does Donald need to buy a fish bowl and a bag of birdseed?",
     "choices": null,
     "answer": "14",
@@ -3248,12 +3168,11 @@
       "Donald needs 14 $ to buy a fish bowl and a bag of birdseed.",
       "Donald needs 13 $ to buy a fish bowl and a bag of birdseed."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "16577",
+    "gold_label": "Entailment"
   },
-  "16741": {
+  {
     "question": "Each box has 5 yogurt pops. How many yogurt pops are in 6 boxes?",
     "choices": null,
     "answer": "30",
@@ -3289,12 +3208,11 @@
       "Each box has 5 yogurt pops. There are 30 yogurt pops in 6 boxes.",
       "Each box has 5 yogurt pops. There are 33 yogurt pops in 6 boxes."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "16741",
+    "gold_label": "Entailment"
   },
-  "16785": {
+  {
     "question": "Each shelf has 10 plates. How many plates are on 3 shelves?",
     "choices": null,
     "answer": "30",
@@ -3324,12 +3242,11 @@
       "Each shelf has 10 plates. There are 30 plates on 3 shelves.",
       "Each shelf has 10 plates. There are 31 plates on 3 shelves."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "16785",
+    "gold_label": "Entailment"
   },
-  "16797": {
+  {
     "question": "Every year Ashland has a citywide relay and reports the winning times. According to the table, what was the rate of change between 2010 and 2011?",
     "choices": null,
     "answer": "3",
@@ -3363,12 +3280,11 @@
       "According to the table, the rate of change between 2010 and 2011 was 3 minutes per year ",
       "According to the table, the rate of change between 2010 and 2011 was 4 minutes per year "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "16797",
+    "gold_label": "Entailment"
   },
-  "17116": {
+  {
     "question": "How much money does Lester need to buy 8 chocolate cheesecakes?",
     "choices": null,
     "answer": "70.80",
@@ -3391,7 +3307,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the total cost of 8 chocolate cheesecakes by multiplying 8 times the price of a chocolate cheesecake.\n\n$8.85 × 8 = $70.80\n\nLester needs $70.80.",
+    "solution": "Find the total cost of 8 chocolate cheesecakes by multiplying 8 times the price of a chocolate cheesecake.\n\n$8.85 Ã— 8 = $70.80\n\nLester needs $70.80.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 8,
@@ -3400,12 +3316,11 @@
       "Lester needs 70.80 $ to buy 8 chocolate cheesecakes.",
       "Lester needs 71.7352 $ to buy 8 chocolate cheesecakes."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "17116",
+    "gold_label": "Entailment"
   },
-  "17274": {
+  {
     "question": "How much money does Tina need to buy 5 denim skirts and 4 purple dresses?",
     "choices": null,
     "answer": "65.63",
@@ -3430,7 +3345,7 @@
     },
     "row_num": 5,
     "column_num": 2,
-    "solution": "Find the cost of 5 denim skirts.\n\n$8.47 × 5 = $42.35\n\nFind the cost of 4 purple dresses.\n\n$5.82 × 4 = $23.28\n\nNow find the total cost.\n\n$42.35 + $23.28 = $65.63\n\nTina needs $65.63.",
+    "solution": "Find the cost of 5 denim skirts.\n\n$8.47 Ã— 5 = $42.35\n\nFind the cost of 4 purple dresses.\n\n$5.82 Ã— 4 = $23.28\n\nNow find the total cost.\n\n$42.35 + $23.28 = $65.63\n\nTina needs $65.63.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 7,
@@ -3439,12 +3354,11 @@
       "Tina needs 65.63 $ to buy 5 denim skirts and 4 purple dresses ",
       "Tina needs 69.1099 $ to buy 5 denim skirts and 4 purple dresses "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "17274",
+    "gold_label": "Entailment"
   },
-  "17683": {
+  {
     "question": "To figure out how many vacation days she had left to use, Erin looked over her old calendars to figure out how many days of vacation she had taken each year. According to the table, what was the rate of change between 2017 and 2018?",
     "choices": null,
     "answer": "8",
@@ -3478,12 +3392,11 @@
       "Erin had 8 vacation days left to use between 2017 and 2018.",
       "Erin had 9 vacation days left to use between 2017 and 2019."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "17683",
+    "gold_label": "Entailment"
   },
-  "18048": {
+  {
     "question": "What is the total cost for 5 pounds of hazelnuts?",
     "choices": null,
     "answer": "51.45",
@@ -3506,7 +3419,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the cost of the hazelnuts. Multiply the price per pound by the number of pounds.\n\n$10.29 × 5 = $51.45\n\nThe total cost is $51.45.",
+    "solution": "Find the cost of the hazelnuts. Multiply the price per pound by the number of pounds.\n\n$10.29 Ã— 5 = $51.45\n\nThe total cost is $51.45.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 8,
@@ -3515,12 +3428,11 @@
       "The total cost for 5 pounds of hazelnuts is 51.45 $.",
       "The total cost for 5 pounds of hazelnuts is 50.6009 $."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "18048",
+    "gold_label": "Entailment"
   },
-  "18753": {
+  {
     "question": "How much more does baked chicken cost than a pepperoni pizza?",
     "choices": null,
     "answer": "7",
@@ -3552,12 +3464,11 @@
       "Baked chicken costs 7 $ more than a pepperoni pizza.",
       "Baked chicken costs 8 $ more than a pepperoni pizza."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "18753",
+    "gold_label": "Entailment"
   },
-  "18947": {
+  {
     "question": "How much more does a Hawaiian vacation package cost than an Australian vacation package?",
     "choices": null,
     "answer": "210",
@@ -3593,12 +3504,11 @@
       "A Hawaiian vacation package costs 210 $ more than an Australian vacation package.",
       "A Hawaiian vacation package costs 218 $ more than an Australian vacation package."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "18947",
+    "gold_label": "Entailment"
   },
-  "18995": {
+  {
     "question": "How much money does Henry need to buy 2 measuring tapes and a rake?",
     "choices": null,
     "answer": "16.98",
@@ -3625,7 +3535,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Find the cost of 2 measuring tapes.\n\n$4.87 × 2 = $9.74\n\nNow find the total cost.\n\n$9.74 + $7.24 = $16.98\n\nHenry needs $16.98.",
+    "solution": "Find the cost of 2 measuring tapes.\n\n$4.87 Ã— 2 = $9.74\n\nNow find the total cost.\n\n$9.74 + $7.24 = $16.98\n\nHenry needs $16.98.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 8,
@@ -3634,12 +3544,11 @@
       "Henry needs 16.98 $ to buy 2 measuring tapes and a rake.",
       "Henry needs 15.8061 $ to buy 2 measuring tapes and a rake."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "18995",
+    "gold_label": "Entailment"
   },
-  "19042": {
+  {
     "question": "How much more does a denim skirt cost than a purple T-shirt?",
     "choices": null,
     "answer": "6",
@@ -3673,12 +3582,11 @@
       "A denim skirt costs 6 $ more than a purple T-shirt.",
       "A denim skirt costs 7 $ more than a purple T-shirt."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "19042",
+    "gold_label": "Entailment"
   },
-  "19115": {
+  {
     "question": "How much money does Walter need to buy a football helmet key chain and a puppy key chain?",
     "choices": null,
     "answer": "4.59",
@@ -3714,12 +3622,11 @@
       "Walter needs 4.59 $ to buy a football helmet key chain and a puppy key chain",
       "Walter needs 4.964 $ to buy a football helmet key chain and a puppy key chain"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "19115",
+    "gold_label": "Entailment"
   },
-  "19305": {
+  {
     "question": "Each train car has 10 people. How many people are in 6 train cars?",
     "choices": null,
     "answer": "60",
@@ -3755,12 +3662,11 @@
       "There are 60 people in 6 train cars.",
       "There are 59 people in 6 train cars."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "19305",
+    "gold_label": "Entailment"
   },
-  "19313": {
+  {
     "question": "How much more does a grandfather clock cost than a crystal vase?",
     "choices": null,
     "answer": "164",
@@ -3796,12 +3702,11 @@
       "A grandfather clock costs 164 $ more than a crystal vase.",
       "A grandfather clock costs 173 $ more than a crystal vase."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "19313",
+    "gold_label": "Entailment"
   },
-  "19387": {
+  {
     "question": "A restaurant's average food preparation time was tracked from day to day as part of an efficiency improvement program. According to the table, what was the rate of change between Thursday and Friday?",
     "choices": null,
     "answer": "-4",
@@ -3835,12 +3740,11 @@
       "According to the table, the rate of change between Thursday and Friday was -4 minutes per day",
       "According to the table, the rate of change between Thursday and Friday was -3 minutes per day"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "19387",
+    "gold_label": "Entailment"
   },
-  "19717": {
+  {
     "question": "How much more does a roll of packaging tape cost than a large yellow envelope?",
     "choices": null,
     "answer": "0.10",
@@ -3876,18 +3780,17 @@
       "A roll of packaging tape costs 0.10 $ more than a large yellow envelope.",
       "A roll of packaging tape costs 0.1022 $ more than a large yellow envelope."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "19717",
+    "gold_label": "Entailment"
   },
-  "20212": {
+  {
     "question": "Cole graphed the temperature at noon for 6 days. What is the mode of the numbers?",
     "choices": null,
     "answer": "6",
     "unit": null,
     "table_title": "Temperature at noon",
-    "table": "Day | Temperature (Â°C)\nThursday | 6\nFriday | 6\nSaturday | 9\nSunday | 6\nMonday | 9\nTuesday | 7",
+    "table": "Day | Temperature (Ã‚Â°C)\nThursday | 6\nFriday | 6\nSaturday | 9\nSunday | 6\nMonday | 9\nTuesday | 7",
     "table_for_pd": {
       "Day": [
         "Thursday",
@@ -3897,7 +3800,7 @@
         "Monday",
         "Tuesday"
       ],
-      "Temperature (Â°C)": [
+      "Temperature (Ã‚Â°C)": [
         "6",
         "6",
         "9",
@@ -3917,12 +3820,11 @@
       "Cole graphed the temperature at noon for 6 days. The mode of the numbers is 6.",
       "Cole graphed the temperature at noon for 7 days. The mode of the numbers is 7."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "20212",
+    "gold_label": "Entailment"
   },
-  "20237": {
+  {
     "question": "How much money does Rudy need to buy 4 whistles?",
     "choices": null,
     "answer": "5.68",
@@ -3945,7 +3847,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the total cost of 4 whistles by multiplying 4 times the price of a whistle.\n\n$1.42 × 4 = $5.68\n\nRudy needs $5.68.",
+    "solution": "Find the total cost of 4 whistles by multiplying 4 times the price of a whistle.\n\n$1.42 Ã— 4 = $5.68\n\nRudy needs $5.68.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 7,
@@ -3954,12 +3856,11 @@
       "Rudy needs 5.68 $ to buy 4 whistles.",
       "Rudy needs 5.3406 $ to buy 4 whistles."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "20237",
+    "gold_label": "Entailment"
   },
-  "20460": {
+  {
     "question": "This is Sandra's complete financial record for December. How much money did Sandra spend on December 29?",
     "choices": null,
     "answer": "7.80",
@@ -4009,12 +3910,11 @@
       "Sandra spent 7.80 $ on December 29.",
       "Sandra spent 7.4369 $ on December 29."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "20460",
+    "gold_label": "Entailment"
   },
-  "20488": {
+  {
     "question": "How much more does a banana cream pie cost than a pumpkin pie?",
     "choices": null,
     "answer": "0.41",
@@ -4046,12 +3946,11 @@
       "A banana cream pie costs 0.41 $ more than a pumpkin pie.",
       "A banana cream pie costs 0.3867 $ more than a pumpkin pie."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "20488",
+    "gold_label": "Entailment"
   },
-  "20601": {
+  {
     "question": "This is Sandra's complete financial record for December. How much money did Sandra spend on December 29?",
     "choices": null,
     "answer": "7.80",
@@ -4101,12 +4000,11 @@
       "Sandra spent 7.80 $ on December 29.",
       "Sandra spent 8.0386 $ on December 29."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "20601",
+    "gold_label": "Entailment"
   },
-  "20628": {
+  {
     "question": "Justin went to the store. He bought 3.4 pounds of cream cheese. How much did he spend?",
     "choices": null,
     "answer": "6.80",
@@ -4131,7 +4029,7 @@
     },
     "row_num": 5,
     "column_num": 2,
-    "solution": "Find the cost of the cream cheese. Multiply the price per pound by the number of pounds.\n$2 × 3.4 = $6.80\nHe spent $6.80.",
+    "solution": "Find the cost of the cream cheese. Multiply the price per pound by the number of pounds.\n$2 Ã— 3.4 = $6.80\nHe spent $6.80.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 6,
@@ -4140,12 +4038,11 @@
       "Justin went to the store. He bought 3.4 pounds of cream cheese. He spent 6.80",
       "Justin went to the store. He bought 3.4 pounds of cream cheese. He spent 6.9113"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "20628",
+    "gold_label": "Entailment"
   },
-  "20684": {
+  {
     "question": "Some teachers compared how many students are in their classes. What is the range of the numbers?",
     "choices": null,
     "answer": "21",
@@ -4172,7 +4069,7 @@
     },
     "row_num": 7,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n14, 35, 17, 27, 31, 19\n\nFirst, find the greatest number. The greatest number is 35.\n\nNext, find the least number. The least number is 14.\n\nSubtract the least number from the greatest number:\n\n35 − 14 = 21\n\nThe range is 21.",
+    "solution": "Read the numbers from the table.\n\n14, 35, 17, 27, 31, 19\n\nFirst, find the greatest number. The greatest number is 35.\n\nNext, find the least number. The least number is 14.\n\nSubtract the least number from the greatest number:\n\n35 âˆ’ 14 = 21\n\nThe range is 21.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 5,
@@ -4181,12 +4078,11 @@
       "Some teachers compared how many students are in their classes. The range of the numbers is 21",
       "Some teachers compared how many students are in their classes. The range of the numbers is 20"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "20684",
+    "gold_label": "Entailment"
   },
-  "20891": {
+  {
     "question": "Each package has 10 pens. How many pens are in 4 packages?",
     "choices": null,
     "answer": "40",
@@ -4218,12 +4114,11 @@
       "Each package has 10 pens. There are 40 pens in 4 packages.",
       "Each package has 10 pens. There are 44 pens in 4 packages."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "20891",
+    "gold_label": "Entailment"
   },
-  "20898": {
+  {
     "question": "Garrett buys 0.8 pounds of Concorde pears. What is the total cost?",
     "choices": null,
     "answer": "1.60",
@@ -4250,7 +4145,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Find the cost of the Concorde pears. Multiply the price per pound by the number of pounds.\n$2 × 0.8 = $1.60\nThe total cost is $1.60.",
+    "solution": "Find the cost of the Concorde pears. Multiply the price per pound by the number of pounds.\n$2 Ã— 0.8 = $1.60\nThe total cost is $1.60.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 6,
@@ -4259,12 +4154,11 @@
       "Garrett buys 0.8 pounds of Concorde pears. The total cost is 1.60 $",
       "Garrett buys 0.8 pounds of Concorde pears. The total cost is 1.4418 $"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "20898",
+    "gold_label": "Entailment"
   },
-  "21051": {
+  {
     "question": "How much money does Damon need to buy 6 magazines?",
     "choices": null,
     "answer": "11.34",
@@ -4289,7 +4183,7 @@
     },
     "row_num": 5,
     "column_num": 2,
-    "solution": "Find the total cost of 6 magazines by multiplying 6 times the price of a magazine.\n\n$1.89 × 6 = $11.34\n\nDamon needs $11.34.",
+    "solution": "Find the total cost of 6 magazines by multiplying 6 times the price of a magazine.\n\n$1.89 Ã— 6 = $11.34\n\nDamon needs $11.34.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 7,
@@ -4298,12 +4192,11 @@
       "Damon needs 11.34 $ to buy 6 magazines.",
       "Damon needs 11.8673 $ to buy 6 magazines."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "21051",
+    "gold_label": "Entailment"
   },
-  "21230": {
+  {
     "question": "Some students compared how many clubs they belong to. What is the range of the numbers?",
     "choices": null,
     "answer": "8",
@@ -4334,7 +4227,7 @@
     },
     "row_num": 9,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n8, 10, 10, 4, 7, 9, 2, 2\n\nFirst, find the greatest number. The greatest number is 10.\n\nNext, find the least number. The least number is 2.\n\nSubtract the least number from the greatest number:\n\n10 − 2 = 8\n\nThe range is 8.",
+    "solution": "Read the numbers from the table.\n\n8, 10, 10, 4, 7, 9, 2, 2\n\nFirst, find the greatest number. The greatest number is 10.\n\nNext, find the least number. The least number is 2.\n\nSubtract the least number from the greatest number:\n\n10 âˆ’ 2 = 8\n\nThe range is 8.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 7,
@@ -4343,12 +4236,11 @@
       "Some students compared how many clubs they belong to. The range of the numbers is 8 ",
       "Some students compared how many clubs they belong to. The range of the numbers is 9 "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "21230",
+    "gold_label": "Entailment"
   },
-  "21241": {
+  {
     "question": "How much more does a cookbook cost than a map of Africa?",
     "choices": null,
     "answer": "5.66",
@@ -4382,12 +4274,11 @@
       "A cookbook costs 5.66 $ more than a map of Africa.",
       "A cookbook costs 5.9863 $ more than a map of Africa."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "21241",
+    "gold_label": "Entailment"
   },
-  "21435": {
+  {
     "question": "Dr. Hatfield, a zoo director, researched ticket prices at other zoos around the country. How much does an adult ticket to the Cleveland Zoo cost?",
     "choices": null,
     "answer": "10",
@@ -4425,12 +4316,11 @@
       "An adult ticket to the Cleveland Zoo costs 10 $.",
       "An adult ticket to the Cleveland Zoo costs 11 $."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "21435",
+    "gold_label": "Entailment"
   },
-  "22164": {
+  {
     "question": "How much more does a hockey ticket cost than a football ticket?",
     "choices": null,
     "answer": "52.64",
@@ -4462,12 +4352,11 @@
       "A hockey ticket costs 52.64 $ more than a football ticket.",
       "A hockey ticket costs 49.9159 $ more than a football ticket."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "22164",
+    "gold_label": "Entailment"
   },
-  "22196": {
+  {
     "question": "Some students compared how many blocks they live from school. What is the mode of the numbers?",
     "choices": null,
     "answer": "7",
@@ -4505,12 +4394,11 @@
       "Some students compared how many blocks they live from school. The mode of the numbers is 7",
       "Some students compared how many blocks they live from school. The mode of the numbers is 8"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "22196",
+    "gold_label": "Entailment"
   },
-  "22404": {
+  {
     "question": "How much money does Kylie need to buy a ladder and a wrench?",
     "choices": null,
     "answer": "47",
@@ -4546,12 +4434,11 @@
       "Kylie needs 47 $ to buy a ladder and a wrench.",
       "Kylie needs 49 $ to buy a ladder and a wrench."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "22404",
+    "gold_label": "Entailment"
   },
-  "22496": {
+  {
     "question": "Tanner went to the store and bought 5 pounds of cumin and 1 pound of cinnamon. How much did he spend?",
     "choices": null,
     "answer": "32.20",
@@ -4574,7 +4461,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the cost of the cumin. Multiply:\n\n$5.12 × 5 = $25.60\n\nFind the cost of the cinnamon. Multiply:\n\n$6.60 × 1 = $6.60\n\nNow find the total cost by adding:\n\n$25.60 + $6.60 = $32.20\n\nHe spent $32.20.",
+    "solution": "Find the cost of the cumin. Multiply:\n\n$5.12 Ã— 5 = $25.60\n\nFind the cost of the cinnamon. Multiply:\n\n$6.60 Ã— 1 = $6.60\n\nNow find the total cost by adding:\n\n$25.60 + $6.60 = $32.20\n\nHe spent $32.20.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 7,
@@ -4583,12 +4470,11 @@
       "Tanner spent 32.20 $ and bought 5 pounds of cumin and 1 pound of",
       "Tanner spent 31.6412 $ and bought 5 pounds of cumin and 1 pound of"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "22496",
+    "gold_label": "Entailment"
   },
-  "22682": {
+  {
     "question": "How much money does Destiny need to buy a math book and a dictionary?",
     "choices": null,
     "answer": "35",
@@ -4622,12 +4508,11 @@
       "Destiny needs 35 $ to buy a math book and a dictionary.",
       "Destiny needs 37 $ to buy a math book and a dictionary."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "22682",
+    "gold_label": "Entailment"
   },
-  "22849": {
+  {
     "question": "A business magazine surveyed its readers about their commute times. What is the longest commute time?",
     "choices": null,
     "answer": "90",
@@ -4667,12 +4552,11 @@
       "A business magazine surveyed its readers about their commute times. The longest commute time is 90 minutes",
       "A business magazine surveyed its readers about their commute times. The longest commute time is 96 minutes"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "22849",
+    "gold_label": "Entailment"
   },
-  "23637": {
+  {
     "question": "Each year, the campers at Keith's summer camp try to set that summer's record for finishing the obstacle course as quickly as possible. According to the table, what was the rate of change between 2010 and 2011?",
     "choices": null,
     "answer": "1",
@@ -4706,12 +4590,11 @@
       "According to the table, the rate of change between 2010 and 2011 was 1 minute per year ",
       "According to the table, the rate of change between 2020 and 2022 was 2 minute per year "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "23637",
+    "gold_label": "Entailment"
   },
-  "23780": {
+  {
     "question": "How much money does Gordon need to buy a deer postcard and a roll of packaging tape?",
     "choices": null,
     "answer": "0.90",
@@ -4747,12 +4630,11 @@
       "Gordon needs 0.90 $ to buy a deer postcard and a roll of packaging tape",
       "Gordon needs 0.8436 $ to buy a deer postcard and a roll of packaging tape"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "23780",
+    "gold_label": "Entailment"
   },
-  "23953": {
+  {
     "question": "How much more does an ice cream truck cost than a funnel cake stand?",
     "choices": null,
     "answer": "154",
@@ -4784,12 +4666,11 @@
       "An ice cream truck costs 154 $ more than a funnel cake stand.",
       "An ice cream truck costs 160 $ more than a funnel cake stand."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "23953",
+    "gold_label": "Entailment"
   },
-  "24280": {
+  {
     "question": "Some teachers compared how many years they have been teaching. What is the mode of the numbers?",
     "choices": null,
     "answer": "1",
@@ -4823,12 +4704,11 @@
       "Some teachers compared how many years they have been teaching. The mode of the numbers is 1.",
       "Some teachers compared how many years they have been teaching. The mode of the numbers is 2."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "24280",
+    "gold_label": "Entailment"
   },
-  "24390": {
+  {
     "question": "How much money does Aaron need to buy 8 yellow bath towels and 3 beach blankets?",
     "choices": null,
     "answer": "183",
@@ -4851,7 +4731,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the cost of 8 yellow bath towels.\n\n$18 × 8 = $144\n\nFind the cost of 3 beach blankets.\n\n$13 × 3 = $39\n\nNow find the total cost.\n\n$144 + $39 = $183\n\nAaron needs $183.",
+    "solution": "Find the cost of 8 yellow bath towels.\n\n$18 Ã— 8 = $144\n\nFind the cost of 3 beach blankets.\n\n$13 Ã— 3 = $39\n\nNow find the total cost.\n\n$144 + $39 = $183\n\nAaron needs $183.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 7,
@@ -4860,12 +4740,11 @@
       "Aaron needs 183 $ to buy 8 yellow bath towels and 3 beach blankets.",
       "Aaron needs 190 $ to buy 8 yellow bath towels and 3 beach blankets."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "24390",
+    "gold_label": "Entailment"
   },
-  "24579": {
+  {
     "question": "How much money does Sally need to buy a book about soccer and a book about South America?",
     "choices": null,
     "answer": "14",
@@ -4899,12 +4778,11 @@
       "Sally needs 14 $ to buy a book about soccer and a book about South America",
       "Sally needs 13 $ to buy a book about soccer and a book about South America"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "24579",
+    "gold_label": "Entailment"
   },
-  "24628": {
+  {
     "question": "Each tool box has 10 nails. How many nails are in 3 tool boxes?",
     "choices": null,
     "answer": "30",
@@ -4934,12 +4812,11 @@
       "Each tool box has 10 nails. There are 30 nails in 3 tool boxes.",
       "Each tool box has 10 nails. There are 31 nails in 3 tool boxes."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "24628",
+    "gold_label": "Entailment"
   },
-  "25051": {
+  {
     "question": "How much money does Elizabeth need to buy a miniature padlock and a piece of plastic pipe?",
     "choices": null,
     "answer": "0.97",
@@ -4971,12 +4848,11 @@
       "Elizabeth needs 0.97 $ to buy a miniature padlock and a piece of plastic pipe",
       "Elizabeth needs 0.9563 $ to buy a miniature padlock and a piece of plastic pipe"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25051",
+    "gold_label": "Entailment"
   },
-  "25069": {
+  {
     "question": "How much more does an oyster shell cost than a scallop shell?",
     "choices": null,
     "answer": "0.03",
@@ -5010,12 +4886,11 @@
       "An oyster shell costs 0.03 $ more than a scallop shell.",
       "An oyster shell costs 0.0283 $ more than a scallop shell."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25069",
+    "gold_label": "Entailment"
   },
-  "25071": {
+  {
     "question": "Each basket has 10 flowers. How many flowers are in 4 baskets?",
     "choices": null,
     "answer": "40",
@@ -5047,12 +4922,11 @@
       "Each basket has 10 flowers. There are 40 flowers in 4 baskets.",
       "Each basket has 10 flowers. There are 42 flowers in 4 baskets."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25071",
+    "gold_label": "Entailment"
   },
-  "25105": {
+  {
     "question": "To figure out how many vacation days she had left to use, Katy looked over her old calendars to figure out how many days of vacation she had taken each year. According to the table, what was the rate of change between 2017 and 2018?",
     "choices": null,
     "answer": "-9",
@@ -5086,12 +4960,11 @@
       "Katy had -9 vacation days left to use between 2017 and 2018.",
       "Katy had -8 vacation days left to use between 2017 and 2018."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25105",
+    "gold_label": "Entailment"
   },
-  "25173": {
+  {
     "question": "Each tool box has 10 hammers. How many hammers are in 5 tool boxes?",
     "choices": null,
     "answer": "50",
@@ -5125,12 +4998,11 @@
       "Each tool box has 10 hammers. There are 50 hammers in 5 tool boxes",
       "Each tool box has 10 hammers. There are 51 hammers in 5 tool boxes"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25173",
+    "gold_label": "Entailment"
   },
-  "25188": {
+  {
     "question": "Each shelf has 5 turtleneck sweaters. How many turtleneck sweaters are on 4 shelves?",
     "choices": null,
     "answer": "20",
@@ -5162,12 +5034,11 @@
       "Each shelf has 5 turtleneck sweaters. There are 20 turtleneck sweaters on 4 shelves",
       "Each shelf has 5 turtleneck sweaters. There are 22 turtleneck sweaters on 4 shelves"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25188",
+    "gold_label": "Entailment"
   },
-  "25249": {
+  {
     "question": "What is the total cost for 9/10 of a kilogram of hamburger buns?",
     "choices": null,
     "answer": "3.60",
@@ -5194,7 +5065,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Find the cost of the hamburger buns. Multiply the price per kilogram by the number of kilograms.\n$4 × \\frac{9}{10} = $4 × 0.9 = $3.60\nThe total cost is $3.60.",
+    "solution": "Find the cost of the hamburger buns. Multiply the price per kilogram by the number of kilograms.\n$4 Ã— \\frac{9}{10} = $4 Ã— 0.9 = $3.60\nThe total cost is $3.60.",
     "ques_type": "free_text",
     "ans_type": "decimal_number",
     "grade": 6,
@@ -5203,12 +5074,11 @@
       "The total cost for 9/10 of a kilogram of hamburger buns is 3.60 $ ",
       "The total cost for 9/10 of a kilogram of hamburger buns is 3.286 $ "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25249",
+    "gold_label": "Entailment"
   },
-  "25472": {
+  {
     "question": "How much money does Naomi need to buy a hair tie, a box of breath mints, and a comb?",
     "choices": null,
     "answer": "2.47",
@@ -5240,12 +5110,11 @@
       "Naomi needs 2.47 $ to buy a hair tie, a box of breath mints",
       "Naomi needs 2.4338 $ to buy a hair tie, a box of breath mints"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25472",
+    "gold_label": "Entailment"
   },
-  "25485": {
+  {
     "question": "How much money does Brennan need to buy a shapes stencil and a green bouncy ball?",
     "choices": null,
     "answer": "0.06",
@@ -5281,12 +5150,11 @@
       "Brennan needs 0.06 $ to buy a shapes stencil and a green bouncy",
       "Brennan needs 0.0569 $ to buy a shapes stencil and a green bouncy"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25485",
+    "gold_label": "Entailment"
   },
-  "25815": {
+  {
     "question": "Some dealerships compared their vehicle sales. What is the range of the numbers?",
     "choices": null,
     "answer": "14",
@@ -5313,7 +5181,7 @@
     },
     "row_num": 7,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n19, 19, 13, 17, 27, 13\n\nFirst, find the greatest number. The greatest number is 27.\n\nNext, find the least number. The least number is 13.\n\nSubtract the least number from the greatest number:\n\n27 − 13 = 14\n\nThe range is 14.",
+    "solution": "Read the numbers from the table.\n\n19, 19, 13, 17, 27, 13\n\nFirst, find the greatest number. The greatest number is 27.\n\nNext, find the least number. The least number is 13.\n\nSubtract the least number from the greatest number:\n\n27 âˆ’ 13 = 14\n\nThe range is 14.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 5,
@@ -5322,12 +5190,11 @@
       "Some dealerships compared their vehicle sales. The range of the numbers is 14.",
       "Some dealerships compared their vehicle sales. The range of the numbers is 15."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25815",
+    "gold_label": "Entailment"
   },
-  "25979": {
+  {
     "question": "Each necklace has 5 pearls. How many pearls are on 4 necklaces?",
     "choices": null,
     "answer": "20",
@@ -5359,12 +5226,11 @@
       "Each necklace has 5 pearls. There are 20 pearls on 4 necklaces.",
       "Each necklace has 5 pearls. There are 21 pearls on 4 necklaces."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25979",
+    "gold_label": "Entailment"
   },
-  "26469": {
+  {
     "question": "Each basket has 10 lilies. How many lilies are in 4 baskets?",
     "choices": null,
     "answer": "40",
@@ -5396,12 +5262,11 @@
       "Each basket has 10 lilies. There are 40 lilies in 4 basket",
       "Each basket has 10 lilies. There are 37 lilies in 4 basket"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "26469",
+    "gold_label": "Entailment"
   },
-  "82": {
+  {
     "question": "A restaurant's average food preparation time was tracked from day to day as part of an efficiency improvement program. According to the table, what was the rate of change between Wednesday and Thursday?",
     "choices": null,
     "answer": "3",
@@ -5434,11 +5299,11 @@
     "hypothesis": [
       "According to the table, the rate of change between Wednesday and Thursday was 3 minutes per day "
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "82",
+    "gold_label": "Entailment"
   },
-  "972": {
+  {
     "question": "Look at the following schedule. Which class begins at 3.20 P.M.?",
     "choices": [
       "Word Processing class",
@@ -5492,11 +5357,11 @@
     "hypothesis": [
       "Look at the following schedule. Web Page Design class begins at 3.20 P.M."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "972",
+    "gold_label": "Entailment"
   },
-  "2085": {
+  {
     "question": "The financial aid office at McKinney University produced an internal report on the number of students receiving scholarships. According to the table, what was the rate of change between 2010 and 2011?",
     "choices": null,
     "answer": "-1",
@@ -5530,12 +5395,11 @@
       "According to the table, the rate of change between 2010 and 2011 was -1 students per year",
       "According to the table, the rate of change between 2010 and 2011 was 0 students per year"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "2085",
+    "gold_label": "Entailment"
   },
-  "2178": {
+  {
     "question": "Mrs. Newman told students how many rounds to expect in the spelling bee based on previous years. According to the table, what was the rate of change between 2010 and 2011?",
     "choices": null,
     "answer": "2",
@@ -5569,12 +5433,11 @@
       "According to the table, the rate of change between 2010 and 2011 was 2 rounds per year ",
       "According to the table, the rate of change between 3010 and 3011 was 3 rounds per year "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "2178",
+    "gold_label": "Entailment"
   },
-  "3011": {
+  {
     "question": "Some students compared how many clubs they belong to. What is the mean of the numbers?",
     "choices": null,
     "answer": "4",
@@ -5605,7 +5468,7 @@
     },
     "row_num": 9,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n1, 1, 7, 7, 1, 7, 1, 7\n\nFirst, count how many numbers are in the group.\n\nThere are 8 numbers.\n\nNow add all the numbers together:\n\n1 + 1 + 7 + 7 + 1 + 7 + 1 + 7 = 32\n\nNow divide the sum by the number of numbers:\n\n32 ÷ 8 = 4\n\nThe mean is 4.",
+    "solution": "Read the numbers from the table.\n\n1, 1, 7, 7, 1, 7, 1, 7\n\nFirst, count how many numbers are in the group.\n\nThere are 8 numbers.\n\nNow add all the numbers together:\n\n1 + 1 + 7 + 7 + 1 + 7 + 1 + 7 = 32\n\nNow divide the sum by the number of numbers:\n\n32 Ã· 8 = 4\n\nThe mean is 4.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 6,
@@ -5614,12 +5477,11 @@
       "Some students compared how many clubs they belong to. The mean of the numbers is 4 ",
       "Some students compared how many clubs they belong to. The mean of the numbers is 6 "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "3011",
+    "gold_label": "Entailment"
   },
-  "3015": {
+  {
     "question": "Each bunch has 5 flowers. How many flowers are in 4 bunches?",
     "choices": null,
     "answer": "20",
@@ -5651,12 +5513,11 @@
       "Each bunch has 5 flowers. There are 20 flowers in 4 bunches.",
       "Each bunch has 5 flowers. There are 22 flowers in 4 bunches."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "3015",
+    "gold_label": "Entailment"
   },
-  "3936": {
+  {
     "question": "How much money does Dave need to buy a shirt signed by a famous soccer player, a photograph signed by a famous movie star, and a jersey signed by a famous hockey player?",
     "choices": null,
     "answer": "8,696",
@@ -5689,11 +5550,11 @@
     "hypothesis": [
       "Dave needs 8,696 $ to buy a shirt signed by a famous soccer player,"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "3936",
+    "gold_label": "Entailment"
   },
-  "4624": {
+  {
     "question": "The players on a quiz show received the following scores. What is the median of the numbers?",
     "choices": null,
     "answer": "3",
@@ -5730,11 +5591,11 @@
     "hypothesis": [
       "The players on a quiz show received the following scores. The median of the numbers is 3."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "4624",
+    "gold_label": "Entailment"
   },
-  "5511": {
+  {
     "question": "Each desk has 5 yellow notepads. How many yellow notepads are on 5 desks?",
     "choices": null,
     "answer": "25",
@@ -5767,11 +5628,11 @@
     "hypothesis": [
       "Each desk has 5 yellow notepads."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "5511",
+    "gold_label": "Entailment"
   },
-  "5634": {
+  {
     "question": "How much money does Percy need to buy a book about hiking and a book about Australia?",
     "choices": null,
     "answer": "12",
@@ -5807,12 +5668,11 @@
       "Percy needs 12 $ to buy a book about hiking and a book about Australia",
       "Percy needs 19 $ to buy a book about hiking and a book about Australia"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5634",
+    "gold_label": "Entailment"
   },
-  "6026": {
+  {
     "question": "A theme park developer recorded the number of people who visited the local water park last summer. How many people went to the water park at least 3 times?",
     "choices": null,
     "answer": "12",
@@ -5845,11 +5705,11 @@
     "hypothesis": [
       "A theme park developer recorded the number of people who visited the local water park at least 3 times"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "6026",
+    "gold_label": "Entailment"
   },
-  "6100": {
+  {
     "question": "Some students compared how many clubs they belong to. What is the range of the numbers?",
     "choices": null,
     "answer": "6",
@@ -5878,7 +5738,7 @@
     },
     "row_num": 8,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n8, 7, 2, 6, 2, 7, 4\n\nFirst, find the greatest number. The greatest number is 8.\n\nNext, find the least number. The least number is 2.\n\nSubtract the least number from the greatest number:\n\n8 − 2 = 6\n\nThe range is 6.",
+    "solution": "Read the numbers from the table.\n\n8, 7, 2, 6, 2, 7, 4\n\nFirst, find the greatest number. The greatest number is 8.\n\nNext, find the least number. The least number is 2.\n\nSubtract the least number from the greatest number:\n\n8 âˆ’ 2 = 6\n\nThe range is 6.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 5,
@@ -5887,12 +5747,11 @@
       "Some students compared how many clubs they belong to. The range of the numbers is 6 ",
       "Some students compared how many clubs they belong to. The range of the numbers is 7 "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "6100",
+    "gold_label": "Entailment"
   },
-  "6107": {
+  {
     "question": "How much money does Emmet need to buy 8 European vacation packages and 7 Caribbean vacation packages?",
     "choices": null,
     "answer": "8,899",
@@ -5915,7 +5774,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the cost of 8 European vacation packages.\n\n$576 × 8 = $4,608\n\nFind the cost of 7 Caribbean vacation packages.\n\n$613 × 7 = $4,291\n\nNow find the total cost.\n\n$4,608 + $4,291 = $8,899\n\nEmmet needs $8,899.",
+    "solution": "Find the cost of 8 European vacation packages.\n\n$576 Ã— 8 = $4,608\n\nFind the cost of 7 Caribbean vacation packages.\n\n$613 Ã— 7 = $4,291\n\nNow find the total cost.\n\n$4,608 + $4,291 = $8,899\n\nEmmet needs $8,899.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 7,
@@ -5923,11 +5782,11 @@
     "hypothesis": [
       "Emmet needs 8,899 $ to buy 8 European vacation packages and 7 Caribbean vacation packages "
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "6107",
+    "gold_label": "Entailment"
   },
-  "6561": {
+  {
     "question": "Some teachers compared how many years they have been teaching. What is the mean of the numbers?",
     "choices": null,
     "answer": "9",
@@ -5958,7 +5817,7 @@
     },
     "row_num": 9,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n9, 11, 11, 10, 9, 9, 2, 11\n\nFirst, count how many numbers are in the group.\n\nThere are 8 numbers.\n\nNow add all the numbers together:\n\n9 + 11 + 11 + 10 + 9 + 9 + 2 + 11 = 72\n\nNow divide the sum by the number of numbers:\n\n72 ÷ 8 = 9\n\nThe mean is 9.",
+    "solution": "Read the numbers from the table.\n\n9, 11, 11, 10, 9, 9, 2, 11\n\nFirst, count how many numbers are in the group.\n\nThere are 8 numbers.\n\nNow add all the numbers together:\n\n9 + 11 + 11 + 10 + 9 + 9 + 2 + 11 = 72\n\nNow divide the sum by the number of numbers:\n\n72 Ã· 8 = 9\n\nThe mean is 9.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 5,
@@ -5967,12 +5826,11 @@
       "Some teachers compared how many years they have been teaching. The mean of the numbers is 9",
       "Some teachers compared how many years they have been teaching. The mean of the numbers is 16"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "6561",
+    "gold_label": "Entailment"
   },
-  "6681": {
+  {
     "question": "Look at Isabel's pay stub. Isabel lives in a state that has state income tax. How much did Isabel make after taxes?",
     "choices": null,
     "answer": "1,522.81",
@@ -6018,11 +5876,11 @@
     "hypothesis": [
       "Isabel made 1,522.81 $ after taxes."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "6681",
+    "gold_label": "Entailment"
   },
-  "6770": {
+  {
     "question": "Each pond has 5 frogs. How many frogs are in 4 ponds?",
     "choices": null,
     "answer": "20",
@@ -6053,11 +5911,11 @@
     "hypothesis": [
       "There are 20 frogs in 4 ponds."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "6770",
+    "gold_label": "Entailment"
   },
-  "7302": {
+  {
     "question": "Some truck drivers wrote down how far they each drove in the past month. How many more miles did Evelyn drive than Zoe?",
     "choices": null,
     "answer": "1,539",
@@ -6086,11 +5944,11 @@
     "hypothesis": [
       "Evelyn drove 1,539 miles more than Zoe in the past month."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "7302",
+    "gold_label": "Entailment"
   },
-  "7625": {
+  {
     "question": "Dr. Brennan, a zoo director, researched ticket prices at other zoos around the country. How much does a child ticket to the Southern Nevada Zoo cost?",
     "choices": null,
     "answer": "6",
@@ -6125,12 +5983,11 @@
       "A child ticket to the Southern Nevada Zoo costs 6 $.",
       "A child ticket to the Southern Nevada Zoo costs 10 $."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "7625",
+    "gold_label": "Entailment"
   },
-  "7928": {
+  {
     "question": "How much money does Jessica need to buy a purple T-shirt and an orange T-shirt?",
     "choices": null,
     "answer": "10",
@@ -6162,12 +6019,11 @@
       "Jessica needs 10 $ to buy a purple T-shirt and an orange T-shirt ",
       "Jessica needs 11 $ to buy a purple T-shirt and an orange T-shirt "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "7928",
+    "gold_label": "Entailment"
   },
-  "8231": {
+  {
     "question": "Michael buys 1.2 pounds of navel oranges. What is the total cost?",
     "choices": null,
     "answer": "6",
@@ -6194,7 +6050,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Find the cost of the navel oranges. Multiply the price per pound by the number of pounds.\n$5 × 1.2 = $6\nThe total cost is $6.",
+    "solution": "Find the cost of the navel oranges. Multiply the price per pound by the number of pounds.\n$5 Ã— 1.2 = $6\nThe total cost is $6.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 6,
@@ -6203,12 +6059,11 @@
       "Michael buys 1.2 pounds of navel oranges. The total cost is 6 $ ",
       "Michael buys 1.2 pounds of navel oranges. The total cost is 7 $ "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "8231",
+    "gold_label": "Entailment"
   },
-  "8653": {
+  {
     "question": "Florence has $12,625. How much money will Florence have left if she buys an Andalusian horse and an Appaloosa horse?",
     "choices": null,
     "answer": "2,543",
@@ -6241,11 +6096,11 @@
     "hypothesis": [
       "Florence will have 2,543 $ left if she buys an Andalusian horse"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "8653",
+    "gold_label": "Entailment"
   },
-  "8658": {
+  {
     "question": "Some friends played miniature golf and wrote down their scores. What is the median of the numbers?",
     "choices": null,
     "answer": "32",
@@ -6283,12 +6138,11 @@
       "Some friends played miniature golf and wrote down their scores. The median of the numbers is 32.",
       "Some friends played miniature golf and wrote down their scores. The median of the numbers is 34."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "8658",
+    "gold_label": "Entailment"
   },
-  "8859": {
+  {
     "question": "How much more does an emerald pendant cost than a ruby bracelet?",
     "choices": null,
     "answer": "1,680",
@@ -6321,11 +6175,11 @@
     "hypothesis": [
       "An emerald pendant costs 1,680 $ more than a ruby bracelet"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "8859",
+    "gold_label": "Entailment"
   },
-  "9611": {
+  {
     "question": "A Technical Assistance Manager monitored his customers' wait times. How many people waited for at least 45 minutes but less than 50 minutes?",
     "choices": null,
     "answer": "3",
@@ -6357,12 +6211,11 @@
       "A Technical Assistance Manager monitored his customers' wait times. 3 people waited for at least 45",
       "A Technical Assistance Manager monitored his customers' wait times. 4 people waited for at least 45"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "9611",
+    "gold_label": "Entailment"
   },
-  "9752": {
+  {
     "question": "How much more does a crossword puzzle book cost than a spelling workbook?",
     "choices": null,
     "answer": "3",
@@ -6394,12 +6247,11 @@
       "A crossword puzzle book costs 3 $ more than a spelling workbook.",
       "A crossword puzzle book costs 4 $ more than a spelling workbook."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "9752",
+    "gold_label": "Entailment"
   },
-  "9820": {
+  {
     "question": "Audrey purchased 2 kilograms of garbanzo beans. What was the total cost?",
     "choices": null,
     "answer": "2",
@@ -6422,7 +6274,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the cost of the garbanzo beans. Multiply the price per kilogram by the number of kilograms.\n\n$1 × 2 = $2\n\nThe total cost was $2.",
+    "solution": "Find the cost of the garbanzo beans. Multiply the price per kilogram by the number of kilograms.\n\n$1 Ã— 2 = $2\n\nThe total cost was $2.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 7,
@@ -6431,12 +6283,11 @@
       "Audrey purchased 2 kilograms of garbanzo beans for 2 $.",
       "Audrey purchased 4 kilograms of garbanzo beans for 4 $."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "9820",
+    "gold_label": "Entailment"
   },
-  "9999": {
+  {
     "question": "The players on a quiz show received the following scores. Who had the lowest score?",
     "choices": [
       "Colette",
@@ -6472,11 +6323,11 @@
     "hypothesis": [
       "The players on a quiz show received the following scores. Colette had the lowest score "
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "9999",
+    "gold_label": "Entailment"
   },
-  "10273": {
+  {
     "question": "An administrator at the Department of Motor Vehicles (DMV) tracked the average wait time from month to month. According to the table, what was the rate of change between June and July?",
     "choices": null,
     "answer": "-7",
@@ -6510,12 +6361,11 @@
       "According to the table, the rate of change between June and July was -7 minutes per month",
       "According to the table, the rate of change between June and July was -6 minutes per month"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "10273",
+    "gold_label": "Entailment"
   },
-  "10731": {
+  {
     "question": "How much more does a Caribbean vacation package cost than a Jamaican vacation package?",
     "choices": null,
     "answer": "2,597",
@@ -6548,11 +6398,11 @@
     "hypothesis": [
       "A Caribbean vacation package costs 2,597 $ more than a Jamaican vacation package."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "10731",
+    "gold_label": "Entailment"
   },
-  "11006": {
+  {
     "question": "Wendy has $27. Does she have enough to buy a beach blanket and a pillow?",
     "choices": [
       "yes",
@@ -6588,11 +6438,11 @@
     "hypothesis": [
       "Wendy has $27. She has enough to buy a beach blanket and a pillow "
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "11006",
+    "gold_label": "Entailment"
   },
-  "11497": {
+  {
     "question": "Each year the Lancaster School District publishes its annual budget, which includes information on the sports program's per-student spending. According to the table, what was the rate of change between 2016 and 2017?",
     "choices": null,
     "answer": "5",
@@ -6626,12 +6476,11 @@
       "According to the table, the rate of change between 2016 and 2017 was 5 $, per year",
       "According to the table, the rate of change between 2016 and 2017 was 6 $, per year"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "11497",
+    "gold_label": "Entailment"
   },
-  "11712": {
+  {
     "question": "Some friends played a trivia game and recorded their scores. What is the mode of the numbers?",
     "choices": null,
     "answer": "7",
@@ -6671,12 +6520,11 @@
       "Some friends played a trivia game and recorded their scores. The mode of the numbers is 7.",
       "Some friends played a trivia game and recorded their scores. The mode of the numbers is 8."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "11712",
+    "gold_label": "Entailment"
   },
-  "12331": {
+  {
     "question": "Each toy bin has 10 yellow blocks. How many yellow blocks are in 3 toy bins?",
     "choices": null,
     "answer": "30",
@@ -6706,12 +6554,11 @@
       "Each toy bin has 10 yellow blocks. There are 30 yellow blocks in 3 toy bin",
       "Each toy bin has 10 yellow blocks. There are 33 yellow blocks in 3 toy bin"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "12331",
+    "gold_label": "Entailment"
   },
-  "12501": {
+  {
     "question": "Each bouquet has 5 lilies. How many lilies are in 3 bouquets?",
     "choices": null,
     "answer": "15",
@@ -6741,12 +6588,11 @@
       "Each bouquet has 5 lilies. There are 15 lilies in 3 bouquet",
       "Each bouquet has 5 lilies. There are 14 lilies in 3 bouquet"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "12501",
+    "gold_label": "Entailment"
   },
-  "12549": {
+  {
     "question": "How much money does Valentina need to buy a speedboat ride and an airplane ride?",
     "choices": null,
     "answer": "1,190",
@@ -6779,11 +6625,11 @@
     "hypothesis": [
       "Valentina needs 1,190 $ to buy a speedboat ride and an airplane ride."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "12549",
+    "gold_label": "Entailment"
   },
-  "12557": {
+  {
     "question": "A car dealership tracked the number of cars sold each month. What is the mean of the numbers?",
     "choices": null,
     "answer": "16",
@@ -6814,7 +6660,7 @@
     },
     "row_num": 9,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n12, 18, 11, 14, 20, 16, 19, 18\n\nFirst, count how many numbers are in the group.\n\nThere are 8 numbers.\n\nNow add all the numbers together:\n\n12 + 18 + 11 + 14 + 20 + 16 + 19 + 18 = 128\n\nNow divide the sum by the number of numbers:\n\n128 ÷ 8 = 16\n\nThe mean is 16.",
+    "solution": "Read the numbers from the table.\n\n12, 18, 11, 14, 20, 16, 19, 18\n\nFirst, count how many numbers are in the group.\n\nThere are 8 numbers.\n\nNow add all the numbers together:\n\n12 + 18 + 11 + 14 + 20 + 16 + 19 + 18 = 128\n\nNow divide the sum by the number of numbers:\n\n128 Ã· 8 = 16\n\nThe mean is 16.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 5,
@@ -6822,11 +6668,11 @@
     "hypothesis": [
       "A car dealership tracked the number of cars sold each month. The mean of the numbers is 16"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "12557",
+    "gold_label": "Entailment"
   },
-  "12655": {
+  {
     "question": "Several students participated in a race. What is the mean of the numbers?",
     "choices": null,
     "answer": "36",
@@ -6857,7 +6703,7 @@
     },
     "row_num": 9,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n23, 39, 33, 35, 42, 38, 35, 43\n\nFirst, count how many numbers are in the group.\n\nThere are 8 numbers.\n\nNow add all the numbers together:\n\n23 + 39 + 33 + 35 + 42 + 38 + 35 + 43 = 288\n\nNow divide the sum by the number of numbers:\n\n288 ÷ 8 = 36\n\nThe mean is 36.",
+    "solution": "Read the numbers from the table.\n\n23, 39, 33, 35, 42, 38, 35, 43\n\nFirst, count how many numbers are in the group.\n\nThere are 8 numbers.\n\nNow add all the numbers together:\n\n23 + 39 + 33 + 35 + 42 + 38 + 35 + 43 = 288\n\nNow divide the sum by the number of numbers:\n\n288 Ã· 8 = 36\n\nThe mean is 36.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 5,
@@ -6866,12 +6712,11 @@
       "Several students participated in a race. The mean of the numbers is 36.",
       "Several students participated in a race. The mean of the numbers is 35."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "12655",
+    "gold_label": "Entailment"
   },
-  "12979": {
+  {
     "question": "How much money does Layla need to buy a coloring book and a book of crossword puzzles?",
     "choices": null,
     "answer": "9",
@@ -6906,11 +6751,11 @@
     "hypothesis": [
       "Layla needs 9 $ to buy a coloring book and a book of crossword puzzle"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "12979",
+    "gold_label": "Entailment"
   },
-  "14090": {
+  {
     "question": "Look at the following schedule. Which game ends at 11.30 A.M.?",
     "choices": [
       "Waves versus Alligators game",
@@ -6967,11 +6812,11 @@
     "hypothesis": [
       "The Waves versus Alligators game ends at 11.30 A.M."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "14090",
+    "gold_label": "Entailment"
   },
-  "14537": {
+  {
     "question": "How much money does Brenda need to buy 7 hang gliders?",
     "choices": null,
     "answer": "63,553",
@@ -6998,7 +6843,7 @@
     },
     "row_num": 6,
     "column_num": 2,
-    "solution": "Find the total cost of 7 hang gliders by multiplying 7 times the price of a hang glider.\n\n$9,079 × 7 = $63,553\n\nBrenda needs $63,553.",
+    "solution": "Find the total cost of 7 hang gliders by multiplying 7 times the price of a hang glider.\n\n$9,079 Ã— 7 = $63,553\n\nBrenda needs $63,553.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 8,
@@ -7006,11 +6851,11 @@
     "hypothesis": [
       "Brenda needs 63,553 $ to buy 7 hang gliders."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "14537",
+    "gold_label": "Entailment"
   },
-  "14678": {
+  {
     "question": "How much more does a Jamaican vacation package cost than a Caribbean vacation package?",
     "choices": null,
     "answer": "5,349",
@@ -7043,11 +6888,11 @@
     "hypothesis": [
       "A Jamaican vacation package costs 5,349 $ more than a Caribbean vacation package."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "14678",
+    "gold_label": "Entailment"
   },
-  "14820": {
+  {
     "question": "How much money does Lauren need to buy a boxcar and a jet ski?",
     "choices": null,
     "answer": "13,802",
@@ -7078,11 +6923,11 @@
     "hypothesis": [
       "Lauren needs 13,802 $ to buy a boxcar and a jet ski."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "14820",
+    "gold_label": "Entailment"
   },
-  "15042": {
+  {
     "question": "A flight attendant was counting the number of passengers present to see if any upgrades could be offered. The flight attendant's list contained passengers' Frequent Flyer status as well as number of bags checked. What is the probability that a randomly selected passenger has 1 checked bag and silver status? Simplify any fractions.",
     "choices": null,
     "answer": "1/5",
@@ -7113,11 +6958,11 @@
     "hypothesis": [
       "The probability that a randomly selected passenger has 1 checked bag and silver status is 1/5 "
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "15042",
+    "gold_label": "Entailment"
   },
-  "15127": {
+  {
     "question": "Dylan's classmates revealed how many science articles they read. What is the mean of the numbers?",
     "choices": null,
     "answer": "8",
@@ -7144,7 +6989,7 @@
     },
     "row_num": 7,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n7, 5, 8, 9, 10, 9\n\nFirst, count how many numbers are in the group.\n\nThere are 6 numbers.\n\nNow add all the numbers together:\n\n7 + 5 + 8 + 9 + 10 + 9 = 48\n\nNow divide the sum by the number of numbers:\n\n48 ÷ 6 = 8\n\nThe mean is 8.",
+    "solution": "Read the numbers from the table.\n\n7, 5, 8, 9, 10, 9\n\nFirst, count how many numbers are in the group.\n\nThere are 6 numbers.\n\nNow add all the numbers together:\n\n7 + 5 + 8 + 9 + 10 + 9 = 48\n\nNow divide the sum by the number of numbers:\n\n48 Ã· 6 = 8\n\nThe mean is 8.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 6,
@@ -7153,12 +6998,11 @@
       "Dylan's classmates revealed how many science articles they read. The mean of the numbers is 8.",
       "Dylan's classmates revealed how many science articles they read. The mean of the numbers is 9."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "15127",
+    "gold_label": "Entailment"
   },
-  "15375": {
+  {
     "question": "Each toy bin has 2 red blocks. How many red blocks are in 5 toy bins?",
     "choices": null,
     "answer": "10",
@@ -7192,12 +7036,11 @@
       "Each toy bin has 2 red blocks. There are 10 red blocks in 5 toy bin",
       "Each toy bin has 2 red blocks. There are 11 red blocks in 5 toy bin"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "15375",
+    "gold_label": "Entailment"
   },
-  "16192": {
+  {
     "question": "How much money does Ernest need to buy a baking dish and a mixing bowl?",
     "choices": null,
     "answer": "15",
@@ -7229,12 +7072,11 @@
       "Ernest needs 15 $ to buy a baking dish and a mixing bowl.",
       "Ernest needs 14 $ to buy a baking dish and a mixing bowl."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "16192",
+    "gold_label": "Entailment"
   },
-  "17193": {
+  {
     "question": "The players on a quiz show received the following scores. What is the mean of the numbers?",
     "choices": null,
     "answer": "7",
@@ -7263,7 +7105,7 @@
     },
     "row_num": 8,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n9, 9, 4, 7, 3, 8, 9\n\nFirst, count how many numbers are in the group.\n\nThere are 7 numbers.\n\nNow add all the numbers together:\n\n9 + 9 + 4 + 7 + 3 + 8 + 9 = 49\n\nNow divide the sum by the number of numbers:\n\n49 ÷ 7 = 7\n\nThe mean is 7.",
+    "solution": "Read the numbers from the table.\n\n9, 9, 4, 7, 3, 8, 9\n\nFirst, count how many numbers are in the group.\n\nThere are 7 numbers.\n\nNow add all the numbers together:\n\n9 + 9 + 4 + 7 + 3 + 8 + 9 = 49\n\nNow divide the sum by the number of numbers:\n\n49 Ã· 7 = 7\n\nThe mean is 7.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 8,
@@ -7272,12 +7114,11 @@
       "The players on a quiz show received the following scores. The mean of the numbers is 7.",
       "The players on a quiz show received the following scores. The mean of the numbers is 9."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "17193",
+    "gold_label": "Entailment"
   },
-  "18080": {
+  {
     "question": "The players on a quiz show received the following scores. What is the mode of the numbers?",
     "choices": null,
     "answer": "2",
@@ -7311,12 +7152,11 @@
       "The players on a quiz show received the following scores. The mode of the numbers is 2",
       "The players on a quiz show received the following scores. The mode of the numbers is 3"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "18080",
+    "gold_label": "Entailment"
   },
-  "18822": {
+  {
     "question": "At their family reunion, the Stanley family recorded everyone's age. How many people are exactly 33 years old?",
     "choices": null,
     "answer": "1",
@@ -7351,11 +7191,11 @@
     "hypothesis": [
       "At their family reunion, the Stanley family recorded everyone's age. 1 person is exactly 33"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "18822",
+    "gold_label": "Entailment"
   },
-  "19018": {
+  {
     "question": "An economist tracked the amount of per-capita aid sent from the U.S. to various countries during the 1900s. Per capita, how much more aid did Libya receive in 1965 than in 1975?",
     "choices": null,
     "answer": "2",
@@ -7387,7 +7227,7 @@
     },
     "row_num": 5,
     "column_num": 3,
-    "solution": "Find the Libya row. Find the numbers in this row for 1965 and 1975.\n\n1965: $4.00\n1975: $2.00\n\nNow subtract:\n\n$4.00 − $2.00 = $2.00\n\nPer capita, Libya received $2 more in aid in 1965 than in 1975.",
+    "solution": "Find the Libya row. Find the numbers in this row for 1965 and 1975.\n\n1965: $4.00\n1975: $2.00\n\nNow subtract:\n\n$4.00 âˆ’ $2.00 = $2.00\n\nPer capita, Libya received $2 more in aid in 1965 than in 1975.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 5,
@@ -7396,12 +7236,11 @@
       "Libya received 2 $ more aid in 1965 than in 1975.",
       "Libya received 4 $ more aid in 1965 than in 1975."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "19018",
+    "gold_label": "Entailment"
   },
-  "19411": {
+  {
     "question": "Some students compared how many clubs they belong to. What is the mode of the numbers?",
     "choices": null,
     "answer": "7",
@@ -7437,12 +7276,11 @@
       "Some students compared how many clubs they belong to. The mode of the numbers is 7.",
       "Some students compared how many clubs they belong to. The mode of the numbers is 10."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "19411",
+    "gold_label": "Entailment"
   },
-  "19949": {
+  {
     "question": "Each roof has 5 seagulls. How many seagulls are on 3 roofs?",
     "choices": null,
     "answer": "15",
@@ -7472,12 +7310,11 @@
       "There are 15 seagulls on 3 roofs.",
       "There are 17 seagulls on 3 roofs."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "19949",
+    "gold_label": "Entailment"
   },
-  "20150": {
+  {
     "question": "How much money does Erica need to buy 5 pairs of designer shoes?",
     "choices": null,
     "answer": "23,690",
@@ -7500,7 +7337,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the total cost of 5 pairs of designer shoes by multiplying 5 times the price of a pair of designer shoes.\n\n$4,738.00 × 5 = $23,690.00\n\nErica needs $23,690.00.",
+    "solution": "Find the total cost of 5 pairs of designer shoes by multiplying 5 times the price of a pair of designer shoes.\n\n$4,738.00 Ã— 5 = $23,690.00\n\nErica needs $23,690.00.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 8,
@@ -7508,11 +7345,11 @@
     "hypothesis": [
       "Erica needs 23,690 $ to buy 5 pairs of designer shoes."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "20150",
+    "gold_label": "Entailment"
   },
-  "20453": {
+  {
     "question": "Each soccer field has 5 sprinklers. How many sprinklers are on 4 soccer fields?",
     "choices": null,
     "answer": "20",
@@ -7544,12 +7381,11 @@
       "There are 20 sprinklers on 4 soccer fields.",
       "There are 19 sprinklers on 4 soccer fields."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "20453",
+    "gold_label": "Entailment"
   },
-  "21385": {
+  {
     "question": "Some friends discussed the sizes of their coin collections. What is the range of the numbers?",
     "choices": null,
     "answer": "21",
@@ -7580,7 +7416,7 @@
     },
     "row_num": 9,
     "column_num": 2,
-    "solution": "Read the numbers from the table.\n\n76, 74, 86, 65, 65, 67, 80, 71\n\nFirst, find the greatest number. The greatest number is 86.\n\nNext, find the least number. The least number is 65.\n\nSubtract the least number from the greatest number:\n\n86 − 65 = 21\n\nThe range is 21.",
+    "solution": "Read the numbers from the table.\n\n76, 74, 86, 65, 65, 67, 80, 71\n\nFirst, find the greatest number. The greatest number is 86.\n\nNext, find the least number. The least number is 65.\n\nSubtract the least number from the greatest number:\n\n86 âˆ’ 65 = 21\n\nThe range is 21.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 5,
@@ -7589,12 +7425,11 @@
       "Some friends discussed the sizes of their coin collections. The range of the numbers is 21.",
       "Some friends discussed the sizes of their coin collections. The range of the numbers is 36."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "21385",
+    "gold_label": "Entailment"
   },
-  "21820": {
+  {
     "question": "Warren found out the sizes of all the clubs at his school. How many clubs have exactly 64 members?",
     "choices": null,
     "answer": "0",
@@ -7633,11 +7468,11 @@
     "hypothesis": [
       "Warren found out the sizes of all the clubs at his school. 0 clubs have exactly 64"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "21820",
+    "gold_label": "Entailment"
   },
-  "21997": {
+  {
     "question": "Each office has 5 stools. How many stools are in 5 offices?",
     "choices": null,
     "answer": "25",
@@ -7670,11 +7505,11 @@
     "hypothesis": [
       "Each office has 5 stools. There are 25 stools in 5 offices."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "21997",
+    "gold_label": "Entailment"
   },
-  "22456": {
+  {
     "question": "How much money does Levi need to buy a ticket for a Hawaiian cruise and a ticket for a Caribbean cruise?",
     "choices": null,
     "answer": "13,111",
@@ -7705,11 +7540,11 @@
     "hypothesis": [
       "Levi needs 13,111 $ to buy a ticket for a Hawaiian cruise and a ticket"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "22456",
+    "gold_label": "Entailment"
   },
-  "24156": {
+  {
     "question": "Each field has 10 goats. How many goats are in 3 fields?",
     "choices": null,
     "answer": "30",
@@ -7739,12 +7574,11 @@
       "Each field has 10 goats. There are 30 goats in 3 fields.",
       "Each field has 10 goats. There are 31 goats in 3 fields."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "24156",
+    "gold_label": "Entailment"
   },
-  "24590": {
+  {
     "question": "How much money does Kelly need to buy 5 chandeliers and 3 oil paintings?",
     "choices": null,
     "answer": "2,758",
@@ -7767,7 +7601,7 @@
     },
     "row_num": 4,
     "column_num": 2,
-    "solution": "Find the cost of 5 chandeliers.\n\n$143 × 5 = $715\n\nFind the cost of 3 oil paintings.\n\n$681 × 3 = $2,043\n\nNow find the total cost.\n\n$715 + $2,043 = $2,758\n\nKelly needs $2,758.",
+    "solution": "Find the cost of 5 chandeliers.\n\n$143 Ã— 5 = $715\n\nFind the cost of 3 oil paintings.\n\n$681 Ã— 3 = $2,043\n\nNow find the total cost.\n\n$715 + $2,043 = $2,758\n\nKelly needs $2,758.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 7,
@@ -7775,11 +7609,11 @@
     "hypothesis": [
       "Kelly needs 2,758 $ to buy 5 chandeliers and 3 oil paintings."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "24590",
+    "gold_label": "Entailment"
   },
-  "24653": {
+  {
     "question": "Brenda went to the store and bought 1 pound of Spanish olives. How much did she spend?",
     "choices": null,
     "answer": "4",
@@ -7804,7 +7638,7 @@
     },
     "row_num": 5,
     "column_num": 2,
-    "solution": "Find the cost of the Spanish olives. Multiply the price per pound by the number of pounds.\n\n$4 × 1 = $4\n\nShe spent $4.",
+    "solution": "Find the cost of the Spanish olives. Multiply the price per pound by the number of pounds.\n\n$4 Ã— 1 = $4\n\nShe spent $4.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 7,
@@ -7813,12 +7647,11 @@
       "Brenda went to the store and bought 1 pound of Spanish olives. She spent 4 $",
       "Brenda went to the store and bought 1 pound of Spanish olives. She spent 5 $"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "24653",
+    "gold_label": "Entailment"
   },
-  "25277": {
+  {
     "question": "Each laundry hamper has 5 blouses. How many blouses are in 4 laundry hampers?",
     "choices": null,
     "answer": "20",
@@ -7850,12 +7683,11 @@
       "Each laundry hamper has 5 blouses. There are 20 blouses in 4 laundry hampers ",
       "Each laundry hamper has 5 blouses. There are 22 blouses in 4 laundry hampers "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25277",
+    "gold_label": "Entailment"
   },
-  "25360": {
+  {
     "question": "A sports fan decided to examine the pattern of medals won by certain countries at several Olympic games. How many more medals did Brazil win in 2008 than in 2004?",
     "choices": null,
     "answer": "5",
@@ -7884,7 +7716,7 @@
     },
     "row_num": 4,
     "column_num": 3,
-    "solution": "Find the Brazil row. Find the numbers in this row for 2008 and 2004.\n\n2008: 15\n2004: 10\n\nNow subtract:\n\n15 − 10 = 5\n\nBrazil won 5 more medals in 2008 than in 2004.",
+    "solution": "Find the Brazil row. Find the numbers in this row for 2008 and 2004.\n\n2008: 15\n2004: 10\n\nNow subtract:\n\n15 âˆ’ 10 = 5\n\nBrazil won 5 more medals in 2008 than in 2004.",
     "ques_type": "free_text",
     "ans_type": "integer_number",
     "grade": 5,
@@ -7893,12 +7725,11 @@
       "Brazil won 5 more medals in 2008 than in 2004.",
       "Brazil won 10 more medals in 2008 than in 2004."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25360",
+    "gold_label": "Entailment"
   },
-  "25721": {
+  {
     "question": "Look at Raphael's pay stub. Raphael lives in a state that has state income tax. How much did Raphael make after taxes?",
     "choices": null,
     "answer": "1,807.80",
@@ -7944,11 +7775,11 @@
     "hypothesis": [
       "Raphael made 1,807.80 $ after taxes."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "25721",
+    "gold_label": "Entailment"
   },
-  "54": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $155, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -7992,12 +7823,11 @@
       "At a price of $155 there is a shortage.",
       "At a price of $155 there is a surplus."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "54",
+    "gold_label": "Entailment"
   },
-  "1237": {
+  {
     "question": "The local high school found out how many members each club had. Which club has the fewest members?",
     "choices": [
       "French club",
@@ -8034,12 +7864,11 @@
       "The local high school found out how many members each club had. The Spanish club has the few",
       "The local high school found out how many members each club had. The math club has the few"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "1237",
+    "gold_label": "Entailment"
   },
-  "1247": {
+  {
     "question": "Some friends played a trivia game and recorded their scores. Who had the highest score?",
     "choices": [
       "Tamir",
@@ -8076,12 +7905,11 @@
       "Some friends played a trivia game and recorded their scores. Luna had the highest score.",
       "Some friends played a trivia game and recorded their scores. Dillon had the highest score."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "1247",
+    "gold_label": "Entailment"
   },
-  "2274": {
+  {
     "question": "Cindy has $1.50. Does she have enough to buy a bottle of ketchup and a bottle of vinegar?",
     "choices": [
       "yes",
@@ -8116,12 +7944,11 @@
       "Cindy has $1.50. She does not have enough to buy a bottle of ket",
       "Cindy has $1.50. She does yest have eyesugh to buy a bottle of ket"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "2274",
+    "gold_label": "Entailment"
   },
-  "2410": {
+  {
     "question": "Look at the following schedule. When does Math class begin?",
     "choices": [
       "2:25 P.M.",
@@ -8173,12 +8000,11 @@
       "Math class begins at 2:35 P.M.",
       "Math class begins at 4:00 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "2410",
+    "gold_label": "Entailment"
   },
-  "2772": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $1,005, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -8222,12 +8048,11 @@
       "At a price of $ 1,005, there is a surplus.",
       "At a price of $ 1,005, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "2772",
+    "gold_label": "Entailment"
   },
-  "4117": {
+  {
     "question": "Look at the following schedule. When does the bobsled event end?",
     "choices": [
       "12:10 P.M.",
@@ -8276,12 +8101,11 @@
       "The bobsled event ends at 1:10 P.M.",
       "The bobsled event ends at 12:10 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "4117",
+    "gold_label": "Entailment"
   },
-  "4988": {
+  {
     "question": "Look at the following schedule. At which stop does the ferry arrive at 6.10 P.M.?",
     "choices": [
       "Sandy Shores",
@@ -8342,12 +8166,11 @@
       "The ferry arrives at 6.10 P.M. at Pebble Town.",
       "The ferry arrives at 6.10 P.M. at Grassy Beach."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "4988",
+    "gold_label": "Entailment"
   },
-  "5182": {
+  {
     "question": "Some friends played a trivia game and recorded their scores. Who had the lowest score?",
     "choices": [
       "Roger",
@@ -8384,12 +8207,11 @@
       "Some friends played a trivia game and recorded their scores. Edward had the lowest score.",
       "Some friends played a trivia game and recorded their scores. Manny had the lowest score."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5182",
+    "gold_label": "Entailment"
   },
-  "5269": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $690, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -8433,12 +8255,11 @@
       "At a price of $690, there is a surplus.",
       "At a price of $690, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5269",
+    "gold_label": "Entailment"
   },
-  "5419": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $580, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -8482,12 +8303,11 @@
       "At a price of $580, there is a surplus.",
       "At a price of $580, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5419",
+    "gold_label": "Entailment"
   },
-  "5752": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $380, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -8531,12 +8351,11 @@
       "At a price of $380, there is a surplus.",
       "At a price of $380, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "5752",
+    "gold_label": "Entailment"
   },
-  "6257": {
+  {
     "question": "Look at the following schedule. When does the koala feeding begin?",
     "choices": [
       "3:10 P.M.",
@@ -8588,12 +8407,11 @@
       "The koala feeding begins at 2:10 P.M.",
       "The koala feeding begins at 3:10 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "6257",
+    "gold_label": "Entailment"
   },
-  "6712": {
+  {
     "question": "Look at the following schedule. Which event ends at 1.35 P.M.?",
     "choices": [
       "soccer game",
@@ -8645,12 +8463,11 @@
       "Look at the following schedule. The dance competition ends at 1.35 P.M.",
       "Look at the following schedule. The swimming competition ends at 1.35 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "6712",
+    "gold_label": "Entailment"
   },
-  "6723": {
+  {
     "question": "Pedro has $1.00. Does he have enough to buy a tiny gold bead and a brown cat's eye bead?",
     "choices": [
       "yes",
@@ -8687,12 +8504,11 @@
       "Pedro has $1.00. He does not have enough to buy a tiny gold bead",
       "Pedro has $1.00. He does yest have eyesugh to buy a tiny gold bead"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "6723",
+    "gold_label": "Entailment"
   },
-  "7777": {
+  {
     "question": "Look at the following schedule. Which event ends at 2.45 P.M.?",
     "choices": [
       "men's vault event",
@@ -8753,12 +8569,11 @@
       "The men's pommel horse event ends at 2.45 P.M.",
       "The women's vault event ends at 2.45 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "7777",
+    "gold_label": "Entailment"
   },
-  "7905": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $530, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -8802,12 +8617,11 @@
       "At a price of $530, there is a surplus.",
       "At a price of $530, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "7905",
+    "gold_label": "Entailment"
   },
-  "8608": {
+  {
     "question": "Some friends compared the sizes of their sticker collections. Who has the fewest stickers?",
     "choices": [
       "Tina",
@@ -8844,12 +8658,11 @@
       "Some friends compared the sizes of their sticker collections. Robert has the fewest stickers.",
       "Some friends compared the sizes of their sticker collections. Jamie has the fewest stickers."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "8608",
+    "gold_label": "Entailment"
   },
-  "8615": {
+  {
     "question": "Look at the following schedule. When does the dance performance begin?",
     "choices": [
       "2:50 P.M.",
@@ -8895,12 +8708,11 @@
       "The dance performance begins at 10:15 A.M.",
       "The dance performance begins at 3:10 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "8615",
+    "gold_label": "Entailment"
   },
-  "9064": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $1,280, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -8944,12 +8756,11 @@
       "At a price of $1,280, there is a surplus.",
       "At a price of $1,280, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "9064",
+    "gold_label": "Entailment"
   },
-  "9401": {
+  {
     "question": "Rose has $6. Does she have enough to buy a wrench and a bucket?",
     "choices": [
       "yes",
@@ -8986,12 +8797,11 @@
       "Rose has $6. She does not have enough to buy a wrench and a bucket ",
       "Rose has $6. She does yest have eyesugh to buy a wrench and a bucket "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "9401",
+    "gold_label": "Entailment"
   },
-  "12419": {
+  {
     "question": "Look at the following schedule. When does the train depart from Winchester?",
     "choices": [
       "8:55 P.M.",
@@ -9052,12 +8862,11 @@
       "The train departs from Winchester at 5:25 P.M.",
       "The train departs from Winchester at 3:30 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "12419",
+    "gold_label": "Entailment"
   },
-  "13861": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $190, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -9101,12 +8910,11 @@
       "At a price of $190, there is a surplus.",
       "At a price of $190, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "13861",
+    "gold_label": "Entailment"
   },
-  "14504": {
+  {
     "question": "Look at the following schedule. Which class ends at 5.45 P.M.?",
     "choices": [
       "Plant Biology class",
@@ -9155,12 +8963,11 @@
       "The European History class ends at 5.45 P.M.",
       "The Plant Biology class ends at 5.45 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "14504",
+    "gold_label": "Entailment"
   },
-  "15271": {
+  {
     "question": "Look at the following schedule. When does Ms. Hampton's class begin?",
     "choices": [
       "2:50 P.M.",
@@ -9215,12 +9022,11 @@
       "Ms. Hampton's class begins at 2:00 P.M.",
       "Ms. Hampton's class begins at 9:50 A.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "15271",
+    "gold_label": "Entailment"
   },
-  "15381": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $65, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -9264,12 +9070,11 @@
       "At a price of $ 65, there is a surplus.",
       "At a price of $ 65, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "15381",
+    "gold_label": "Entailment"
   },
-  "15397": {
+  {
     "question": "The players on a quiz show received the following scores. Who had the highest score?",
     "choices": [
       "Vince",
@@ -9306,12 +9111,11 @@
       "The players on a quiz show received the following scores. Wesley had the highest score ",
       "The players on a quiz show received the following scores. Herman had the highest score "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "15397",
+    "gold_label": "Entailment"
   },
-  "15751": {
+  {
     "question": "A car dealership tracked the number of cars sold each month. In which month did the dealership sell the most cars?",
     "choices": [
       "November",
@@ -9348,12 +9152,11 @@
       "A car dealership tracked the number of cars sold each month. In January the dealership sold the most",
       "A car dealership tracked the number of cars sold each month. In December the dealership sold the most"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "15751",
+    "gold_label": "Entailment"
   },
-  "15992": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $960, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -9397,12 +9200,11 @@
       "At a price of $960, there is a shortage.",
       "At a price of $960, there is a surplus."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "15992",
+    "gold_label": "Entailment"
   },
-  "16278": {
+  {
     "question": "Look at the following schedule. When does the unicycle rider's performance begin?",
     "choices": [
       "8:10 P.M.",
@@ -9457,12 +9259,11 @@
       "The unicycle rider's performance begins at 8:10 P.M.",
       "The unicycle rider's performance begins at 5:00 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "16278",
+    "gold_label": "Entailment"
   },
-  "17301": {
+  {
     "question": "Look at the following schedule. When does lap swim end?",
     "choices": [
       "10:25 A.M.",
@@ -9517,12 +9318,11 @@
       "Lap swim ends at 3:35 P.M.",
       "Lap swim ends at 10:25 A.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "17301",
+    "gold_label": "Entailment"
   },
-  "18492": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $20, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -9566,12 +9366,11 @@
       "At a price of $20, there is a shortage.",
       "At a price of $20, there is a surplus."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "18492",
+    "gold_label": "Entailment"
   },
-  "18727": {
+  {
     "question": "Helen looked at her calendar to figure out how much time she spent babysitting each month. In which month did Helen babysit the most?",
     "choices": [
       "December",
@@ -9608,12 +9407,11 @@
       "Helen babysat the most in February.",
       "Helen babysat the most in March."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "18727",
+    "gold_label": "Entailment"
   },
-  "18789": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $840, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -9657,12 +9455,11 @@
       "At a price of $840, there is a surplus.",
       "At a price of $840, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "18789",
+    "gold_label": "Entailment"
   },
-  "18875": {
+  {
     "question": "Look at the following schedule. How long does it take to get from the pizza place to the train station?",
     "choices": [
       "2 hours and 15 minutes",
@@ -9753,12 +9550,11 @@
       "Look at the following schedule. It takes 2 hours and 15 minutes to get from the pizza place",
       "Look at the following schedule. It takes 2 hours to get from the pizza place"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "18875",
+    "gold_label": "Entailment"
   },
-  "19023": {
+  {
     "question": "Several people compared how many Web pages they had visited. Who visited the most Web pages?",
     "choices": [
       "Kenji",
@@ -9795,12 +9591,11 @@
       "Sofia visited the most Web pages.",
       "Kenji visited the most Web pages."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "19023",
+    "gold_label": "Entailment"
   },
-  "19870": {
+  {
     "question": "A farmer recalled how many watermelons were harvested in the past 4 days. On which day were the fewest watermelons harvested?",
     "choices": [
       "Thursday",
@@ -9837,12 +9632,11 @@
       "A farmer recalled the fewest watermelons were harvested on Thursday in the past 4 days",
       "A farmer recalled the fewest watermelons were harvested on Sunday in the past 4 days"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "19870",
+    "gold_label": "Entailment"
   },
-  "20909": {
+  {
     "question": "Look at the following schedule. Which movie ends at 6.20 P.M.?",
     "choices": [
       "Witches and Wizards on Broomsticks",
@@ -9894,12 +9688,11 @@
       "Return to Tumbleweed City ends at 6.20 P.M.",
       "Witches and Wizards on Broomsticks ends at 6.20 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "20909",
+    "gold_label": "Entailment"
   },
-  "21163": {
+  {
     "question": "The players on a quiz show received the following scores. Who had the lowest score?",
     "choices": [
       "Barbara",
@@ -9936,12 +9729,11 @@
       "The players on a quiz show received the following scores. Patrick had the lowest score.",
       "The players on a quiz show received the following scores. Hanson had the lowest score."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "21163",
+    "gold_label": "Entailment"
   },
-  "21246": {
+  {
     "question": "Some friends compared the sizes of their stuffed animal collections. Who has the most stuffed animals?",
     "choices": [
       "Meg",
@@ -9978,12 +9770,11 @@
       "Some friends compared the sizes of their stuffed animal collections. Meg has the most ",
       "Some friends compared the sizes of their stuffed animal collections. Evelyn has the most "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "21246",
+    "gold_label": "Entailment"
   },
-  "21816": {
+  {
     "question": "Dalton kept a log of how many pages he read each month. In which month did Dalton read the most pages?",
     "choices": [
       "June",
@@ -10020,12 +9811,11 @@
       "Dalton read the most pages in July.",
       "Dalton read the most pages in September."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "21816",
+    "gold_label": "Entailment"
   },
-  "21925": {
+  {
     "question": "A charity recorded how many donations it received each month. In which month did the charity receive the most donations?",
     "choices": [
       "July",
@@ -10062,12 +9852,11 @@
       "A charity recorded how many donations it received each month. In October the charity received the most donations",
       "A charity recorded how many donations it received each month. In August the charity received the most donations"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "21925",
+    "gold_label": "Entailment"
   },
-  "21983": {
+  {
     "question": "Amanda has $11,631.00. Does she have enough to buy a funnel cake stand and an ice cream truck?",
     "choices": [
       "yes",
@@ -10104,12 +9893,11 @@
       "Amanda has $11,631.00. She does not have enough to buy a funnel cake",
       "Amanda has $11,631.00. She does yest have eyesugh to buy a funnel cake"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "21983",
+    "gold_label": "Entailment"
   },
-  "22070": {
+  {
     "question": "Paula has $13,967. Does she have enough to buy a pretzel stand and a popsicle stand?",
     "choices": [
       "yes",
@@ -10146,12 +9934,11 @@
       "Paula has $13,967. She does not have enough to buy a pretzel",
       "Paula has $13,967. She does yest have eyesugh to buy a pretzel"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "22070",
+    "gold_label": "Entailment"
   },
-  "22198": {
+  {
     "question": "Shelley has $272.00. Does she have enough to buy a lawn mower and an iron bench?",
     "choices": [
       "yes",
@@ -10190,12 +9977,11 @@
       "Shelley has $272.00. She does not have enough to buy a lawn mower",
       "Shelley has $272.00. She does yest have eyesugh to buy a lawn mower"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "22198",
+    "gold_label": "Entailment"
   },
-  "22772": {
+  {
     "question": "Some friends compared the sizes of their stuffed animal collections. Who has the fewest stuffed animals?",
     "choices": [
       "Isaac",
@@ -10232,12 +10018,11 @@
       "Some friends compared the sizes of their stuffed animal collections. Katie has the fewest ",
       "Some friends compared the sizes of their stuffed animal collections. Edgar has the fewest "
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "22772",
+    "gold_label": "Entailment"
   },
-  "22907": {
+  {
     "question": "Look at the following schedule. How long does it take to get from the doctor's office to the playground?",
     "choices": [
       "15 minutes",
@@ -10316,12 +10101,11 @@
       "Look at the following schedule. It takes 2 hours and 45 minutes to get from the doctor'",
       "Look at the following schedule. It takes 1 hour and 45 minutes to get from the doctor'"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "22907",
+    "gold_label": "Entailment"
   },
-  "23016": {
+  {
     "question": "The board of commerce recorded how many employees work at each company. Which company has the fewest employees?",
     "choices": [
       "Davidson Insurance",
@@ -10358,12 +10142,11 @@
       "The board of commerce recorded how many employees work at each company. Madison Corporation has the fewest",
       "The board of commerce recorded how many employees work at each company. Davidson Insurance has the fewest"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "23016",
+    "gold_label": "Entailment"
   },
-  "23229": {
+  {
     "question": "Mike has $0.04. Does he have enough to buy a piece of floral stationery and a white note card?",
     "choices": [
       "yes",
@@ -10400,12 +10183,11 @@
       "Mike has $0.04 but not enough to buy a piece of floral stationery and a",
       "Mike has $0.04 but yest eyesugh to buy a piece of floral stationery and a"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "23229",
+    "gold_label": "Entailment"
   },
-  "24111": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $815, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -10449,12 +10231,11 @@
       "At a price of $815, there is a surplus.",
       "At a price of $815, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "24111",
+    "gold_label": "Entailment"
   },
-  "24514": {
+  {
     "question": "Mr. Khan, the band director, counted the number of instruments played by each member of the band. Which instrument do the fewest boys play?",
     "choices": [
       "trumpet",
@@ -10500,12 +10281,11 @@
       "The fewest boys play clarinet.",
       "The fewest boys play flute."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "24514",
+    "gold_label": "Entailment"
   },
-  "25329": {
+  {
     "question": "Look at the following schedule. Which event ends at 12.15 P.M.?",
     "choices": [
       "relay race",
@@ -10560,12 +10340,11 @@
       "The parachute ball toss ends at 12.15 P.M.",
       "The jump rope race ends at 12.15 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "25329",
+    "gold_label": "Entailment"
   },
-  "26134": {
+  {
     "question": "Look at the following schedule. When does the zebra feeding end?",
     "choices": [
       "9:10 A.M.",
@@ -10623,12 +10402,11 @@
       "The zebra feeding ends at 6:55 P.M.",
       "The zebra feeding ends at 4:55 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "26134",
+    "gold_label": "Entailment"
   },
-  "26275": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $635, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -10672,12 +10450,11 @@
       "At a price of $635, there is a surplus.",
       "At a price of $635, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "26275",
+    "gold_label": "Entailment"
   },
-  "27112": {
+  {
     "question": "Look at the following schedule. When does the banquet end?",
     "choices": [
       "12:35 P.M.",
@@ -10726,12 +10503,11 @@
       "The banquet ends at 12:35 P.M.",
       "The banquet ends at 7:55 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "27112",
+    "gold_label": "Entailment"
   },
-  "27706": {
+  {
     "question": "Look at the following schedule. Which event begins at 12.50 P.M.?",
     "choices": [
       "jump rope race",
@@ -10792,12 +10568,11 @@
       "The relay race begins at 12.50 P.M.",
       "The jump rope race begins at 12.50 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "27706",
+    "gold_label": "Entailment"
   },
-  "28365": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $485, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -10841,12 +10616,11 @@
       "At a price of $485, there is a surplus.",
       "At a price of $485, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "28365",
+    "gold_label": "Entailment"
   },
-  "29996": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $15, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -10890,12 +10664,11 @@
       "At a price of $15, there is a shortage.",
       "At a price of $15, there is a surplus."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "29996",
+    "gold_label": "Entailment"
   },
-  "30491": {
+  {
     "question": "Look at the following schedule. Which event ends at 4.50 P.M.?",
     "choices": [
       "choir concert",
@@ -10944,12 +10717,11 @@
       "Look at the following schedule. The student government meeting ends at 4.50 P.M.",
       "Look at the following schedule. The choir concert ends at 4.50 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "30491",
+    "gold_label": "Entailment"
   },
-  "31787": {
+  {
     "question": "Look at the following schedule. Which stop does the train depart from at 2.45 A.M.?",
     "choices": [
       "Newberg",
@@ -11007,12 +10779,11 @@
       "The train departs from Princeton at 2.45 A.M.",
       "The train departs from Lakeside at 2.45 A.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "31787",
+    "gold_label": "Entailment"
   },
-  "32607": {
+  {
     "question": "A technical support line tracked how many calls it received each day. On which day did the support line receive the fewest calls?",
     "choices": [
       "Sunday",
@@ -11049,12 +10820,11 @@
       "A technical support line tracked how many calls it received each day. On Sunday the support line received",
       "A technical support line tracked how many calls it received each day. On Tuesday the support line received"
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "32607",
+    "gold_label": "Entailment"
   },
-  "33013": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $635, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -11098,12 +10868,11 @@
       "At a price of $635, there is a surplus.",
       "At a price of $635, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "33013",
+    "gold_label": "Entailment"
   },
-  "33405": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $1,020, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -11147,12 +10916,11 @@
       "At a price of $ 1,020, there is a surplus.",
       "At a price of $ 1,020, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "33405",
+    "gold_label": "Entailment"
   },
-  "34232": {
+  {
     "question": "Look at the following schedule. At which stop does the train arrive at 1.15 P.M.?",
     "choices": [
       "Hickory Road",
@@ -11195,12 +10963,11 @@
       "The train arrives at 1.15 P.M. at Lee Avenue.",
       "The train arrives at 1.15 P.M. at Center Boulevard."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "34232",
+    "gold_label": "Entailment"
   },
-  "35819": {
+  {
     "question": "Look at the following schedule. At which stop does the train arrive at 12.30 P.M.?",
     "choices": [
       "shopping mall",
@@ -11249,12 +11016,11 @@
       "The train arrives at baseball stadium at 12.30 P.M.",
       "The train arrives at science museum at 12.30 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "35819",
+    "gold_label": "Entailment"
   },
-  "35899": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $55, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -11298,12 +11064,11 @@
       "At a price of $55, there is a shortage.",
       "At a price of $55, there is a surplus."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "35899",
+    "gold_label": "Entailment"
   },
-  "36335": {
+  {
     "question": "Look at the following schedule. When does the men's vault event end?",
     "choices": [
       "2:45 P.M.",
@@ -11355,12 +11120,11 @@
       "The men's vault event ends at 2:30 P.M.",
       "The men's vault event ends at 2:45 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "36335",
+    "gold_label": "Entailment"
   },
-  "36766": {
+  {
     "question": "Look at the table. Then answer the question. At a price of $180, is there a shortage or a surplus?",
     "choices": [
       "shortage",
@@ -11404,12 +11168,11 @@
       "At a price of $180, there is a surplus.",
       "At a price of $180, there is a shortage."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "36766",
+    "gold_label": "Entailment"
   },
-  "37908": {
+  {
     "question": "Look at the following schedule. When does the discus throw end?",
     "choices": [
       "11:45 A.M.",
@@ -11458,12 +11221,11 @@
       "The discus throw ends at 1:45 P.M.",
       "The discus throw ends at 12:40 P.M."
     ],
-    "label": [
-      "Entailment",
-      "Contradiction"
-    ]
+    "label": "Contradiction",
+    "question_id": "37908",
+    "gold_label": "Entailment"
   },
-  "246": {
+  {
     "question": "Roxanne has $32.50. Does she have enough to buy a CD and a blender?",
     "choices": [
       "yes",
@@ -11501,11 +11263,11 @@
     "hypothesis": [
       "Roxanne has $32.50. She has enough to buy a CD and a blender"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "246",
+    "gold_label": "Entailment"
   },
-  "620": {
+  {
     "question": "Emma has $1.72. Does she have enough to buy a hair tie and a comb?",
     "choices": [
       "yes",
@@ -11541,11 +11303,11 @@
     "hypothesis": [
       "Emma has $1.72. She has enough to buy a hair tie and comb."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "620",
+    "gold_label": "Entailment"
   },
-  "8802": {
+  {
     "question": "Emilia has $40.50. Does she have enough to buy a pair of brown pants and a red sweater?",
     "choices": [
       "yes",
@@ -11579,11 +11341,11 @@
     "hypothesis": [
       "Emilia has enough to buy a pair of brown pants and a red sweater "
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "8802",
+    "gold_label": "Entailment"
   },
-  "9866": {
+  {
     "question": "Look at the following schedule. Which activity ends at 12.05 P.M.?",
     "choices": [
       "badminton",
@@ -11634,11 +11396,11 @@
     "hypothesis": [
       "Look at the following schedule. Fitness class ends at 12.05 P.M."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "9866",
+    "gold_label": "Entailment"
   },
-  "9888": {
+  {
     "question": "Deb has $1.66. Does she have enough to buy a pickle and an ice cream cone?",
     "choices": [
       "yes",
@@ -11676,11 +11438,11 @@
     "hypothesis": [
       "Deb has $1.66. She has enough to buy a pickle and an ice"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "9888",
+    "gold_label": "Entailment"
   },
-  "12809": {
+  {
     "question": "Donald has $0.07. Does he have enough to buy a scallop shell and a shiny gold shell?",
     "choices": [
       "yes",
@@ -11716,11 +11478,11 @@
     "hypothesis": [
       "Donald has $0.07 and has enough to buy a scallop shell and a shiny gold shell"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "12809",
+    "gold_label": "Entailment"
   },
-  "13380": {
+  {
     "question": "Look at the following schedule. Which class begins at 2.10 P.M.?",
     "choices": [
       "swing dance class",
@@ -11768,11 +11530,11 @@
     "hypothesis": [
       "Look at the following schedule. Swing dance class begins at 2.10 P.M."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "13380",
+    "gold_label": "Entailment"
   },
-  "18883": {
+  {
     "question": "Compare pattern A to pattern B. Which statement is true? ",
     "choices": [
       "Each term in pattern B is 27 more than the corresponding term in pattern A.",
@@ -11810,7 +11572,7 @@
     },
     "row_num": 2,
     "column_num": 6,
-    "solution": "Look at the corresponding terms in the table. For example, the first pair of corresponding terms is 3 and 30.\nRead the first statement.\nEach term in pattern B is 27 more than the corresponding term in pattern A.\nThis statement is not true for all of the corresponding terms. For example, 60 is not 27 more than 6.\nRead the second statement.\nEach term in pattern B is 10 times the corresponding term in pattern A.\nThis statement is true for all of the corresponding terms.\n3 × 10 = 30\n6 × 10 = 60\n9 × 10 = 90\n12 × 10 = 120",
+    "solution": "Look at the corresponding terms in the table. For example, the first pair of corresponding terms is 3 and 30.\nRead the first statement.\nEach term in pattern B is 27 more than the corresponding term in pattern A.\nThis statement is not true for all of the corresponding terms. For example, 60 is not 27 more than 6.\nRead the second statement.\nEach term in pattern B is 10 times the corresponding term in pattern A.\nThis statement is true for all of the corresponding terms.\n3 Ã— 10 = 30\n6 Ã— 10 = 60\n9 Ã— 10 = 90\n12 Ã— 10 = 120",
     "ques_type": "multi_choice",
     "ans_type": "other_text",
     "grade": 5,
@@ -11818,11 +11580,11 @@
     "hypothesis": [
       "Compare pattern A to pattern B. Each term in pattern B is 10 times the corresponding term"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "18883",
+    "gold_label": "Entailment"
   },
-  "19709": {
+  {
     "question": "Percy has $49.50. Does he have enough to buy a pair of brown pants and a pair of shorts?",
     "choices": [
       "yes",
@@ -11856,11 +11618,11 @@
     "hypothesis": [
       "Percy has enough to buy a pair of brown pants and a pair of short"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "19709",
+    "gold_label": "Entailment"
   },
-  "20591": {
+  {
     "question": "Anna has $2.00. Does she have enough to buy a jar of tomato sauce and a bottle of hot sauce?",
     "choices": [
       "yes",
@@ -11898,11 +11660,11 @@
     "hypothesis": [
       "Anna has $2.00. She has enough to buy a jar of tomato sauce and "
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "20591",
+    "gold_label": "Entailment"
   },
-  "22819": {
+  {
     "question": "Pedro has $82. Does he have enough to buy a ballet ticket and an opera ticket?",
     "choices": [
       "yes",
@@ -11936,11 +11698,11 @@
     "hypothesis": [
       "Pedro has enough to buy a ballet ticket and an opera ticket."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "22819",
+    "gold_label": "Entailment"
   },
-  "22825": {
+  {
     "question": "Look at the following schedule. Which class ends at 3.30 P.M.?",
     "choices": [
       "salsa dance class",
@@ -11994,11 +11756,11 @@
     "hypothesis": [
       "Look at the following schedule. Tap dance class ends at 3.30 P.M."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "22825",
+    "gold_label": "Entailment"
   },
-  "24786": {
+  {
     "question": "Look at the following schedule. Which activity ends at 3.50 P.M.?",
     "choices": [
       "water polo practice",
@@ -12043,11 +11805,11 @@
     "hypothesis": [
       "Look at the following schedule. Lap swim ends at 3.50 P.M."
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "24786",
+    "gold_label": "Entailment"
   },
-  "26626": {
+  {
     "question": "Tracy has $0.14. Does she have enough to buy a brown cat's eye bead and a shiny red bead?",
     "choices": [
       "yes",
@@ -12083,11 +11845,11 @@
     "hypothesis": [
       "Tracy has $0.14. She has enough to buy a brown cat's eye bea"
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "26626",
+    "gold_label": "Entailment"
   },
-  "34882": {
+  {
     "question": "Ben has $17,781. Does he have enough to buy a shaved ice cart and a peanut cart?",
     "choices": [
       "yes",
@@ -12121,8 +11883,8 @@
     "hypothesis": [
       "Ben has $17,781. He has enough to buy a shaved "
     ],
-    "label": [
-      "Entailment"
-    ]
+    "label": null,
+    "question_id": "34882",
+    "gold_label": "Entailment"
   }
-}
+]
